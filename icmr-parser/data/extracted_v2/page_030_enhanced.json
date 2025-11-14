@@ -1,0 +1,110 @@
+{
+  "page_number": 30,
+  "text": " \n \n25 \n \nS. No \nSuspected Condition and time of \ncollection \nSpecimen to be collected \n1. \nCommunity Acquired Meningitis \nSuspected in a Shunted Patient \nCSF by LP not through the shunta \n2. \nSuspected Shunt Infection – Ventriculitis \nat Time of Presentation \nCSFa from: -  \n- Needle aspiration of the valve  \n- The implantable reservoir if present But \nNOT the bag  \nIf there is an obstacle to obtain the \nappropriate specimen and a less useful \nspecimen is collected then the specimen \nneeds to be clearly labeled stating the \ncollection method with liaison with the \nlaboratory \n3. \nAt Procedure of Surgical Removalb \nVentricular catheter \nVarious sites of Shunt tubing “proximal, \ndistal” The Spitz-Holter valve  \nReservoir “if present”  \nIntraventricular portion of EVD if \napplicable \n4. \nFollowing Shunt Removalc \nCSF from the temporary EVD apparatus \nevery other day to check for sterility and \nschedule for a new shunting \n5. \nDuring re-shunting surgery \nCSF and external wound  \nAvoid unnecessary sampling and \nintroduction of organisms in the new \napparatus \n6. \nAfter surgery \nAs clinically indicated. \nMinimize invasive procedures to avoid \niatrogenic infection. \na-In suspected cases of ventriculitis and meningitis collected CSF samples should be processed for Gram stain, \nanalysis and culture (prefer to inoculate in automated blood culture bottle at bed side for better yield);  \nb-Microscopy from site of pathology and culture of various sites for bacteria, fungi and mycobacteria; samples \nshould not be fixed in formalin;  \nc-CSF labeled as D1, D3, D5 etc: Gram stain, Analysis, (Giemsa for sterility) & Culture to be done. These clinical \npresentations should be managed at Tertiary Health Care Centres. \n \nDoses of drugs used in CNS infections is tabulated below: \nDrug \nAdult dose \nPaediatric dose \nArtesunate \n2.4 mg/kg 0,12 and 24 \nhours and then q 24 \nhrly \n< 20 kg 3 mg/kg at 0,12 and 24 hours and then q \n24 hrly \nAcyclovir \n10 mg/kg 8 hrly \n10 mg/kg 8 hrly and in children below 12; 20 \nmg/kg 8 hrly \nCeftriaxone \n2 g 12 hrly \n50 mg/kg 12 hrly \nCeftazidime \n2 g q 6-8 hrly \n50 mg/kg 8 hrly \nCefepime \n2 g 8-12 hrly \n50 mg/ kg 12 hrly \n Cefotaxime \n2 g 6 hrly \n50 mg/kg 6 hrly \nMeropenem \n2 g 8 hrly \n40 mg/kg 8 hrly \n",
+  "tables": [
+    {
+      "headers": [
+        "S. No Suspected Condition and time of Specimen to be collected\ncollection",
+        "Col1",
+        "Col2"
+      ],
+      "rows": [
+        [
+          "1.",
+          "Community Acquired Meningitsi\nSuspected in a Shunted Patient",
+          "CSF by LP not through the shunta"
+        ],
+        [
+          "2.",
+          "Suspected Shunt Infectoi n – Ventriculitis\nat Time of Presentatoi n",
+          "CSFa from: -\n- Needle aspiratoi n of the valve\n- The implantable reservoir if present But\nNOT the bag\nIf there is an obstacle to obtain the\nappropriate specimen and a less useful\nspecimen is collected then the specimen\nneeds to be clearly labeled stating the\ncollectoi n method with liaison with the\nlaboratory"
+        ],
+        [
+          "3.",
+          "At Procedure of Surgical Removalb",
+          "Ventricular catheter\nVarious sites of Shunt tubing “proximal,\ndistal” The Spitz-Holter valve\nReservoir “if present”\nIntraventricular portoi n of EVD if\napplicable"
+        ],
+        [
+          "4.",
+          "Following Shunt Removalc",
+          "CSF from the temporary EVD apparatus\nevery other day to check for sterility and\nschedule for a new shunting"
+        ],
+        [
+          "5.",
+          "During re-shunting surgery",
+          "CSF and external wound\nAvoid unnecessary sampling and\nintroductoi n of organisms in the new\napparatus"
+        ],
+        [
+          "6.",
+          "Afetr surgery",
+          "As clinically indicated.\nMinimize invasive procedures to avoid\niatrogenic infectoi n."
+        ]
+      ],
+      "bbox": [
+        107.39176649205825,
+        72.17999267578125,
+        539.8882194967831,
+        478.68999099731445
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Drug Adult dose Paediatric dose",
+        "Col1",
+        "Col2"
+      ],
+      "rows": [
+        [
+          "Artesunate",
+          "2.4 mg/kg 0,12 and 24\nhours and then q 24\nhrly",
+          "< 20 kg 3 mg/kg at 0,12 and 24 hours and then q\n24 hrly"
+        ],
+        [
+          "Acyclovir",
+          "10 mg/kg 8 hrly",
+          "10 mg/kg 8 hrly and in children below 12; 20\nmg/kg 8 hrly"
+        ],
+        [
+          "Cefrtiaxone",
+          "2 g 12 hrly",
+          "50 mg/kg 12 hrly"
+        ],
+        [
+          "Cefatzidime",
+          "2 g q 6-8 hrly",
+          "50 mg/kg 8 hrly"
+        ],
+        [
+          "Cefepime",
+          "2 g 8-12 hrly",
+          "50 mg/ kg 12 hrly"
+        ],
+        [
+          "Cefotaxime",
+          "2 g 6 hrly",
+          "50 mg/kg 6 hrly"
+        ],
+        [
+          "Meropenem",
+          "2 g 8 hrly",
+          "40 mg/kg 8 hrly"
+        ]
+      ],
+      "bbox": [
+        107.39176649205825,
+        589.9600219726562,
+        539.8882194967831,
+        750.6599502563477
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

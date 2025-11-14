@@ -1,0 +1,55 @@
+{
+  "page_number": 48,
+  "text": " \n \n43 \n \n6.5 Epididymo-Orchitis  \nRefer to: National Technical Guidelines on Sexually Transmitted Infections and Reproductive Tract \nInfections (2024). Pg 61-62. National AIDS Control Organization, Ministry of Health and Family Welfare, \nGovernment of India.2024.5  \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nEpididymo-orchitis \n– of elderly men \n(likely caused by \nenteric organism \nonly) \nAmoxicillin-\nclavulanate 1g \nBD \n \nErtapenem 1g IV \nOD for 7 -10 days \nOr \nPiperacillin-\ntazobactam 4.5g \nIV q6h  \nSeen in elderly or with persons with \nstructural urinary tract abnormality  \nDuration of therapy: 10-14 days \n \nEpididymo-orchitis \nof young sexually \nactive men (likely \ndue to N. \ngonorrhoeae, C. \ntrachomatis)  \nCeftriaxone \n500mg IM Stat \n+ \nDoxycycline \n100mg BD for 10 \ndays \nTab Cefixime \n800mg stat \n+ \nDoxycycline \n100mg BD for 10 \ndays \nOr  \nAzithromycin 1g \nstat \nSeen in young, sexually active with no \nstructural urinary tract abnormality. \nFor common etiological agents of Epididymo-Orchitis, see Annexure B.6.5 \nAdditional information: \n• \nAcute onset unilateral scrotal pain with / without swelling; Torsion to be ruled out.  \n• \nFirst pass urine /urethral swab for nucleic acid amplification test (NAAT) for N. gonorrhoeae, \nC. trachomatis and M. genitalium, if available. \n• \nColour Doppler ultrasound for Testicular vascularity assessment to differentiate between \nepididymo-orchitis and testicular torsion.  \n \n6.6 Pelvic Inflammatory Disease syndrome \nRefer to: National Technical Guidelines on Sexually Transmitted Infections and Reproductive Tract \nInfections (2024). Pg 47-50. National AIDS Control Organization, Ministry of Health and Family \nWelfare, Government of India.2024.5  \nFor common etiological agents of Pelvic Inflammatory Disease, see Annexure B.6.6 \n \n \n \n5 https://naco.gov.in/sites/default/files/National%20Technical%20Guidelines%20on%20STI%20and%20RTI_Final.pdf \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Epididymo-orchitis\n– of elderly men\n(likely caused by\nenteric organism\nonly)",
+          "Amoxicillin-\nclavulanate 1g\nBD",
+          "Ertapenem 1g IV\nOD for 7 -10 days\nOr\nPiperacillin-\ntazobactam 4.5g\nIV q6h",
+          "Seen in elderly or with persons with\nstructural urinary tract abnormality\nDuration of therapy: 10-14 days"
+        ],
+        [
+          "Epididymo-orchitis\nof young sexually\nactive men (likely\ndue to N.\ngonorrhoeae, C.\ntrachomatis)",
+          "Ceftriaxone\n500mg IM Stat\n+\nDoxycycline\n100mg BD for 10\ndays",
+          "Tab Cefxiime\n800mg stat\n+\nDoxycycline\n100mg BD for 10\ndays\nOr\nAzithromycin 1g\nstat",
+          "Seen in young, sexually actvie with no\nstructural urinary tract abnormality."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        148.77200927734376,
+        554.0800170898438,
+        392.1379821777344
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Epididymo-Orchitis",
+    "National Technical Guidelines on Sexually Transmitted Infections and Reproductive Tract",
+    "Infections (2024). Pg 61-62. National AIDS Control Organization, Ministry of Health and Family Welfare,",
+    "Government of India.2024.",
+    "gonorrhoeae",
+    "trachomatis",
+    "N. gonorrhoeae,",
+    "C. trachomatis",
+    "M. genitalium",
+    "Pelvic Inflammatory Disease syndrome",
+    "National Technical Guidelines on Sexually Transmitted Infections and Reproductive Tract",
+    "Infections (2024). Pg 47-50. National AIDS Control Organization, Ministry of Health and Family",
+    "Welfare, Government of India.2024."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

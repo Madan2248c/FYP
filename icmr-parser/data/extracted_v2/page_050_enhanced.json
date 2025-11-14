@@ -1,0 +1,51 @@
+{
+  "page_number": 50,
+  "text": " \n \n45 \n \n• \nPresence of 2 or more of the following symptoms - Pelvic pain, Pyrexia i.e. oral temperature \n38.5°C or higher on any occasion, Abnormal vaginal discharge, e.g. presence of pus or \ndischarge with a foul odour, Delay in the rate of reduction of the size of the uterus (<2cm/day \nduring the first 8 days) indicate puerperal sepsis.  \n• \nIt is important to consider and cover C. sordelli and C. perfringens in emergency sepsis cases \n \n6.9 Urethral discharge syndrome  \nRefer to: National Technical Guidelines on Sexually Transmitted Infections and Reproductive Tract \nInfections (2024). Pg 34-38. National AIDS Control Organization, Ministry of Health and Family Welfare, \nGovernment of India.2024.6  \nFor common etiological agents of urethral discharge syndrome, see Annexure B.6.9 \n \n6.10 Chorio-amnionitis \nType of Infection \nFirst Line (with Dosage and \nDuration) \nAlternative (with \ndosage and Duration) \nComments \nChorio-amnionitis \nAmpicillin 2g IV q6h  \n+ \nGentamicin 5 mg/kg daily \nOD IV \n+ \nMetronidazole 500mg IV q8 \nh \nOr \nAmoxicillin-clavulanic acid \n1.2g q8h for 7-10 days \nClindamycin 600 IV q8h \n+  \nGentamicin 5 mg/kg \ndaily IV for 7-10 days \n \n \nChorio-amnionitis \n(Sepsis)  \nInj Piperacillin-tazobactam \n4.5g IV q6h for 7-14 days \nImipenem 500mg IV \nq6h / Meropenem 1-2g \nIV q8h \n+/- \nAmikacin 15 mg/kg IV \nOD  \nfor 7-10 days \nIf the patient is in \nseptic shock, consider \nadding Vancomycin or \nTeicoplanin to cover \nMRSA. \nFor common etiological agents of Chorioamnionitis, see Annexure B.6.10 \nReferences: \n1. Guidelines for the management of symptomatic sexually transmitted infections. Geneva: \nWorld Health Organization; 2021. Licence: CC BY-NC-SA 3.0 IGO. Available from: \nhttps://iris.who.int/bitstream/handle/10665/342523/9789240024168-eng.pdf?sequence=1 \n2. STI Guidelines \n2021, CDC, MMWR \nRecomm \nRep \n2021;70(4). \nAvailable \nfrom: \nhttps://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf \n \n6 https://naco.gov.in/sites/default/files/National%20Technical%20Guidelines%20on%20STI%20and%20RTI_Final.pdf \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage and Alternatvie (with Comments\nDuration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Chorio-amnionitsi",
+          "Ampicillin 2g IV q6h\n+\nGentamicin 5 mg/kg daily\nOD IV\n+\nMetronidazole 500mg IV q8\nh\nOr\nAmoxicillin-clavulanic acid\n1.2g q8h for 7-10 days",
+          "Clindamycin 600 IV q8h\n+\nGentamicin 5 mg/kg\ndaily IV for 7-10 days",
+          ""
+        ],
+        [
+          "Chorio-amnionitsi\n(Sepsis)",
+          "Inj Piperacillin-tazobactam\n4.5g IV q6h for 7-14 days",
+          "Imipenem 500mg IV\nq6h / Meropenem 1-2g\nIV q8h\n+/-\nAmikacin 15 mg/kg IV\nOD\nfor 7-10 days",
+          "If the patient is in\nseptci shock, consider\nadding Vancomycin or\nTeicoplanin to cover\nMRSA."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        315.0019897460937,
+        551.2000122070312,
+        571.7080322265625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "i.e.",
+    "e.g",
+    "C. sordelli",
+    "C. perfringens",
+    "Urethral discharge syndrome",
+    "National Technical Guidelines on Sexually Transmitted Infections and Reproductive Tract",
+    "Infections (2024). Pg 34-38. National AIDS Control Organization, Ministry of Health and Family Welfare,",
+    "Government of India.2024.",
+    "Chorio-amnionitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "page_number": 49,
+  "text": " \n \n44 \n \n6.7 Prostatitis \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nAcute Prostatitis \n(seen in young, \nsexually active with \nno structural urinary \ntract abnormality) \nCeftriaxone 500 \nIM Stat \n+ \nDoxycycline \n100mg BD for 10 \ndays \nTab Cefixime \n800mg stat \n+ \nDoxycycline \n100mg BD for 10 \ndays \n \nAcute Prostatitis \n(seen in elderly or \nwith persons with \nstructural urinary \ntract abnormality) \nAmoxicillin-\nclavulanate 1g BD \nOr \nPiperacillin-\ntazobactam 4.5g \nIV 6 hrly  \nErtapenem 1g IV \nOD for 7-10 days \nUrine and prostatic massage specimen \nfor cultures to be collected before \nantibiotics. \nDuration of therapy 14 days or longer if \ncomplications like abscess present.  \nFor common etiological agents of Acute Prostatitis, see Annexure B.6.7 \nAdditional Information:  \n• \nReview antibiotic treatment after 14 days and either stop antibiotics or continue further if \nneeded (based on assessment of history, symptoms, clinical examination, urine and blood \ntests). \n• \nA stop date should be planned and recorded in advance to ensure antibiotic is not given \nbeyond the recommended duration.  \n \n6.8 Puerperal sepsis \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with dosage \nand Duration) \nComments \nPuerperal sepsis: \ndefined as: “‘a \nserious infection of \nthe genital tract which \noccurs within 42 days \nof delivery” \n \nInj Piperacillin-\ntazobactam 4.5g IV      \nq6h for 7-14 days \nClindamycin 600-900mg IV \nq8h  \n+  \nGentamicin  5mg/kg  IV OD \n(if penicillin allergic) for 7-\n14 days \n \nPuerperal sepsis in \nSeptic Shock  \nImipenem-cilastatin \n500mg IV q6h / \nMeropenem 1g IV q8h \nfor 7 -14 days \n \nConsider optimum \nand appropriate \nantibiotics like \nVancomycin 1g BD, or \nTeicoplanin 400mg \nq12h for 3 doses \nfollowed by 400mg \nOD to cover MRSA \nwith a total duration \nof therapy for 14 days. \nFor common etiological agents of puerperal sepsis, see Annexure B.6.8 \nAdditional Information:  \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute Prostatti is\n(seen in young,\nsexually active with\nno structural urinary\ntract abnormality)",
+          "Ceftriaxone 500\nIM Stat\n+\nDoxycycline\n100mg BD for 10\ndays",
+          "Tab Cefxiime\n800mg stat\n+\nDoxycycline\n100mg BD for 10\ndays",
+          ""
+        ],
+        [
+          "Acute Prostatti is\n(seen in elderly or\nwith persons with\nstructural urinary\ntract abnormality)",
+          "Amoxicillin-\nclavulanate 1g BD\nOr\nPiperacillin-\ntazobactam 4.5g\nIV 6 hrly",
+          "Ertapenem 1g IV\nOD for 7-10 days",
+          "Urine and prostatic massage specimen\nfor cultures to be collected before\nantibiotics.\nDuration of therapy 14 days or longer if\ncomplications like abscess present."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        97.2919677734375,
+        554.0800170898438,
+        300.3379760742188
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with dosage Comments\nand Duration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Puerperal sepsis:\ndefined as: “‘a\nserious infection of\nthe genital tract which\noccurs within 42 days\nof delivery”",
+          "Inj Piperacillin-\ntazobactam 4.5g IV\nq6h for 7-14 days",
+          "Clindamycin 600-900mg IV\nq8h\n+\nGentamicin 5mg/kg IV OD\n(if penicillin allergic) for 7-\n14 days",
+          ""
+        ],
+        [
+          "Puerperal sepsis in\nSeptic Shock",
+          "Imipenem-cilastatni\n500mg IV q6h /\nMeropenem 1g IV q8h\nfor 7 -14 days",
+          "",
+          "Consider optimum\nand appropriate\nantibiotics like\nVancomycin 1g BD, or\nTeicoplanin 400mg\nq12h for 3 doses\nfollowed by 400mg\nOD to cover MRSA\nwith a total duration\nof therapy for 14 days."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        466.9419921875,
+        554.0800170898438,
+        718.8479858398438
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Prostatitis",
+    "Puerperal sepsis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

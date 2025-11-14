@@ -1,0 +1,63 @@
+{
+  "page_number": 136,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nB.7.2 \nLaryngitis/Layn\ngopharyngitis/\nURTI \n \nViral:  \nRhinovirus \nInfluenza \nParainfluenza \nRSV \nHuman metapneumovirus \nEnterovirus \nAdenovirus \nEbstein Barr virus \n \nBacterial:  \nStreptococcus pyogenes \nPneumococcus \nMoraxella spp. \nH. influenzae \nS. aureus \nMycoplasma spp. \nHarrison’s Principles of Internal Medicine Pg \n253 (Table 35-3), 255 \nB.7.3 \nSinusitis \nViral: \nRhinovirus \nAdenovirus \nInfluenza and Parainfluenza virus  \n \nBacterial: \nS. pneumoniae \nH. influenzae  \nM. catarrhalis \nStaphylococcus aureus \nPorphyromonas spp. \nEnterobacteriaceae \n \nFungal: \nMucorales fungi \nAspergillus spp. \nHarrison’s Principles of Internal Medicine Pg \n251 – 252 \nAring AM, Chan MM. Current Concepts in \nAdult Acute Rhinosinusitis. Am Fam \nPhysician. 2016 Jul 15;94(2):97-105. PMID: \n27419326. \nB.7.4 \n Acute Otitis \nMedia \nViral: \nRespiratory syncytial virus \nRhinoviruses \nEnteroviruses \nCoronaviruses \nInfluenza virus \nAdenoviruses \nHuman metapneumovirus \n \nBacterial: \nStreptococcus pneumoniae \nHarrison’s Principles of Internal Medicine Pg \n249 \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.7.2",
+          "Laryngitsi/Layn\ngopharyngitsi/\nURTI",
+          "Viral:\nRhinovirus\nInfluenza\nParainfluenza\nRSV\nHuman metapneumovirus\nEnterovirus\nAdenovirus\nEbstein Barr virus\nBacterial:\nStreptococcus pyogenes\nPneumococcus\nMoraxella spp.\nH. influenzae\nS. aureus\nMycoplasma spp.",
+          "Harrison’s Principles of Internal Medicine Pg\n253 (Table 35-3), 255"
+        ],
+        [
+          "B.7.3",
+          "Sinusitsi",
+          "Viral:\nRhinovirus\nAdenovirus\nInfluenza and Parainfluenza virus\nBacterial:\nS. pneumoniae\nH. influenzae\nM. catarrhalis\nStaphylococcus aureus\nPorphyromonas spp.\nEnterobacteriaceae\nFungal:\nMucorales fungi\nAspergillus spp.",
+          "Harrison’s Principles of Internal Medicine Pg\n251 – 252\nAring AM, Chan MM. Current Concepts in\nAdult Acute Rhinosinusitsi. Am Fam\nPhysician. 2016 Jul 15;94(2):97-105. PMID:\n27419326."
+        ],
+        [
+          "B.7.4",
+          "Acute Otitsi\nMedia",
+          "Viral:\nRespiratory syncytial virus\nRhinoviruses\nEnteroviruses\nCoronaviruses\nInfluenza virus\nAdenoviruses\nHuman metapneumovirus\nBacterial:\nStreptococcus pneumoniae",
+          "Harrison’s Principles of Internal Medicine Pg\n249"
+        ]
+      ],
+      "bbox": [
+        67.41600036621094,
+        64.03201904296876,
+        575.4479614257813,
+        758.3279418945312
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Streptococcus pyogenes",
+    "Pneumococcus",
+    "Moraxella spp.",
+    "H. influenzae",
+    "S. aureus",
+    "Mycoplasma spp",
+    "Viral:",
+    "Bacterial:",
+    "S. pneumoniae",
+    "H. influenzae",
+    "M. catarrhalis",
+    "Staphylococcus aureus",
+    "Porphyromonas spp.",
+    "Aspergillus spp.",
+    "Streptococcus pneumoniae"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

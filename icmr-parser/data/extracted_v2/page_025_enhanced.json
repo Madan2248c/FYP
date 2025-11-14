@@ -1,0 +1,38 @@
+{
+  "page_number": 25,
+  "text": " \n \n20 \n \n2.2 Encephalitis syndrome \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nComplicated \n(encephalitis with \nmeningeal signs and \nfeatures of sepsis) \nAcyclovir (use in all \nsuspected sporadic viral \nencephalitis): 10 mg/kg \nIV q8h.  \nDuration of IV acyclovir \ntherapy: 14-21 days \n+ \nCeftriaxone 2g IV q12h \n(when \nnot \ncertain \nbacterial or viral and  \ntill CSF cell count, sugar, \nprotein or culture results \nare available)  \n+ \nDoxycycline 100mg PO \nq12h/IV (Where scrub \ntyphus is endemic) \nDuration: 10-14 days \n \n. \nEmpiric therapy should be \nstarted immediately after \ndrawing blood cultures \npending results of tests.  \nIf RDT positive, follow \nmalaria \ntreatment \nguidelines; \nAttempts to have tele \nconsult \nfrom \nneurologist/ID Physician. \n(utilize govt tele consult \nservices). \nUse CSF cultures, PCR \ntests and other serology \nmarkers to exclude \npathogens and change to \ntargeted therapy.  \n \nFor common etiological agents of acute encephalitis, see Annexure B.2.2 \nAdditional Information:  \n• \nSupportive care should be continued and then therapy narrowed based on the results of \ninvestigations. \n• \nAcyclovir: Renal impairment: CrCl 25–50ml/min: give dose every 12 hours; CrCl 10–\n25ml/min: give dose every 24 hours; CrCl<10ml/min: reduce dose by 50% and give every 24 \nhours.  \nReferences: \n1. Tunkel AR, Glaser CA, Bloch KC, Sejvar JJ, Marra CM, Roos KL, Hartman BJ, Kaplan SL, Scheld \nWM, Whitley RJ; Infectious Diseases Society of America. The management of encephalitis: \nclinical practice guidelines by the Infectious Diseases Society of America. Clin Infect Dis. 2008 \nAug 1;47(3):303-27. doi: 10.1086/589747. PMID: 18582201. \n2. Kenfak A, Eperon G, Schibler M, Lamoth F, Vargas MI, Stahl JP. Diagnostic approach to \nencephalitis and meningoencephalitis in adult returning travellers. Clin Microbiol Infect. 2019 \nApr;25(4):415-421. doi: 10.1016/j.cmi.2019.01.008. Epub 2019 Jan 29. PMID: 30708123. \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Complicated\n(encephalitis with\nmeningeal signs and\nfeatures of sepsis)",
+          "Acyclovir (use in all\nsuspected sporadic viral\nencephalitis): 10 mg/kg\nIV q8h.\nDuration of IV acyclovir\ntherapy: 14-21 days\n+\nCeftriaxone 2g IV q12h\n(when not certain\nbacterial or viral and\ntill CSF cell count, sugar,\nprotein or culture results\nare available)\n+\nDoxycycline 100mg PO\nq12h/IV (Where scrub\ntyphus is endemic)\nDuration: 10-14 days",
+          ".",
+          "Empiric therapy should be\nstarted immediately afetr\ndrawing blood cultures\npending results of tests.\nIf RDT positvie, follow\nmalaria treatment\nguidelines;\nAtetmpts to have tele\nconsult from\nneurologist/ID Physician.\n(utliize govt tele consult\nservices).\nUse CSF cultures, PCR\ntests and other serology\nmarkers to exclude\npathogens and change to\ntargeted therapy."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        97.2919677734375,
+        547.1400349934896,
+        392.3883972167969
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Encephalitis syndrome",
+    "Clin Infect Dis."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

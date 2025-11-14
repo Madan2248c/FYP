@@ -1,0 +1,54 @@
+{
+  "page_number": 120,
+  "text": " \n \n \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nIf ESBL prevalence \nis > 10%: \nMeropenem (dose \nas mentioned \nabove) \n \nDuration of \ntreatment: \n• 21 days \n Conjunctivitis \nBacterial:  \nTobramycin or \ngentamicin  \n• Ophthalmic drops— \nq6-8h  \nDuration of treatment: \n• 7 days \n \n \nViral: \nMild to moderate: No \nantiviral agent. Only \nsupportive care. \nSevere: \nHSV conjunctivitis: \nAcyclovir  \n• 20 mg/kg/dose IV \nq8h  \nAND \nTrifluridine  \n• 1% topical eyedrops q \n2-3h \nOr \nGanciclovir gel \n• 0.15% topical q2-3h \nAdenovirus \nconjunctivitis: \nNo specific antiviral \nagent \nCMV conjunctivitis \n(extremely rare): \n• treat underlying \nsystemic disease with \nIV ganciclovir \nDuration of treatment: \n• 14 days  \n• 21 days if \ndisseminated or CNS \nHSV disease  \n \n \nSuperficial infections \n(omphalitis, \nMild \nCloxacillin  \nClindamycin  \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "If ESBL prevalence\nis > 10%:\nMeropenem (dose\nas mentioned\nabove)\nDuration of\ntreatment:\n• 21 days",
+          ""
+        ],
+        [
+          "Conjunctivitis",
+          "Bacterial:\nTobramycin or\ngentamicin\n• Ophthalmic drops—\nq6-8h\nDuration of treatment:\n• 7 days\nViral:\nMild to moderate: No\nantiviral agent. Only\nsupportvie care.\nSevere:\nHSV conjunctviitsi:\nAcyclovir\n• 20 mg/kg/dose IV\nq8h\nAND\nTrifluridine\n• 1% topical eyedrops q\n2-3h\nOr\nGanciclovir gel\n• 0.15% topical q2-3h\nAdenovirus\nconjunctviitsi:\nNo specific antviiral\nagent\nCMV conjunctviitsi\n(extremely rare):\n• treat underlying\nsystemic disease with\nIV ganciclovir\nDuration of treatment:\n• 14 days\n• 21 days if\ndisseminated or CNS\nHSV disease",
+          "",
+          ""
+        ],
+        [
+          "Superficial infections\n(omphalitsi,",
+          "Mild\nCloxacillin",
+          "Clindamycin",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.21600341796875,
+        64.03201904296876,
+        547.1080322265625,
+        783.1679931640625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Mild to moderate:",
+    "Severe",
+    "HSV conjunctivitis",
+    "Adenovirus",
+    "conjunctivitis",
+    "CMV conjunctivitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

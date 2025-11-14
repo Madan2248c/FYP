@@ -1,0 +1,70 @@
+{
+  "page_number": 126,
+  "text": " \n \n \nANNEXURE B: Common Etiological Agents of Infections \nB.1. Cardiovascular Syndromes \nAnnexure no. \nTitle \nEtiology \nReference \nB.1.1 \nInfective endocarditis \nStaphylococcus aureus \nViridans Streptococci \nOther Staphylococci \nHACEK organisms \n(Haemophilus species, Aggregatibacter species, \nCardiobacterium hominis, \nEikenella corrodens, and Kingella kingae) \nStreptococcus gallolyticus \nsubspecies gallolyticus  \nHealth care–associated IE: most \ncommonly caused by S. aureus, \nCoagulase-negative Staphylococci \n(CoNS), and Enterococci \nHarrison’s Principles of \nInternal Medicine Table \n57-5 Pg 1023-1024 \nB.1.2 \nMyocarditis  \nInfective: \nViral (coxsackie A, adenovirus, HIV, \nhepatitis C) \nSpirochetal (Borrelia burgdorferi—Lyme \ndisease) \nRickettsial (Q fever) \nParasitic (Rare) (T. cruzi—Chagas’ \ndisease, trypanosomiasis, \ntoxoplasmosis) \nBacterial (Rare):Diphtheria \nFungal (with systemic infection) \nHarrison’s Principles of \nInternal Medicine Table \n259-4 Pg 1959 \nB.1.3 \nPericarditis \nViral (Coxsackievirus A and B, Echovirus, \nHerpesviruses, Mumps, \nAdenovirus, Hepatitis, HIV) \nPyogenic (Pneumococcus, Streptococcus \nspp., Staphylococcus spp., Neisseria \nspp., Legionella spp., Chlamydia spp.) \nTuberculous \nFungal (Histoplasma capsulatum, \nCandida spp., Blastomyces spp.) \nOther infections (syphilitic, protozoal, \nparasitic) \nHarrison’s Principles of \nInternal Medicine Table \n270-1 Pg 2019 \nB.1.4 \nAcute Rheumatic \nFever \nIt is a sequalae of infection with Group \nA streptococci, certain M-serotypes \n(particularly types 1, 3, 5, 6, 14, 18, 19, \n24, 27, and 29) \nHarrison’s Principles of \nInternal Medicine Pg \n2767 \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure no.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.1.1",
+          "Infective endocarditis",
+          "Staphylococcus aureus\nViridans Streptococci\nOther Staphylococci\nHACEK organisms\n(Haemophilus species, Aggregatibacter species,\nCardiobacterium hominis,\nEikenella corrodens, and Kingella kingae)\nStreptococcus gallolyticus\nsubspecies gallolyticus\nHealth care–associated IE: most\ncommonly caused by S. aureus,\nCoagulase-negative Staphylococci\n(CoNS), and Enterococci",
+          "Harrison’s Principles of\nInternal Medicine Table\n57-5 Pg 1023-1024"
+        ],
+        [
+          "B.1.2",
+          "Myocarditis",
+          "Infective:\nViral (coxsackie A, adenovirus, HIV,\nhepatitis C)\nSpirochetal (Borrelia burgdorferi—Lyme\ndisease)\nRickettsial (Q fever)\nParasitic (Rare) (T. cruzi—Chagas’\ndisease, trypanosomiasis,\ntoxoplasmosis)\nBacterial (Rare):Diphtheria\nFungal (with systemic infection)",
+          "Harrison’s Principles of\nInternal Medicine Table\n259-4 Pg 1959"
+        ],
+        [
+          "B.1.3",
+          "Pericarditis",
+          "Viral (Coxsackievirus A and B, Echovirus,\nHerpesviruses, Mumps,\nAdenovirus, Hepatitis, HIV)\nPyogenic (Pneumococcus, Streptococcus\nspp., Staphylococcus spp., Neisseria\nspp., Legionella spp., Chlamydia spp.)\nTuberculous\nFungal (Histoplasma capsulatum,\nCandida spp., Blastomyces spp.)\nOther infections (syphilitic, protozoal,\nparasitic)",
+          "Harrison’s Principles of\nInternal Medicine Table\n270-1 Pg 2019"
+        ],
+        [
+          "B.1.4",
+          "Acute Rheumatic\nFever",
+          "It is a sequalae of infection with Group\nA streptococci, certain M-serotypes\n(particularly types 1, 3, 5, 6, 14, 18, 19,\n24, 27, and 29)",
+          "Harrison’s Principles of\nInternal Medicine Pg\n2767"
+        ]
+      ],
+      "bbox": [
+        64.90400377909343,
+        116.85196533203126,
+        568.3600056966146,
+        657.6279541015625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Staphylococcus aureus",
+    "Haemophilus species, Aggregatibacter species,",
+    "Cardiobacterium hominis,",
+    "Eikenella corrodens, and Kingella kingae",
+    "Streptococcus gallolyticus",
+    "subspecies gallolyticus",
+    "S. aureus",
+    "Borrelia burgdorferi",
+    "T. cruzi",
+    "Streptococcus",
+    "spp",
+    "Staphylococcus spp",
+    "Neisseria",
+    "spp., Legionella spp., Chlamydia spp",
+    "Histoplasma capsulatum,",
+    "Candida spp., Blastomyces spp"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

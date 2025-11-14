@@ -1,0 +1,117 @@
+{
+  "page_number": 128,
+  "text": " \n \n \nAnnexure \nno. \nTitle \nEtiology \nReference \nB.2.4 \nHealthcare-\nAssociated \nVentriculitis \nand CSF \nshunt \ninfections \nBacterial: \nStaphylococci (MSSA, MRSA) \nPropionibacterium acnes  \nStreptococcus pneumoniae \nPseudomonas aeruginosa \nHaemophilus influenzae \nExtended spectrum β-lactamase-producing \nGram-negative bacilli \nAcinetobacter baumannii \nOther Enterobacteriaceae \nFungal: \nCandida spp. \nAspergillus spp. \n2017 Infectious Diseases Society \nof America’s Clinical \nPractice Guidelines for \nHealthcare-Associated \nVentriculitis \nand Meningitis Pg 52. Available \nfrom: \nhttps://academic.oup.com/cid/ar\nticle/64/6/e34/2996079 \nB.3. Febrile Syndromes \nAnnexure \nno. \nTitle \nEtiology \nReference \nB.3.1 \nAcute \nundifferentia\nted fever \nRickettsial agents: \nR. conorii \nR. rickettsii \nR. akari \nR. felis \nR. prowazekii  \nR. typhi \nOrientia Tsutsugamushi \nCoxiella burnetii \nRochalimaea quintana \nHarrison’s Principles of Internal \nMedicine Table 187-1, Pg 1432 \nLeptospirosis: The Leptospira serovars \npredominantly present in India are \nL.andamana, L.pomona, \nL.grippotyphosa, L.hebdomadis, \nL.semoranga, L.javanica, L.autumnalis, \nL.canicola \nhttps://ncdc.mohfw.gov.in/wp-\ncontent/uploads/2024/05/Nation\nal-Guidelines-Diagnosis-Case-\nManagement-Prevention-control-\nof-leptospirosis.pdf \n \nMalarial parasites:  \nPlasmodium vivax, P. falciparum, P. \novale, P. malariae \nMALARIA DRUG POLICY \nOther etiological agents: \nBacterial:  \nStaphylococcus aureus \nStreptococcus pyogenes \nPseudomonas aeruginosa \nother Gram-negative bacteria \nFungal: Candida albicans  \nViral: Herpes simplex virus \nRerucha CM, Ewing JT, \nOppenlander KE, Cowan WC. \nAcute Hand Infections. Am Fam \nPhysician. 2019 Feb 15;99(4):228-\n236. PMID: 30763047. \nB.3.2 \nEnteric fever \nSalmonella Typhi \nSalmonella Paratyphi A \nSalmonella Paratyphi B \n \nHarrison’s Principles of Internal \nMedicine \nB.3.3 \nPUO \nBacterial: \nMycobacterium tuberculosis  \n(extrapulmonary TB) \nHarrison’s Principles of Internal \nMedicine Chapter 20 table 20-2Pg \n146  \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure\nno.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.2.4",
+          "Healthcare-\nAssociated\nVentriculitis\nand CSF\nshunt\ninfections",
+          "Bacterial:\nStaphylococci (MSSA, MRSA)\nPropionibacterium acnes\nStreptococcus pneumoniae\nPseudomonas aeruginosa\nHaemophilus influenzae\nExtended spectrum β-lactamase-producing\nGram-negative bacilli\nAcinetobacter baumannii\nOther Enterobacteriaceae\nFungal:\nCandida spp.\nAspergillus spp.",
+          "2017 Infectious Diseases Society\nof America’s Clinical\nPractice Guidelines for\nHealthcare-Associated\nVentriculitis\nand Meningitis Pg 52. Available\nfrom:\nhttps://academic.oup.com/cid/ar\nticle/64/6/e34/2996079"
+        ]
+      ],
+      "bbox": [
+        64.90036739002575,
+        64.03201904296876,
+        554.0636541193181,
+        266.6180053710938
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure\nno.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.3.1",
+          "Acute\nundifferentia\nted fever",
+          "Rickettsial agents:\nR. conorii\nR. rickettsii\nR. akari\nR. felis\nR. prowazekii\nR. typhi\nOrientia Tsutsugamushi\nCoxiella burnetii\nRochalimaea quintana",
+          "Harrison’s Principles of Internal\nMedicine Table 187-1, Pg 1432"
+        ],
+        [
+          null,
+          null,
+          "Leptospirosis: The Leptospira serovars\npredominantly present in India are\nL.andamana, L.pomona,\nL.grippotyphosa, L.hebdomadis,\nL.semoranga, L.javanica, L.autumnalis,\nL.canicola",
+          "https://ncdc.mohfw.gov.in/wp-\ncontent/uploads/2024/05/Nation\nal-Guidelines-Diagnosis-Case-\nManagement-Prevention-control-\nof-leptospirosis.pdf"
+        ],
+        [
+          null,
+          null,
+          "Malarial parasites:\nPlasmodium vivax, P. falciparum, P.\novale, P. malariae",
+          "MALARIA DRUG POLICY"
+        ],
+        [
+          null,
+          null,
+          "Other etiological agents:\nBacterial:\nStaphylococcus aureus\nStreptococcus pyogenes\nPseudomonas aeruginosa\nother Gram-negative bacteria\nFungal: Candida albicans\nViral: Herpes simplex virus",
+          "Rerucha CM, Ewing JT,\nOppenlander KE, Cowan WC.\nAcute Hand Infections. Am Fam\nPhysician. 2019 Feb 15;99(4):228-\n236. PMID: 30763047."
+        ],
+        [
+          "B.3.2",
+          "Enteric fever",
+          "Salmonella Typhi\nSalmonella Paratyphi A\nSalmonella Paratyphi B",
+          "Harrison’s Principles of Internal\nMedicine"
+        ],
+        [
+          "B.3.3",
+          "PUO",
+          "Bacterial:\nMycobacterium tuberculosis\n(extrapulmonary TB)",
+          "Harrison’s Principles of Internal\nMedicine Chapter 20 table 20-2Pg\n146"
+        ]
+      ],
+      "bbox": [
+        64.90036739002575,
+        293.4020141601562,
+        554.0636541193181,
+        783.1679931640625
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Propionibacterium acnes",
+    "Streptococcus pneumoniae",
+    "Pseudomonas aeruginosa",
+    "Haemophilus influenzae",
+    "Acinetobacter baumannii",
+    "Candida",
+    "Aspergillus",
+    "R. conorii",
+    "R. rickettsii",
+    "R. akari",
+    "R. felis",
+    "R. prowazekii",
+    "R. typhi",
+    "Orientia Tsutsugamushi",
+    "Coxiella burnetii",
+    "Rochalimaea quintana",
+    "L.andamana, L.pomona,",
+    "L.grippotyphosa, L.hebdomadis,",
+    "L.semoranga, L.javanica, L.autumnalis,",
+    "L.canicola",
+    "Plasmodium vivax, P. falciparum, P.",
+    "ovale, P. malariae",
+    "Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Pseudomonas aeruginosa",
+    "Candida albicans",
+    "Mycobacterium tuberculosis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

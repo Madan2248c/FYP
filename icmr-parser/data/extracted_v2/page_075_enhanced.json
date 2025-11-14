@@ -1,0 +1,41 @@
+{
+  "page_number": 75,
+  "text": " \n \n70 \n \ntesting with \ncultures).   \nDuration: 15 days. \nSteroid use with \nantibiotics is \ncontroversial as \nstudies report \nmixed results in \nreducing corneal \nscarring. \nConjunctival swab \nto be sent for \nGram stain and \nculture. \nOphthalmia \nneonatorum  \nCeftriaxone 50 mg/kg IM single \ndose  \n  \nAzithromycin 20 mg/kg \nOD x 3 days  \nFor prevention of \nboth chlamydia \nand gonococcal \nophthalmia: \nErythromycin 0.5 \n% eye ointment / \ntetracycline 1% \neye ointment to \nbe applied in both \neyes soon after \nbirth.  \nConjunctival swab \nfor Gram stain/ \nculture to be \nsent.  \nParents to be \ntested for \nevidence of \nGonorrhoea. \nTrachoma \nTetracycline 1 % eye ointment \nOr \nErythromycin 0.5 % eye \nointment  \n+ \nAzithromycin 20 mg/kg/dose in \na child or Azithromycin 1g single \ndose in adult.  \n \n \n \nAdult: Doxycycline 100 \nmg BD for 21 days Or \nTetracycline 250 mg QID \nfor 14 days  \n \nIndia has been \ndeclared \ntrachoma free by \nWHO in 2024.  \nCeftriaxone not to \nbe given in \nneonates \nreceiving calcium \ncontaining fluids.  \nAvoid in infants \nwith \nhyperbilirubinemi\na. Wherever \nNAAT \nconfirmation is \nnot possible, treat \nfor both \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Col1",
+        "Col2",
+        "testing with\ncultures).\nDuration: 15 days.\nSteroid use with\nantibiotics is\ncontroversial as\nstudies report\nmixed results in\nreducing corneal\nscarring.\nConjunctival swab\nto be sent for\nGram stain and\nculture."
+      ],
+      "rows": [
+        [
+          "Ophthalmia\nneonatorum",
+          "Ceftriaxone 50 mg/kg IM single\ndose",
+          "Azithromycin 20 mg/kg\nOD x 3 days",
+          "For prevention of\nboth chlamydia\nand gonococcal\nophthalmia:\nErythromycin 0.5\n% eye ointment /\ntetracycline 1%\neye ointment to\nbe applied in both\neyes soon afetr\nbirth.\nConjunctival swab\nfor Gram stain/\nculture to be\nsent.\nParents to be\ntested for\nevidence of\nGonorrhoea."
+        ],
+        [
+          "Trachoma",
+          "Tetracycline 1 % eye ointment\nOr\nErythromycin 0.5 % eye\nointment\n+\nAzithromycin 20 mg/kg/dose in\na child or Azithromycin 1g single\ndose in adult.",
+          "Adult: Doxycycline 100\nmg BD for 21 days Or\nTetracycline 250 mg QID\nfor 14 days",
+          "India has been\ndeclared\ntrachoma free by\nWHO in 2024.\nCeftriaxone not to\nbe given in\nneonates\nreceiving calcium\ncontaining fluids.\nAvoid in infants\nwith\nhyperbilirubinemi\na. Wherever\nNAAT\nconfirmation is\nnot possible, treat\nfor both"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        72.1919921875,
+        547.1200332641602,
+        746.2079467773438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "page_number": 106,
+  "text": " \n \n \nR, Akova M, Alanio A, Al-Hatmi AMS, Arikan-Akdagli S, Badali H, Ben-Ami R, Bonifaz A, Bretagne \nS, Castagnola E, Chayakulkeeree M, Colombo AL, Corzo-León DE, Drgona L, Groll AH, Guinea J, \nHeussel CP, Ibrahim AS, Kanj SS, Klimko N, Lackner M, Lamoth F, Lanternier F, Lass-Floerl C, Lee \nDG, Lehrnbecher T, Lmimouni BE, Mares M, Maschmeyer G, Meis JF, Meletiadis J, Morrissey \nCO, Nucci M, Oladele R, Pagano L, Pasqualotto A, Patel A, Racil Z, Richardson M, Roilides E, \nRuhnke M, Seyedmousavi S, Sidharthan N, Singh N, Sinko J, Skiada A, Slavin M, Soman R, \nSpellberg B, Steinbach W, Tan BH, Ullmann AJ, Vehreschild JJ, Vehreschild MJGT, Walsh TJ, \nWhite PL, Wiederhold NP, Zaoutis T, Chakrabarti A; Mucormycosis ECMM MSG Global \nGuideline Writing Group. Global guideline for the diagnosis and management of \nmucormycosis: an initiative of the European Confederation of Medical Mycology in \ncooperation with the Mycoses Study Group Education and Research Consortium. Lancet Infect \nDis. 2019 Dec;19(12):e405-e421. doi: 10.1016/S1473-3099(19)30312-3. Epub 2019 Nov 5. \nPMID: 31699664; PMCID: PMC8559573. \n \n \n• \nBone Marrow Transplant (BMT) pre-engraftment and post-engraftment prophylaxis is \ntabulated below: \nBMT pre-engraftment \nAntifungal \nprophylaxis \nPosaconazole 300mg \nBD for 1 day and \nthen 300mg OD (for \nAllogenic HSCT) \n \nFluconazole 200mg \nOD (for Autologous \nHSCT) \nThis may be administered IV/oral. Blood levels may be \nmonitored if TDM monitoring facilities are present. If \nposaconazole is contraindicated then alternative \nagents include liposomal Amphotericin or an \nechinocandin.  \nDuration: typically given till engraftment; but may be \nprolonged if used as secondary prophylaxis or \nconcomitant GVHD \nAntiviral \nprophylaxis \nAcyclovir 400mg BD \n \nContinued in the post-transplant period for 6 months \nfor autologous and 1 year for allogeneic BMT.  \nCMV \nmanageme\nnt \nLetermovir \nprophylaxis is the \npreferred approach \nfor allogenic HSCT \nhosts. \nIf prophylaxis not \nfeasible, follow pre-\nemptive strategy. \nHaplo and MUD \n(Matched Unrelated \nDonor) transplant: \nCMV viral load is \ndone; plasma or \nwhole blood \nFirst CMV viral load \nat Day 14, then every \n7-14 days depending \non risk.  \nMatched sibling \ntransplant: \nFirst CMV viral load \nat Day 28.  \nConsider pre-emptive therapy if 2 consecutive viral \nloads (CMV viral load 1000-10,000 copies/ml) are \nshowing an upward trend suggesting possibility of \nprogression to CMV disease.  \nStart pre-emptive anti-CMV therapy if CMV viral load \nis high (>1000 copies/ml).  \nStart definitive therapy of CMV disease (any viral load) \nwith Ganciclovir or Valganciclovir.  \nNote: CMV disease may occur without detectable \nCMV viremia.  \nTreatment response assessment once every 2 weeks: \nclinically as well as based on CMV PCR.  \nAutologous transplant: no CMV surveillance is needed.  \n",
+  "tables": [
+    {
+      "headers": [
+        "BMT pre-engrafmt ent",
+        "Col1",
+        "Col2"
+      ],
+      "rows": [
+        [
+          "Antifungal\nprophylaxis",
+          "Posaconazole 300mg\nBD for 1 day and\nthen 300mg OD (for\nAllogenic HSCT)\nFluconazole 200mg\nOD (for Autologous\nHSCT)",
+          "This may be administered IV/oral. Blood levels may be\nmonitored if TDM monitoring faciliteis are present. If\nposaconazole is contraindicated then alternative\nagents include liposomal Amphotericin or an\nechinocandin.\nDuration: typically given till engraftment; but may be\nprolonged if used as secondary prophylaxis or\nconcomitant GVHD"
+        ],
+        [
+          "Antviiral\nprophylaxis",
+          "Acyclovir 400mg BD",
+          "Continued in the post-transplant period for 6 months\nfor autologous and 1 year for allogeneic BMT."
+        ],
+        [
+          "CMV\nmanageme\nnt",
+          "Letermovir\nprophylaxis is the\npreferred approach\nfor allogenic HSCT\nhosts.\nIf prophylaxis not\nfeasible, follow pre-\nemptive strategy.\nHaplo and MUD\n(Matched Unrelated\nDonor) transplant:\nCMV viral load is\ndone; plasma or\nwhole blood\nFirst CMV viral load\nat Day 14, then every\n7-14 days depending\non risk.\nMatched sibling\ntransplant:\nFirst CMV viral load\nat Day 28.",
+          "Consider pre-emptive therapy if 2 consecutvie viral\nloads (CMV viral load 1000-10,000 copies/ml) are\nshowing an upward trend suggesting possibility of\nprogression to CMV disease.\nStart pre-emptive ant-iCMV therapy if CMV viral load\nis high (>1000 copies/ml).\nStart definitvie therapy of CMV disease (any viral load)\nwith Ganciclovir or Valganciclovir.\nNote: CMV disease may occur without detectable\nCMV viremia.\nTreatment response assessment once every 2 weeks:\nclinically as well as based on CMV PCR.\nAutologous transplant: no CMV surveillance is needed."
+        ]
+      ],
+      "bbox": [
+        107.37200164794922,
+        318.8900146484375,
+        532.8279663085938,
+        764.3399429321289
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

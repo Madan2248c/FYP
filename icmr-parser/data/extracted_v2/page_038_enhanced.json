@@ -1,0 +1,37 @@
+{
+  "page_number": 38,
+  "text": " \n \n33 \n \n4. Gastro-intestinal (GI) Syndromes \n4.1 Oesophagitis \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nOesophagitis \n \nFluconazole 6-\n12mg/kg (200-400 \nmg orally or IV on \nday 1 then 200 to \n400 mg daily) for 2 \nweeks \nItraconazole 200 mg \nper day orally for 14 \ndays  \n \nMost common cause of \nOesophagitis is Candida, followed \nby HSV and CMV. \nOesophageal Candidiasis can be \npicked up by endoscopic \nexamination, HSV and CMV \nrequires histopathology \nexamination. \n \nRule out immunocompromised \ncondition (eg: HIV), if clinical \ndiagnosis of esophagitis is made.  \n \nMinimize or discontinue the use \nof broad-spectrum antimicrobial \nagents and immunosuppressants. \nFor common etiological agents of infective oesophagitis, see Annexure B.4.1  \nReferences:   \n1. Andrew Chao, Jose A. Vazquez, Fungal Infections of the Gastrointestinal Tract, Gastroenterology \nClinics of North America, Volume 50, Issue 2, 2021, Pages 243-260. Available from: \nhttps://doi.org/10.1016/j.gtc.2021.02.009. \n2. Mohamed AA, Lu XL, Mounmin FA. Diagnosis and Treatment of Esophageal Candidiasis: Current \nUpdates. Can J Gastroenterol Hepatol. 2019 Oct 20; 2019:3585136. doi: 10.1155/2019/3585136. \nPMID: 31772927; PMCID: PMC6854261. \n \n \n \n \n \n \n \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "O esophagitis",
+          "Fluconazole 6-\n12mg/kg (200-400\nmg orally or IV on\nday 1 then 200 to\n400 mg daily) for 2\nweeks",
+          "Itraconazole 200 mg\nper day orally for 14\nd ays",
+          "Most common cause of\nOesophagitsi is Candida, followed\nby HSV and CMV.\nOesophageal Candidiasis can be\npicked up by endoscopic\nexamination, HSV and CMV\nrequires histopathology\nexamination.\nRule out immunocompromised\nconditoi n (eg: HIV), if clinical\ndiagnosis of esophagitsi is made.\nMinimize or discontinue the use\nof broad-spectrum antimicrobial\nagents and immunosuppressants."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        149.61197509765626,
+        554.1000162760416,
+        405.95798950195314
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Oesophagitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

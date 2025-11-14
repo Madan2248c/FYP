@@ -1,0 +1,43 @@
+{
+  "page_number": 56,
+  "text": " \n \n51 \n \n8. Oral cavity, Head and Neck Infections \n8.1 Oropharyngeal Candidiasis \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \nDosage and Duration) \nComments \nMild \nClotrimazole troches/ \nlozenges 10mg 4-5 per \ndays for 7 days \n \nFluconazole 200mg OD \nfor 7-14 days \nCommon local infection \nseen in infants, older adults \nwho wear dentures, \npatients treated with \nantibiotics, chemotherapy \nor radiation therapy to the \nhead and neck, and those \nwith cellular immune \ndeficiency like HIV. \nIn cases of denture \nstomatitis, the patient \nshould refrain from using \ntheir denture for at least \ntwo weeks. \nModerate to severe \nor \nimmunosuppressed  \nFluconazole 100–150 \nmg (3 mg/kg for \nchildren) for 7 to 14 \ndays \nItraconazole 200mg PO \ndaily x7-14 days  \n \nFor common etiological agents of oropharyngeal candidiasis, see Annexure B.8.1 \nAdditional Information: \n• \nClinicians should avoid prescribing fluconazole in the first trimester of pregnancy. \n• \nWhen there is no response to fluconazole after 14 days of treatment, consider a higher dose \nor alternate therapy based on culture sensitivity. \n• \nIn addition to the drug treatment, ensure that the patient has adequate hydration and \nnutrition. \nReference: \n1. Guidelines on the Treatment of Skin and Oral HIV-Associated Conditions in Children and \nAdults. Geneva: World Health Organization; 2014. 12, Evidence and recommendations on \noropharyngeal candidiasis. Available from: \nhttps://www.ncbi.nlm.nih.gov/books/NBK305416/ \n \n \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) Dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Mild",
+          "Clotrimazole troches/\nlozenges 10mg 4-5 per\ndays for 7 days",
+          "Fluconazole 200mg OD\nfor 7-14 days",
+          "Common local infectoi n\nseen in infants, older adults\nwho wear dentures,\npatients treated with\nantibiotics, chemotherapy\nor radiation therapy to the\nhead and neck, and those\nwith cellular immune\ndeficiency like HIV.\nIn cases of denture\nstomatitsi, the patient\nshould refrain from using\ntheir denture for at least\ntwo weeks."
+        ],
+        [
+          "Moderate to severe\nor\nimmunosuppressed",
+          "Fluconazole 100–150\nmg (3 mg/kg for\nchildren) for 7 to 14\ndays",
+          "Itraconazole 200mg PO\ndaily x7-14 days",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        141.6919921875,
+        545.9199829101562,
+        411.8379638671875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Oropharyngeal Candidiasis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

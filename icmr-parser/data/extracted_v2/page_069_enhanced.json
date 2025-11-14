@@ -1,0 +1,37 @@
+{
+  "page_number": 69,
+  "text": " \n \n64 \n \n10.6 Orthopaedic implant associated infections \n• \nBlood/Pus culture should be obtained before starting antimicrobial therapy \n• \nEmpirical treatment should be started with acute osteomyelitis guidelines \nDefinitive antibiotic therapy should be started as soon as culture results are available \nType of Infection \nFirst Line (with \nDosage and Duration) \nAlternative (with \ndosage and Duration) \nComments \nOrthopedic \nimplant associated \ninfections \nDebridement \nEmpirical treatment \nas per acute \nosteomyelitis \nguidelines \nTargeted antibiotic as \nper culture report \nAs in acute \nosteomyelitis  \n \nDefinitive antibiotic \ntherapy should be \nstarted as soon as \nculture results are \navailable  \nImplant-related infections are \nthe result of bacteria \nadhesion or subsequent \nbiofilm formation. \nImplant removal or \ndebridement as per the \nclinical decision. \nIn case there is pus \ndischarge/implant visible do \nnot start empirical antibiotics, \npreferably wait for deep \nculture report.   \nFor common etiological agents of Orthopaedic implant associated infections, see Annexure B.10.6 \n \n \nFigure 10.1: Approach to orthopaedic implant infections \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Orthopedic\nimplant associated\ninfections",
+          "Debridement\nEmpirical treatment\nas per acute\nosteomyelitsi\nguidelines\nTargeted antibiotic as\nper culture report",
+          "As in acute\nosteomyelitsi\nDefinitvie antibiotic\ntherapy should be\nstarted as soon as\nculture results are\navailable",
+          "Implant-related infections are\nthe result of bacteria\nadhesion or subsequent\nbiofilm formation.\nImplant removal or\ndebridement as per the\nclinical decision.\nIn case there is pus\ndischarge/implant visible do\nnot start empirical antibiotcis,\npreferably wait for deep\nculture report."
+        ]
+      ],
+      "bbox": [
+        72.38800239562988,
+        149.972021484375,
+        539.9399820963541,
+        339.0979858398438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Orthopaedic implant associated infections"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

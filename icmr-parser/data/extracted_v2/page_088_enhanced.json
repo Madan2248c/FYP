@@ -1,0 +1,66 @@
+{
+  "page_number": 88,
+  "text": " \n \n83 \n \n12.5 Community Acquired Pneumonia \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and Duration) \nComments \nWithout \ncomorbidities: OPD \nmanagement \nAmoxicillin 1g q8h \nfor 5-7 days \n \nAzithromycin 500mg \nOD /Clarithromycin \n500mg BD daily \nOr  \nDoxycycline 100mg BD \nDuration: 5-7 days \nDuration of therapy is 5-7 days, \nbut longer duration of therapy \nmay be considered in patients \nwith bacteremic pneumonia, S. \naureus pneumonia, Legionella \npneumonia, lung abscess, \nempyema or other \ncomplications. If clinical stability \ncriteria are achieved [ \nie absence of fever for 48 hours, \nhemodynamically stable, no \nevidence of lung \nabscess/synpneumonic effusion], \nantibiotics may be stopped by \nday 5. \nWith comorbidities – \nOPD management \nAmoxicillin- \nclavulanate 1g BD \n +  \nDoxycycline 100mg \nBD/ \nAzithromycin \n500mg daily  \nDuration: 5-7 days \nCefuroxime 500 mg \nBD / Cefpodoxime 200 \nmg BD \n+ \nAzithromycin 500 mg \ndaily /Doxycycline \n100mg BD \nDuration: 5-7 days \nInpatient ward \nCeftriaxone 2g OD \nIV  \n+ \n Azithromycin 500 \nmg daily \n/Doxycycline \n100mg q12h \nDuration: 5-7 days \nCefotaxime 1-2 g TDS \nIV \nOr \nAmoxicillin-\nclavulanate 1.2g q8h  \n+ \n Azithromycin 500 mg \ndaily  \nOr \nDoxycycline 100mg \nq12h \nDuration: 5-7 days \nInpatient ICU \nCeftriaxone 2g OD \nIV  \n+  \nAzithromycin 500 \nmg daily   \nOr  \nDoxycycline 100mg \nq12h \nDuration: 5-7 days \nCefotaxime 2g TDS IV  \nOr  \nPiperacillin-\ntazobactam 4.5g IV \nq6h  \n+ \nAzithromycin 500 mg \ndaily \nOr \nDoxycycline 100mg \nq12h \nDuration: 5-7 days  \nAdd MRSA agent if \nNecrotizing pneumonia \npreceding Influenza infection  \nMRSA agents to be considered: \nVancomycin 25 mg/kg IV stat \nfollowed by 15mg/kg q8-12h \nOr  \nTeicoplanin 400 mg twice daily \nfor 3 doses and then 10mg/kg \nOD \nOr  \nLinezolid 600 mg BD PO or IV \n(after TB is excluded) \nInpatient ICU with \nrisk factors for \nPseudomonas \naeruginosa \nPiperacillin- \ntazobactam 4.5g IV \nq6h  \n+ \nAzithromycin \n500mg daily  \nOr  \nImipenem / \nMeropenem \n+ \nAzithromycin 500mg \ndaily  \nOr  \nRisk factors for Pseudomonas \ninfections include:  \nStructural lung disease like \nbronchiectasis, healthcare \nexposure or antibiotics in the last \n90 days, immunocompromised. \nAdd MRSA agent if \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Without\ncomorbidities: OPD\nmanagement",
+          "Amoxicillin 1g q8h\nfor 5-7 days",
+          "Azithromycin 500mg\nOD /Clarithromycin\n500mg BD daily\nOr\nDoxycycline 100mg BD\nDuration: 5-7 days",
+          "Duration of therapy is 5-7 days,\nbut longer duration of therapy\nmay be considered in pateints\nwith bacteremic pneumonia, S.\naureus pneumonia, Legionella\npneumonia, lung abscess,\nempyema or other\ncomplications. If clinical stability\ncriteria are achieved [\nie absence of fever for 48 hours,\nhemodynamically stable, no\nevidence of lung\nabscess/synpneumonic efufsion],\nantibiotics may be stopped by\nday 5."
+        ],
+        [
+          "With comorbidities –\nOPD management",
+          "Amoxicillin-\nclavulanate 1g BD\n+\nDoxycycline 100mg\nBD/\nAzithromycin\n500mg daily\nDuration: 5-7 days",
+          "Cefuroxime 500 mg\nBD / Cefpodoxime 200\nmg BD\n+\nAzithromycin 500 mg\ndaily /Doxycycline\n100mg BD\nDuration: 5-7 days",
+          null
+        ],
+        [
+          "Inpatient ward",
+          "Ceftriaxone 2g OD\nIV\n+\nAzithromycin 500\nmg daily\n/Doxycycline\n100mg q12h\nDuration: 5-7 days",
+          "Cefotaxime 1-2 g TDS\nIV\nOr\nAmoxicillin-\nclavulanate 1.2g q8h\n+\nAzithromycin 500 mg\ndaily\nOr\nDoxycycline 100mg\nq12h\nDuration: 5-7 days",
+          null
+        ],
+        [
+          "Inpatient ICU",
+          "Ceftriaxone 2g OD\nIV\n+\nAzithromycin 500\nmg daily\nOr\nDoxycycline 100mg\nq12h\nDuration: 5-7 days",
+          "Cefotaxime 2g TDS IV\nOr\nPiperacillin-\ntazobactam 4.5g IV\nq6h\n+\nAzithromycin 500 mg\ndaily\nOr\nDoxycycline 100mg\nq12h\nDuration: 5-7 days",
+          "Add MRSA agent if\nNecrotizing pneumonia\npreceding Influenza infectoi n\nMRSA agents to be considered:\nVancomycin 25 mg/kg IV stat\nfollowed by 15mg/kg q8-12h\nOr\nTeicoplanin 400 mg twice daily\nfor 3 doses and then 10mg/kg\nOD\nOr\nLinezolid 600 mg BD PO or IV\n(afetr TB is excluded)"
+        ],
+        [
+          "Inpatient ICU with\nrisk factors for\nPseudomonas\naeruginosa",
+          "Piperacillin-\ntazobactam 4.5g IV\nq6h\n+\nAzithromycin\n500mg daily\nOr",
+          "Imipenem /\nMeropenem\n+\nAzithromycin 500mg\ndaily\nOr",
+          "Risk factors for Pseudomonas\ninfectoi ns include:\nStructural lung disease like\nbronchiectasis, healthcare\nexposure or antibiotics in the last\n90 days, immunocompromised.\nAdd MRSA agent if"
+        ]
+      ],
+      "bbox": [
+        72.22971779959542,
+        97.2919677734375,
+        547.0943167550223,
+        758.4480224609375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Community Acquired Pneumonia",
+    "aureus",
+    "Legionella",
+    "Pseudomonas",
+    "aeruginosa",
+    "Pseudomonas"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

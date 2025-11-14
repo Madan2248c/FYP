@@ -1,0 +1,47 @@
+{
+  "page_number": 112,
+  "text": " \n \n \nReferences: \n1. Mehta Y (2024) Challenges in the Diagnosis and Treatment of Invasive Candidiasis in India. Int \nJ Crit Care Emerg Med 10:165. doi.org/10.23937/2474-3674/151016. \n18.3 Hospital-acquired pneumonia or Ventilator associated pneumonia \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nVAP \nPiperacillin-tazobactam \n4.5g IV q6h \nOr  \nCefoperazone-\nsulbactam 3g IV q12h \n \nMeropenem 1g IV \nq8h  \nOr  \nImipenem 500 mg IV \nq6h \nAll hospital onset \ninfections; should be \nmanaged as per hospital \nantibiograms; these \nrecommendations are \ngeneral especially for \nplaces where there is no \nantibiogram (it is highly \nrecommended to \ngenerate antibiograms). \nChange the empiric \nregimen based on \nsusceptibility testing. \nDuration of therapy is 7 \ndays \nVAP in patients with \nrecent exposure to BL-\nBLI / Carbapenems \nMeropenem 1g q8h  \nOr  \nImipenem 1g Stat and \n500mg IV q6h \nPolymyxin B 15-20 \nlakhs units IV stat, \nfollowed by 7.5-10 \nlakhs IV q12h \nOr \nColistin 9MU IV stat, \nthen 4.5 MU IV q12h \nFosfomycin 4g IV q6h \nOr \nTigecycline 200mg \nstat and 100mg IV BD \nOr \nMinocycline 200mg IV \nBD  \nas add-on therapy to \nthose mentioned in \n1st column \n(based on local \nantibiogram) \nCombination of \nCeftazidime-avibactam \n2.5 g iv q8h  \n+  \nAztreonam 2 g IV q8h is \ndiscouraged for empiric \nuse as there is \nresistance reported to \nthis in E.coli and \nPseudomonas spp.; it is \nintrinsically resistant to \nAcinetobacter \nbaumannii.  \nTargeted therapy should \nbe used as sensitivity \ntesting results of \nspecimens from lower \nrespiratory tract are \navailable. Duration of \ntherapy is 7 days \nFor common etiological agents of VAP, see Annexure B.18.3 \nAdditional Information:  \n• \nIt is recommended that all hospitals regularly generate and disseminate a local antibiogram, \nideally specific to their intensive care population. \nReferences:  \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "VAP",
+          "Piperacillin-tazobactam\n4.5g IV q6h\nOr\nCefoperazone-\nsulbactam 3g IV q12h",
+          "Meropenem 1g IV\nq8h\nOr\nImipenem 500 mg IV\nq6h",
+          "All hospital onset\ninfectoi ns; should be\nmanaged as per hospital\nantibiograms; these\nrecommendations are\ngeneral especially for\nplaces where there is no\nantibiogram (it is highly\nrecommended to\ngenerate antibiograms).\nChange the empiric\nregimen based on\nsusceptbi ility testing.\nDuration of therapy is 7\ndays"
+        ],
+        [
+          "VAP in patients with\nrecent exposure to BL-\nBLI / Carbapenems",
+          "Meropenem 1g q8h\nOr\nImipenem 1g Stat and\n500mg IV q6h\nPolymyxin B 15-20\nlakhs units IV stat,\nfollowed by 7.5-10\nlakhs IV q12h\nOr\nColistin 9MU IV stat,\nthen 4.5 MU IV q12h",
+          "Fosfomycin 4g IV q6h\nOr\nTigecycline 200mg\nstat and 100mg IV BD\nOr\nMinocycline 200mg IV\nBD\nas add-on therapy to\nthose mentioned in\n1st column\n(based on local\nantibiogram)",
+          "Combination of\nCefatzidime-avibactam\n2.5 g iv q8h\n+\nAztreonam 2 g IV q8h is\ndiscouraged for empiric\nuse as there is\nresistance reported to\nthis in E.coli and\nPseudomonas spp.; it is\nintrinsically resistant to\nAcinetobacter\nbaumannii.\nTargeted therapy should\nbe used as sensitviity\ntesting results of\nspecimens from lower\nrespiratory tract are\navailable. Duration of\ntherapy is 7 days"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        148.53201904296876,
+        539.9199829101562,
+        647.068017578125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Hospital-acquired pneumonia or Ventilator associated pneumonia",
+    "E.coli",
+    "Pseudomonas spp.",
+    "Acinetobacter",
+    "baumannii."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

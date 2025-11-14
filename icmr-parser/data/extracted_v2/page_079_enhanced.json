@@ -1,0 +1,52 @@
+{
+  "page_number": 79,
+  "text": " \n \n74 \n \n• \nTrachoma is a form of chronic Chlamydia conjunctivitis. It is the leading cause of preventable \nblindness in the world.  \nReferences: \n1. Azari AA, Arabi A. Conjunctivitis: A Systematic Review. J Ophthalmic Vis Res. 2020 Aug \n6;15(3):372-395. doi: 10.18502/jovr. v15i3.7456. \n2. Cabrera-Aguas M, Khoo P, Watson SL. Infectious keratitis: A review. Clin Exp Ophthalmol. \n2022 Jul;50(5):543-562. doi: 10.1111/ceo.14113. \n3. Koganti R, Yadavalli T, Naqvi RA, Shukla D, Naqvi AR. Pathobiology and treatment of viral \nkeratitis. Exp Eye Res. 2021 Apr; 205:108483. doi: 10.1016/j.exer.2021. \n4. The WHO AWaRe (Access, Watch, Reserve) antibiotic book. Geneva: World Health \nOrganization; 2022. Licence: CC BY-NC-SA 3.0 IGO.Available from: \nhttps://www.who.int/publications/i/item/9789240062382 \n \n11.2 Endophthalmitis \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nAcute postoperative \nendophthalmitis (within \n6 weeks of surgery) \nIntravitreal antibiotics: \nVancomycin 1 mg/0.1 ml \n(0.1 ml) intravitreal with \nCeftazidime 2.25 mg/0.1 \nmL (0.1 ml) /intravitreal  \nAmikacin 0.4 mg/0.1 ml \n(0.1 ml); instead of \nCeftazidime if Penicillin \nallergy.  \n+  \nSystemic antibiotics: \nVancomycin (15-20 \nmg/kg every 12 hrly) 1g \nIV BD and Amikacin (15 \nmg/kg q24h) 240 mg IV \nTDS  \nOr  \nVancomycin 1 g IV BD \nand Ceftazidime 2g IV \nq8h \n+  \nTopical antibiotics: \nFortified Tobramycin \n1.3% with fortified \nCefazolin 5% eye drop 1 \nhrly to be reduced \naccording to response  \n \nDuration: 2 weeks  \n \nIntravitreal Piperacillin- \ntazobactam (250 μg/0.1 \nml) repeated in 48 hours \nwith \nAmikacin 7.5 mg/kg \ninitial dose followed by 6 \nmg/kg every 12 hrly \nOr \nPiperacillin- tazobactam; \nIf creatinine clearance > \n40 ml/min and is normal \n- 3.375 IV q6hr for 7 to \n10 days  \nOr \nMeropenem  \n+  \nMoxifloxacin eye drops \n0.5% in hrly or two hrly \nfrequency  \nPost Surgical: \nStaphylococcus \nepidermidis, (60-70%), \nStaphylococcus aureus, \nStreptococcus & \nEnterococcus (5-10%) \nGram negative Bacilli (-\n5%) Propionibacterium \nacnes (delayed \ndisease)  \nPost- traumatic: \nStaphylococcus \nspecies, Streptococcus \nspecies, Bacillus \ncereus. \n \nVitreous tap/ Aqueous \ntap or vitreous biopsy \nto be sent for \nmicrobiological testing \nprior to administration \nof the first dose of \nintravitreal injection. \nVitrectomy improves \nretinal oxygenation, \nreduces the \ninflammatory load \nwithin the eye, \nprovides specimens for \ndiagnostic evaluation, \nallows direct \ninspection of the \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute postoperatvie\nendophthalmitsi (within\n6 weeks of surgery)",
+          "Intravitreal antibiotcis:\nVancomycin 1 mg/0.1 ml\n(0.1 ml) intravitreal with\nCefatzidime 2.25 mg/0.1\nmL (0.1 ml) /intravitreal\nAmikacin 0.4 mg/0.1 ml\n(0.1 ml); instead of\nCefatzidime if Penicillin\nallergy.\n+\nSystemic antibiotics:\nVancomycin (15-20\nmg/kg every 12 hrly) 1g\nIV BD and Amikacin (15\nmg/kg q24h) 240 mg IV\nTDS\nOr\nVancomycin 1 g IV BD\nand Cefatzidime 2g IV\nq8h\n+\nTopical antibiotcis:\nFortfi eid Tobramycin\n1.3% with fortfi ied\nCefazolin 5% eye drop 1\nhrly to be reduced\naccording to response\nDuration: 2 weeks",
+          "Intravitreal Piperacillin-\ntazobactam (250 μg/0.1\nml) repeated in 48 hours\nwith\nAmikacin 7.5 mg/kg\ninitail dose followed by 6\nmg/kg every 12 hrly\nOr\nPiperacillin- tazobactam;\nIf creatinine clearance >\n40 ml/min and is normal\n- 3.375 IV q6hr for 7 to\n10 days\nOr\nMeropenem\n+\nMoxifloxacin eye drops\n0.5% in hrly or two hrly\nfrequency",
+          "Post Surgical:\nStaphylococcus\nepidermidis, (60-70%),\nStaphylococcus aureus,\nStreptococcus &\nEnterococcus (5-10%)\nGram negative Bacilli (-\n5%) Propionibacterium\nacnes (delayed\ndisease)\nPost- traumatic:\nStaphylococcus\nspecies, Streptococcus\nspecies, Bacillus\ncereus.\nVitreous tap/ Aqueous\ntap or vitreous biopsy\nto be sent for\nmicrobiological testing\nprior to administration\nof the frist dose of\nintravitreal injection.\nVitrectomy improves\nretinal oxygenation,\nreduces the\ninflammatory load\nwithin the eye,\nprovides specimens for\ndiagnostic evaluation,\nallows direct\ninspection of the"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        310.3219970703125,
+        554.1000162760416,
+        768.8879638671875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Chlamydia",
+    "The WHO AWaRe (Access, Watch, Reserve) antibiotic book. Geneva: World Health",
+    "Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.Available from:",
+    "https://www.who.int/publications/i/item/9789240062382",
+    "Endophthalmitis",
+    "Staphylococcus",
+    "epidermidis",
+    "Staphylococcus aureus",
+    "Streptococcus",
+    "Enterococcus",
+    "Propionibacterium",
+    "acnes",
+    "Staphylococcus",
+    "Streptococcus",
+    "Bacillus",
+    "cereus"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

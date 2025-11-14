@@ -1,0 +1,70 @@
+{
+  "page_number": 104,
+  "text": " \n \n \n17.3 Infections in Asplenia \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nAcute onset \nundifferentiated fever  \nCeftriaxone 2g IV q \n12h \nDuration: 7 days \nCefotaxime 2g IV \nq8h \nOr  \nAmoxicillin-\nclavulanic acid 1.2g \nIV q8h \nDuration: 7 days \nConsider following the \napproach in acute \nundifferentiated fever \nsection  \nCommunity acquired sepsis  \nRefer to section on community onset sepsis \nFor common etiological agents of Infections in Asplenia patients, see Annexure B.17.3 \nAdditional Information:  \n• \nPatient education, vaccination and antibiotic chemoprophylaxis are recommended for all \nindividuals with asplenia to prevent infections. \nReferences: \n1. Grace M. Lee; Preventing infections in children and adults with asplenia. Hematology Am Soc \nHematol Educ Program 2020; 2020 (1): 328–335. doi: \n2. Tahir F, Ahmed J, Malik F. Post-splenectomy Sepsis: A Review of the Literature. Cureus. 2020 \nFeb 6;12(2):e6898. doi: 10.7759/cureus.6898. PMID: 32195065; PMCID: PMC7059871. \n3. Davidson RN, Wall RA. Prevention and management of infections in patients without a spleen. \nClin Microbiol Infect. 2001 Dec;7(12):657-60. doi: 10.1046/j.1198-743x.2001.00355. x. PMID: \n11843905. \n \n17.4 Invasive Fungal Infections \nType of Infection \nFirst Line (with \nDosage and Duration) \nAlternative (with \ndosage and Duration) \nComments \nInvasive \nCandidiasis \nEchinocandins (caspof\nungin, anidulafungin, \nor micafungin) are \nrecommended as first-\nline agents \nMicafungin 100 mg IV \ndaily/ Anidulafungin \nloading dose 200 mg, \nthen 100 mg daily/ \nCaspofungin loading \ndose 70 mg, then 50 \nmg daily \n \nLiposomal \nAmphotericin B 3–5 \nmg/kg daily  \n \nRepeat culture to be done to look \nfor clearance of candidemia, by \n3rdday of antifungal treatment.  \nDuration of therapy: 14 days of \nantifungal therapy is \nrecommended after the first \nnegative blood culture post \nantifungal therapy. \nCentral venous catheters (CVCs) \nshould be removed as early as \npossible when the source is \npresumed to be the CVC. \nTransition from echinocandin to \nfluconazole is recommended \nafter 5–7 days amongst patients \nwho have isolates that are \nsusceptible to fluconazole, who \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute onset\nundifefrentiated fever",
+          "Ceftriaxone 2g IV q\n12h\nDuration: 7 days",
+          "Cefotaxime 2g IV\nq8h\nOr\nAmoxicillin-\nclavulanic acid 1.2g\nIV q8h\nDuration: 7 days",
+          "Consider following the\napproach in acute\nundifefrentiated fever\nsection"
+        ],
+        [
+          "Community acquired sepsis",
+          "Refer to sectoi n on community onset sepsis",
+          null,
+          null
+        ]
+      ],
+      "bbox": [
+        72.19543184552874,
+        89.13199462890626,
+        547.1200332641602,
+        256.0900065104167
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Invasive\nCandidiasis",
+          "Echinocandins (caspof\nungin, anidulafungin,\nor micafungin) are\nrecommended as frist-\nline agents\nMicafungin 100 mg IV\ndaily/ Anidulafungin\nloading dose 200 mg,\nthen 100 mg daily/\nCaspofungin loading\ndose 70 mg, then 50\nmg daily",
+          "Liposomal\nAmphotericin B 3–5\nmg/kg daily",
+          "Repeat culture to be done to look\nfor clearance of candidemia, by\n3rdday of antifungal treatment.\nDuration of therapy: 14 days of\nantifungal therapy is\nrecommended afetr the first\nnegative blood culture post\nantifungal therapy.\nCentral venous catheters (CVCs)\nshould be removed as early as\npossible when the source is\npresumed to be the CVC.\nTransitoi n from echinocandin to\nfluconazole is recommended\nafetr 5–7 days amongst patients\nwho have isolates that are\nsusceptbi le to fluconazole, who"
+        ]
+      ],
+      "bbox": [
+        72.19543184552874,
+        518.5419677734375,
+        554.1000162760416,
+        774.8879638671875
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Infections in Asplenia",
+    "Hematology Am Soc",
+    "Hematol Educ Program",
+    "Invasive Fungal Infections"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

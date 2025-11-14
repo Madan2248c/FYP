@@ -1,0 +1,64 @@
+{
+  "page_number": 97,
+  "text": " \n \n92 \n \n15. Burn wound infections \n15.1 Minor Burn Wounds \nTypes of Burn \nFirst Line (with Dosage and \nDuration) \nAlternative (with dosage \nand Duration) \nComments \nFirst-degree \nburns \nPour cool, running tap water   \nover the burn. Don’t apply \nice or ice pack. Apply aloe \nvera gel or thin layer of \npetroleum jelly. Protect area \nfrom the sun.  \n \n \n \nAdditional Information:  \n• \nFirst-degree burns are mild (like most sunburns). The upper layer of skin (epidermis) turns red \nand is painful but doesn’t typically blister. \nReferences: \n1. Church D, Elsayed S, Reid O, Winston B, Lindsay R. Burn wound infections. Clin Microbiol Rev. \n2006 Apr;19(2):403-34. doi: 10.1128/CMR.19.2.403-434.2006. PMID: 16614255; PMCID: \nPMC1471990. \n2. Lu J, Yang M, Zhan M, Xu X, Yue J, Xu T. Antibiotics for treating infected burn wounds. Cochrane \nDatabase Syst Rev. 2017 Jul 3;2017(7):CD012084. doi: 10.1002/14651858.CD012084.pub2. \nPMCID: PMC6483291. \n3. Greenhalgh DG. Management of burns (2019).NEJM:380; 24, 2349-2359. Available from \nhttps://www.nejm.org/doi/full/10.1056/NEJMra1807442 \n4. Anne M Lachiewicz, Christopher G Hauck, David J Weber, Bruce A Cairns, David van Duin, \nBacterial Infections After Burn Injuries: Impact of Multidrug Resistance, Clinical Infectious \nDiseases, \nVolume \n65, \nIssue \n12, \n15 \nDecember \n2017, \nPages \n2130–\n2136, https://doi.org/10.1093/cid/cix682 \n \n15.2 Major burn wounds \nType of \nBurn \nFirst Line (with Dosage \nand Duration) \nAlternative (with dosage \nand Duration) \nComments \nSecond-\ndegree \nburns \nFor wound care: \nSilver sulfadiazine 1% \nwater-soluble cream, \nis a combination of \nsulfadiazine and silver \nwith antimicrobial \nefficacy lasting up to \n24 hours. \n \nSilver nitrate (0.5% \naqueous) is applied \n \n \n \n \n \n \n \n \nBurn treatment varies depending \non the cause and severity. All \nburns should be kept clean and \nproper bandages/dressing \nshould be applied, depending on \nthe severity of the wounds.  \n \nTreating the patient’s pain is key: \ninadequate control can interfere \nwith wound care. \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Types of Burn First Line (with Dosage and Alternatvie (with dosage Comments\nDuration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "First-degree\nburns",
+          "Pour cool, running tap water\nover the burn. Don’t apply\nice or ice pack. Apply aloe\nvera gel or thin layer of\npetroleum jelly. Protect area\nfrom the sun.",
+          "",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.06400044759114,
+        131.61197509765626,
+        547.1400349934896,
+        240.21798095703124
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of First Line (with Dosage Alternatvie (with dosage Comments\nBurn and Duration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Second-\ndegree\nburns",
+          "For wound care:\nSilver sulfadiazine 1%\nwater-soluble cream,\nis a combination of\nsulfadiazine and silver\nwith antimicrobial\nefcfiacy lasting up to\n24 hours.\nSilver nitrate (0.5%\naqueous) is applied",
+          "",
+          "Burn treatment varies depending\non the cause and severity. All\nburns should be kept clean and\nproper bandages/dressing\nshould be applied, depending on\nthe severity of the wounds.\nTreating the patient’s pain is key:\ninadequate control can interfere\nwith wound care."
+        ]
+      ],
+      "bbox": [
+        72.06400044759114,
+        577.73203125,
+        547.1400349934896,
+        765.407958984375
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Minor Burn Wounds",
+    "Clinical Infectious",
+    "Diseases",
+    "Major burn wounds"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

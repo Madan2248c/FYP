@@ -1,0 +1,39 @@
+{
+  "page_number": 114,
+  "text": " \n \n \nobtained. If a blood \nsample cannot be drawn \nfrom a peripheral vein, it \nis recommended that 2 \nblood samples should be \ndrawn through different \ncatheter lumens. \nCatheter removal is \nadvised. \nDuration of therapy is 7-\n10 days (depending on \npathogen). \nCLABSI with recent \nexposure to \ncarbapenems or BL-\nBLIs exposure and / \nor unstable \nMeropenem 1g q8h  \nOr \nImipenem 1g Stat and \n500mg IV q6h \n+  \nPolymyxin B 15-20 lakhs \nunits IV stat, then 7.5-10 \nlakhs IV q12h \nor  \nColistin 9MU IV stat, then \n4.5 MU IV q12h \n \nAdd candida cover \n(echinocandins) if local \nantibiograms suggest \nincidence of candida in \nCLABSI  \nFosfomycin 4g IV q6h \nas add-on therapy to \nthose mentioned in \n1st column \n(based on local \nantibiogram) \nAll hospital onset \ninfections; should be \nmanaged as per hospital \nantibiograms; these \nrecommendations are \ngeneral and especially for \nplaces where there is no \nantibiogram (it is highly \nrecommended to \ngenerate antibiograms). \n \nTarget therapy based on \nsusceptibility testing \nresults. \nCombination of \nCeftazidime-avibactam \n2.5g IV q8h + Aztreonam \n2g IV q8h is discouraged \nto be used empirically as \nthere is resistance \nreported to this in E.coli \nand Pseudomonas spp.; it \nis intrinsically resistant to \nAcinetobacter baumannii.  \n \nDuration of therapy is 7-\n10 days (depending on \npathogen). \nFor common etiological agents of CLABSI, see Annexure B.18.4 \nAdditional information: \nWhen to add empirical CRO cover? \n• \nHaemodynamic instability. \n• \nColonisation with carbapenem resistant gram-negative bacteria. \n• \nPrevious infection with carbapenem resistant gram-negative bacteria. \n• \nGNB in blood, sensitivity pending, persistent fever with haemodynamic instability. \nReferences: \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Col1",
+        "Col2",
+        "obtained. If a blood\nsample cannot be drawn\nfrom a peripheral vein, it\nis recommended that 2\nblood samples should be\ndrawn through difefrent\ncatheter lumens.\nCatheter removal is\nadvised.\nDuration of therapy is 7-\n10 days (depending on\npathogen)."
+      ],
+      "rows": [
+        [
+          "CLABSI with recent\nexposure to\ncarbapenems or BL-\nBLIs exposure and /\nor unstable",
+          "Meropenem 1g q8h\nOr\nImipenem 1g Stat and\n500mg IV q6h\n+\nPolymyxin B 15-20 lakhs\nunits IV stat, then 7.5-10\nlakhs IV q12h\nor\nColistin 9MU IV stat, then\n4.5 MU IV q12h\nAdd candida cover\n(echinocandins) if local\nantibiograms suggest\nincidence of candida in\nCLABSI",
+          "Fosfomycin 4g IV q6h\nas add-on therapy to\nthose mentioned in\n1st column\n(based on local\nantibiogram)",
+          "All hospital onset\ninfectoi ns; should be\nmanaged as per hospital\nantibiograms; these\nrecommendations are\ngeneral and especially for\nplaces where there is no\nantibiogram (it is highly\nrecommended to\ngenerate antibiograms).\nTarget therapy based on\nsusceptbi ility testing\nresults.\nCombination of\nCefatzidime-avibactam\n2.5g IV q8h + Aztreonam\n2g IV q8h is discouraged\nto be used empirically as\nthere is resistance\nreported to this in E.coli\nand Pseudomonas spp.; it\nis intrinsically resistant to\nAcinetobacter baumannii.\nDuration of therapy is 7-\n10 days (depending on\npathogen)."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        64.03201904296876,
+        547.1400349934896,
+        602.3079833984375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "E.coli",
+    "Pseudomonas spp.",
+    "Acinetobacter baumannii."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

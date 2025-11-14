@@ -1,0 +1,39 @@
+{
+  "page_number": 81,
+  "text": " \n \n76 \n \ntesting before \ninitiation of antibiotics. \nFungal Endophthalmitis \n(Usually endogenous) \n \n \nIntravitreal antifungal \ntherapy: Amphotericin B \n(5 micrograms/0.1 ml \n(0.1 ml)  \nOr  \nVoriconazole 100 \nmicrograms/0.1 ml (0.1 \nml)  \nEmpiric systemic \nantifungal therapy- \nCandida \nsuspected/confirmed:  \nFluconazole- Loading \ndose of 800 mg \n(12mg/kg) then 400-800 \nmg (6-12 mg/kg) daily \nOr \nVoriconazole – 400 mg \nloading dose (6 mg/kg) \nPO/IV q12h for 2 doses, \nthen 200 mg (4 mg/kg) \nPO/IV q12h  \n \nDuration: IV 10 days \n(range 2-90 days); PO 76 \ndays (range 2-232 days). \nSystemic antifungal \ntreatment typically \nlasts 4 to 6 weeks or \nlonger, depending on \nthe clinical response and \npresence of other organ \ninvolvement, with serial \n \nDuration is dependent \non resolution of eye \nlesions. \nCandida spp.: 4-6 \nweeks.  \nMucorales: if spreads \nto eye- needs systemic \ntreatment. Refer to \nROCM.  \nAppropriate cultures \n(Blood culture/urine \nculture etc) to be sent \nfor microbiological \ntesting before \ninitiation of \nantifungals. \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Col1",
+        "Col2",
+        "testing before\ninitaition of antibiotcis."
+      ],
+      "rows": [
+        [
+          "Fungal Endophthalmitis\n(Usually endogenous)",
+          "Intravitreal antifungal\ntherapy: Amphotericin B\n(5 micrograms/0.1 ml\n(0.1 ml)\nOr\nVoriconazole 100\nmicrograms/0.1 ml (0.1\nml)\nEmpiric systemic\nantifungal therapy-\nCandida\nsuspected/confirmed:\nFluconazole- Loading\ndose of 800 mg\n(12mg/kg) then 400-800\nmg (6-12 mg/kg) daily\nOr\nVoriconazole – 400 mg\nloading dose (6 mg/kg)\nPO/IV q12h for 2 doses,\nthen 200 mg (4 mg/kg)\nPO/IV q12h\nDuration: IV 10 days\n(range 2-90 days); PO 76\ndays (range 2-232 days).\nSystemic antifungal\ntreatment typically\nlasts 4 to 6 weeks or\nlonger, depending on\nthe clinical response and\npresence of other organ\ninvolvement, with serial",
+          "",
+          "Duration is dependent\non resolutoi n of eye\nlesions.\nCandida spp.: 4-6\nweeks.\nMucorales: if spreads\nto eye- needs systemic\ntreatment. Refer to\nROCM.\nAppropriate cultures\n(Blood culture/urine\nculture etc) to be sent\nfor microbiological\ntesting before\ninitaition of\nantifungals."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        72.1919921875,
+        554.1000162760416,
+        745.4880004882813
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Candida",
+    "Candida spp.",
+    "Mucorales"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

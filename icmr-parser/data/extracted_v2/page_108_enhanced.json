@@ -1,0 +1,41 @@
+{
+  "page_number": 108,
+  "text": " \n \n \n2. Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc \nHematol Educ Program. 2020 Dec 4;2020(1):328-335. doi: 10.1182/hematology.2020000117. \nPMID: 33275684; PMCID: PMC7727556. \n3. Singh N, Thursky K, Maron G, Wolf J. Fluoroquinolone prophylaxis in patients with neutropenia \nat high risk of serious infections: Exploring pros and cons. Transpl Infect Dis. 2023 Nov;25 Suppl \n1:e14152. doi: 10.1111/tid.14152. Epub 2023 Sep 25. PMID: 37746769. \n4. Leardini D, Gambuti G, Muratore E, Baccelli F, Gottardi F, Venturelli F, Belotti T, Prete A, Fabbrini \nM, Brigidi P, Turroni S, Masetti R. Levofloxacin Prophylaxis in Pediatric and Young Adult \nAllogeneic Hematopoietic Stem Cell Transplantation Recipients Does not Prevent Infective \nComplications and Infections-related Deaths. Open Forum Infect Dis. 2024 Dec \n3;12(2):ofae707. doi: 10.1093/ofid/ofae707. PMID: 39935961; PMCID: PMC11811901. \n5. Treatment Guidelines for Antimicrobial Use in Common Syndromes. 2nd edition. ICMR. 2019. \nNew \nDelhi \n(Accessed \non \n2nd \nApril, \n2025). \nAvailable \nfrom:  \nhttps://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-\nguidelines/Treatment_Guidelines_2019_Final.pdf \n \n• \nRecommendations of treatment of infections in BMT settings is tabulated below: \nClinical \nCondition \nEmpirical \nAntimicrobial \nAgents \nAlternate Antimicrobial \nAgents \nComments \nCommunity \nacquired \npneumonia \n(CAP) \nPiperacillin- \ntazobactam 4.5g IV \nq 6h  \n+ \nAzithromycin 500 \nmg daily and / or \nDoxycycline 100mg \nq12h \nDuration:7 days \nImipenem 1g stat and \n500mg q6hrly \nOr  \nMeropenem 1g q8h \n+  \nAzithromycin 500 mg \ndaily  \nOr  \nDoxycycline 100mg \nq12h \n \nIf possible, send \nrespiratory samples for \nPCR etiological diagnosis. \nAdd MRSA agent if \nNecrotizing pneumonia \npreceding Influenza \ninfection \nVancomycin 25 mg/kg IV \nstat followed by 15mg/kg \nq 8-12h \nOr  \nTeicoplanin 400 mg twice \ndaily for 3 doses and then \n8-10mg/kg OD \nOr  \nLinezolid 600 mg twice \ndaily PO or IV (after TB is \nexcluded) \nWork up for opportunistic \ninfections. \nSkin and soft \ntissue \ninfection \nPiperacillin-\ntazobactam 4.5g IV \nq 6h \n+  \nTeicoplanin 400 mg \ntwice daily for 3 \ndoses and then 8-\n10mg/kg OD \nOr \nVancomycin 25 \nmg/kg IV stat \nNecrotizing fasciitis: \nMeropenem 1g q8h \n +  \nTeicoplanin 400 mg \ntwice daily for 3 doses \nand then 8-10mg/kg \nOD  \nOr \nVancomycin 25 mg/kg \nIV stat followed by \n15mg/kg q  8-12h  \nFor MRSA coverage \nconsider use of \nTeicoplanin/Vancomycin.  \nConsider the use of \nclindamycin where anti-\ntoxin activity is desired \n(e.g. necrotizing fasciitis). \n",
+  "tables": [
+    {
+      "headers": [
+        "Clinical Empirical Alternate Antimicrobial Comments\nCondition Antmi icrobial Agents\nAgents",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Community\nacquired\npneumonia\n(CAP)",
+          "Piperacillin-\ntazobactam 4.5g IV\nq 6h\n+\nAzithromycin 500\nmg daily and / or\nDoxycycline 100mg\nq12h\nDuration:7 days",
+          "Imipenem 1g stat and\n500mg q6hrly\nOr\nMeropenem 1g q8h\n+\nAzithromycin 500 mg\ndaily\nOr\nDoxycycline 100mg\nq12h",
+          "If possible, send\nrespiratory samples for\nPCR etoi logical diagnosis.\nAdd MRSA agent if\nNecrotizing pneumonia\npreceding Influenza\ninfectoi n\nVancomycin 25 mg/kg IV\nstat followed by 15mg/kg\nq 8-12h\nOr\nTeicoplanin 400 mg twice\ndaily for 3 doses and then\n8-10mg/kg OD\nOr\nLinezolid 600 mg twice\ndaily PO or IV (afetr TB is\nexcluded)\nWork up for opportunistic\ninfectoi ns."
+        ],
+        [
+          "Skin and sof t\ntissue\ninfection",
+          "Piperacillin-\ntazobactam 4.5g IV\nq 6h\n+\nTeicoplanin 400 mg\ntwice daily for 3\ndoses and then 8-\n10mg/kg OD\nOr\nVancomycin 25\nmg/kg IV stat",
+          "Necrotizing fasciitis:\nMeropenem 1g q8h\n+\nTeicoplanin 400 mg\ntwice daily for 3 doses\nand then 8-10mg/kg\nOD\nOr\nVancomycin 25 mg/kg\nIV stat followed by\n15mg/kg q 8-12h",
+          "For MRSA coverage\nconsider use of\nTeicoplanin/Vancomycin.\nConsider the use of\nclindamycin where anti-\ntoxin actviity is desired\n(e.g. necrotizing fasciitis)."
+        ]
+      ],
+      "bbox": [
+        107.36000156402588,
+        318.96201171875,
+        525.760009765625,
+        777.1679931640625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

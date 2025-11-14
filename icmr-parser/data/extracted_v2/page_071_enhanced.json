@@ -1,0 +1,95 @@
+{
+  "page_number": 71,
+  "text": " \n \n66 \n \nAdditional Information:  \n• \nSurgical infection can be prevented by pre-operative chlorhexidine gluconate (2%-4%) \nbath/body wipes preferably one day prior to, and on the day of surgery. Adopting hair \nclipping instead of shaving in surgical site preparation can help in reducing surgical site \ninfections. \n• \nClassification of operative wounds and risk of infection is tabulated below: \nClassification \nCriteria \nRisk (%) \nClean \nElective, not emergency, non-traumatic, primarily \nclosed; no acute inflammation; no break in \ntechnique; respiratory, gastrointestinal, biliary and \ngenitourinary tracts not entered \n< 2 \nClean-\ncontaminated \nUrgent or emergency case that is otherwise clean; \nelective opening of respiratory, gastrointestinal, \nbiliary or genitourinary tract with minimal spillage \n(e.g., appendectomy) not encountering infected \nurine or bile; minor technique break \n<10 \nContaminated Non-purulent inflammation; gross spillage from \ngastrointestinal tract; entry into biliary or \ngenitourinary tract in the presence of infected bile or \nurine; major break in technique; penetrating trauma \n< 4 hours old; chronic open wounds to be grafted or \ncovered \nApprox. 20 \nDirty \nPurulent inflammation (e.g., abscess); preoperative \nperforation of respiratory, gastrointestinal, biliary or \ngenitourinary tract; penetrating trauma > 4 hours old \nApprox. 40 \n \n \n \n \n• \nAntibiotic prophylaxis in specific procedures is tabulated below: \nSpecific operations \nExpected \norganism \nAntibiotic of choice \nDosage in adults \nEsophagus \nS. aureus, \nStreptococci \nCefazolin \n1-2 g IV \nThoracic \nS. aureus, S. \nepidermidis \nCefazolin \n1-2 g IV \nGastroduodenal \nGram-positive \ncocci, enteric \ngram-\nnegative \nbacilli \nCefazolin \n1-2 g IV \nColorectal \nEnteric gram-\nnegative \nbacilli, \nanaerobes \nCefazolin + Metronidazole \n1-2g IV+500 mg \n",
+  "tables": [
+    {
+      "headers": [
+        "Classification Criteria Risk (%)",
+        "Col1",
+        "Col2"
+      ],
+      "rows": [
+        [
+          "Clean",
+          "Elective, not emergency, non-traumatic, primarily\nclosed; no acute inflammation; no break in\ntechnique; respiratory, gastrointestinal, biliary and\ngenitourinary tracts not entered",
+          "< 2"
+        ],
+        [
+          "Clean-\ncontaminated",
+          "Urgent or emergency case that is otherwise clean;\nelective opening of respiratory, gastrointestinal,\nbiliary or genitourinary tract with minimal spillage\n(e.g., appendectomy) not encountering infected\nurine or bile; minor technique break",
+          "<10"
+        ],
+        [
+          "Contaminated",
+          "Non-purulent inflammation; gross spillage from\ngastrointestinal tract; entry into biliary or\ngenitourinary tract in the presence of infected bile or\nurine; major break in technique; penetrating trauma\n< 4 hours old; chronic open wounds to be grafetd or\ncovered",
+          "Approx. 20"
+        ],
+        [
+          "Dirty",
+          "Purulent inflammation (e.g., abscess); preoperative\nperforation of respiratory, gastrointestinal, biliary or\ngenitourinary tract; penetrating trauma > 4 hours old",
+          "Approx. 40"
+        ]
+      ],
+      "bbox": [
+        107.38000170389812,
+        171.44000244140625,
+        554.0600179036459,
+        429.2499885559082
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Specific operations Expected Antibiotic of choice Dosage in adults\norganism",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Esophagus",
+          "S. aureus,\nStreptococci",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Thoracic",
+          "S. aureus, S.\nepidermidis",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Gastroduodenal",
+          "Gram-positvie\ncocci, enteric\ngram-\nnegative\nbacilli",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Colorectal",
+          "Enteric gram-\nnegative\nbacilli,\nanaerobes",
+          "Cefazolin + Metronidazole",
+          "1-2g IV+500 mg"
+        ]
+      ],
+      "bbox": [
+        107.38000170389812,
+        507.3819946289062,
+        554.0600179036459,
+        741.407958984375
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "S. aureus,",
+    "Streptococci",
+    "S. aureus, S.",
+    "epidermidis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "page_number": 42,
+  "text": " \n \n37 \n \n4.7 Peritonitis – Primary / Secondary \nType of \nInfection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nSpontaneous \nBacterial \nPeritonitis \nPiperacillin-\ntazobactam 4.5g \nIV q6h for 7-10 \ndays \nCefoperazone-\nsulbactam 3g IV \nq12h \nOptimize therapy based on culture and \nsusceptibility results. \nSecondary \nperitonitis \nPiperacillin-\ntazobactam 4.5g \nIV q6h   \nOr \nCefoperazone-\nsulbactam 3g IV \nq12h  \nOr \nErtapenem 1g IV \nq24h \nMeropenem 1g IV \nq8h \nOr \nImipenem-\ncilastatin 500mg \nIV q6h  \n  \nSurgical drainage is required. \nDuration of therapy: 5-7 days (surgical drainage \ndone and no complications like persistent \nabscess/collection identified). \nFor common etiological agents of peritonitis, see Annexure B.4.6 \n \n4.8 Splenic Abscess \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nSplenic Abscess, \nstable \nhemodyamics \n  \nDefer antibiotics till \nmicrobiological \ndiagnosis made from \nblood or splenic \naspirate \nThe culture results guide the choice of \nantibiotics. \nSplenic abscesses are most regularly \nseen as complications of infective \nendocarditis, in about 5% of patients. \nDuration of therapy: 3-4 weeks \nSplenic abscess, \npatient in shock or \nunstable \nMeropenem 1g IV \nq8h \n+ \nVancomycin 1g IV \nq12h  \nTeicoplanin \n(alternative to \nVancomycin) \nLoading dose of \n400 mg q12h IV \nfor three doses \nthen \n400 mg IV q24h \nFor common etiological agents of splenic abscess, see Annexure B.4.7 \nAdditional Information:  \n• \nThe gold standard for treating a splenic abscess is splenectomy; however, recent studies have \nshown success using different approaches based on abscess characteristics.  \n• \nPercutaneous aspiration may be a less invasive option in patients at high risk for surgery or a \ntemporary solution used as a bridge to surgery, avoiding the risk of a fulminant and potentially \nlife-threatening infection.  \n• \nPercutaneous aspiration is a successful approach when the abscess collection is unilocular or \nbilocular, with a complete and thick wall and no internal septations. Aspiration is easier to \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie (with Comments\nInfection Dosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Spontaneous\nBacterial\nPeritonitis",
+          "Piperacillin-\ntazobactam 4.5g\nIV q6h for 7-10\ndays",
+          "Cefoperazone-\nsulbactam 3g IV\nq12h",
+          "Optmi ize therapy based on culture and\nsusceptbi ility results."
+        ],
+        [
+          "Secondary\nperitonitis",
+          "Piperacillin-\ntazobactam 4.5g\nIV q6h\nOr\nCefoperazone-\nsulbactam 3g IV\nq12h\nOr\nErtapenem 1g IV\nq24h",
+          "Meropenem 1g IV\nq8h\nOr\nImipenem-\ncilastatin 500mg\nIV q6h",
+          "Surgical drainage is required.\nDuration of therapy: 5-7 days (surgical drainage\ndone and no complications like persistent\nabscess/collection identified)."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        97.2919677734375,
+        575.4599609375,
+        327.2179809570313
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Splenic Abscess,\nstable\nhemodyamics",
+          "Defer antibiotics till\nmicrobiological\ndiagnosis made from\nblood or splenic\naspirate",
+          "",
+          "The culture results guide the choice of\nantibiotics.\nSplenic abscesses are most regularly\nseen as complications of infective\nendocarditsi, in about 5% of patients.\nDuration of therapy: 3-4 weeks"
+        ],
+        [
+          "Splenic abscess,\npatient in shock or\nunstable",
+          "Meropenem 1g IV\nq8h\n+\nVancomycin 1g IV\nq12h",
+          "Teicoplanin\n(alternative to\nVancomycin)\nLoading dose of\n400 mg q12h IV\nfor three doses\nthen\n400 mg IV q24h",
+          null
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        397.7019836425781,
+        554.0800170898438,
+        614.1880126953125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Peritonitis – Primary / Secondary",
+    "Splenic Abscess"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "page_number": 102,
+  "text": " \n \n \n17. Infections in Immuno-compromised hosts \n17.1 Febrile neutropenia syndrome \nType of Infection \nFirst Line (with \nDosage and Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nHemodynamically stable  \nPiperacillin-\ntazobactam 4.5g IV \nq6h \nOr \nCefoperazone-\nsulbactam 3g IV q12h \nMeropenem 1g IV \nq8h  \nOr  \nImipenem 500mg \nIV q6h \nIf blood cultures are \nnegative, patient is \nhaemodynamically stable \nbut still febrile, blood \nculture should be repeated \n& alternate cause of fever \nshould be looked for \n(fungal/viral).  \nContinue broad-spectrum \nantibiotics until the patient \nis afebrile for at least 3 days.  \nHemodynamically unstable \nMeropenem 1g IV \nq8h  \n+ \nVancomycin 25 mg/kg \nloading and 15 mg/kg \nq8h/12h  \n+  \nInj Polymyxin B (15-20 \nlakhs units IV stat, \nfollowed by 7.5-10 \nlakhs IV q12h \n \nImipenem 500mg \nIV q6h \n \nConsider adding \nCaspofungin if fungal \ninfection is a consideration \n(persistent fever with \nnegative cultures) \n \nCeftazidime-avibactam +/- \naztreonam is a reserve drug \nto be used as targeted \ntherapy after susceptibility \nreporting for CR Klebsiella. \nResistance among E coli and \nPseudomonas is common \nand it is inactive against \nAcinetobacter, so it is not \nrecommended for empiric \nuse.  \nFor common etiological agents of Febrile neutropenia syndrome, see Annexure B.17.1 \nFor patients with Febrile neutropenia syndrome following points should be considered: \n1. When to add glycopeptides? \n• \nHaemodynamic instability or other evidence of severe sepsis, septic shock or pneumonia. \n• \nColonisation with MRSA or penicillin-resistant S. pneumoniae. \n• \nSuspicion of serious catheter-related infection e.g. chills or rigours with infusion through \ncatheter and cellulitis around the catheter exit site. \n• \nSkin or soft-tissue infection at any site. \n• \nPositive blood culture for gram-positive bacteria, before final identification and \nsusceptibility testing is available. \n2. When should empirical colistin or polymyxin B be added in febrile neutropenic patients? \n• \nHaemodynamic instability. \n• \nColonisation with carbapenem-resistant gram-negative bacteria. \n• \nPrevious infection with carbapenem-resistant gram-negative bacteria. \n• \nGNB in blood, sensitivity pending, persistent fever with haemodynamic instability. \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Hemodynamically stable",
+          "Piperacillin-\ntazobactam 4.5g IV\nq6h\nOr\nCefoperazone-\nsulbactam 3g IV q12h",
+          "Meropenem 1g IV\nq8h\nOr\nImipenem 500mg\nIV q6h",
+          "If blood cultures are\nnegative, patient is\nhaemodynamically stable\nbut still febrile, blood\nculture should be repeated\n& alternate cause of fever\nshould be looked for\n(fungal/viral).\nContinue broad-spectrum\nantibiotics until the patient\nis afebrile for at least 3 days."
+        ],
+        [
+          "Hemodynamically unstable",
+          "Meropenem 1g IV\nq8h\n+\nVancomycin 25 mg/kg\nloading and 15 mg/kg\nq8h/12h\n+\nInj Polymyxin B (15-20\nlakhs units IV stat,\nfollowed by 7.5-10\nlakhs IV q12h",
+          "Imipenem 500mg\nIV q6h",
+          "Consider adding\nCaspofungin if fungal\ninfectoi n is a consideration\n(persistent fever with\nnegative cultures)\nCefatzidime-avibactam +/-\naztreonam is a reserve drug\nto be used as targeted\ntherapy afetr susceptbi ility\nreportni g for CR Klebsiella.\nResistance among E coli and\nPseudomonas is common\nand it is inactive against\nAcinetobacter, so it is not\nrecommended for empiric\nuse."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        123.452001953125,
+        554.0800170898438,
+        541.31796875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Febrile neutropenia syndrome",
+    "S. pneumoniae.",
+    "e.g. chills or rigours with infusion through",
+    "catheter and cellulitis around the catheter exit site."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

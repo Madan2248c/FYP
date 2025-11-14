@@ -1,0 +1,77 @@
+{
+  "page_number": 133,
+  "text": " \n \n \nStaphylococcus saprophyticus \n(frequent isolation from younger \nwomen) \nB.6. Gynaecological and Reproductive Organ Infections and STDs \nAnnexure \nTitle \nEtiology \nReference \n  \nB.6.1 \nGenital Ulcers \nNon-Herpetic \nUlcers \nTreponema pallidum (Syphilis) \nChlamydia trachomatis serovars L1–\nL3 (Lymphogranuloma venereum) \nHaemophilus ducreyi (Chancroid) \nKlebsiella granulomatis \n(Donovanosis) \nNational Technical Guidelines on STI and RTI \n2024 Pg 33 \n  \nB.6.2 \nAnogenital \nWarts \nHuman Papilloma Virus type 6 & \n11 \nNational Technical Guidelines on STI and \nRTI 2024 Pg 91 \n  \nB.6.3 \nSeptic abortion \nInfections are polymicrobial \nBacterial: \nStaphylococcus aureus \nGroup A & B streptococcus \nEscherichia coli \nClostridium perfringens \nPeptostreptococcus spp. \nUdoh A, Effa EE, Oduwole O, Okusanya BO, \nOkafo O. Antibiotics for treating septic \nabortion. Cochrane Database Syst Rev. 2016 \nJul 1;7(7):CD011528. doi: \n10.1002/14651858.CD011528.pub2. PMID: \n27364644; PMCID: PMC6458041. \n \n  \nB.6.4 \nVaginitis & \nCervicitis \nVaginitis: \nParasitic \nTrichomonas vaginalis \n(Trichomoniasis) \nFungal: \nCandida albicans (Candidiasis) \nBacterial: \nGardnerella vaginalis \nMobiluncus spp. \nMycoplasma hominis \nUreaplasma spp. \nOther fastidious and uncultivated \nanaerobes e.g., Bacteroides spp. \n(Bacterial vaginosis) \n \nCervicitis: \nBacterial: \nNeisseria gonorrhoeae \nChlamydia trachomatis \nM. genitalium \n \nParasitic: \nTrichomonas vaginalis \nViral: \nNational Technical Guidelines on STI and \nRTI 2024 Pg 39 \n \n  \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.6.1",
+          "Genital Ulcers\nNon-Herpetic\nUlcers",
+          "Treponema pallidum (Syphilis)\nChlamydia trachomatsi serovars L1–\nL3 (Lymphogranuloma venereum)\nHaemophilus ducreyi (Chancroid)\nKlebsiella granulomatsi\n(Donovanosis)",
+          "National Technical Guidelines on STI and RTI\n2024 Pg 33"
+        ],
+        [
+          "B.6.2",
+          "Anogenital\nWarts",
+          "Human Papilloma Virus type 6 &\n11",
+          "National Technical Guidelines on STI and\nRTI 2024 Pg 91"
+        ],
+        [
+          "B.6.3",
+          "Septci abortion",
+          "Infectoi ns are polymicrobial\nBacterial:\nStaphylococcus aureus\nGroup A & B streptococcus\nEscherichia coli\nClostridium perfringens\nPeptostreptococcus spp.",
+          "Udoh A, Efaf EE, Oduwole O, Okusanya BO,\nOkafo O. Antibiotcis for treating septic\nabortoi n. Cochrane Database Syst Rev. 2016\nJul 1;7(7):CD011528. doi:\n10.1002/14651858.CD011528.pub2. PMID:\n27364644; PMCID: PMC6458041."
+        ],
+        [
+          "B.6.4",
+          "Vaginitsi &\nCervicitsi",
+          "Vaginitsi:\nParasitci\nTrichomonas vaginalis\n(Trichomoniasis)\nFungal:\nCandida albicans (Candidiasis)\nBacterial:\nGardnerella vaginalis\nMobiluncus spp.\nMycoplasma hominis\nUreaplasma spp.\nOther fastidious and uncultivated\nanaerobes e.g., Bacteroides spp.\n(Bacterial vaginosis)\nCervicitsi:\nBacterial:\nNeisseria gonorrhoeae\nChlamydia trachomatsi\nM. genitalium\nParasitci:\nTrichomonas vaginalis\nViral:",
+          "National Technical Guidelines on STI and\nRTI 2024 Pg 39"
+        ]
+      ],
+      "bbox": [
+        65.5140027999878,
+        134.972021484375,
+        568.3800048828125,
+        772.8599548339844
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Staphylococcus saprophyticus",
+    "Treponema pallidum",
+    "Chlamydia trachomatis",
+    "Haemophilus ducreyi",
+    "Klebsiella granulomatis",
+    "Septic abortion",
+    "Infections are polymicrobial",
+    "Staphylococcus aureus",
+    "Escherichia coli",
+    "Clostridium perfringens",
+    "Peptostreptococcus spp.",
+    "Cervicitis",
+    "Trichomonas vaginalis",
+    "Candida albicans",
+    "Gardnerella vaginalis",
+    "Mobiluncus spp.",
+    "Mycoplasma hominis",
+    "Ureaplasma spp",
+    "Bacteroides spp",
+    "Neisseria gonorrhoeae",
+    "Chlamydia trachomatis",
+    "M. genitalium",
+    "Trichomonas vaginalis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

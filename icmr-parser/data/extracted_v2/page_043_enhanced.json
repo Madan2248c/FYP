@@ -1,0 +1,43 @@
+{
+  "page_number": 43,
+  "text": " \n \n38 \n \nachieve when the content is liquid enough to be drained. If there are multiple collections or \nassociated coagulopathy, either laparoscopic or open surgical treatment is preferred.  \n \n 4.9 Pancreatitis \nType of \nInfection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nPancreatitis \nwithout \ninfection  \nNo antibiotics \n \nSurgery opinion to be taken. \nInfected \npancreatic \nnecrosis, \nInfected \npseudocyst \nPiperacillin-\ntazobactam \n4.5g IV q6h \n(To stop after 5-\n7 days of source \ncontrol \ninitiation) \nImipenem-\ncilastatin 500mg \nIV q6h  \nOr \nMeropenem 1g \nIV q8h \n(To stop after 5-7 \ndays of source \ncontrol initiation) \n \nSurgery opinion to be taken \n \nTherapy to be adjusted as per the culture and \nsensitivity results from pancreatic aspirate or \nnecrosectomy.   \n \nAntifungal cover with fluconazole, or \nechinocandins like Caspofungin/ Micafungin \nmay be added if risk factors for disseminated \ncandidiasis are present. \nFor common etiological agents of infected pancreatic necrosis, see Annexure B.4.8 \nReferences: \n1. Huston JM, Barie PS, Dellinger EP, Forrester JD, Duane TM, Tessier JM, Sawyer RG, Cainzos MA, \nRasa K, Chipman JG, Kao LS, Pieracci FM, Colling KP, Heffernan DS, Lester J; Therapeutics and \nGuidelines Committee. The Surgical Infection Society Guidelines on the Management of Intra-\nAbdominal Infection: 2024 Update. Surg Infect (Larchmt). 2024 Aug;25(6):419-435. doi: \n10.1089/sur.2024.137. Epub 2024 Jul 11.  \n2. Treatment Guidelines for Antimicrobial Use in Common Syndromes. 2nd edition. ICMR. 2019. \nNew \nDelhi \n(Accessed \non \n2nd \nApril, \n2025). \nAvailable \nfrom:  \nhttps://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-\nguidelines/Treatment_Guidelines_2019_Final.pdf \n3. Shane AL, Mody RK, Crump JA, Tarr PI, Steiner TS, Kotloff K, Langley JM, Wanke C, Warren CA, \nCheng AC, Cantey J, Pickering LK. 2017 Infectious Diseases Society of America Clinical Practice \nGuidelines for the Diagnosis and Management of Infectious Diarrhea. Clin Infect Dis. 2017 Nov \n29;65(12): e45-e80. doi: 10.1093/cid/cix669. PMID: 29053792; PMCID: PMC5850553. \n4. Kim YJ, Park KH, Park DA, Park J, Bang BW, Lee SS, Lee EJ, Lee HJ, Hong SK, Kim YR. Guideline \nfor the Antibiotic Use in Acute Gastroenteritis. Infect Chemother. 2019 Jun;51(2):217-243. doi: \n10.3947/ic.2019.51.2.217. PMID: 31271003; PMCID: PMC6609748. \nWilkins T, Embry K, George R. Diagnosis and management of acute diverticulitis. American \nfamily \nphysician. \n2013 \nMay \n1;87(9):612-20. \nAvailable \nfrom: \nhttps://www.aafp.org/pubs/afp/issues/2013/0501/p612.html. \nGomi H, Solomkin JS, Schlossberg D, Okamoto K, Takada T, Strasberg SM, Ukai T, Endo I, \nIwashita Y, Hibi T, Pitt HA, Matsunaga N, Takamori Y, Umezawa A, Asai K, Suzuki K, Han HS, \nHwang TL, Mori Y, Yoon YS, Huang WS, Belli G, Dervenis C, Yokoe M, Kiriyama S, Itoi T, Jagannath \nP, Garden OJ, Miura F, de Santibañes E, Shikata S, Noguchi Y, Wada K, Honda G, Supe AN, \nYoshida M, Mayumi T, Gouma DJ, Deziel DJ, Liau KH, Chen MF, Liu KH, Su CH, Chan ACW, Yoon \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie (with Comments\nInfection Dosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Pancreatitis\nwithout\ninfection",
+          "No antibiotics",
+          "",
+          "Surgery opinion to be taken."
+        ],
+        [
+          "Infected\npancreatic\nnecrosis,\nInfected\npseudocyst",
+          "Piperacillin-\ntazobactam\n4.5g IV q6h\n(To stop afetr 5-\n7 days of source\ncontrol\ninitaition)",
+          "Imipenem-\ncilastatin 500mg\nIV q6h\nOr\nMeropenem 1g\nIV q8h\n(To stop afetr 5-7\ndays of source\nc ontrol initaition)",
+          "Surgery opinion to be taken\nTherapy to be adjusted as per the culture and\nsensitviity results from pancreatic aspirate or\nnecrosectomy.\nAntifungal cover with fluconazole, or\nechinocandins like Caspofungin/ Micafungin\nmay be added if risk factors for disseminated\ncandidiasis are present."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        156.8119873046875,
+        547.1200332641602,
+        373.29798583984376
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Pancreatitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "page_number": 147,
+  "text": " \n \n \nStreptococcal superantigen A \n \n10.3390/antibiotics13010096. PMID: \n38247655; PMCID: PMC10812596. \nB.14. Bite Wound Infections \nAnnexure \nTitle \nEtiology \nReference \nB.14.1 \nHuman and \nanimal bites \nwound \ninfections \nDog bite  \nStaphylococcus aureus \nPasteurella multocida \nAnaerobes \nCapnocytophaga Canimorsus \n \nCat Bite \nP. multocida \nS. aureus \nAnaerobes \n \nHuman & monkey bites  \nViridans streptococci \nS. aureus \nHaemophilus influenzae \nAnaerobes \nEikenella corrodens \n \nRodent bites \nStreptobacillus moniliformis  \nLeptospira spp. \nP. multocida \n \nAquatic animal bites   \nAeromonas hydrophila \nmarine Vibrio spp. (Vibrio \nvulnificus) \nTable 141-1 Harrison’s Principles of Internal \nMedicine Pg 1127 \n \n \nB.15. Burn Wound Infections \nAnnexure \nTitle \nEtiology \nReference \nB.15.1 \nBurn wound \ninfections \nBacterial: \nStaphylococcus aureus \nStreptococcus pyogenes \nPseudomonas aeruginosa \nCoagulase negative Staphylococcus \nEnterococcus spp. \nE.coli \n \nFungal: \nChurch DElsayed SReid O, Winston B, Lindsa\ny R. 2006. Burn Wound Infections. Clin \nMicrobiol Rev 19:. \nhttps://doi.org/10.1128/cmr.19.2.403-\n434.2006 \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.14.1",
+          "Human and\nanimal bites\nwound\ninfectoi ns",
+          "Dog bite\nStaphylococcus aureus\nPasteurella multocida\nAnaerobes\nCapnocytophaga Canimorsus\nCat Bite\nP. multocida\nS. aureus\nAnaerobes\nHuman & monkey bites\nViridans streptococci\nS. aureus\nHaemophilus influenzae\nAnaerobes\nEikenella corrodens\nRodent bites\nStreptobacillus moniliformis\nLeptospira spp.\nP. multocida\nAquatic animal bites\nAeromonas hydrophila\nmarine Vibrio spp. (Vibrio\nvulnificus)",
+          "Table 141-1 Harrison’s Principles of Internal\nMedicine Pg 1127"
+        ]
+      ],
+      "bbox": [
+        67.37400007247925,
+        128.49197998046876,
+        575.4899597167969,
+        567.3879638671875
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.15.1",
+          "Burn wound\ninfectoi ns",
+          "Bacterial:\nStaphylococcus aureus\nStreptococcus pyogenes\nPseudomonas aeruginosa\nCoagulase negatvie Staphylococcus\nEnterococcus spp.\nE.coli\nFungal:",
+          "Church DElsayed SReid O, Winston B, Lindsa\ny R. 2006. Burn Wound Infections. Clin\nMicrobiol Rev 19:.\nhtpts://doi.org/10.1128/cmr.19.2.403-\n434.2006"
+        ]
+      ],
+      "bbox": [
+        67.37400007247925,
+        616.73203125,
+        575.4899597167969,
+        778.3799794514974
+      ],
+      "table_number": 2,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Staphylococcus aureus",
+    "Pasteurella multocida",
+    "Capnocytophaga Canimorsus",
+    "P. multocida",
+    "S. aureus",
+    "S. aureus",
+    "Haemophilus influenzae",
+    "Eikenella corrodens",
+    "Streptobacillus moniliformis",
+    "Leptospira spp.",
+    "P. multocida",
+    "Aeromonas hydrophila",
+    "Vibrio spp. (Vibrio",
+    "vulnificus)",
+    "Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Pseudomonas aeruginosa",
+    "Enterococcus spp",
+    "E.coli"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

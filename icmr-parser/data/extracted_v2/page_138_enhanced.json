@@ -1,0 +1,87 @@
+{
+  "page_number": 138,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nKlebsiella pneumoniae \nFusobacterium species \nPeptostreptococcus spp. \nPorphyromonas spp. \nPrevotella spp. \nPseudomonas aeruginosa \n \nFungal: \nCandida albicans \nB.9.2 \nImpetigo \nBacterial: \nStaphylococcus aureus \nStreptococcus pyogenes \nHarrison’s Principles of Internal Medicine \nPg4466 \nB.9.3 \nCellulitis \nBacterial: \n \nStaphylococcus aureus \nStaphylococcus pyogenes \nGroup A Streptococci \nPseudomonas spp. \nHarrison’s Principles of Internal Medicine Pg \n4468 \nB.9.4 \nNecrotizing \nfasciitis \nType 1: Polymicrobial (Anaerobic \nstreptococci and aerobic Gram- \npositive and Gram-negative \nbacteria \nType 2: Beta hemolytic \nstreptococcus A, Staphylococcus \naureus \nType 3: Vibrio spp., Clostridium spp, \nGram-negative bacteria \nType 4: Candida spp. and \nzygomycetes \n \nGuliyeva G, Huayllani MT, Sharma NT, Janis JE. \nPractical Review of Necrotizing Fasciitis: \nPrinciples and Evidence-based Management. \nPlast Reconstr Surg Glob Open. 2024 Jan \n19;12(1):e5533. doi: \n10.1097/GOX.0000000000005533. PMID: \n38250213; PMCID: PMC10798703 \n \nB.9.5 \nPrimary \npyomyositis \nBacterial: \nStaphylococcus aureus  \nGroup A Streptococcus \nStreptococcus pneumoniae \nGram – negative enteric bacteria \nDennis L. Stevens, Alan L. Bisno, Henry F. \nChambers, E. Patchen Dellinger, Ellie J. C. \nGoldstein, Sherwood L. Gorbach, Jan V. \nHirschmann, Sheldon L. Kaplan, Jose G. \nMontoya, James C. Wade, Practice \nGuidelines for the Diagnosis and \nManagement of Skin and Soft Tissue \nInfections: 2014 Update by the Infectious \nDiseases Society of America, Clinical \nInfectious Diseases, Volume 59, Issue 2, 15 \nJuly 2014, Pages e10–\ne52, https://doi.org/10.1093/cid/ciu296 \nB.9.6 \nFolliculitis \nBacterial: \nStaphylococcus aureus \nLin HS, Lin PT, Tsai YS, Wang SH, Chi CC. \nInterventions for bacterial folliculitis and boils \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Klebsiella pneumoniae\nFusobacterium species\nPeptostreptococcus spp.\nPorphyromonas spp.\nPrevotella spp.\nPseudomonas aeruginosa\nFungal:\nCandida albicans",
+          ""
+        ],
+        [
+          "B.9.2",
+          "Impetigo",
+          "Bacterial:\nStaphylococcus aureus\nStreptococcus pyogenes",
+          "Harrison’s Principles of Internal Medicine\nPg4466"
+        ],
+        [
+          "B.9.3",
+          "Cellulitis",
+          "Bacterial:\nStaphylococcus aureus\nStaphylococcus pyogenes\nGroup A Streptococci\nPseudomonas spp.",
+          "Harrison’s Principles of Internal Medicine Pg\n4468"
+        ],
+        [
+          "B.9.4",
+          "Necrotizing\nfasciitis",
+          "Type 1: Polymicrobial (Anaerobic\nstreptococci and aerobic Gram-\npositvie and Gram-negatvie\nbacteria\nType 2: Beta hemolytic\nstreptococcus A, Staphylococcus\naureus\nType 3: Vibrio spp., Clostridium spp,\nGram-negative bacteria\nType 4: Candida spp. and\nzygomycetes",
+          "Guliyeva G, Huayllani MT, Sharma NT, Janis JE.\nPractical Review of Necrotizing Fasciitis:\nPrinciples and Evidence-based Management.\nPlast Reconstr Surg Glob Open. 2024 Jan\n19;12(1):e5533. doi:\n10.1097/GOX.0000000000005533. PMID:\n38250213; PMCID: PMC10798703"
+        ],
+        [
+          "B.9.5",
+          "Primary\npyomyositsi",
+          "Bacterial:\nStaphylococcus aureus\nGroup A Streptococcus\nStreptococcus pneumoniae\nGram – negative enteric bacteria",
+          "Dennis L. Stevens, Alan L. Bisno, Henry F.\nChambers, E. Patchen Dellinger, Ellie J. C.\nGoldstein, Sherwood L. Gorbach, Jan V.\nHirschmann, Sheldon L. Kaplan, Jose G.\nMontoya, James C. Wade, Practice\nGuidelines for the Diagnosis and\nManagement of Skin and Soft Tissue\nInfectoi ns: 2014 Update by the Infectoi us\nDiseases Society of America, Clinical\nInfectoi us Diseases, Volume 59, Issue 2, 15\nJuly 2014, Pages e10–\ne52, htpts://doi.org/10.1093/cid/ciu296"
+        ],
+        [
+          "B.9.6",
+          "Folliculitis",
+          "Bacterial:\nStaphylococcus aureus",
+          "Lin HS, Lin PT, Tsai YS, Wang SH, Chi CC.\nInterventoi ns for bacterial folliculitis and boils"
+        ]
+      ],
+      "bbox": [
+        67.43400049209595,
+        64.03201904296876,
+        575.4299621582031,
+        783.7679443359375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Klebsiella pneumoniae",
+    "Fusobacterium species",
+    "Peptostreptococcus spp.",
+    "Porphyromonas spp.",
+    "Prevotella spp.",
+    "Pseudomonas aeruginosa",
+    "Candida albicans",
+    "Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Staphylococcus aureus",
+    "Staphylococcus pyogenes",
+    "Pseudomonas spp.",
+    "Staphylococcus",
+    "aureus",
+    "Vibrio spp., Clostridium spp",
+    "Candida spp.",
+    "Staphylococcus aureus",
+    "Streptococcus pneumoniae",
+    "Clinical",
+    "Infectious Diseases",
+    "Staphylococcus aureus"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

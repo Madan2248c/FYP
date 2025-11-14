@@ -1,0 +1,39 @@
+{
+  "page_number": 26,
+  "text": " \n \n21 \n \n2.3 Meningitis syndrome \nType of \nInfection \nFirst Line (with \nDosage and Duration) \nAlternative (with \ndosage and Duration) \nComments \nAcute \nMeningitis  \n \nCeftriaxone 2g IV 12 h \nOr  \nCefotaxime 2g IV 4-6 h \n+ \nVancomycin 25 mg/kg \nIV stat followed by \n15mg/kg q 8-12h (if \npenicillin or \nCeftriaxone/ \nCefotaxime resistance \nin pneumococcus is a \nconcern) \n \nDuration:10-14 days \n \nIn \nimmunocompromised \nand patients with age \nmore than 50 yrs \nInj Meropenem 2g IV \nq8hr \n+ \nVancomycin 25 mg/kg \nIV stat followed by \n15mg/kg q8-12h  \n \nDuration:10-14 days \n \n \n \n  \nAntibiotics should be started as soon as \npossible without waiting for CT scan or \nLP results. \nIf difficult to distinguish between \nmeningitis and encephalitis, follow \nsame treatment as under encephalitis.  \n \nDuration of therapy: 10-14 days. \n \nIf infection with Listeria spp. is \nsuspected, add Inj Ampicillin 2g q4h IV \n(immunocompromised/pregnant host)  \nDuration of therapy in Listeria \ninfections: 21 days. \nFor common etiological agents of Meningitis, see Annexure B.2.3 \nAdditional Information:  \n• \nTreat bacterial meningitis due to Gram-negative bacilli or Staphyloccocus spp. for at least 21 \ndays. \n• \nMay need intra ventricular antimicrobial therapy in severe cases. \n• \nPyogenic meningitis should be differentiated from tubercular meningitis, which has relatively \nlonger history of low to high grade of fever, constitutional symptoms, and CSF shows \nlymphocytic predominance, normal to mildly reduced sugar and raised proteins. \n• \nA high index of suspicion must be maintained to diagnose amoebic meningoencephalitis \nespecially if an epidemiologic link is present. \n \nReference: \n1. Van de Beek D, Cabellos C, Dzupova O, Esposito S, Klein M, Kloek AT, Leib SL, Mourvillier B, \nOstergaard C, Pagliano P, Pfister HW, Read RC, Sipahi OR, Brouwer MC; ESCMID Study Group \nfor Infections of the Brain (ESGIB). ESCMID guideline: diagnosis and treatment of acute \nbacterial meningitis. Clin Microbiol Infect. 2016 May;22 Suppl 3:S37-62. doi: \n10.1016/j.cmi.2016.01.007. Epub 2016 Apr 7. PMID: 27062097. \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie (with Comments\nInfection Dosage and Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute\nMeningitsi",
+          "Ceftriaxone 2g IV 12 h\nOr\nCefotaxime 2g IV 4-6 h\n+\nVancomycin 25 mg/kg\nIV stat followed by\n15mg/kg q 8-12h (if\npenicillin or\nCeftriaxone/\nCefotaxime resistance\nin pneumococcus is a\nconcern)\nDuration:10-14 days",
+          "In\nimmunocompromised\nand patients with age\nmore than 50 yrs\nInj Meropenem 2g IV\nq8hr\n+\nVancomycin 25 mg/kg\nIV stat followed by\n15mg/kg q8-12h\nDuration:10-14 days",
+          "Antibiotics should be started as soon as\npossible without waitni g for CT scan or\nLP results.\nIf difcfiult to distinguish between\nmeningitsi and encephalitis, follow\nsame treatment as under encephalitis.\nDuration of therapy: 10-14 days.\nIf infectoi n with Listeria spp. is\nsuspected, add Inj Ampicillin 2g q4h IV\n(immunocompromised/pregnant host)\nDuration of therapy in Listeria\ninfectoi ns: 21 days."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        97.2919677734375,
+        547.1400349934896,
+        369.45798950195314
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Meningitis syndrome",
+    "Listeria spp",
+    "Staphyloccocus"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

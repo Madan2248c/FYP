@@ -1,0 +1,38 @@
+{
+  "page_number": 70,
+  "text": " \n \n65 \n \nReferences: \n1. Li X, Sun L, Zhang P, Wang Y. Novel Approaches to Combat Medical Device-Associated \nBioFilms. Coatings. 2021; 11(3):294. Page 1-31. Available from: \nhttps://doi.org/10.3390/coatings11030294 \n2. Ihtisham Ul Haq, Taj Ali Khan, Katarzyna Krukiewicz, Etiology, pathology, and host-impaired \nimmunity in medical implant-associated infections, Journal of Infection and Public Health, \nVolume 17, Issue 2, 2024, Pages 189-203, ISSN 1876-0341, \nhttps://doi.org/10.1016/j.jiph.2023.11.024. \n3. Kennedy DG, O'Mahony AM, Culligan EP, O'Driscoll CM, Ryan KB. Strategies to Mitigate and \nTreat Orthopaedic Device-Associated Infections. Antibiotics (Basel). 2022 Dec \n15;11(12):1822. doi: 10.3390/antibiotics11121822. PMID: 36551479; PMCID: PMC9774155. \n4. Treatment Guidelines for Antimicrobial Use in Common Syndromes. 2nd edition. ICMR. 2019. \nNew Delhi (Accessed on 2nd April, 2025). Available from:  \nhttps://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-\nguidelines/Treatment_Guidelines_2019_Final.pdf \n \n10.7 Surgical Prophylaxis \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nClassified as Clean, \nClean Contaminated, \nContaminated and Dirty \n(Detailed in table \nbelow) \n \n \nRoutine use of antibiotic \nprophylaxis for clean \nnon-prosthetic \nuncomplicated surgery is \nnot recommended. \n \n \n \n \n- \nSurgical prophylaxis is to \nensure adequate serum \nand tissue levels of the \ndrug at the time of \nincision, and for the \nduration of surgery. \nAntibiotics should be \nstarted within 60 min of \nthe surgical incision. \nAntibiotics should be \ndiscontinued at the time \nof the incision’s closure, \nexcept in implant-based \nbreast reconstructions, \njoint arthroplasty and \ncardiac procedures where \nthe optimal duration of \nantibiotic therapy remains \nunknown. \nRepeat the dose if the \nduration of surgery is \nmore than 4 hours. \nFor common etiological agents of Surgical site infections, see Annexure B.10.7 \n \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Classified as Clean,\nClean Contaminated,\nContaminated and Dirty\n(Detailed in table\nbelow)",
+          "Routine use of antibiotic\nprophylaxis for clean\nnon-prosthetic\nuncomplicated surgery is\nnot recommended.",
+          "-",
+          "Surgical prophylaxis is to\nensure adequate serum\nand tissue levels of the\ndrug at the time of\nincision, and for the\nduration of surgery.\nAntibiotics should be\nstarted within 60 min of\nthe surgical incision.\nAntibiotics should be\ndiscontinued at the time\nof the incision’s closure,\nexcept in implant-based\nbreast reconstructoi ns,\njoint arthroplasty and\ncardiac procedures where\nthe optimal duration of\nantibiotic therapy remains\nunknown.\nRepeat the dose if the\nduration of surgery is\nmore than 4 hours."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        354.481982421875,
+        547.1400349934896,
+        691.3479858398438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Coatings",
+    "Surgical Prophylaxis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

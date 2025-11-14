@@ -1,0 +1,72 @@
+{
+  "page_number": 127,
+  "text": " \n \n \nB.2. Central Nervous System infections \nAnnexure \nno. \nTitle \nEtiology \nReference \nB.2.1 \nBrain \nabscess \nIn immunocompetent individuals:  \nStreptococcus spp. (anaerobic, aerobic, and \nviridans) \nEnterobacteriaceae (Proteus spp., \nEscherichia coli, Klebsiella spp.) \nAnaerobes (e.g., Bacteroides spp., \nFusobacterium spp.) \nStaphylococci \nIn immunocompromised hosts:  \nNocardia spp. \nToxoplasma gondii \nAspergillus spp. \nCandida spp. \nCryptococcus neoformans \nIn India and East Asia, mycobacterial \ninfection (tuberculoma) remains a major \ncause of focal CNS mass lesions. \nHarrison’s Principles of Internal \nMedicine Pg 1117 \n \nB.2.2 \nEncephalitis \nImmunocompetent patients: \nViral: Japanese encephalitis virus, Herpes \nsimplex virus, Chandipura virus (Telangana, \nMaharashtra, Gujarat, Odisha, Bihar), \nNipah virus (West Bengal, Kerala), \nEnteroviruses, Dengue, Influenza A (H1N1) \n(H3N2), Kyasanur forest disease (KFD), \nRabies, Chikungunya,West Nile (Assam, \nKerala), Zika virus  \nBacterial: Mycobacterium tuberculosis, \nOrientia tsutsugamushi (Scrub typhus), \nLeptospira spp. (Assam, Kerala), Neisseria \nmeningitides \nParasitic: Plasmodium falciparum, \nNaegleria fowleri  \nImmunosuppressed patients:  \nViral: HIV, EBV, CMV, Parvovirus B19, \nHuman herpes virus 6 \nUnvaccinated children:  \nViral: Measles, Mumps, Rubella (clusters), \nChickenpox (clusters) \nBacterial: Streptococcus pneumoniae \n(~1%), Haemophilus influenzae (<1%) \nNewer agents: \nViral: SARS-CoV-2 (direct or autoimmune-\nmediated) \nTandale BV, Narang R, Vijay \nKumar G, Jain M, Tomar SJ, \nDeshmukh PS. Infectious Causes \nof Acute Encephalitis Syndrome \nin India - Decadal Change and the \nWay Forward. Indian Pediatr. \n2023 Sep 15;60(9):709-713. Epub \n2023 May 30. PMID: 37260063. \nAvailable from: \nhttps://www.indianpediatrics.net\n/sep2023/709.pdf \nB.2.3 \nMeningitis \nBacterial: \nStreptococcus pneumoniae \nNeisseria meningitidis  \nGroup B Streptococci \nListeria monocytogenes \nHaemophilus influenzae type b \n \nHarrison’s Principles of Internal \nMedicine Pg 1100-1101 \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure\nno.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.2.1",
+          "Brain\nabscess",
+          "In immunocompetent individuals:\nStreptococcus spp. (anaerobic, aerobic, and\nviridans)\nEnterobacteriaceae (Proteus spp.,\nEscherichia coli, Klebsiella spp.)\nAnaerobes (e.g., Bacteroides spp.,\nFusobacterium spp.)\nStaphylococci\nIn immunocompromised hosts:\nNocardia spp.\nToxoplasma gondii\nAspergillus spp.\nCandida spp.\nCryptococcus neoformans\nIn India and East Asia, mycobacterial\ninfection (tuberculoma) remains a major\ncause of focal CNS mass lesions.",
+          "Harrison’s Principles of Internal\nMedicine Pg 1117"
+        ],
+        [
+          "B.2.2",
+          "Encephalitis",
+          "Immunocompetent patients:\nViral: Japanese encephalitis virus, Herpes\nsimplex virus, Chandipura virus (Telangana,\nMaharashtra, Gujarat, Odisha, Bihar),\nNipah virus (West Bengal, Kerala),\nEnteroviruses, Dengue, Influenza A (H1N1)\n(H3N2), Kyasanur forest disease (KFD),\nRabies, Chikungunya,West Nile (Assam,\nKerala), Zika virus\nBacterial: Mycobacterium tuberculosis,\nOrientia tsutsugamushi (Scrub typhus),\nLeptospira spp. (Assam, Kerala), Neisseria\nmeningitides\nParasitic: Plasmodium falciparum,\nNaegleria fowleri\nImmunosuppressed patients:\nViral: HIV, EBV, CMV, Parvovirus B19,\nHuman herpes virus 6\nUnvaccinated children:\nViral: Measles, Mumps, Rubella (clusters),\nChickenpox (clusters)\nBacterial: Streptococcus pneumoniae\n(~1%), Haemophilus influenzae (<1%)\nNewer agents:\nViral: SARS-CoV-2 (direct or autoimmune-\nmediated)",
+          "Tandale BV, Narang R, Vijay\nKumar G, Jain M, Tomar SJ,\nDeshmukh PS. Infectious Causes\nof Acute Encephalitis Syndrome\nin India - Decadal Change and the\nWay Forward. Indian Pediatr.\n2023 Sep 15;60(9):709-713. Epub\n2023 May 30. PMID: 37260063.\nAvailable from:\nhttps://www.indianpediatrics.net\n/sep2023/709.pdf"
+        ],
+        [
+          "B.2.3",
+          "Meningitis",
+          "Bacterial:\nStreptococcus pneumoniae\nNeisseria meningitidis\nGroup B Streptococci\nListeria monocytogenes\nHaemophilus influenzae type b",
+          "Harrison’s Principles of Internal\nMedicine Pg 1100-1101"
+        ]
+      ],
+      "bbox": [
+        64.89600372314453,
+        82.53201904296876,
+        554.068017578125,
+        782.9280029296875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Streptococcus spp",
+    "Proteus spp.,",
+    "Escherichia coli, Klebsiella spp",
+    "Bacteroides",
+    "Fusobacterium",
+    "Nocardia spp.",
+    "Toxoplasma gondii",
+    "Aspergillus",
+    "Candida",
+    "Cryptococcus neoformans",
+    "Mycobacterium tuberculosis,",
+    "Orientia tsutsugamushi",
+    "Leptospira",
+    "Neisseria",
+    "meningitides",
+    "Plasmodium falciparum,",
+    "Naegleria fowleri",
+    "Streptococcus pneumoniae",
+    "Haemophilus influenzae",
+    "Viral:",
+    "Streptococcus pneumoniae",
+    "Neisseria meningitidis",
+    "Listeria monocytogenes",
+    "Haemophilus influenzae"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

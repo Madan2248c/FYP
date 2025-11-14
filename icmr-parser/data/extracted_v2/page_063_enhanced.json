@@ -1,0 +1,55 @@
+{
+  "page_number": 63,
+  "text": " \n \n58 \n \n9.7 Diabetic foot infections (DFI) \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nMild: local infection \nwith 0.5cm to < 2cm \nerythema \nCloxacillin 500 mg q6h \nOr \nCephalexin 500 mg q6h \nOr \nCefadroxil 500 mg q12h \nDuration: 1 to 2 weeks \nbased on clinical \nresponse \nSulfamethoxazole/trim\nethoprim (Bactrim) \n160/800 mg orally BD \nOr \nDoxycycline 200mg on \nday 1, then 100mg OD \n(can be increased to \n200mg daily) \nStart antibiotic \ntreatment as soon as \npossible. Take samples \nfor microbiological \ntesting before, or as \nclose as possible to the \nstart of treatment. \nWhen choosing an \nantibiotic, take account \nof severity, risk of \ncomplications, previous \nmicrobiological results \nand antibiotic use. \nEmpiric antibiotic \nregimen should include \nan agent active \nagainst Staphylococcus \naureus, including \nmethicillin-resistant S. \naureus if necessary, and \nStreptococci. \nSurgery is the \ncornerstone of \ntreatment for deep \ndiabetic foot infections. \nProcedures range from \nsimple incision and \ndrainage to extensive \nmultiple surgical \ndebridement and \namputation. \n \n \nModerate: local \ninfection with > 2cm \nerythema or involving \ndeeper structures \n(such as abscess, \nosteomyelitis, septic \narthritis or fasciitis) \nAmoxicillin-clavulanic \nacid 625mg q8h \nOr \nCefuroxime 500mg \nq12h \nOr  \nInj Piperacillin-\ntazobactam 4.5 q6h [if \nthere is history of \nrecent antibiotic use or \nPseudomonas \ncolonization] \nDuration: 1 to 2 weeks \nbased on clinical \nresponse \nInj Cefuroxime 1.5g \nq12h \nOr \nInj Cefoperazone-\nsulbactam 3g q12h \nSevere: local infection \nwith signs of a \nsystemic inflammatory \nresponse. \nCefoperazone-\nsulbactam 3g IV q12h  \nOr  \nPiperacillin-tazobactam \n4.5g IV q8h \nIf patient is in septic \nshock, then: \nMeropenem 1g IV q8h \nor Imipenem-cilastatin \n500 q6h should be \nadded as first line \nantibiotic. \nIn case of MRSA risk \nfactors, Inj Vancomycin \nmust be added. \nDuration: 1 to 2 weeks \nbased on clinical \nresponse. Consider \ncontinuing treatment \nfor 3-4 weeks, if the \ninfection is improving, \nbut is extensive and is \nresolving slower than \nMeropenem 1g IV q8h \nOr  \nImipenem- cilastatin \n500mg IV q6h \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Mild: local infection\nwith 0.5cm to < 2cm\nerythema",
+          "Cloxacillin 500 mg q6h\nOr\nCephalexin 500 mg q6h\nOr\nCefadroxil 500 mg q12h\nDuration: 1 to 2 weeks\nbased on clinical\nresponse",
+          "Sulfamethoxazole/trim\nethoprim (Bactrim)\n160/800 mg orally BD\nOr\nDoxycycline 200mg on\nday 1, then 100mg OD\n(can be increased to\n200mg daily)",
+          "Start antibiotic\ntreatment as soon as\npossible. Take samples\nfor microbiological\ntesting before, or as\nclose as possible to the\nstart of treatment.\nWhen choosing an\nantibiotic, take account\nof severity, risk of\ncomplications, previous\nmicrobiological results\nand antibiotic use.\nEmpiric antibiotic\nregimen should include\nan agent active\nagainst Staphylococcus\naureus, including\nmethicillin-resistant S.\naureus if necessary, and\nStreptococci.\nSurgery is the\ncornerstone of\ntreatment for deep\ndiabetic foot infectoi ns.\nProcedures range from\nsimple incision and\ndrainage to extensive\nmultpi le surgical\ndebridement and\namputation."
+        ],
+        [
+          "Moderate: local\ninfection with > 2cm\nerythema or involving\ndeeper structures\n(such as abscess,\nosteomyelitis, septic\narthritsi or fasciitsi)",
+          "Amoxicillin-clavulanic\nacid 625mg q8h\nOr\nCefuroxime 500mg\nq12h\nOr\nInj Piperacillin-\ntazobactam 4.5 q6h [if\nthere is history of\nrecent antibiotic use or\nPseudomonas\ncolonizatoi n]\nDuration: 1 to 2 weeks\nbased on clinical\nresponse",
+          "Inj Cefuroxime 1.5g\nq12h\nOr\nInj Cefoperazone-\nsulbactam 3g q12h",
+          null
+        ],
+        [
+          "Severe: local infection\nwith signs of a\nsystemic inflammatory\nresponse.",
+          "Cefoperazone-\nsulbactam 3g IV q12h\nOr\nPiperacillin-tazobactam\n4.5g IV q8h\nIf patient is in septci\nshock, then:\nMeropenem 1g IV q8h\nor Imipenem-cilastatin\n500 q6h should be\nadded as frist line\nantibiotic.\nIn case of MRSA risk\nfactors, Inj Vancomycin\nmust be added.\nDuration: 1 to 2 weeks\nbased on clinical\nresponse. Consider\ncontinuing treatment\nfor 3-4 weeks, if the\ninfectoi n is improving,\nbut is extensive and is\nresolving slower than",
+          "Meropenem 1g IV q8h\nOr\nImipenem- cilastatin\n500mg IV q6h",
+          null
+        ]
+      ],
+      "bbox": [
+        72.21600341796875,
+        115.2919677734375,
+        547.1080322265625,
+        762.047998046875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Diabetic foot infections (DFI)",
+    "Staphylococcus",
+    "aureus",
+    "aureus",
+    "Pseudomonas",
+    "If patient is in septic",
+    "shock, then:"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

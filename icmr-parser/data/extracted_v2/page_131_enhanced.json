@@ -1,0 +1,83 @@
+{
+  "page_number": 131,
+  "text": " \n \n \nAnnexure \nno. \nTitle \nEtiology \nReference \nRotavirus \nNorovirus  \nB.4.3.1 \n Infections of \nLiver, Gall \nBladder and \nBiliary tract \nLiver abscess \nBacterial: \nEscherichia coli  \nKlebsiella pneumoniae \nEnterococcus faecalis \nStaphylococccus aureus \nStreptococcus spp.  \nParasitic: \nEntamoeba histolytica  \nAscaris lumbricoides \nFasciola hepatica \nClonorchis sinensis \nFasciolopsis busci \nFungal: \nCandida spp. \nAspergillus spp. \nKozielewicz DM, Sikorska K, Stalke P. Liver \nabscesses – from diagnosis to treatment. \nClin Exp Hepatol. 2021 Dec;7(4):329–36. \nB.4.3.2 \nInfections of \nLiver, Gall \nBladder and \nBiliary tract \nAcute cholangitis & \ncholecystitis:  \nBacterial: \nEscherichia coli (25%-50%) \nKlebsiella species (15%-20%) \nEnterococcus spp \nStaphylococcus spp \nStreptococcus spp \nEnterobacter spp (5%-10%) \nPseudomonas aeruginosa \nProteus spp \nAnaerobic bacteria                      \n(Bacteroides fragilis and \nClostridium perfringens can \nalso cause acute cholangitis, \nparticularly in patients with \nprevious biliary surgery and in \nthe elderly population) \nFungal:  \nCandida spp. \nParasitic: \nClonorchis sinensis  \nOpisthorchis viverrini  \nOpisthorchis felineus \nAscaris lumbricoides  \n1. Ahmed M. Acute cholangitis - an \nupdate. World J Gastrointest Pathophysiol. \n2018 Feb 15;9(1):1-7. \n2. Rupp C, Bode K, Weiss KH, Rudolph G, \nBergemann J, Kloeters-Plachky P, Chahoud \nF, Stremmel W, Gotthardt DN, Sauer P. \nMicrobiological Assessment of Bile and \nCorresponding Antibiotic Treatment: A \nStrobe-Compliant Observational Study of \n1401 Endoscopic Retrograde \nCholangiographies. Medicine (Baltimore). \n2016 Mar;95(10):e2390. \n \nB.4.4 \nAppendicitis \nIn early stages of infection, the \novergrowth is mainly aerobic \norganisms, but as the disease \nprogresses, it transitions to a \nmix of aerobic and anaerobic \nbacteria. Members of family \nEnterobacteriaceae including \nEscherichia coli, Bacteroides \nBhangu, A., Søreide, K., Di Saverio, S., \nAssarsson, J. H., & Drake, F. T. \n(2015). Acute appendicitis: modern \nunderstanding of pathogenesis, diagnosis, \nand management. The Lancet, 386(10000), \n1278–1287 \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure\nno.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Rotavirus\nNorovirus",
+          ""
+        ],
+        [
+          "B.4.3.1",
+          "Infections of\nLiver, Gall\nBladder and\nBiliary tract",
+          "Liver abscess\nBacterial:\nEscherichia coli\nKlebsiella pneumoniae\nEnterococcus faecalis\nStaphylococccus aureus\nStreptococcus spp.\nParasitic:\nEntamoeba histolytica\nAscaris lumbricoides\nFasciola hepatica\nClonorchis sinensis\nFasciolopsis busci\nFungal:\nCandida spp.\nAspergillus spp.",
+          "Kozielewicz DM, Sikorska K, Stalke P. Liver\nabscesses – from diagnosis to treatment.\nClin Exp Hepatol. 2021 Dec;7(4):329–36."
+        ],
+        [
+          "B.4.3.2",
+          "Infections of\nLiver, Gall\nBladder and\nBiliary tract",
+          "Acute cholangitis &\ncholecystitis:\nBacterial:\nEscherichia coli (25%-50%)\nKlebsiella species (15%-20%)\nEnterococcus spp\nStaphylococcus spp\nStreptococcus spp\nEnterobacter spp (5%-10%)\nPseudomonas aeruginosa\nProteus spp\nAnaerobic bacteria\n(Bacteroides fragilis and\nClostridium perfringens can\nalso cause acute cholangitis,\nparticularly in patients with\nprevious biliary surgery and in\nthe elderly population)\nFungal:\nCandida spp.\nParasitic:\nClonorchis sinensis\nOpisthorchis viverrini\nOpisthorchis felineus\nAscaris lumbricoides",
+          "1. Ahmed M. Acute cholangitis - an\nupdate. World J Gastrointest Pathophysiol.\n2018 Feb 15;9(1):1-7.\n2. Rupp C, Bode K, Weiss KH, Rudolph G,\nBergemann J, Kloeters-Plachky P, Chahoud\nF, Stremmel W, Gotthardt DN, Sauer P.\nMicrobiological Assessment of Bile and\nCorresponding Antibiotic Treatment: A\nStrobe-Compliant Observational Study of\n1401 Endoscopic Retrograde\nCholangiographies. Medicine (Baltimore).\n2016 Mar;95(10):e2390."
+        ],
+        [
+          "B.4.4",
+          "Appendicitis",
+          "In early stages of infection, the\novergrowth is mainly aerobic\norganisms, but as the disease\nprogresses, it transitions to a\nmix of aerobic and anaerobic\nbacteria. Members of family\nEnterobacteriaceae including\nEscherichia coli, Bacteroides",
+          "Bhangu, A., Søreide, K., Di Saverio, S.,\nAssarsson, J. H., & Drake, F. T.\n(2015). Acute appendicitis: modern\nunderstanding of pathogenesis, diagnosis,\nand management. The Lancet, 386(10000),\n1278–1287"
+        ]
+      ],
+      "bbox": [
+        64.90400377909343,
+        64.03201904296876,
+        568.3600056966146,
+        778.3680053710938
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Escherichia coli",
+    "Klebsiella pneumoniae",
+    "Enterococcus faecalis",
+    "Staphylococccus aureus",
+    "Streptococcus spp.",
+    "Entamoeba histolytica",
+    "Ascaris lumbricoides",
+    "Fasciola hepatica",
+    "Clonorchis sinensis",
+    "Fasciolopsis busci",
+    "Candida spp.",
+    "Aspergillus spp",
+    "Escherichia coli (25%-50%)",
+    "Klebsiella species (15%-20%)",
+    "Enterococcus spp",
+    "Staphylococcus spp",
+    "Streptococcus spp",
+    "Enterobacter spp (5%-10%)",
+    "Pseudomonas aeruginosa",
+    "Proteus spp",
+    "Bacteroides fragilis",
+    "Clostridium perfringens",
+    "Candida spp.",
+    "Clonorchis sinensis",
+    "Opisthorchis viverrini",
+    "Opisthorchis felineus",
+    "Ascaris lumbricoides",
+    "Escherichia coli",
+    "Bacteroides"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

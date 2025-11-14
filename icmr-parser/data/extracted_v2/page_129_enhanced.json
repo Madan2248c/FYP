@@ -1,0 +1,62 @@
+{
+  "page_number": 129,
+  "text": " \n \n \nAnnexure \nno. \nTitle \nEtiology \nReference \nOccult abscesses \n(hepatic, pelvic, splenic – polymicrobial) \nInfective endocarditis \n(Staphylococcus aureus, Streptococcus \nviridans, HACEK group) \nBrucellosis: Brucella spp. \nTyphoid fever \n(Salmonella Typhi/Paratyphi) \nLeptospirosis - Leptospira interrogans \nRickettsial infections \n{R. conorii, O. tsutsugamushi (Scrub \ntyphus)} \nQ fever: Coxiella burnetii \nWhipple’s disease: Tropheryma whipplei \nViral:  \nEpstein–Barr Virus (EBV) \nCytomegalovirus (CMV) \nHIV (Acute retroviral syndrome and \nAIDS-associated infections) \nHepatitis B and C viruses \nDengue, Chikungunya, Zika viruses \nCOVID-19 (long-fever variants) \nMeasles, mumps, rubella (in certain \npopulations) \nParasitic: \nMalaria:Plasmodium spp. (P. vivax, P. \nfalciparum) \nVisceral leishmaniasis (Kala-azar):    \nLeishmania donovani \nToxoplasmosis:Toxoplasma gondii \nSchistosomiasis: Schistosoma spp. \nAmoebic liver abscess: Entamoeba \nhistolytica \nFungal: \nHistoplasma capsulatum \nCandidiasis (deep-seated): Candida spp. \nCryptococcus neoformans \nOther Zoonotic / Vector-borne Diseases: \nRelapsing fever - Borrelia spp. \nTick-borne diseases – Anaplasma spp., \nEhrlichia spp. \nRat-bite fever –  \n(Streptobacillus moniliformis, Spirillum \nminus) \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure\nno.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Occult abscesses\n(hepatic, pelvic, splenic – polymicrobial)\nInfective endocarditis\n(Staphylococcus aureus, Streptococcus\nviridans, HACEK group)\nBrucellosis: Brucella spp.\nTyphoid fever\n(Salmonella Typhi/Paratyphi)\nLeptospirosis - Leptospira interrogans\nRickettsial infections\n{R. conorii, O. tsutsugamushi (Scrub\ntyphus)}\nQ fever: Coxiella burnetii\nWhipple’s disease: Tropheryma whipplei\nViral:\nEpstein–Barr Virus (EBV)\nCytomegalovirus (CMV)\nHIV (Acute retroviral syndrome and\nAIDS-associated infections)\nHepatitis B and C viruses\nDengue, Chikungunya, Zika viruses\nCOVID-19 (long-fever variants)\nMeasles, mumps, rubella (in certain\npopulations)\nParasitic:\nMalaria:Plasmodium spp. (P. vivax, P.\nfalciparum)\nVisceral leishmaniasis (Kala-azar):\nLeishmania donovani\nToxoplasmosis:Toxoplasma gondii\nSchistosomiasis: Schistosoma spp.\nAmoebic liver abscess: Entamoeba\nhistolytica\nFungal:\nHistoplasma capsulatum\nCandidiasis (deep-seated): Candida spp.\nCryptococcus neoformans\nOther Zoonotic / Vector-borne Diseases:\nRelapsing fever - Borrelia spp.\nTick-borne diseases – Anaplasma spp.,\nEhrlichia spp.\nRat-bite fever –\n(Streptobacillus moniliformis, Spirillum\nminus)",
+          ""
+        ]
+      ],
+      "bbox": [
+        64.86400349934895,
+        64.03201904296876,
+        554.1000162760416,
+        768.047998046875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Staphylococcus aureus",
+    "Streptococcus",
+    "viridans,",
+    "Brucella spp.",
+    "Leptospira interrogans",
+    "R. conorii, O. tsutsugamushi",
+    "Coxiella burnetii",
+    "Tropheryma whipplei",
+    "Plasmodium spp. (",
+    "P. vivax, P.",
+    "falciparum)",
+    "Leishmania donovani",
+    "Toxoplasma gondii",
+    "Schistosoma spp.",
+    "Entamoeba",
+    "histolytica",
+    "Fungal:",
+    "Histoplasma capsulatum",
+    "Candida spp.",
+    "Cryptococcus neoformans",
+    "Other Zoonotic / Vector-borne Diseases:",
+    "Borrelia spp.",
+    "Anaplasma spp.,",
+    "Ehrlichia spp.",
+    "Streptobacillus moniliformis, Spirillum",
+    "minus"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

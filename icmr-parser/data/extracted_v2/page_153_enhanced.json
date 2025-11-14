@@ -1,0 +1,59 @@
+{
+  "page_number": 153,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nB.19.3 \nSuperficial \ninfections - \nOmphalitis \nBacterial: \nStaphylococcus aureus \nStreptococcus pyogenes \nStreptococcus agalactiae \nE.coli \nKlebsiella spp. \nEnterococcus spp. \nEnterobacter spp. \nKaplan RL, Cruz AT, Freedman SB, Smith K, \nFreeman J, Lane RD, Michelson KA, Marble \nRD, Middelberg LK, Bergmann KR, \nMcAneney C, Noorbakhsh KA, Pruitt C, Shah \nN, Badaki-Makun O, Schnadower D, \nThompson AD, Blackstone MM, Abramo TJ, \nSrivastava G, Avva U, Samuels-Kalow M, \nMorientes O, Kannikeswaran N, Chaudhari \nPP, Strutt J, Vance C, Haines E, Khanna K, \nGerard J, Bajaj L. Omphalitis and Concurrent \nSerious Bacterial Infection. Pediatrics. 2022 \nMay 1;149(5):e2021054189. doi: \n10.1542/peds.2021-054189. PMID: \n35441224. \nB.19.4 \nCutaneous \ncandidiasis \nCandida albicans and other \nCandida spp. \n1. Nelson Textbook of Pediatrics. Pg 3219 \n2. Harrson’s Principles of Internal Medicine \nTable 57-5 Pg 380 \nB.19.5 \nViral Infections \nAdenovirus \nCMV \nEnteroviruses \nParechoviruses \nHepatitis B virus \nHSV \nHIV \nParvovirus \nRubella virus \nVZV \n1. Nelson Textbook of Pediatrics. Pg 912. \n2. Santos RP, Tristram D. A practical guide to \nthe diagnosis, treatment, and prevention of \nneonatal infections. Pediatr Clin North Am. \n2015 Apr;62(2):491-508. doi: \n10.1016/j.pcl.2014 \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.19.3",
+          "Superficial\ninfectoi ns -\nOmphalitis",
+          "Bacterial:\nStaphylococcus aureus\nStreptococcus pyogenes\nStreptococcus agalactai e\nE.coli\nKlebsiella spp.\nEnterococcus spp.\nEnterobacter spp.",
+          "Kaplan RL, Cruz AT, Freedman SB, Smith K,\nFreeman J, Lane RD, Michelson KA, Marble\nRD, Middelberg LK, Bergmann KR,\nMcAneney C, Noorbakhsh KA, Pruit tC, Shah\nN, Badaki-Makun O, Schnadower D,\nThompson AD, Blackstone MM, Abramo TJ,\nSrivastava G, Avva U, Samuels-Kalow M,\nMorientes O, Kannikeswaran N, Chaudhari\nPP, Strut tJ, Vance C, Haines E, Khanna K,\nGerard J, Bajaj L. Omphalitis and Concurrent\nSerious Bacterial Infection. Pediatrics. 2022\nMay 1;149(5):e2021054189. doi:\n10.1542/peds.2021-054189. PMID:\n35441224."
+        ],
+        [
+          "B.19.4",
+          "Cutaneous\ncandidiasis",
+          "Candida albicans and other\nCandida spp.",
+          "1. Nelson Textbook of Pediatrics. Pg 3219\n2. Harrson’s Principles of Internal Medicine\nTable 57-5 Pg 380"
+        ],
+        [
+          "B.19.5",
+          "Viral Infectoi ns",
+          "Adenovirus\nCMV\nEnteroviruses\nParechoviruses\nHepatitsi B virus\nHSV\nHIV\nParvovirus\nRubella virus\nVZV",
+          "1. Nelson Textbook of Pediatrics. Pg 912.\n2. Santos RP, Tristram D. A practical guide to\nthe diagnosis, treatment, and prevention of\nneonatal infections. Pediatr Clin North Am.\n2015 Apr;62(2):491-508. doi:\n10.1016/j.pcl.2014"
+        ]
+      ],
+      "bbox": [
+        67.41600036621094,
+        64.03201904296876,
+        575.4479614257813,
+        503.87798461914065
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Streptococcus agalactiae",
+    "E.coli",
+    "Klebsiella spp.",
+    "Enterococcus spp.",
+    "Enterobacter spp.",
+    "Cutaneous",
+    "candidiasis",
+    "Candida albicans",
+    "Candida spp."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

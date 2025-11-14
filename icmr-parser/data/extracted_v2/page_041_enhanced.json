@@ -1,0 +1,74 @@
+{
+  "page_number": 41,
+  "text": " \n \n36 \n \ncomplications like liver \nabscess identified) \nFor common etiological agents of infections of Liver, Gall Bladder and Biliary tract infections, see \nAnnexure B.4.3.1 & B.4.3.2 \n \n4.5 Appendicitis \nType of \nInfection \nFirst Line (with \nDosage and Duration) \nAlternative (with \ndosage and Duration) \nComments \nAppendicitis \nwithout any \nabscess \nAmoxicillin-clavulanic \nAcid 1.2g IV q8h for 5 \ndays \n \nInj Ceftriaxone 2g IV \nOD  \n+ \nInj Metronidazole 500 \nmg IV q8h \nSurgery is the preferred choice of \nmanagement. In case of conservative \nmanagement, antibiotics to be given \nfor 5 days.  \nComplicated \n(Appendicitis \nwith high \nseverity and or \nAbscess)  \nInj Piperacillin-\ntazobactam 4.5g IVq6h \nOr \nInj Cefoperazone-\nsulbactam 3g IV q12h \nfor 7-10 days \nImipenem-cilastatin \n500mg IV q6h  \nOr \nMeropenem 1g IV q8h \nfor 5 days \nSurgery is the primary mode of \ntreatment.  \nFor common etiological agents of Appendicitis, see Annexure B.4.4 \nAdditional Comments:  \n• \nIn early stages of infection, the growth is mainly of aerobic organisms, but as the disease \nprogresses, it transitions to a mix of aerobic and anaerobic bacteria. \n \n4.6 Diverticulitis \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with dosage \nand Duration) \nComments \nDiverticulitis \nwithout features of \nsepsis \nCeftriaxone 2g IV \nq24h \n+  \nInj Metronidazole \n500 mg IV q8h  \nOr \nTab Cefixime 400 \nmg BD  \n+ \nMetronidazole 400 \nmg TDS \nPiperacillin-tazobactam 4.5 \ng IV q6h \nOr \nCefoperazone- \nsulbactam 3g IV q12h \nOr \nErtapenem 1g IV q24h \nCeftriaxone to be changed to \noral cefixime when patient is \nafebrile. \nBL-BLI agents and carbapenems \nhave very good anaerobic cover, \nso no need to add \nmetronidazole. \nDuration of therapy: 5-7 days \nDiverticulitis with \nfeatures of sepsis \nMeropenem 1g IV \nq8h \nOr  \nImipenem-cilastatin \n500mg IV q6h \n \nDuration of therapy: 5-7 days \nFor common etiological agents of diverticulitis, see Annexure B.4.5 \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie (with Comments\nInfection Dosage and Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Appendicitis\nwithout any\nabscess",
+          "Amoxicillin-clavulanic\nAcid 1.2g IV q8h for 5\ndays",
+          "Inj Ceftriaxone 2g IV\nOD\n+\nInj Metronidazole 500\nmg IV q8h",
+          "Surgery is the preferred choice of\nmanagement. In case of conservative\nmanagement, antibiotcis to be given\nfor 5 days."
+        ],
+        [
+          "Complicated\n(Appendicitis\nwith high\nseverity and or\nAbscess)",
+          "Inj Piperacillin-\ntazobactam 4.5g IVq6h\nOr\nInj Cefoperazone-\nsulbactam 3g IV q12h\nfor 7-10 days",
+          "Imipenem-cilastatin\n500mg IV q6h\nOr\nMeropenem 1g IV q8h\nfor 5 days",
+          "Surgery is the primary mode of\ntreatment."
+        ]
+      ],
+      "bbox": [
+        72.19200325012207,
+        192.8119873046875,
+        561.4600105285645,
+        372.69797973632814
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with dosage Comments\nDosage and and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Diverticulitis\nwithout features of\nsepsis",
+          "Ceftriaxone 2g IV\nq24h\n+\nInj Metronidazole\n500 mg IV q8h\nOr\nTab Cefxiime 400\nmg BD\n+\nMetronidazole 400\nmg TDS",
+          "Piperacillin-tazobactam 4.5\ng IV q6h\nOr\nCefoperazone-\nsulbactam 3g IV q12h\nOr\nErtapenem 1g IV q24h",
+          "Ceftriaxone to be changed to\noral cefixime when patient is\nafebrile.\nBL-BLI agents and carbapenems\nhave very good anaerobic cover,\nso no need to add\nmetronidazole.\nDuration of therapy: 5-7 days"
+        ],
+        [
+          "Diverticulitis with\nfeatures of sepsis",
+          "Meropenem 1g IV\nq8h\nOr\nImipenem-cilastatin\n500mg IV q6h",
+          "",
+          "Duration of therapy: 5-7 days"
+        ]
+      ],
+      "bbox": [
+        72.19200325012207,
+        495.26198120117186,
+        561.4600105285645,
+        752.0879516601562
+      ],
+      "table_number": 2,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Appendicitis",
+    "Diverticulitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

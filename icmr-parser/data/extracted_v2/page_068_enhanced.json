@@ -1,0 +1,43 @@
+{
+  "page_number": 68,
+  "text": " \n \n63 \n \nSacroiliitis, and Enthesitis. Arthritis Rheumatol, 71: 846-\n863. https://doi.org/10.1002/art.40884 \n \n10.5 Skin and soft tissue injuries \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative \n(with dosage \nand Duration) \nComments \nClean incised wounds/stroke \ncuts/sharp cuts involving only \nskin \nClean the \nwound and \ndepending on \nthe depth of \nwound, \ndecision to \nsuture or not \nto be made. \nNo role of \nantibiotics \n \nBooster dose of tetanus toxoid to \nbe administered, if the last dose \nwas taken more than 10 years \nback. \nContused lacerated \nwounds/Contaminated \nwounds (farmyard wounds \nroadside wounds) \n*Contamination from \nanaerobic organisms is a \npossibility \nAmoxicillin-\nclavulanate \n625mg q8h \nfor 3 to 7 days \nbased on \nclinical \nresponse \nOral \nCefuroxime \n500mg BD /oral \nClindamycin \n300mg q8h  \nIn case of \nfeatures of \nsepsis: \nInj Amoxicillin-\nclavulanic acid \n1.2g q8h \n for 3 to 7 days \nbased on \nclinical \nresponse \nThese wounds need to be \nwashed thoroughly with sterile \nnormal saline and need surgical \ndebridement depending on the \ndegree of \ncontusion/contamination. \n In case of a contaminated/dirty \nwound, give a booster dose of \ntetanus toxoid, if last dose was \ntaken more than 5 years back. \nNo need for additional \nmetronidazole. \nFor common etiological agents associated with skin and soft tissue injuries, see Annexure B.10.5 \nReferences: \n1. Maillard JY, Kampf G, Cooper R. Antimicrobial stewardship of antiseptics that are pertinent to \nwounds: the need for a united approach. JAC Antimicrob Resist. 2021 Mar 25;3(1):dlab027. \ndoi: 10.1093/jacamr/dlab027. PMID: 34223101; PMCID: PMC8209993 \n2. Surgical site infections: prevention and treatment. London: National Institute for Health and \nCare Excellence (NICE); 2020 Aug 19. (NICE Guideline, No. 125.) Available from: \nhttps://www.ncbi.nlm.nih.gov/books/NBK542473/ \n3. Pinchera B, Buonomo AR, Schiano Moriello N, Scotto R, Villari R, Gentile I. Update on the \nManagement of Surgical Site Infections. Antibiotics (Basel). 2022 Nov 11;11(11):1608. doi: \n10.3390/antibiotics11111608. PMID: 36421250; PMCID: PMC9686970 \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie Comments\nDosage and (with dosage\nDuration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Clean incised wounds/stroke\ncuts/sharp cuts involving only\nskin",
+          "Clean the\nwound and\ndepending on\nthe depth of\nwound,\ndecision to\nsuture or not\nto be made.\nNo role of\nantibiotics",
+          "",
+          "Booster dose of tetanus toxoid to\nbe administered, if the last dose\nwas taken more than 10 years\nback."
+        ],
+        [
+          "Contused lacerated\nwounds/Contaminated\nwounds (farmyard wounds\nroadside wounds)\n*Contamination from\nanaerobic organisms is a\npossibility",
+          "Amoxicillin-\nclavulanate\n625mg q8h\nfor 3 to 7 days\nbased on\nclinical\nresponse",
+          "Oral\nCefuroxime\n500mg BD /oral\nClindamycin\n300mg q8h\nIn case of\nfeatures of\nsepsis:\nInj Amoxicillin-\nclavulanic acid\n1.2g q8h\nfor 3 to 7 days\nbased on\nclinical\nresponse",
+          "These wounds need to be\nwashed thoroughly with sterile\nnormal saline and need surgical\ndebridement depending on the\ndegree of\ncontusion/contamination.\nIn case of a contaminated/dirty\nwound, give a booster dose of\ntetanus toxoid, if last dose was\ntaken more than 5 years back.\nNo need for additoi nal\nmetronidazole."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        152.73197021484376,
+        539.3200454711914,
+        530.3979736328125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Skin and soft tissue injuries"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

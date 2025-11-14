@@ -1,0 +1,52 @@
+{
+  "page_number": 39,
+  "text": " \n \n34 \n \n4.2 Acute Gastroenteritis  \nType of \nInfection \nFirst Line (with \nDosage and \nDuration) \nAlternative \n(with dosage \nand Duration) \nComments \nAcute onset \ndiarrhoea \nwith no \ndanger signs* \nNo antibiotic \nrequired \n---- \nMostly caused by viruses or self-limiting \nbacterial pathogens. \nOral hydration with ORS or other isotonic \nliquids is recommended. \nAcute onset \ndiarrhoea \nwith danger \nsigns* \nAzithromycin \n500mg OD for 3 \ndays   \nCefixime 400mg \nBD for 5 days \nOr  \nInj Ceftriaxone \n2g IV OD (if \nadmitted) for 5 \ndays \nRehydration either oral or IV fluids is essential. \nAvoid fluoroquinolones as high resistance \nreported in India (NCDC and ICMR data). \n \nPersistent \ndiarrhoea or \nChronic \nDiarrhoea \nAvoid empirical \nantibiotics \n \nLook for pathogens on stool routine \nmicroscopy and modified AFB stain (for \ncoccidian parasites) and stool culture.  \nAdminister antimicrobials as per pathogen \nisolated. \nFor common etiological agents of Acute Gastroenteritis, see Annexure B.4.2  \nAdditional information: \n• \nDanger signs in Acute Gastroenteritis are: \ni. \nSevere dehydration requiring IV fluids \nii. \nDysentery (blood in stool): perform stool routine microscopy to rule out Entamoeba \nhistiolytica and add metronidazole 400mg TDS (preferably oral) \niii. \nElderly with poor oral intake  \niv. \nImmunocompromised condition \n \n \n4.3 Hepatitis Syndrome \nRefer to the National Guidelines on Diagnosis and Management of Viral Hepatitis2  \n \n \n \n \n \n2 https://nvhcp.mohfw.gov.in/common_libs/diagnosis-management-viral-hepatitis.pdf \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie Comments\nInfection Dosage and (with dosage\nDuration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute onset\ndiarrhoea\nwith no\ndanger signs*",
+          "No antibiotic\nrequired",
+          "----",
+          "Mostly caused by viruses or self-limitni g\nbacterial pathogens.\nOral hydration with ORS or other isotonic\nliquids is recommended."
+        ],
+        [
+          "Acute onset\ndiarrhoea\nwith danger\nsigns*",
+          "Azithromycin\n500mg OD for 3\ndays",
+          "Cefixime 400mg\nBD for 5 days\nOr\nInj Ceftriaxone\n2g IV OD (if\nadmitetd) for 5\ndays",
+          "Rehydratoi n either oral or IV fluids is essential.\nAvoid fluoroquinolones as high resistance\nr eported in India (NCDC and ICMR data)."
+        ],
+        [
+          "Persistent\ndiarrhoea or\nChronic\nDiarrhoea",
+          "Avoid empirical\nantibiotics",
+          "",
+          "Look for pathogens on stool routine\nmicroscopy and modified AFB stain (for\ncoccidian parasites) and stool culture.\nAdminister antmi icrobials as per pathogen\nisolated."
+        ]
+      ],
+      "bbox": [
+        72.21600341796875,
+        97.2919677734375,
+        547.1080322265625,
+        361.41798095703126
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Acute Gastroenteritis",
+    "Entamoeba",
+    "histiolytica",
+    "Hepatitis Syndrome"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

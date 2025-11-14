@@ -1,0 +1,94 @@
+{
+  "page_number": 134,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \n  \nGenital herpes (especially \nprimary HSV-2 infection) \nB.6.5 \nEpididymo- \nOrchitis \nBacterial: \nN. gonorrhoeae \nC. trachomatis \nM. genitalium \nEnteric organisms (E. coli) \nNational Technical Guidelines on STI and RTI \n2024 Pg 73 \n  \nB.6.6 \nPelvic \nInflammatory \nDisease \nBacterial: \nNeisseria gonorrhoeae \nChlamydia trachomatis \nMobiluncus spp. \nMycoplasma hominis  \nGardnerella spp. \nAnaerobic bacteria (Bacteroides \nsp.) \nGram-positive cocci \nNational Technical Guidelines on STI and \nRTI 2024 Pg 47 \n \n  \nB.6.7 \nProstatitis \nBacterial: \nE.coli \nPseudomonas aeruginosa \nEnterococcus spp. \nProteus spp. \nKlebsiella spp. \nEnterobacter spp. \nNeisseria Gonorrhea \nChlamydia trachomatis \n \nFungal: \nCandida spp. \nKhan, F. U., Ihsan, A. U., Khan, H. U., Jana, R., \nWazir, J., Khongorzul, P., … Zhou, X. \n(2017). Comprehensive overview of \nprostatitis. Biomedicine & Pharmacotherapy, \n94, 1064–1076. \n  \nB.6.8 \nPuerperal \nsepsis \nBacterial: \nAerobes: \nGram-positive cocci: \nGroup A, B, and D streptococci \nEnterococcus spp. \nStaphylococcus aureus \nStaphylococcus epidermidis \nGram-negative bacteria: \nEscherichia coli \nKlebsiella spp. \nProteus spp. \nGram-variable: \nGardnerella vaginalis \nOthers: \nMycoplasma spp. \nChlamydia spp. \nNeisseria gonorrhoeae \n \nWilliams OBSTETRICS 2 4 T H E D I T I O N. \nPg 683 \n \n  \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Genital herpes (especially\nprimary HSV-2 infectoi n)",
+          ""
+        ],
+        [
+          "B.6.5",
+          "Epididymo-\nOrchitis",
+          "Bacterial:\nN. gonorrhoeae\nC. trachomatsi\nM. genitalium\nEnteric organisms (E. coli)",
+          "National Technical Guidelines on STI and RTI\n2024 Pg 73"
+        ],
+        [
+          "B.6.6",
+          "Pelvic\nInflammatory\nDisease",
+          "Bacterial:\nNeisseria gonorrhoeae\nChlamydia trachomatsi\nMobiluncus spp.\nMycoplasma hominis\nGardnerella spp.\nAnaerobic bacteria (Bacteroides\nsp.)\nGram-positvie cocci",
+          "National Technical Guidelines on STI and\nRTI 2024 Pg 47"
+        ],
+        [
+          "B.6.7",
+          "Prostatitsi",
+          "Bacterial:\nE.coli\nPseudomonas aeruginosa\nEnterococcus spp.\nProteus spp.\nKlebsiella spp.\nEnterobacter spp.\nNeisseria Gonorrhea\nChlamydia trachomatsi\nFungal:\nCandida spp.",
+          "Khan, F. U., Ihsan, A. U., Khan, H. U., Jana, R.,\nWazir, J., Khongorzul, P., … Zhou, X.\n(2017). Comprehensive overview of\nprostatitsi. Biomedicine & Pharmacotherapy,\n94, 1064–1076."
+        ],
+        [
+          "B.6.8",
+          "Puerperal\nsepsis",
+          "Bacterial:\nAerobes:\nGram-positvie cocci:\nGroup A, B, and D streptococci\nEnterococcus spp.\nStaphylococcus aureus\nStaphylococcus epidermidis\nGram-negative bacteria:\nEscherichia coli\nKlebsiella spp.\nProteus spp.\nGram-variable:\nGardnerella vaginalis\nOthers:\nMycoplasma spp.\nChlamydia spp.\nNeisseria gonorrhoeae",
+          "Williams OBSTETRICS 2 4 T H E D I T I O N.\nPg 683"
+        ]
+      ],
+      "bbox": [
+        64.9097181047712,
+        64.03201904296876,
+        568.3542916434152,
+        780.28798828125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "N. gonorrhoeae",
+    "C. trachomatis",
+    "M. genitalium",
+    "(E. coli)",
+    "Bacterial:",
+    "Neisseria gonorrhoeae",
+    "Chlamydia trachomatis",
+    "Mobiluncus spp.",
+    "Mycoplasma hominis",
+    "Gardnerella spp.",
+    "Bacteroides",
+    "sp.)",
+    "E.coli",
+    "Pseudomonas aeruginosa",
+    "Enterococcus spp.",
+    "Proteus spp.",
+    "Klebsiella spp.",
+    "Enterobacter spp.",
+    "Neisseria Gonorrhea",
+    "Chlamydia trachomatis",
+    "Candida spp.",
+    "Comprehensive overview of",
+    "prostatitis. Biomedicine & Pharmacotherapy,",
+    "94, 1064–1076.",
+    "Enterococcus spp.",
+    "Staphylococcus aureus",
+    "Staphylococcus epidermidis",
+    "Escherichia coli",
+    "Klebsiella spp.",
+    "Proteus spp.",
+    "Gardnerella vaginalis",
+    "Mycoplasma spp.",
+    "Chlamydia spp.",
+    "Neisseria gonorrhoeae"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

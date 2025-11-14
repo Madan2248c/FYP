@@ -1,0 +1,76 @@
+{
+  "page_number": 149,
+  "text": " \n \n \nCandida spp. (non albicans) \nAspergillus spp. \nViral: \nHerpes Simplex Virus \nLMCV \n \nAdenovirus \nInfluenza \n \nFungal: \nCryptococcus neoformans \nBacterial: \nM.tuberculosis \nC.difficile colitis \n \nWithout prophylaxis, \nfollowing agents in \naddition to above: \nViral: \nHerpesviruses(HSV, VZV, \nCMV,EBV) \nHepatitis B Virus \nBacterial: \nListeria spp. \nNocardia spp. \nParasitic: \nToxoplasma spp. \nLeishmania spp. \nStrongyloides spp. \nT.cruzi \nViral: \nCMV Colitis/Retinitis \nHBV/HCV \nHSV Encephalitis \nJC Polyoma Virus \n \nB.17.3 \nTitle \nEtiology \nReference \n \nInfections in Asplenia \n \nBacterial: \nStreptococcus pneumoniae \nNeisseria meningitidis \nHaemophilus influenzae \ntype b \nPseudomonas aeruginosa \nCapnocytophaga \ncanimorsus  \nBartonella spp.  \nParasitic: \nBabesia spp. \nLee GM. Preventing infections in \nchildren and adults with asplenia. \nHematology Am Soc Hematol \nEduc Program. 2020 Dec \n4;2020(1):328-335. doi: \n10.1182/hematology.2020000117 \nB.17.4 \nInvasive Fungal Infections in \nImmuno-Compromised \nAspergillus spp. \nCandida spp.  \nMucormycosis: \nApophysomyces spp. \nBasidiobolus spp. \nConidiobolus spp. \nCunninghamella spp. \nMucor spp. \nLichtheimia (Absidia) spp. \nRhizomucor spp. \nhttps://www.who.int/publications\n/i/item/9789240060241 \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Candida spp. (non albicans)\nAspergillus spp.\nViral:\nHerpes Simplex Virus\nLMCV",
+        "Adenovirus\nInfluenza\nFungal:\nCryptococcus neoformans\nBacterial:\nM.tuberculosis\nC.difcfiile colitis\nWithout prophylaxis,\nfollowing agents in\naddition to above:\nViral:\nHerpesviruses(HSV, VZV,\nCMV,EBV)\nHepatitsi B Virus\nBacterial:\nListeria spp.\nNocardia spp.\nParasitci:\nToxoplasma spp.\nLeishmania spp.\nStrongyloides spp.\nT.cruzi",
+        "Viral:\nCMV Colitis/Retinitsi\nHBV/HCV\nHSV Encephalitis\nJC Polyoma Virus"
+      ],
+      "rows": [
+        [
+          "B.17.3",
+          "Title",
+          "Etiology",
+          "Reference"
+        ],
+        [
+          "",
+          "Infectoi ns in Asplenia",
+          "Bacterial:\nStreptococcus pneumoniae\nNeisseria meningitdi is\nHaemophilus influenzae\ntype b\nPseudomonas aeruginosa\nCapnocytophaga\ncanimorsus\nBartonella spp.\nParasitci:\nBabesia spp.",
+          "Lee GM. Preventing infectoi ns in\nchildren and adults with asplenia.\nHematology Am Soc Hematol\nEduc Program. 2020 Dec\n4;2020(1):328-335. doi:\n10.1182/hematology.2020000117"
+        ],
+        [
+          "B.17.4",
+          "Invasive Fungal Infectoi ns in\nImmuno-Compromised",
+          "Aspergillus spp.\nCandida spp.\nMucormycosis:\nApophysomyces spp.\nBasidiobolus spp.\nConidiobolus spp.\nCunninghamella spp.\nMucor spp.\nLichtheimia (Absidia) spp.\nRhizomucor spp.",
+          "htpts://www.who.int/publications\n/i/item/9789240060241"
+        ]
+      ],
+      "bbox": [
+        67.41600036621094,
+        64.03201904296876,
+        575.4479614257813,
+        772.8479858398438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Candida spp.",
+    "Aspergillus spp.",
+    "Cryptococcus neoformans",
+    "M.tuberculosis",
+    "C.difficile",
+    "Listeria spp.",
+    "Nocardia spp.",
+    "Toxoplasma spp.",
+    "Leishmania spp.",
+    "Strongyloides spp.",
+    "T.cruzi",
+    "Streptococcus pneumoniae",
+    "Neisseria meningitidis",
+    "Haemophilus influenzae",
+    "Pseudomonas aeruginosa",
+    "Capnocytophaga",
+    "canimorsus",
+    "Bartonella spp.",
+    "Babesia spp",
+    "Aspergillus spp.",
+    "Candida spp.",
+    "Apophysomyces spp.",
+    "Basidiobolus spp.",
+    "Conidiobolus spp.",
+    "Cunninghamella spp.",
+    "Mucor spp.",
+    "Lichtheimia (Absidia) spp.",
+    "Rhizomucor spp."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

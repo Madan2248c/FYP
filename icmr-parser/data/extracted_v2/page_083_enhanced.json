@@ -1,0 +1,47 @@
+{
+  "page_number": 83,
+  "text": " \n \n78 \n \n11.3 Periocular infections (Eyelid infections, Orbital cellulitis) \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \nDosage and Duration) \nComments \nPeriorbital/preseptal \ncellulitis \nOral Amoxicillin \nwith clavulanic \nacid 90/6.4 mg \n/kg/day BID \nIf age <2 years: 10 \ndays  \nIf age >2 years: 5-7 \ndays   \nOr \nOral cotrimoxazole \n5 mg/kg per day \nfor 5 to 7 days \n \nSystemic antibiotic \ntherapy is \nadministered for 5 \nto 7 days but may \nbe extended if \ncellulitis persists.  \nClindamycin \n(10mg/kg/dose {max \n600 mg/dose}) with \nciprofloxacin (Oral) 500 \nmg BD for 5 to 7 days \nor until resolution of \ninflammation \n  \n \n \nUncomplicated orbital \ncellulitis \nOral antibiotics to \nbe considered:  \nFirst-line:  \nAmoxicillin-\nclavulanate (IV)  \nOr \nIV Ceftriaxone.  \nIf > 7 years add \nclindamycin / \nmetronidazole \n(500mg q8h for \nadults and 30 \nmg/kg per day in \ndivided doses for \nchildren) along \nwith Ceftriaxone. \nMRSA or an at-risk \npopulation:  \nClindamycin \nshould be \nconsidered as \ninitial treatment.  \nChildren over \n40kg: Give adult \ndosage.  \nAnalgesics such as \nNSAIDs and \nClindamycin 300mg \nq8h \nOr \nTrimethoprim-\nSulfamethoxazole 1-2 \nDS tab BD \n \n \nAlternative: \nCiprofloxacin  \nIf no intracranial \ninvolvement switch to \noral Amoxicillin with \nclavulanic acid or  \nclindamycin + \nciprofloxacin \n \nPeriorbital cellulitis is an \ninfection of the eyelid or \nskin around the eye. \nCommon \nmicroorganisms: \nStreptococcus \npneumoniae, Hemophilus \ninfluenzae, \nStaphylococcus aureus, \nGram Negative bacilli \npost trauma.  \nAntibiotic therapy ranges \nfrom a total of at least 2 \nto 4 weeks. Surgery may \nbe needed to drain \nthe abscess or relieve \npressure in the space \naround the eye. \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and Dosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Periorbital/preseptal\ncellulitis",
+          "Oral Amoxicillin\nwith clavulanic\nacid 90/6.4 mg\n/kg/day BID\nIf age <2 years: 10\ndays\nIf age >2 years: 5-7\ndays\nOr\nOral cotrimoxazole\n5 mg/kg per day\nfor 5 to 7 days\nSystemic antibiotic\ntherapy is\nadministered for 5\nto 7 days but may\nbe extended if\ncellulitis persists.",
+          "Clindamycin\n(10mg/kg/dose {max\n600 mg/dose}) with\nciprofloxacin (Oral) 500\nmg BD for 5 to 7 days\nor until resolution of\ninflammation",
+          ""
+        ],
+        [
+          "Uncomplicated orbital\ncellulitis",
+          "Oral antibiotics to\nbe considered:\nFirst-line:\nAmoxicillin-\nclavulanate (IV)\nOr\nIV Ceftriaxone.\nIf > 7 years add\nclindamycin /\nmetronidazole\n(500mg q8h for\nadults and 30\nmg/kg per day in\ndivided doses for\nchildren) along\nwith Ceftriaxone.\nMRSA or an at-risk\npopulation:\nClindamycin\nshould be\nconsidered as\ninitail treatment.\nChildren over\n40kg: Give adult\ndosage.\nAnalgesics such as\nNSAIDs and",
+          "Clindamycin 300mg\nq8h\nOr\nTrimethoprim-\nSulfamethoxazole 1-2\nDS tab BD\nAlternative:\nCiprofloxacin\nIf no intracranial\ninvolvement switch to\noral Amoxicillin with\nclavulanic acid or\nclindamycin +\nciprofloxacin",
+          "Periorbital cellulitis is an\ninfectoi n of the eyelid or\nskin around the eye.\nCommon\nmicroorganisms:\nStreptococcus\npneumoniae, Hemophilus\ninfluenzae,\nStaphylococcus aureus,\nGram Negative bacilli\npost trauma.\nAntibiotic therapy ranges\nfrom a total of at least 2\nto 4 weeks. Surgery may\nbe needed to drain\nthe abscess or relieve\npressure in the space\naround the eye."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        97.2919677734375,
+        547.1200332641602,
+        757.8479858398438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Periocular infections (Eyelid infections, Orbital cellulitis)",
+    "Streptococcus",
+    "pneumoniae, Hemophilus",
+    "influenzae,",
+    "Staphylococcus aureus,"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

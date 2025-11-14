@@ -1,0 +1,50 @@
+{
+  "page_number": 100,
+  "text": " \n \n \n16. Dental Infections \n16.1 Odontogenic tooth infections \nOdontogenic tooth Infection \nInfection of the alveolus, jaws, or face originating from a tooth or from its supporting structures \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with dosage \nand Duration) \nComments \nGingivitis \nNot required  \nNot required  \nSince it is a localized and \nsuperficial infection, it \nrequires oral hygiene \nmaintenance and scaling \nof teeth (only in few \ncases).  \nPeriodontitis \nMetronidazole \n400mg q8h \nIf the local treatment and \n5 days course of \nMetronidazole 400mg q8h \nis not effective surgical \ntreatment is required.  \nIn very few cases: \nAmoxicillin 1g q8h may be \nadvised.  \nLocal treatment (scaling \nof teeth, pocket \ntreatment) and removal \nof causative agent.  \nIn case patient is \ndiabetic, adequate \nglycemic control will \nhelp in improving.  \nComplicated (severe \ninfections, \nimmunocompromised/ \nneutropenic etc) eg \nLudwig’s Angina, \nOdontogenic Sinusitis, \nCavernous Sinus \nThrombosis, Brain Abscess \netc. \nMetronidazole \n400mg q8h \n+ \nAmoxicillin 1g \nq8h may be \nadvised.  \nAmoxicillin- clavulanic acid \n1g q12h \n \n \n \nRemoval of cause of the \ncomplication will help. \n(improving immune \nstatus and neutrophil \ncounts)  \nFor common etiological agents associated with Odontogenic tooth infections, see Annexure B.16.1 \nAdditional information:  \n• \nApart from gingiva, the infections involving pulp may reach via tooth root to the jaw bone and \ncan cause peri-apical infections. However, all pulp infections should be treated by doing root \ncanal treatment and debridement. In rare cases when peri-apical infection spreads to other \nsoft tissue planes and cause systemic symptoms like fever, malaise and extensive swelling then \nthey can be treated with systemic antibiotics.  \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with dosage Comments\nDosage and and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Gingivitsi",
+          "Not required",
+          "Not required",
+          "Since it is a localized and\nsuperficial infection, it\nrequires oral hygiene\nmaintenance and scaling\nof teeth (only in few\ncases)."
+        ],
+        [
+          "Periodontitis",
+          "Metronidazole\n400mg q8h",
+          "If the local treatment and\n5 days course of\nMetronidazole 400mg q8h\nis not efefctive surgical\ntreatment is required.\nIn very few cases:\nAmoxicillin 1g q8h may be\nadvised.",
+          "Local treatment (scaling\nof teeth, pocket\ntreatment) and removal\nof causative agent.\nIn case patient is\ndiabetic, adequate\nglycemic control will\nhelp in improving."
+        ],
+        [
+          "Complicated (severe\ninfections,\nimmunocompromised/\nneutropenic etc) eg\nLudwig’s Angina,\nOdontogenic Sinusitis,\nCavernous Sinus\nThrombosis, Brain Abscess\netc.",
+          "Metronidazole\n400mg q8h\n+\nAmoxicillin 1g\nq8h may be\nadvised.",
+          "Amoxicillin- clavulanic acid\n1g q12h",
+          "Removal of cause of the\ncomplication will help.\n(improving immune\nstatus and neutrophil\ncounts)"
+        ]
+      ],
+      "bbox": [
+        72.21600341796875,
+        177.3320068359375,
+        547.1080322265625,
+        588.6279541015625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Odontogenic tooth infections",
+    "Odontogenic tooth Infection"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "page_number": 80,
+  "text": " \n \n75 \n \nretina, allows definitive \ntreatment, reduces the \nload of infection, and \nreduces the severity of \nthe disease, and \naccelerates visual \nrehabilitation. \nCorticosteroids topical \nmaybe added based on \nresponse to treatment.  \nHomatropine 2%/ \natropine 1% are \nessential part of \ntreatment to relieve \nciliary spasms and \npreventing synechiae \nformation. \nChronic post-cataract \nsurgery \nendophthalmitis (after \n6-week of surgery) \nIntravitreal ceftazidime \n(2.25 mg/0.1 ml) \nAnd  \nIntravitreal vancomycin \n(1 mg/0.1 ml)  \n+ \nTopical Vancomycin (50 \nmg/ml) and Amikacin \n(20 mg/ml) every 4 hrly \n/Ceftazidime or \nCefazolin \nDuration: few weeks \ndepending on resolution \nof signs and symptoms \nIntravitreal Piperacillin- \ntazobactam (250 μg/0.1 \nml) repeated in 48 hours \n+  \nIntracameral \nMoxifloxacin 500 \nmcg/0.1 ml- in select \ncases  \n \nThe decision for \nsystemic treatment \nmay be taken in \nconsultation with the \nophthalmologist. \nVitreous humor \nsample to be sent for \nmicrobiological testing: \nGram stain/ cultures \nwith prolonged \nincubation for slow \ngrowing organisms.  \nPCR to be done if \ncultures are negative. \nEndogenous/ \nHematogenous \n(bacteraemia any \nsource)  \nIntravitreal antibiotics: \n(Inj Vancomycin + Inj \nCeftazidime) along with \nSystemic antibiotics  \n \nSystemic antibiotics: Inj \nCeftazidime 2 g IV q8h  \n+  \nInj Vancomycin 1 g IV \nq12h  \n \nDuration: Systemic \nantibiotics given for 7 to \n10 days or more \ndepending on culture \nreports and based on \nresolution of clinical \nsigns. \n \nStreptococcus \npneumoniae, \nStaphylococcus aureus, \nGroup B \nStreptococcus, \nKlebsiella pneumoniae, \nNeisseria meningitidis  \nEndocarditis is the \nsource in 40% of cases.  \nSystemic antibiotics \nare mandatory in \ntreatment of \nendogenous/hematog\nenous \nendophthalmitis. \nAppropriate cultures \n(Blood culture/urine \nculture etc) to be sent \nfor microbiological \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Col1",
+        "Col2",
+        "retina, allows definitvie\ntreatment, reduces the\nload of infectoi n, and\nreduces the severity of\nthe disease, and\naccelerates visual\nrehabilitation.\nCortciosteroids topical\nmaybe added based on\nresponse to treatment.\nHomatropine 2%/\natropine 1% are\nessential part of\ntreatment to relieve\nciliary spasms and\npreventing synechiae\nformation."
+      ],
+      "rows": [
+        [
+          "Chronic post-cataract\nsurgery\nendophthalmitsi (afetr\n6-week of surgery)",
+          "Intravitreal cefatzidime\n(2.25 mg/0.1 ml)\nAnd\nIntravitreal vancomycin\n(1 mg/0.1 ml)\n+\nTopical Vancomycin (50\nmg/ml) and Amikacin\n(20 mg/ml) every 4 hrly\n/Cefatzidime or\nCefazolin\nDuration: few weeks\ndepending on resolutoi n\nof signs and symptoms",
+          "Intravitreal Piperacillin-\ntazobactam (250 μg/0.1\nml) repeated in 48 hours\n+\nIntracameral\nMoxifloxacin 500\nmcg/0.1 ml- in select\ncases",
+          "The decision for\nsystemic treatment\nmay be taken in\nconsultation with the\nophthalmologist.\nVitreous humor\nsample to be sent for\nmicrobiological testing:\nGram stain/ cultures\nwith prolonged\nincubation for slow\ngrowing organisms.\nPCR to be done if\ncultures are negative."
+        ],
+        [
+          "Endogenous/\nHematogenous\n(bacteraemia any\nsource)",
+          "Intravitreal antibiotcis:\n(Inj Vancomycin + Inj\nCefatzidime) along with\nSystemic antibiotics\nSystemic antibiotics: Inj\nCefatzidime 2 g IV q8h\n+\nInj Vancomycin 1 g IV\nq12h\nDuration: Systemic\nantibiotics given for 7 to\n10 days or more\ndepending on culture\nreports and based on\nresolutoi n of clinical\nsigns.",
+          "",
+          "Streptococcus\npneumoniae,\nStaphylococcus aureus,\nGroup B\nStreptococcus,\nKlebsiella pneumoniae,\nNeisseria meningitdi is\nEndocarditsi is the\nsource in 40% of cases.\nSystemic antibiotics\nare mandatory in\ntreatment of\nendogenous/hematog\nenous\nendophthalmitsi.\nAppropriate cultures\n(Blood culture/urine\nculture etc) to be sent\nfor microbiological"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        72.1919921875,
+        554.0800170898438,
+        745.3680053710938
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Streptococcus",
+    "pneumoniae,",
+    "Staphylococcus aureus",
+    "Klebsiella pneumoniae,",
+    "Neisseria meningitidis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

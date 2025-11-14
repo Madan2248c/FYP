@@ -1,0 +1,93 @@
+{
+  "page_number": 31,
+  "text": " \n \n26 \n \nDrug \nAdult dose \nPaediatric dose \nColistin  \n9 million unit loading \nand then 3 million 8 \nhrly \n150,000 units/ kg loading and then 50,000 \nunits/ kg 8 hrly \nPolymyxin B \n15,00,000 units loading \nand then 7,50,000 12th \nhrly \nLoading dose of 25,000 \nunits/kg followed by a \ntotal daily dose of \n25,000 units/kg divided \ninto two doses of \n12,500 units/kg every \n12 hours.  \n15-25,000 units/ kg loading and then 5000-7500 \nunits/ kg 8 hrly \nFosfomycin \n4 g 6 hrly \n75-100 mg/kg/dose 6 hrly \nCotrimoxazole \n3-6 mg/kg of TMP TDS \nVancomycin \n15 mg/kg (max 2 g) \neight hrly \n15 mg/kg 6 hrly \nCloxacillin \n2 g 4 hrly \n50 mg/kg 6 hrly \nDoxycycline \n100 mg 12 hrly \n1.5-2 mg/kg 12 hrly \nChloramphenicol 1-2 g 6 hrly \n25 mg/kg 6 hrly \nRifampicin \n600 mg OD \n10-20 mg/kg OD \nMetronidazole \n400 mg 8 hrly \n10 mg/kg 8 hrly \nAmphotericin B \n1 mg/kg/day \nLiposomal \namphotericin B \n3-5 mg/kg/day \nFluconazole \n800 mg loading and \nthen 400 mg OD \n12 mg/kg loading and then 6 mg/ kg daily \n25 mg/kg loading in neonates and then 12 \nmg/kg daily \n \nReferences: \n1. Alnimr, Amani. (2012). A Protocol for Diagnosis and Management of Cerebrospinal Shunt \nInfections and other Infectious Conditions in Neurosurgical Practice. Basic and Clinical \nNeuroscience. 3. 61-70. \n2. Fiani B, Cathel A, Sarhadi KJ, Cohen J, Siddiqi J. Neurosurgical Post-Operative Wound Infections: \nA retrospective study on surgical site infections for quality improvement. Int Wound J. 2020 \nAug;17(4):1039-1046. doi: 10.1111/iwj.13367. Epub 2020 Apr 21. PMID: 32315121; PMCID: \nPMC7948741. \n3. Vazquez S, Gold J, Spirollari E, Akmal S, Hanft SJ. The story of dexamethasone and how it \nbecame one of the most widely used drugs in neurosurgery. J Neurosurg. 2023 Nov \n24;140(4):1191-1197. doi: 10.3171/2023.9.JNS231099. PMID: 38000066. \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Drug Adult dose Paediatric dose",
+        "Col1",
+        "Col2"
+      ],
+      "rows": [
+        [
+          "Colistin",
+          "9 million unit loading\nand then 3 million 8\nhrly",
+          "150,000 units/ kg loading and then 50,000\nunits/ kg 8 hrly"
+        ],
+        [
+          "Polymyxin B",
+          "15,00,000 units loading\nand then 7,50,000 12th\nhrly\nLoading dose of 25,000\nunits/kg followed by a\ntotal daily dose of\n25,000 units/kg divided\ninto two doses of\n12,500 units/kg every\n12 hours.",
+          "15-25,000 units/ kg loading and then 5000-7500\nunits/ kg 8 hrly"
+        ],
+        [
+          "Fosfomycin",
+          "4 g 6 hrly",
+          "75-100 mg/kg/dose 6 hrly"
+        ],
+        [
+          "Cotrimoxazole",
+          "3-6 mg/kg of TMP TDS",
+          null
+        ],
+        [
+          "Vancomycin",
+          "15 mg/kg (max 2 g)\neight hrly",
+          "15 mg/kg 6 hrly"
+        ],
+        [
+          "Cloxacillin",
+          "2 g 4 hrly",
+          "50 mg/kg 6 hrly"
+        ],
+        [
+          "Doxycycline",
+          "100 mg 12 hrly",
+          "1.5-2 mg/kg 12 hrly"
+        ],
+        [
+          "Chloramphenicol",
+          "1-2 g 6 hrly",
+          "25 mg/kg 6 hrly"
+        ],
+        [
+          "Rifampicin",
+          "600 mg OD",
+          "10-20 mg/kg OD"
+        ],
+        [
+          "Metronidazole",
+          "400 mg 8 hrly",
+          "10 mg/kg 8 hrly"
+        ],
+        [
+          "Amphotericin B",
+          "1 mg/kg/day",
+          null
+        ],
+        [
+          "Liposomal\namphotericin B",
+          "3-5 mg/kg/day",
+          null
+        ],
+        [
+          "Fluconazole",
+          "800 mg loading and\nthen 400 mg OD",
+          "12 mg/kg loading and then 6 mg/ kg daily\n25 mg/kg loading in neonates and then 12\nmg/kg daily"
+        ]
+      ],
+      "bbox": [
+        107.4040018717448,
+        72.17999267578125,
+        539.8759847005208,
+        477.6099853515625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

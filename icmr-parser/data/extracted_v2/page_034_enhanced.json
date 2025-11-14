@@ -1,0 +1,44 @@
+{
+  "page_number": 34,
+  "text": " \n \n29 \n \n3.2 Enteric fever \nType of Infection \nFirst Line \nAlternative \nComments \nUncomplicated - Can \nbe treated at OPDs (if \nwithout complications \nsuch as severe \ndehydration, \nweakness, abdominal \nhaemorrhage, \nencephalitis)  \nAzithromycin 20 mg \n/kg/ day for 7 days \n(maximum 1g/day) \nOr \nCotrimoxazole 960 mg \nBD for 2 weeks (10 \nmg/kg of TMP) \nCefixime \n20mg/kg/day for 10-\n14 days  \nBlood culture remains the \ngold standard. \nAvoid using Widal test for \ndiagnosis of Enteric fever.  \nResistance rates are low for \nco-trimoxazole, \nchloramphenicol and third \ngeneration cephalosporins. \nEmpirical use of \nfluoroquinolones should be \navoided. \nDefervescence of fever may \ntake up to 4-5 days; so mere \npersistent fever for 4-5 days \nshould not be the reason to \nswitch antibiotics. Cefixime \nhas been associated with \nlonger time to defervescence \ncompared to other antibiotic \nclasses. \nComplicated - \npersistent high fever or \nany of the \ncomplications \nmentioned above \nCeftriaxone 2g IV OD \nfor 10- 14 days and / \nOr Azithromycin \n20mg/kg/ day for 7 \ndays for Inpatients \n \nFollow up with culture \nsusceptibility to modify and \nplan oral switch. Ceftriaxone \ncan be changed to oral \ncefixime/ cotrimoxazole, \nwhen patient improves to \ncomplete total duration of \n10- 14 days. \nEmpiric use of carbapenems \nshould be avoided. \n For common etiological agents of Enteric fever, see Annexure B.3.2 \nReferences: \n1. Kuehn R, Stoesser N, Eyre D, Darton TC, Basnyat B, Parry CM. Treatment of enteric fever \n(typhoid and paratyphoid fever) with cephalosporins. Cochrane Database Syst Rev. \n2022;11(11):CD010452. Published 2022 Nov 24. doi:10.1002/14651858.CD010452.pub2 \n2. Treatment Guidelines for Antimicrobial Use in Common Syndromes. 2nd edition. ICMR. 2019. \nNew \nDelhi \n(Accessed \non \n2nd \nApril, \n2025). \nAvailable \nfrom:  \nhttps://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-\nguidelines/Treatment_Guidelines_2019_Final.pdf \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line Alternatvie Comments",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated - Can\nbe treated at OPDs (if\nwithout complications\nsuch as severe\ndehydration,\nweakness, abdominal\nhaemorrhage,\nencephalitis)",
+          "Azithromycin 20 mg\n/kg/ day for 7 days\n(maximum 1g/day)\nOr\nCotrimoxazole 960 mg\nBD for 2 weeks (10\nmg/kg of TMP)",
+          "Cefixime\n20mg/kg/day for 10-\n14 days",
+          "Blood culture remains the\ngold standard.\nAvoid using Widal test for\ndiagnosis of Enteric fever.\nResistance rates are low for\nco-trimoxazole,\nchloramphenicol and third\ngeneratoi n cephalosporins.\nEmpirical use of\nfluoroquinolones should be\navoided.\nDefervescence of fever may\ntake up to 4-5 days; so mere\npersistent fever for 4-5 days\nshould not be the reason to\nswitch antibiotics. Cefixime\nhas been associated with\nlonger time to defervescence\ncompared to other antibiotic\nclasses."
+        ],
+        [
+          "Complicated -\npersistent high fever or\nany of the\ncomplications\nmentioned above",
+          "Ceftriaxone 2g IV OD\nfor 10- 14 days and /\nOr Azithromycin\n20mg/kg/ day for 7\ndays for Inpatients",
+          "",
+          "Follow up with culture\nsusceptbi ility to modify and\nplan oral switch. Ceftriaxone\ncan be changed to oral\ncefixime/ cotrimoxazole,\nwhen patient improves to\ncomplete total duration of\n10- 14 days.\nEmpiric use of carbapenems\nshould be avoided."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        97.2919677734375,
+        547.1200332641602,
+        526.31796875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Enteric fever",
+    "Cochrane Database Syst Rev"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

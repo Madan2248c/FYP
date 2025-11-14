@@ -1,0 +1,102 @@
+{
+  "page_number": 130,
+  "text": " \n \n \nAnnexure \nno. \nTitle \nEtiology \nReference \nMelioidosis - Burkholderia pseudomallei \nB.3.4 \nSepsis \nSyndrome \n \n \n \n \n \n \n \nGram negative bacteria: \nEscherichia coli  \nKlebsiella pneumoniae \nPseudomonas aeruginosa \nAcinetobacter spp. \nGram-positive bacteria: \nStaphylococcus aureus \nCoagulase Negative Staphylococci \nEnterococcus spp. \nFungal: \nCandida spp. \n \nHarrison’s Principles of Internal \nMedicine 21st Edition Pg 2242 \nB.4. Gastrointestinal Syndromes \nAnnexure \nno. \nTitle \nEtiology \nReference \nB.4.1 \nInfectious \nOesophagitis \nImmunocompromised \npatients:  \nCandida spp. \nHerpesvirus  \nCytomegalovirus (CMV) \nImmunocompetent (rare): \nHerpes simplex Virus \nCandida albicans \nHarrison’s Principles of Internal medicine, \nPg 2432 \nB.4.2 \nAcute \nGastroenteritis \nBacterial: \nBacillus cereus \nStaphylococcus aureus \nClostridium perfringens \nVibrio cholerae  \nEnterotoxigenic E. coli \nKlebsiella pneumoniae \nAeromonas species \nEnteropathogenic E. coli \nEnteroadherent E. coli \nHaemorrhagic E. coli \nClostridium difficile  \nSalmonella spp \nCampylobacter \nAeromonas spp \nVibrio parahaemolyticus \nYersinia spp \nShigella spp \nEnteroinvasive E. coli \nParasitic: \nGiardia lamblia \nCryptosporidiosis \nEntamoeba histolytica \nHelminths  \nViral: \n1.Harrison’s Principles of Internal \nmedicine, Pg 300 \n2.Diagnosis and Management of \nComplicated \nIntraabdominal Infection in Adults and \nChildren: \nGuidelines by the Surgical Infection Society \nAnd the Infectious Diseases Society of \nAmerica \n3.  Infect Chemother. 2019 Jun;51(2):217-\n243 \nhttps://doi.org/10.3947/ic.2019.51.2.217 \npISSN 2093-2340·eISSN 2092-6448 \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure\nno.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Melioidosis - Burkholderia pseudomallei",
+          ""
+        ],
+        [
+          "B.3.4",
+          "Sepsis\nSyndrome",
+          "Gram negative bacteria:\nEscherichia coli\nKlebsiella pneumoniae\nPseudomonas aeruginosa\nAcinetobacter spp.\nGram-positive bacteria:\nStaphylococcus aureus\nCoagulase Negative Staphylococci\nEnterococcus spp.\nFungal:\nCandida spp.",
+          "Harrison’s Principles of Internal\nMedicine 21st Edition Pg 2242"
+        ]
+      ],
+      "bbox": [
+        64.88400363922119,
+        64.03201904296876,
+        554.0800170898438,
+        279.0979858398438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure\nno.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.4.1",
+          "Infectious\nOesophagitis",
+          "Immunocompromised\npatients:\nCandida spp.\nHerpesvirus\nCytomegalovirus (CMV)\nImmunocompetent (rare):\nHerpes simplex Virus\nCandida albicans",
+          "Harrison’s Principles of Internal medicine,\nPg 2432"
+        ],
+        [
+          "B.4.2",
+          "Acute\nGastroenteritis",
+          "Bacterial:\nBacillus cereus\nStaphylococcus aureus\nClostridium perfringens\nVibrio cholerae\nEnterotoxigenic E. coli\nKlebsiella pneumoniae\nAeromonas species\nEnteropathogenic E. coli\nEnteroadherent E. coli\nHaemorrhagic E. coli\nClostridium difficile\nSalmonella spp\nCampylobacter\nAeromonas spp\nVibrio parahaemolyticus\nYersinia spp\nShigella spp\nEnteroinvasive E. coli\nParasitic:\nGiardia lamblia\nCryptosporidiosis\nEntamoeba histolytica\nHelminths\nViral:",
+          "1.Harrison’s Principles of Internal\nmedicine, Pg 300\n2.Diagnosis and Management of\nComplicated\nIntraabdominal Infection in Adults and\nChildren:\nGuidelines by the Surgical Infection Society\nAnd the Infectious Diseases Society of\nAmerica\n3. Infect Chemother. 2019 Jun;51(2):217-\n243\nhttps://doi.org/10.3947/ic.2019.51.2.217\npISSN 2093-2340·eISSN 2092-6448"
+        ]
+      ],
+      "bbox": [
+        64.88400363922119,
+        306.0019897460937,
+        568.3800048828125,
+        777.3599497477213
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Burkholderia pseudomallei",
+    "Escherichia coli",
+    "Klebsiella pneumoniae",
+    "Pseudomonas aeruginosa",
+    "Acinetobacter spp.",
+    "Staphylococcus aureus",
+    "Enterococcus spp.",
+    "Candida spp.",
+    "Candida spp.",
+    "Candida albicans",
+    "Bacillus cereus",
+    "Staphylococcus aureus",
+    "Clostridium perfringens",
+    "Vibrio cholerae",
+    "E. coli",
+    "Klebsiella pneumoniae",
+    "Aeromonas species",
+    "E. coli",
+    "E. coli",
+    "E. coli",
+    "Clostridium difficile",
+    "Salmonella spp",
+    "Campylobacter",
+    "Aeromonas spp",
+    "Vibrio parahaemolyticus",
+    "Yersinia spp",
+    "Shigella spp",
+    "E. coli",
+    "Giardia lamblia",
+    "Entamoeba histolytica"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "page_number": 107,
+  "text": " \n \n \nIf CMV viral load is \nnegative then repeat \nviral loads are sent \nbased on risk \nstratification of the \nunderlying disease \nand previous \ntreatment received.  \nFor patients on \nGVHD treatment: \nCMV viral load once \nevery 2 weeks.  \nProphylaxis for bacterial infections is not advised in Indian settings as there are high \nresistance rates to fluoroquinolones among Enteric GNBs (like E. coli and Klebsiella spp.) as \nper ICMR and NCDC data on AMR surveillance.    \nAntibiotic + \nPCP \nprophylaxis \nStable and engrafted \npatient: \nCotrimoxazole \ndouble strength (960 \nmg) one tab three \ntimes a week or one \ntab three times a \nweek \n+  \n*Penicillin 400 mg \norally q12h for 1 year \nOr  \nAmoxicillin 500 mg \n12 hrly* for 1 year \n*Penicillin prophylaxis in those patients who have not \ntaken Pneumococcus, Haemophilus and \nMeningococcal vaccination. \nPenicillin prophylaxis in those with splenectomy or \nthose with sickle cell anemia to be continued till 14 \nyears.  \n \nAntifungal \nprophylaxis \n \nPosaconazole IV or \noral: Loading dose of \n300 mg BD on the \nfirst day, then 300 \nmg OD thereafter. \n \n \nNeeded in case of secondary prophylaxis or if \nconcomitant GVHD (Grade 3-4). \nChoice of posaconazole/ liposomal amphotericin B or \nechinocandins based on oral medication tolerability, \nrequirement of mold active prophylaxis, intolerance to \nazoles (liver function derangement, hallucination, drug \ninteraction), and presence of GVHD.  \nBlood levels of posaconazole can be monitored if TDM \nfacilities are present.  \nTill Day +90 (3 months post HSCT) but may prolong if \npresence of acute GVHD. \n \nReferences: \n1. Baden LR, Swaminathan S, Almyroudis NG, Angarone M, Baluch A, Barros N, Buss B, Cohen S, \nCooper B, Chiang AD, Boghdadly ZE, Gregg K, Hakim H, Ho D, Khawaja F, Lee R, Lee F, Logan C, \nManley K, Multani A, Pande A, Pergam S, Pisano J, Saullo J, Schuster M, Seo SK, Shoham S, \nTaplitz R, Topal J, Wilson JW, Zimmer A, Cassara CJ, Kumar R, Diwan Z. Prevention and \nTreatment of Cancer-Related Infections, Version 3.2024, NCCN Clinical Practice Guidelines in \nOncology. J Natl Compr Canc Netw. 2024 Nov;22(9):617-644. doi: 10.6004/jnccn.2024.0056. \nPMID: 39536464. \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "If CMV viral load is\nnegative then repeat\nviral loads are sent\nbased on risk\nstratification of the\nunderlying disease\nand previous\ntreatment received.\nFor patients on\nGVHD treatment:\nCMV viral load once\nevery 2 weeks.",
+        "Col2"
+      ],
+      "rows": [
+        [
+          "Prophylaxis for bacterial infections is not advised in Indian setnti gs as there are high\nresistance rates to fluoroquinolones among Enteric GNBs (like E. coli and Klebsiella spp.) as\nper ICMR and NCDC data on AMR surveillance.",
+          null,
+          null
+        ],
+        [
+          "Antibiotic +\nPCP\nprophylaxis",
+          "Stable and engrafetd\npatient:\nCotrimoxazole\ndouble strength (960\nmg) one tab three\ntimes a week or one\ntab three times a\nweek\n+\n*Penicillin 400 mg\norally q12h for 1 year\nOr\nAmoxicillin 500 mg\n12 hrly* for 1 year",
+          "*Penicillin prophylaxis in those pateints who have not\ntaken Pneumococcus, Haemophilus and\nMeningococcal vaccinatoi n.\nPenicillin prophylaxis in those with splenectomy or\nthose with sickle cell anemia to be continued till 14\nyears."
+        ],
+        [
+          "Antifungal\nprophylaxis",
+          "Posaconazole IV or\noral: Loading dose of\n300 mg BD on the\nfirst day, then 300\nmg OD thereafetr.",
+          "Needed in case of secondary prophylaxis or if\nconcomitant GVHD (Grade 3-4).\nChoice of posaconazole/ liposomal amphotericin B or\nechinocandins based on oral medication tolerability,\nrequirement of mold actvie prophylaxis, intolerance to\nazoles (liver function derangement, hallucination, drug\ninteraction), and presence of GVHD.\nBlood levels of posaconazole can be monitored if TDM\nfaciliteis are present.\nTill Day +90 (3 months post HSCT) but may prolong if\npresence of acute GVHD."
+        ]
+      ],
+      "bbox": [
+        107.37200164794922,
+        64.02001953125,
+        532.8279663085938,
+        603.2799682617188
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "E. coli and Klebsiella spp"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

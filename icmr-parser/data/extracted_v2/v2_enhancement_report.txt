@@ -1,0 +1,472 @@
+================================================================================
+ICMR PDF PARSER - V2 ENHANCEMENT REPORT
+================================================================================
+
+EXTRACTION SUMMARY
+--------------------------------------------------------------------------------
+Total syndromes found: 50
+Average quality score: 7.10 / 9
+Syndromes with organisms identified: 50 / 50
+Syndromes with treatment tables: 42 / 50
+Syndromes with AMR patterns: 27 / 50
+
+DETAILED SYNDROME ANALYSIS
+--------------------------------------------------------------------------------
+
+1. Step 2: Consider the possible etiology of the clinical syndrome
+   Pages: 18-19
+   Quality Score: 4/9
+   Tables: 0
+   Organisms: 42
+   AMR Patterns: 2
+   Treatment Tables: 0
+   Has Pathogen Table: No
+   ⚠️  Warnings: No tables found, No treatment tables found
+
+2. 1. Cardiovascular Syndromes
+   Pages: 20-23
+   Quality Score: 7/9
+   Tables: 4
+   Organisms: 48
+   AMR Patterns: 0
+   Treatment Tables: 4
+   Has Pathogen Table: No
+
+3. 2. Central Nervous System Infections
+   Pages: 24-24
+   Quality Score: 8/9
+   Tables: 1
+   Organisms: 18
+   AMR Patterns: 1
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+4. 2.2 Encephalitis syndrome
+   Pages: 25-25
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 13
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+5. 2.3 Meningitis syndrome
+   Pages: 26-26
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 19
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+6. 2.4 CSF shunt infections
+   Pages: 27-27
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 9
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+7. Type of Infection
+   Pages: 28-31
+   Quality Score: 8/9
+   Tables: 5
+   Organisms: 71
+   AMR Patterns: 2
+   Treatment Tables: 2
+   Has Pathogen Table: No
+
+8. 3. Febrile Syndromes
+   Pages: 32-33
+   Quality Score: 3/9
+   Tables: 0
+   Organisms: 19
+   AMR Patterns: 0
+   Treatment Tables: 0
+   Has Pathogen Table: No
+   ⚠️  Warnings: No tables found, No treatment tables found
+
+9. 3.2 Enteric fever
+   Pages: 34-37
+   Quality Score: 9/9
+   Tables: 4
+   Organisms: 84
+   AMR Patterns: 2
+   Treatment Tables: 2
+   Has Pathogen Table: Yes
+
+10. 4. Gastro-intestinal (GI) Syndromes
+   Pages: 38-38
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 13
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+11. 4.2 Acute Gastroenteritis
+   Pages: 39-39
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 24
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+12. 4.4 Infections of Liver, Gall Bladder and Biliary tract
+   Pages: 40-41
+   Quality Score: 7/9
+   Tables: 3
+   Organisms: 26
+   AMR Patterns: 0
+   Treatment Tables: 3
+   Has Pathogen Table: No
+
+13. 4.7 Peritonitis – Primary / Secondary
+   Pages: 42-44
+   Quality Score: 8/9
+   Tables: 3
+   Organisms: 41
+   AMR Patterns: 2
+   Treatment Tables: 3
+   Has Pathogen Table: No
+
+14. 5. Urinary Tract Infections
+   Pages: 45-45
+   Quality Score: 7/9
+   Tables: 2
+   Organisms: 8
+   AMR Patterns: 0
+   Treatment Tables: 2
+   Has Pathogen Table: No
+
+15. 6. Gynaecological & Reproductive organ Infections and
+   Pages: 46-48
+   Quality Score: 7/9
+   Tables: 2
+   Organisms: 61
+   AMR Patterns: 0
+   Treatment Tables: 2
+   Has Pathogen Table: No
+
+16. 6.7 Prostatitis
+   Pages: 49-50
+   Quality Score: 8/9
+   Tables: 3
+   Organisms: 33
+   AMR Patterns: 2
+   Treatment Tables: 3
+   Has Pathogen Table: No
+
+17. 7. Ear, Nose and Throat Infections
+   Pages: 51-55
+   Quality Score: 8/9
+   Tables: 9
+   Organisms: 101
+   AMR Patterns: 1
+   Treatment Tables: 6
+   Has Pathogen Table: No
+
+18. 8. Oral cavity, Head and Neck Infections
+   Pages: 56-56
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 20
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+19. 9. Skin and Soft Tissue Infections
+   Pages: 57-62
+   Quality Score: 8/9
+   Tables: 6
+   Organisms: 88
+   AMR Patterns: 3
+   Treatment Tables: 6
+   Has Pathogen Table: No
+
+20. 9.7 Diabetic foot infections (DFI)
+   Pages: 63-63
+   Quality Score: 8/9
+   Tables: 1
+   Organisms: 16
+   AMR Patterns: 3
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+21. For common etiological agents causing diabetic foot infections, see Annexure B.9.7
+   Pages: 64-64
+   Quality Score: 3/9
+   Tables: 0
+   Organisms: 7
+   AMR Patterns: 0
+   Treatment Tables: 0
+   Has Pathogen Table: No
+   ⚠️  Warnings: No tables found, No treatment tables found
+
+22. 10. Musculoskeletal Infections
+   Pages: 65-67
+   Quality Score: 7/9
+   Tables: 4
+   Organisms: 59
+   AMR Patterns: 0
+   Treatment Tables: 4
+   Has Pathogen Table: No
+
+23. Sacroiliitis, and Enthesitis. Arthritis Rheumatol, 71: 846-
+   Pages: 68-68
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 21
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+24. 10.6 Orthopaedic implant associated infections
+   Pages: 69-73
+   Quality Score: 8/9
+   Tables: 6
+   Organisms: 77
+   AMR Patterns: 0
+   Treatment Tables: 3
+   Has Pathogen Table: Yes
+
+25. 11. Ocular Infections
+   Pages: 74-82
+   Quality Score: 8/9
+   Tables: 7
+   Organisms: 148
+   AMR Patterns: 1
+   Treatment Tables: 3
+   Has Pathogen Table: No
+
+26. 11.3 Periocular infections (Eyelid infections, Orbital cellulitis)
+   Pages: 83-83
+   Quality Score: 8/9
+   Tables: 1
+   Organisms: 25
+   AMR Patterns: 1
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+27. Type of Infection
+   Pages: 84-85
+   Quality Score: 7/9
+   Tables: 2
+   Organisms: 23
+   AMR Patterns: 0
+   Treatment Tables: 2
+   Has Pathogen Table: No
+
+28. 12. Respiratory Tract Infections
+   Pages: 86-87
+   Quality Score: 8/9
+   Tables: 4
+   Organisms: 36
+   AMR Patterns: 1
+   Treatment Tables: 4
+   Has Pathogen Table: No
+
+29. 12.5 Community Acquired Pneumonia
+   Pages: 88-91
+   Quality Score: 8/9
+   Tables: 3
+   Organisms: 63
+   AMR Patterns: 3
+   Treatment Tables: 3
+   Has Pathogen Table: No
+
+30. 13. Toxin-mediated Syndromes
+   Pages: 92-94
+   Quality Score: 8/9
+   Tables: 5
+   Organisms: 49
+   AMR Patterns: 1
+   Treatment Tables: 4
+   Has Pathogen Table: No
+
+31. 14. Bite wound infections
+   Pages: 95-96
+   Quality Score: 8/9
+   Tables: 2
+   Organisms: 28
+   AMR Patterns: 1
+   Treatment Tables: 2
+   Has Pathogen Table: No
+
+32. 15. Burn wound infections
+   Pages: 97-99
+   Quality Score: 8/9
+   Tables: 3
+   Organisms: 53
+   AMR Patterns: 3
+   Treatment Tables: 3
+   Has Pathogen Table: No
+
+33. 16. Dental Infections
+   Pages: 100-101
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 18
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+34. 17.1 Febrile neutropenia syndrome
+   Pages: 102-103
+   Quality Score: 8/9
+   Tables: 2
+   Organisms: 48
+   AMR Patterns: 3
+   Treatment Tables: 2
+   Has Pathogen Table: No
+
+35. 17.3 Infections in Asplenia
+   Pages: 104-107
+   Quality Score: 8/9
+   Tables: 5
+   Organisms: 75
+   AMR Patterns: 1
+   Treatment Tables: 2
+   Has Pathogen Table: No
+
+36. 2. Lee GM. Preventing infections in children and adults with asplenia. Hematology Am Soc
+   Pages: 108-110
+   Quality Score: 8/9
+   Tables: 2
+   Organisms: 51
+   AMR Patterns: 2
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+37. 18. Healthcare Associated Infections
+   Pages: 111-112
+   Quality Score: 7/9
+   Tables: 3
+   Organisms: 33
+   AMR Patterns: 0
+   Treatment Tables: 3
+   Has Pathogen Table: No
+
+38. 1. Howroyd, F., Chacko, C., MacDuff, A. et al. Ventilator-associated pneumonia: pathobiological
+   Pages: 113-114
+   Quality Score: 9/9
+   Tables: 2
+   Organisms: 33
+   AMR Patterns: 3
+   Treatment Tables: 2
+   Has Pathogen Table: Yes
+
+39. Management of Intravascular Catheter-Related Infection: 2009 Update by the Infectious
+   Pages: 115-115
+   Quality Score: 4/9
+   Tables: 0
+   Organisms: 26
+   AMR Patterns: 1
+   Treatment Tables: 0
+   Has Pathogen Table: No
+   ⚠️  Warnings: No tables found, No treatment tables found
+
+40. on Management of Clostridioides difficile Infection in Adults, Clinical Infectious Diseases, Volume
+   Pages: 116-116
+   Quality Score: 8/9
+   Tables: 1
+   Organisms: 20
+   AMR Patterns: 2
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+41. Healthcare Associated Infection Surveillance Network collaborators. Health-care-associated
+   Pages: 117-117
+   Quality Score: 8/9
+   Tables: 1
+   Organisms: 16
+   AMR Patterns: 2
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+42. 19. Neonatal Infections
+   Pages: 118-118
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 14
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+43. Type of Infection
+   Pages: 119-119
+   Quality Score: 8/9
+   Tables: 1
+   Organisms: 7
+   AMR Patterns: 1
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+44. Type of Infection
+   Pages: 120-120
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 12
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+45. Type of Infection
+   Pages: 121-121
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 9
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+46. Type of Infection
+   Pages: 122-123
+   Quality Score: 7/9
+   Tables: 1
+   Organisms: 32
+   AMR Patterns: 0
+   Treatment Tables: 1
+   Has Pathogen Table: No
+
+47. invasive infections in neonates and children caused by Candida spp. Clin Microbiol Infect. 2012
+   Pages: 124-125
+   Quality Score: 4/9
+   Tables: 0
+   Organisms: 37
+   AMR Patterns: 1
+   Treatment Tables: 0
+   Has Pathogen Table: No
+   ⚠️  Warnings: No tables found, No treatment tables found
+
+48. B.1. Cardiovascular Syndromes
+   Pages: 126-126
+   Quality Score: 5/9
+   Tables: 1
+   Organisms: 26
+   AMR Patterns: 0
+   Treatment Tables: 0
+   Has Pathogen Table: No
+   ⚠️  Warnings: No treatment tables found
+
+49. B.2. Central Nervous System infections
+   Pages: 127-147
+   Quality Score: 6/9
+   Tables: 16
+   Organisms: 644
+   AMR Patterns: 3
+   Treatment Tables: 0
+   Has Pathogen Table: No
+   ⚠️  Warnings: No treatment tables found
+
+50. B.16. Dental Infections
+   Pages: 148-155
+   Quality Score: 7/9
+   Tables: 6
+   Organisms: 158
+   AMR Patterns: 4
+   Treatment Tables: 0
+   Has Pathogen Table: Yes
+   ⚠️  Warnings: No treatment tables found

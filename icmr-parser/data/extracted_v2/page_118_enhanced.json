@@ -1,0 +1,44 @@
+{
+  "page_number": 118,
+  "text": " \n \n \n19. Neonatal Infections \n19.1 Neonatal Infections \n \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nPossible serious \nbacterial infection, \nPSBI  \n(community \nacquired) \nAmoxicillin  \n• 20-40 mg/kg/dose \nPO* q8h  \nOr \nAmpicillin \n• ≤34 weeks GA* and \n≤7 days PNA*: 50 \nmg/kg/dose IV q12h \n• ≤34 weeks GA and ≥8 \nto ≤28 days PNA: 75 \nmg/kg/dose IV q12h \n• >34 weeks GA and \n≤28 days PNA: 50 \nmg/kg/dose IV q8h) \nAND \nGentamicin  \n• < 37 weeks PMA*: 5 \nmg/kg/dose IV q48h \n• 37 to <40 weeks \nPMA: 5 mg/kg/dose \nIV q36h \n• ≥40 weeks PMA: 5 \nmg/kg/dose IV q24h \n \nDuration of treatment:  \n• If culture-negative: 5-\n7 days \n• If culture positive: 7-\n14 days \nIn case of \nmeningitis: \nAmpicillin  \n(dose as \nmentioned in left-\nhand side column) \nAND  \nCefotaxime \n• <1-week PNA: 50 \nmg/kg/dose IV q \n12h \n• 1-4 weeks PNA: \n50 mg/kg/dose \nIV q8h \n• >4 weeks PNA: \n37.5 mg/kg/dose \nIV q6h \n \nDuration of \ntreatment:  \n• 21 days \n \nConsider PSBI if any one of the \nfollowing signs is present: \n• Not able to feed since birth or \nstopped feeding well \n(confirmed by observation)  \n• No movement or movement \nonly on stimulation  \n• Convulsions \n • Fast breathing (60 breaths per \nminute or more) in infants \nyounger than 7 days of age  \n• Severe chest in-drawing  \n• Fever (≥ 38.0 °C)  \n• Low body temperature (< 35.5 \n°C) \nSigns are nonspecific.  \n \nPossible serious \nbacterial infection  \n(possible hospital \nacquired/community \nwith high AMR, e.g., \n>10% prevalence of \nESBL), without \nmeningitis \n \nAmikacin  \n• <30 weeks PMA and \n7 days PNA: 15 \nmg/kg/dose over 30 \nminutes slow IV q48 \nh \n• <30 weeks PMA and \n>7 days PNA or 30-36 \nweeks PMA and 7 \ndays PNA: 15 \nmg/kg/dose over 30 \nminutes slow IV q36 \nh \nMeropenem \n• <32 weeks GA \nand <14 days \nPNA: 20 \nmg/kg/dose IV q \n12h \n• < 32 weeks GA \nand ≥ 14 days \nPNA: 20 \nmg/kg/dose IV q \n8h \n• ≥ 32 weeks GA: \n30 mg/kg/dose \nIV q8h \nDo not mix amikacin with \nPiperacillin-tazobactam due to Y \n– site incompatibilities. \n \nSince in vitro response to \nteicoplanin is much better and \nbeing less nephrotoxic, it may \nreplace vancomycin which \nrequires mandatory TDM’s \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Possible serious\nbacterial infection,\nPSBI\n(community\nacquired)",
+          "Amoxicillin\n• 20-40 mg/kg/dose\nPO* q8h\nOr\nAmpicillin\n• ≤34 weeks GA* and\n≤7 days PNA*: 50\nmg/kg/dose IV q12h\n• ≤34 weeks GA and ≥8\nto ≤28 days PNA: 75\nmg/kg/dose IV q12h\n• >34 weeks GA and\n≤28 days PNA: 50\nmg/kg/dose IV q8h)\nAND\nGentamicin\n• < 37 weeks PMA*: 5\nmg/kg/dose IV q48h\n• 37 to <40 weeks\nPMA: 5 mg/kg/dose\nIV q36h\n• ≥40 weeks PMA: 5\nmg/kg/dose IV q24h\nDuration of treatment:\n• If culture-negative: 5-\n7 days\n• If culture positvie: 7-\n14 days",
+          "In case of\nmeningitis:\nAmpicillin\n(dose as\nmentioned in lef-t\nhand side column)\nAND\nCefotaxime\n• <1-week PNA: 50\nmg/kg/dose IV q\n12h\n• 1-4 weeks PNA:\n50 mg/kg/dose\nIV q8h\n• >4 weeks PNA:\n37.5 mg/kg/dose\nIV q6h\nDuration of\ntreatment:\n• 21 days",
+          "Consider PSBI if any one of the\nfollowing signs is present:\n• Not able to feed since birth or\nstopped feeding well\n(confirmed by observation)\n• No movement or movement\nonly on stimulation\n• Convulsions\n• Fast breathing (60 breaths per\nminute or more) in infants\nyounger than 7 days of age\n• Severe chest in-drawing\n• Fever (≥ 38.0 °C)\n• Low body temperature (< 35.5\n°C)\nSigns are nonspecifci."
+        ],
+        [
+          "Possible serious\nbacterial infection\n(possible hospital\nacquired/community\nwith high AMR, e.g.,\n>10% prevalence of\nESBL), without\nmeningitis",
+          "Amikacin\n• <30 weeks PMA and\n7 days PNA: 15\nmg/kg/dose over 30\nminutes slow IV q48\nh\n• <30 weeks PMA and\n>7 days PNA or 30-36\nweeks PMA and 7\ndays PNA: 15\nmg/kg/dose over 30\nminutes slow IV q36\nh",
+          "Meropenem\n• <32 weeks GA\nand <14 days\nPNA: 20\nmg/kg/dose IV q\n12h\n• < 32 weeks GA\nand ≥ 14 days\nPNA: 20\nmg/kg/dose IV q\n8h\n• ≥ 32 weeks GA:\n30 mg/kg/dose\nIV q8h",
+          "Do not mix amikacin with\nPiperacillin-tazobactam due to Y\n– site incompatibiliteis.\nSince in vitro response to\nteicoplanin is much betetr and\nbeing less nephrotoxic, it may\nreplace vancomycin which\nrequires mandatory TDM’s"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        145.89200439453126,
+        547.1200332641602,
+        772.3680053710938
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Neonatal Infections",
+    "in vitro"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

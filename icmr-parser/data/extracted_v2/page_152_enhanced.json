@@ -1,0 +1,90 @@
+{
+  "page_number": 152,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nStenotrophomonas maltophilia \nStaphylococcus spp. \nEnterococcus spp. \n \n10.1016/S2214-109X(22)00274-1. PMID: \n35961355 \nB.18.6 \nHospital \nacquired \nintra-\nabdominal \ninfections \nIn all HA-IAIs, causative pathogens \nare less predictable; thus, peri-\noperative cultures are routinely \nindicated \nSartelli, M., Catena, F., Abu-Zidan, F.M. et \nal. Management of intra-abdominal \ninfections: recommendations by the WSES \n2016 consensus conference. World J Emerg \nSurg 12, 22 (2017). \nhttps://doi.org/10.1186/s13017-017-0132-7 \nB.19. Neonatal Infections  \nAnnexure \nTitle \nEtiology \nReference \nB.19.1 \nMeningitis \nBacterial: \nEscherichia coli  \nKlebsiella pneumoniae \nStreptococcus agalactiae \nListeria monocytogenes \nIndian Academy of Pediatrics (IAP). \nSTANDARD TREATMENT GUIDELINES 2022 \nPg 4 \nB.19.2 \nConjunctivitis \nBacterial: \nChlamydia trachomatis  \nNeisseria gonorrhoeae  \nCoagulase-negative \nStaphylococcus  \nAlpha-hemolytic Streptococcus \nHaemophilus influenzae \nStreptococcus pneumoniae \nStaphylococcus aureus \nPseudomonas spp. \nEscherichia coli  \nViral: \nHerpes simplex  \nAdenovirus \nEnterovirus \nIndian Academy of Pediatrics (IAP). \nSTANDARD TREATMENT GUIDELINES 2022 \nChapter 68 Pg 3-4 \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Stenotrophomonas maltophilia\nStaphylococcus spp.\nEnterococcus spp.",
+          "10.1016/S2214-109X(22)00274-1. PMID:\n35961355"
+        ],
+        [
+          "B.18.6",
+          "Hospital\nacquired\nintra-\nabdominal\ninfectoi ns",
+          "In all HA-IAIs, causative pathogens\nare less predictable; thus, peri-\noperative cultures are routni ely\nindicated",
+          "Sartelli, M., Catena, F., Abu-Zidan, F.M. et\nal. Management of intra-abdominal\ninfectoi ns: recommendations by the WSES\n2016 consensus conference. World J Emerg\nSurg 12, 22 (2017).\nhtpts://doi.org/10.1186/s13017-017-0132-7"
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        64.03201904296876,
+        575.4599609375,
+        249.09798583984374
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.19.1",
+          "Meningitsi",
+          "Bacterial:\nEscherichia coli\nKlebsiella pneumoniae\nStreptococcus agalactai e\nListeria monocytogenes",
+          "Indian Academy of Pediatrics (IAP).\nSTANDARD TREATMENT GUIDELINES 2022\nPg 4"
+        ],
+        [
+          "B.19.2",
+          "Conjunctivitis",
+          "Bacterial:\nChlamydia trachomatsi\nNeisseria gonorrhoeae\nCoagulase-negative\nStaphylococcus\nAlpha-hemolytic Streptococcus\nHaemophilus influenzae\nStreptococcus pneumoniae\nStaphylococcus aureus\nPseudomonas spp.\nEscherichia coli\nViral:\nHerpes simplex\nAdenovirus\nEnterovirus",
+          "Indian Academy of Pediatrics (IAP).\nSTANDARD TREATMENT GUIDELINES 2022\nChapter 68 Pg 3-4"
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        275.8819946289062,
+        575.4599609375,
+        589.9480224609375
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Stenotrophomonas maltophilia",
+    "Staphylococcus spp.",
+    "Enterococcus spp.",
+    "al.",
+    "World J Emerg",
+    "Surg",
+    "Meningitis",
+    "Escherichia coli",
+    "Klebsiella pneumoniae",
+    "Streptococcus agalactiae",
+    "Listeria monocytogenes",
+    "Chlamydia trachomatis",
+    "Neisseria gonorrhoeae",
+    "Haemophilus influenzae",
+    "Streptococcus pneumoniae",
+    "Staphylococcus aureus",
+    "Pseudomonas spp.",
+    "Escherichia coli"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

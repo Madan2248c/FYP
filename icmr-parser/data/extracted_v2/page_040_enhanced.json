@@ -1,0 +1,55 @@
+{
+  "page_number": 40,
+  "text": " \n \n35 \n \n4.4 Infections of Liver, Gall Bladder and Biliary tract \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nLiver abscess with no \npredisposing hepato-biliary \ntract abnormality or \nimmunocompromised \ncondition \nMetronidazole \n750mg q8h (IV or \noral) as per general \ncondition for total \n10 days \nTinidazole 2g OD for \n5 days \nAdd Diloxanide Furoate \n500mg TDS for 10 days. \n \nMost liver abscesses \nwith no hepato-biliary \ntract abnormality are \namoebic in origin and \ndon’t require \nantibacterial agents; \nhowever, if there are no \nclinical signs of \nresolution after 72 hrs \nof anti-amoebic therapy \nor multiple (>2 ) \nabscesses or single large \nabscess (>5 cm); it is \nrecommended to \naspirate the abscess to \nlook for possible \npathogens. \nLiver Abscess with \npredisposing hepato-biliary \ntract abnormality or \nimmunocompromised \ncondition  \nCeftriaxone 2g IV \nOD  \n+  \nMetronidazole \n750mg q8h  \nPiperacillin-\ntazobactam 4.5g IV \nq6h  \nOr   \nMeropenem 1g IV \nq8h \nOr \nCefoperazone-\nsulbactam 3g IV \nq12h  \n+  \nMetronidazole \n750mg q8h \nIt is recommended to \naspirate the abscess to \nlook for possible \npathogens.  \nEmpiric regimes will \ncover for bacterial and \namoebic etiology, and \nwill need to be de-\nescalated based on \naspirate results. \n \nDuration of therapy: 3-4 \nweeks  \nCholecystitis & Cholangitis \n(without signs of sepsis) \nAmoxicillin- \nclavulanic Acid 1g \nBD \nCefixime 400mg BD \nOr \nInj Ceftriaxone 2g IV \nOD \nDuration of therapy: 5-7 \ndays \nCholecystitis & Cholangitis \n(with sepsis) \nPiperacillin-\ntazobactam 4.5g IV \nq6h \nOr  \nCefoperazone-\nsulbactam 3g IV \nq12h \n \nMeropenem 1g IV \nq8h  \nOr  \nImipenem-cilastatin \n0.5g IV q6h \nDrainage of biliary \ntract/reliving of any \nobstruction in biliary \ntract is of utmost \nimportance. \nDuration of therapy 5-7 \ndays (if surgical drainage \ndone and no \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Liver abscess with no\npredisposing hepato-biliary\ntract abnormality or\nimmunocompromised\ncondition",
+          "Metronidazole\n750mg q8h (IV or\noral) as per general\nconditoi n for total\n10 days",
+          "Tinidazole 2g OD for\n5 days",
+          "Add Diloxanide Furoate\n500mg TDS for 10 days.\nMost liver abscesses\nwith no hepato-biliary\ntract abnormality are\namoebic in origin and\ndon’t require\nantibacterial agents;\nhowever, if there are no\nclinical signs of\nresolutoi n afetr 72 hrs\nof anti-amoebic therapy\nor multpi le (>2 )\nabscesses or single large\nabscess (>5 cm); it is\nrecommended to\naspirate the abscess to\nlook for possible\npathogens."
+        ],
+        [
+          "Liver Abscess with\npredisposing hepato-biliary\ntract abnormality or\nimmunocompromised\ncondition",
+          "Ceftriaxone 2g IV\nOD\n+\nMetronidazole\n750mg q8h",
+          "Piperacillin-\ntazobactam 4.5g IV\nq6h\nOr\nMeropenem 1g IV\nq8h\nOr\nCefoperazone-\nsulbactam 3g IV\nq12h\n+\nMetronidazole\n750mg q8h",
+          "It is recommended to\naspirate the abscess to\nlook for possible\npathogens.\nEmpiric regimes will\ncover for bacterial and\namoebic etoi logy, and\nwill need to be de-\nescalated based on\naspirate results.\nDuration of therapy: 3-4\nweeks"
+        ],
+        [
+          "Cholecystitsi & Cholangitis\n(without signs of sepsis)",
+          "Amoxicillin-\nclavulanic Acid 1g\nBD",
+          "Cefixime 400mg BD\nOr\nInj Ceftriaxone 2g IV\nOD",
+          "Duration of therapy: 5-7\ndays"
+        ],
+        [
+          "Cholecystitsi & Cholangitis\n(with sepsis)",
+          "Piperacillin-\ntazobactam 4.5g IV\nq6h\nOr\nCefoperazone-\nsulbactam 3g IV\nq 12h",
+          "Meropenem 1g IV\nq8h\nOr\nImipenem-cilastatin\n0.5g IV q6h",
+          "Drainage of biliary\ntract/reliving of any\nobstruction in biliary\ntract is of utmost\nimportance.\nDuration of therapy 5-7\ndays (if surgical drainage\ndone and no"
+        ]
+      ],
+      "bbox": [
+        72.22400347391765,
+        97.2919677734375,
+        547.1000315348307,
+        744.5279541015625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Infections of Liver, Gall Bladder and Biliary tract"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "page_number": 116,
+  "text": " \n \n \non Management of Clostridioides difficile Infection in Adults, Clinical Infectious Diseases, Volume \n73, Issue 5, 1 September 2021, Pages e1029–e1044, https://doi.org/10.1093/cid/ciab549 \n18.6 Catheter associated urinary tract infection (CAUTI) \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nCAUTI- not \nseverely ill \n \nFosfomycin 3g stat PO \nAwait culture, remove \ncatheter if possible \nAmikacin 15 mg/kg \nsingle dose \nAll hospital onset infections; \nshould be managed as per \nhospital antibiograms; these \nrecommendations are \ngeneral and especially for \nplaces where there is no \nantibiogram (it is highly \nrecommended to generate \nantibiograms). \nTarget antibiotics as per \nculture reports \nDuration: 3-5 days (if \ncatheter removed/changed) \nCAUTI – Severely \nill \nPiperacillin-tazobactam \n4.5g IV QID \nOr  \nMeropenem 1g IV TDS \nCover for CRO* if patient recent exposed to BL-BLI / \nCarbapenems  \n*Colistin 9MU IV stat, then 4.5 MU IV q12h \nOr  \n*Fosfomycin 4g IV q6h \nIn combination with a carbapenem \n(meropenem/imipenem) \nDuration: 3-5 days (if catheter removed/changed) \nFor common etiological agents of CAUTI, see Annexure B.18.5 \n \nAdditional information: \n• \nCatheter colonization is common and in absence of symptoms does not require treatment. \n• \nRemoval of indwelling catheter is recommended. \n \nReferences: \n1. Soman R, Veeraraghavan B, Hegde A, Varma S, Todi S, Singh RK, Nagavekar V, Rodrigues C, \nSwaminathan S, Ramsubramanian V, Ansari A, Chaudhry D, Pednekar A, Bhagat S, Patil S, \nBarkate H. Indian consensus on the managemeNt of carbapenem-resistant enterobacterales \ninfection in critically ill patients II (ICONIC II). Expert Rev Anti Infect Ther. 2024 Jun;22(6):453-\n468. doi: 10.1080/14787210.2024.2360116. Epub 2024 May 27. Erratum in: Expert Rev Anti \nInfect Ther. 2024 Jul;22(7):607. doi: 10.1080/14787210.2024.2370086. PMID: 38790080. \n2. Guidance on Diagnosis & Management of Carbapenem Resistant Gram-negative Infections. \nICMR. 2022. Available from: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-\nguidelines/Diagnosis_and_management_of_CROs.pdf \n3. Urinary Tract Infection (Catheter-Associated Urinary Tract Infection [CAUTI] and Non-Catheter-\nAssociated Urinary Tract Infection [UTI]) Events. NHSN, CDC. 2025. Available from: \nhttps://www.cdc.gov/nhsn/pdfs/pscmanual/7psccauticurrent.pdf \n4. Mathur P, Malpiedi P, Walia K, Srikantiah P, Gupta S, Lohiya A, Chakrabarti A, Ray P, Biswal M, \nTaneja N, Rupali P, Balaji V, Rodrigues C, Lakshmi Nag V, Tak V, Venkatesh V, Mukhopadhyay C, \nDeotale V, Padmaja K, Wattal C, Bhattacharya S, Karuna T, Behera B, Singh S, Nath R, Ray R, \nBaveja S, Fomda BA, Sulochana Devi K, Das P, Khandelwal N, Verma P, Bhattacharyya P, Gaind \nR, Kapoor L, Gupta N, Sharma A, VanderEnde D, Siromany V, Laserson K, Guleria R; Indian \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "CAUTI- not\nseverely ill",
+          "Fosfomycin 3g stat PO\nAwait culture, remove\ncatheter if possible",
+          "Amikacin 15 mg/kg\nsingle dose",
+          "All hospital onset infections;\nshould be managed as per\nhospital antibiograms; these\nrecommendations are\ngeneral and especially for\nplaces where there is no\nantibiogram (it is highly\nrecommended to generate\nantibiograms).\nTarget antibiotics as per\nculture reports\nDuration: 3-5 days (if\ncatheter removed/changed)"
+        ],
+        [
+          "CAUTI – Severely\nill",
+          "Piperacillin-tazobactam\n4.5g IV QID\nOr\nMeropenem 1g IV TDS",
+          "Cover for CRO* if patient recent exposed to BL-BLI /\nCarbapenems\n*Colistin 9MU IV stat, then 4.5 MU IV q12h\nOr\n*Fosfomycin 4g IV q6h\nIn combination with a carbapenem\n(meropenem/imipenem)\nDuration: 3-5 days (if catheter removed/changed)",
+          null
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        126.0920166015625,
+        539.9199829101562,
+        436.5699653625488
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Clostridioides difficile",
+    "Clinical Infectious Diseases",
+    "Catheter associated urinary tract infection (CAUTI)",
+    "CAUTI"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

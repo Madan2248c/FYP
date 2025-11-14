@@ -1,0 +1,54 @@
+{
+  "page_number": 150,
+  "text": " \n \n \nRhizopus spp. \nSaksenaea spp. \nSyncephalestrum spp. \nB.18. Healthcare Associated Infections  \nAnnexure \nTitle \nEtiology \nReference \nB.18.1 \nFever in ICU \nPathogens isolated from blood:  \nFungal: \nCandida albicans \n Candida tropicalis \nPichia kudriavzevii \nNakaseomyces glabrataa \nCandida parapsilosis \n \nBacterial: \nEnterococcus faecium \nStaphylococcus aureus \nKlebsiella pneumoniae \nPseudomonas aeruginosa \nEscherichia coli \n \nPathogens isolated from urine: \nFever in ICU patients can be due to \nan underlying UTI. Presence of sign \nand symptoms of UTI and pyuria in \nurine analysis should be followed by \na urine culture. \nPathogens isolated from \nRespiratory tract: \nViral:  \nInfluenza virus \nRespiratory syncytial virus \nAdenovirus \nSevere acute respiratory syndrome \ncoronavirus 2 (SARS-CoV-2) \nHuman metapneumovirus \nSeasonal coronaviruses \nRhinovirus \nParainfluenza virus \nHerpes simplex virus \nCytomegalovirus \nVaricella-zoster virus \nMiddle East respiratory syndrome \ncoronavirus  \nSin Nombre virus \nMeasles virus \nO’Grady et al. Society of Critical Care \nMedicine and the Infectious Diseases \nSociety of America Guidelines for Evaluating \nNew Fever in Adult Patients in the ICU. \nCritical Care Medicine 51(11):p 1570-1586, \nNovember 2023. | DOI: \n10.1097/CCM.0000000000006022 \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.18.1",
+          "Fever in ICU",
+          "Pathogens isolated from blood:\nFungal:\nCandida albicans\nCandida tropicalis\nPichia kudriavzevii\nNakaseomyces glabrataa\nCandida parapsilosis\nBacterial:\nEnterococcus faecium\nStaphylococcus aureus\nKlebsiella pneumoniae\nPseudomonas aeruginosa\nEscherichia coli\nPathogens isolated from urine:\nFever in ICU patients can be due to\nan underlying UTI. Presence of sign\nand symptoms of UTI and pyuria in\nurine analysis should be followed by\na urine culture.\nPathogens isolated from\nRespiratory tract:\nViral:\nInfluenza virus\nRespiratory syncytial virus\nAdenovirus\nSevere acute respiratory syndrome\ncoronavirus 2 (SARS-CoV-2)\nHuman metapneumovirus\nSeasonal coronaviruses\nRhinovirus\nParainfluenza virus\nHerpes simplex virus\nCytomegalovirus\nVaricella-zoster virus\nMiddle East respiratory syndrome\ncoronavirus\nSin Nombre virus\nMeasles virus",
+          "O’Grady et al. Society of Critical Care\nMedicine and the Infectious Diseases\nSociety of America Guidelines for Evaluating\nNew Fever in Adult Pateints in the ICU.\nCritical Care Medicine 51(11):p 1570-1586,\nNovember 2023. | DOI:\n10.1097/CCM.0000000000006022"
+        ]
+      ],
+      "bbox": [
+        67.36800003051758,
+        134.972021484375,
+        575.4959594726563,
+        778.3680053710938
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Rhizopus spp.",
+    "Saksenaea spp.",
+    "Syncephalestrum spp",
+    "Candida albicans",
+    "Candida tropicalis",
+    "Pichia kudriavzevii",
+    "Nakaseomyces glabrataa",
+    "Candida parapsilosis",
+    "Enterococcus faecium",
+    "Staphylococcus aureus",
+    "Klebsiella pneumoniae",
+    "Pseudomonas aeruginosa",
+    "Escherichia coli",
+    "Fever in ICU patients can be due to",
+    "an underlying UTI. Presence of sign",
+    "and symptoms of UTI and pyuria in",
+    "urine analysis should be followed by",
+    "a urine culture."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

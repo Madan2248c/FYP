@@ -1,0 +1,53 @@
+{
+  "page_number": 61,
+  "text": " \n \n56 \n \n• Cephalexin 250-\n500mg QID (25–50 \nmg/kg/day) \n• Cefadroxil 500 mg \nq12h \n • Amoxicillin-\nclavulanate \ncombination: 625mg \nTDS \nDuration: 3 to 5 days \nbased on clinical \nresponse \nepilation, occlusive \ndressings, etc. \nIn case of recurrent \nlesions, look for nasal \nStaphylococcus \ncarriage.  \nSimple cases of Gram-\nnegative folliculitis, \nStaphylococcal \nfolliculitis, will generally \nresolve spontaneously \nafter 7 to 10 days with \ngood skin hygiene. \n \nA large furuncle may \nalso require drainage. \nFuruncle and carbuncle \nFuruncles require oral \nantibiotics. The \nfollowing can be used:  \nAmoxicillin 500mg TDS \n(25-50 mg/kg/day)  \n• Cloxacillin 500mg QID \n(50mg/kg/day)  \n• Cephalexin 250-\n500mg QID (25–50 \nmg/kg/day) \n • Amoxicillin-\nclavulanate \ncombination: 625mg \nTDS \nCarbuncles require \nsurgical drainage in \naddition to oral \nantibiotics; duration of \nantibiotics is 5 to 7 days \nbased on clinical \nresponse. \nFor severe infection in \nsick patients, carbuncle \nwould require \nparenteral antibiotic, \ntreatment as follows: \nInj Cefuroxime 1.5 g \nq8h \nInj Amoxicillin-\nclavulanate 1.2g TDS   \nAlternatively - Inj \nClindamycin 600-900mg \nTDS \nGram Negative \nfolliculitis – Not \nresponding to regular \nacne management  \nTrimethoprim-\nSulfamethoxazole DS \n(800+160) q12h for 10-\n14 days \nAmoxicillin 500mg TDS \n(25-50 mg/kg/day) for \n7-10 days \n \n \nPityrosporum \nFolliculitis \nItraconazole 100-\n200mg/day for 3 weeks \nOr \nFluconazole 100-\n200mg/day for 1-2 \nweeks* \n \n \nDemodex Folliculitis \nTopical Permethrin \n+ \nMetronidazole 400mg \nq12h \nDuration based on \nclinical response; may \nrange from weeks to \nmonths. \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Col1",
+        "• Cephalexin 250-\n500mg QID (25–50\nmg/kg/day)\n• Cefadroxil 500 mg\nq12h\n• Amoxicillin-\nclavulanate\ncombination: 625mg\nTDS\nDuration: 3 to 5 days\nbased on clinical\nresponse",
+        "epilation, occlusive\ndressings, etc.\nIn case of recurrent\nlesions, look for nasal\nStaphylococcus\ncarriage.\nSimple cases of Gram-\nnegative folliculitsi,\nStaphylococcal\nfolliculitis, will generally\nresolve spontaneously\nafetr 7 to 10 days with\ngood skin hygiene.\nA large furuncle may\nalso require drainage."
+      ],
+      "rows": [
+        [
+          "Furuncle and carbuncle",
+          "Furuncles require oral\nantibiotics. The\nfollowing can be used:\nAmoxicillin 500mg TDS\n(25-50 mg/kg/day)\n• Cloxacillin 500mg QID\n(50mg/kg/day)\n• Cephalexin 250-\n500mg QID (25–50\nmg/kg/day)\n• Amoxicillin-\nclavulanate\ncombination: 625mg\nTDS\nCarbuncles require\nsurgical drainage in\nadditoi n to oral\nantibiotics; duration of\nantibiotics is 5 to 7 days\nbased on clinical\nresponse.",
+          "For severe infectoi n in\nsick patients, carbuncle\nwould require\nparenteral antibiotic,\ntreatment as follows:\nInj Cefuroxime 1.5 g\nq8h\nInj Amoxicillin-\nclavulanate 1.2g TDS\nAlternatively - Inj\nClindamycin 600-900mg\nTDS",
+          null
+        ],
+        [
+          "Gram Negative\nfolliculitsi – Not\nresponding to regular\nacne management",
+          "Trimethoprim-\nSulfamethoxazole DS\n(800+160) q12h for 10-\n14 days",
+          "Amoxicillin 500mg TDS\n(25-50 mg/kg/day) for\n7-10 days",
+          ""
+        ],
+        [
+          "Pityrosporum\nFolliculitis",
+          "Itraconazole 100-\n200mg/day for 3 weeks\nOr\nFluconazole 100-\n200mg/day for 1-2\nweeks*",
+          "",
+          ""
+        ],
+        [
+          "Demodex Folliculitsi",
+          "Topical Permethrin\n+\nMetronidazole 400mg\nq12h\nDuration based on\nclinical response; may\nrange from weeks to\nmonths.",
+          "",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.22400347391765,
+        72.1919921875,
+        547.1000315348307,
+        760.3680053710938
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

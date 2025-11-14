@@ -1,0 +1,91 @@
+{
+  "page_number": 28,
+  "text": " \n \n23 \n \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nthe purpose of this \nprotocol as multiple \ncompartment \nhydrocephalus, multiple \norganism shunt infection, \nsevere peritonitis, or \ninfections in other sites of \nthe body. \nIn sick patients \nVancomycin 25 mg/kg IV \nstat followed by \n15mg/kg q8-12h  \n+ \nMeropenem 2g IV 8 h \n \n \nFor common etiological agents of CSF shunt infections, see Annexure B.2.4 \n \nAdditional Information:  \n• \nThe time of shunt re-implantation depends on the causative organism and extent of infection. \nIt can be done as soon as after 2 days of negative cultures in patients with CoNS and normal \nCSF sugar, or 7 days of negative cultures in patients with CoNS and abnormal CSF findings, 10 \ndays of negative cultures in patients with infection with S. aureus/ gram negative bacilli. The \ntotal duration of antimicrobial therapy varies from 7-10 days for CoNS to 10-14 days for S. \naureus and Gram-negative bacilli. \n• \nThe \nInfectious \nDiseases \nSociety \nof \nAmerica \nguidelines \nrecommended \nintrathecal/intraventricular therapy daily dose of colistin 10 mg of CMS or colistimethate \nsodium (about 125 000 IU CMS; 3.75 mg CBA).  \n• \nDoses of other intra-ventricular antibiotics:  \ni. \nColistin: 125,000 IU for 9 to 16 days  \nii. \nVancomycin: 12.2 mg/day for 5 days \niii. \nGentamicin/tobramycin: 6.7 mg/day for 6 days \n• \nDoses of drugs to be given by the intrathecal/ intraventricular route (CSF shunt infections) are \ntabulated below: \nDrug \nDose \nVancomycin \n5-20 mg \nTeicoplanin \n5-40 mg \nAmikacin \n5-50 mg \nGentamicin \n1-8 mg \nColistin \n10-20 mg \nPolymyxin B \n50,000 units \nDaptomycin \n2-5 mg \nTobramycin \n5-20 mg \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "the purpose of this\nprotocol as multpi le\ncompartment\nhydrocephalus, multpi le\norganism shunt infection,\nsevere peritonitsi, or\ninfectoi ns in other sites of\nthe body."
+        ],
+        [
+          "In sick patients",
+          "Vancomycin 25 mg/kg IV\nstat followed by\n15mg/kg q8-12h\n+\nMeropenem 2g IV 8 h",
+          "",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        72.1919921875,
+        547.1200332641602,
+        301.53798828125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Drug Dose",
+        "Col1"
+      ],
+      "rows": [
+        [
+          "Vancomycin",
+          "5-20 mg"
+        ],
+        [
+          "Teicoplanin",
+          "5-40 mg"
+        ],
+        [
+          "Amikacin",
+          "5-50 mg"
+        ],
+        [
+          "Gentamicin",
+          "1-8 mg"
+        ],
+        [
+          "Colistin",
+          "10-20 mg"
+        ],
+        [
+          "Polymyxin B",
+          "50,000 units"
+        ],
+        [
+          "Daptomycin",
+          "2-5 mg"
+        ],
+        [
+          "Tobramycin",
+          "5-20 mg"
+        ]
+      ],
+      "bbox": [
+        107.03600120544434,
+        589.2199910481771,
+        488.2839950561523,
+        716.9600016276041
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "aureus"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

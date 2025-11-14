@@ -1,0 +1,38 @@
+{
+  "page_number": 67,
+  "text": " \n \n62 \n \narise in traumatized \ntissue.  \n \n \nSpontaneous Gas \ngangrene \nAggressive surgical \ndebridement \nIn spontaneous gas \ngangrene; \nInj Piperacillin-\ntazobactam 4.5g \nq6h  \n+  \nInj Clindamycin \n900mg q8h \nDuration of therapy: \n10 to 21 days till \nwound is stabilized \nand clear of \ninfection. \n \n \n \n \nDuration of \ntherapy: 10 to 21 \ndays till wound is \nstabilized and \nclear of infection \nsamples should be collected for \nanaerobic culture. \nFasciotomy may be necessary to \nrelieve compartment pressures. \nIt is important to have coordinated \ncare for these critically ill patients \nwith an intensivist, general surgeon, \northopaedic surgeon, urologist (in \nthe setting of Fournier’s gangrene of \nthe testicles and perineal \nstructures), gynaecologist (in the \nsetting of uterine gas gangrene), \ninfectious disease specialist, \ngastroenterologist (in the setting of \nspontaneous gas gangrene).  \nFor common etiological agents of gas gangrene, see Annexure B.10.3 \nReferences:  \n1. Carter GP, Cheung JK, Larcombe S, Lyras D. Regulation of toxin production in the pathogenic \nclostridia. Mol Microbiol. 2014 Jan;91(2):221-31. doi: 10.1111/mmi.12469. PMID: 24563915. \n2. Altemeier \nWA, Fullen \nWD. \nPrevention \nand \nTreatment \nof \nGas \nGangrene. JAMA. 1971;217(6):806–813. doi:10.1001/jama.1971.03190060046011 \n \n10.4 Septic arthritis  \nType of Infection \nFirst Line (with \nDosage and Duration) \nAlternative (with \nDosage and \nDuration) \nComments \nSeptic Arthritis \nAntibiotic selection is \nsame as that for acute \nosteomyelitis. \nDuration of therapy:  \n4-6 weeks for adults, \n2 weeks for \nGonococcal arthritis \n(monoarticular \narthritis in those with \nrisk of STD). \nCeftriaxone 1g q24h \nfor 2 weeks \n \nAcute septic Arthritis (in hip joints) \nmay be secondary to osteomyelitis \nof proximal femur; Duration of \ntherapy may be 3-6 weeks. \n \nAcute septic arthritis of hip joint is \nan emergency condition that often \nrequires early decompression of \nhip joint with early initiation of \nantibiotics to avoid Tom Smith \narthritis. \nFor common etiological agents of Septic arthritis, see Annexure B.10.4 \n \nReference:  \n1. Ringold, S., Angeles-Han, S.T., Beukelman, T., Lovell, D., Cuello, C.A., Becker, M.L., Colbert, \nR.A., Feldman, B.M., Ferguson, P.J., Gewanter, H., Guzman, J., Horonjeff, J., Nigrovic, P.A., \nOmbrello, M.J., Passo, M.H., Stoll, M.L., Rabinovich, C.E., Schneider, R., Halyabar, O., Hays, K., \nShah, A.A., Sullivan, N., Szymanski, A.M., Turgunbaev, M., Turner, A. and Reston, J. (2019), \n2019 American College of Rheumatology/Arthritis Foundation Guideline for the Treatment of \nJuvenile Idiopathic Arthritis: Therapeutic Approaches for Non-Systemic Polyarthritis, \n",
+  "tables": [
+    {
+      "headers": [
+        "Alternatvie (with\nFirst Line (with\nType of Infection Dosage and Comments\nDosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Septic Arthritis",
+          "Antibiotic selection is\nsame as that for acute\nosteomyelitsi.\nDuration of therapy:\n4-6 weeks for adults,\n2 weeks for\nGonococcal arthritsi\n(monoartciular\narthritsi in those with\nrisk of STD).\nCeftriaxone 1g q24h\nfor 2 weeks",
+          "",
+          "Acute septic Arthritis (in hip joints)\nmay be secondary to osteomyelitsi\nof proximal femur; Duration of\ntherapy may be 3-6 weeks.\nAcute septic arthritis of hip joint is\nan emergency conditoi n that ofetn\nrequires early decompression of\nhip joint with early initiation of\nantibiotics to avoid Tom Smith\narthritsi."
+        ]
+      ],
+      "bbox": [
+        72.16800308227539,
+        429.14198608398436,
+        547.1560363769531,
+        631.9480224609375
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "JAMA.",
+    "Septic arthritis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

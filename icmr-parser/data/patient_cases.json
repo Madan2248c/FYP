@@ -1,0 +1,182 @@
+[
+  {
+    "case_id": "CAP_001",
+    "patient_profile": {
+      "age": 58,
+      "sex": "M",
+      "history": ["diabetes", "hypertension"],
+      "allergies": []
+    },
+    "diagnosis": "Community Acquired Pneumonia",
+    "symptoms": ["fever", "productive cough", "chest pain", "shortness of breath"],
+    "vitals": {
+      "temperature": "39.2°C",
+      "respiratory_rate": "28/min",
+      "SpO2": "92% on room air"
+    },
+    "prescription": {
+      "drug": "Amoxicillin",
+      "dosage": "250mg",
+      "route": "PO",
+      "frequency": "BID",
+      "duration": "3 days"
+    }
+  },
+  {
+    "case_id": "UTI_001",
+    "patient_profile": {
+      "age": 32,
+      "sex": "F",
+      "history": ["recurrent UTI"],
+      "allergies": []
+    },
+    "diagnosis": "Urinary Tract Infections",
+    "symptoms": ["dysuria", "frequency", "urgency", "suprapubic pain"],
+    "vitals": {
+      "temperature": "37.8°C"
+    },
+    "prescription": {
+      "drug": "Nitrofurantoin",
+      "dosage": "100mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "case_id": "CAP_002",
+    "patient_profile": {
+      "age": 65,
+      "sex": "F",
+      "history": ["COPD", "heart failure"],
+      "allergies": ["penicillin"]
+    },
+    "diagnosis": "Community Acquired Pneumonia",
+    "symptoms": ["fever", "productive cough", "confusion", "tachypnea"],
+    "vitals": {
+      "temperature": "38.9°C",
+      "respiratory_rate": "32/min",
+      "SpO2": "88% on room air",
+      "blood_pressure": "90/60 mmHg"
+    },
+    "prescription": {
+      "drug": "Azithromycin",
+      "dosage": "500mg",
+      "route": "IV",
+      "frequency": "once daily",
+      "duration": "3 days"
+    }
+  },
+  {
+    "case_id": "DIARRHEA_001",
+    "patient_profile": {
+      "age": 28,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Diarrhoeal Disease",
+    "symptoms": ["watery diarrhea", "abdominal cramps", "nausea"],
+    "vitals": {
+      "temperature": "37.5°C",
+      "heart_rate": "95/min"
+    },
+    "prescription": {
+      "drug": "Ciprofloxacin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    }
+  },
+  {
+    "case_id": "SEPSIS_001",
+    "patient_profile": {
+      "age": 72,
+      "sex": "M",
+      "history": ["diabetes", "chronic kidney disease stage 3"],
+      "allergies": []
+    },
+    "diagnosis": "Sepsis",
+    "symptoms": ["fever", "hypotension", "altered mental status", "tachycardia"],
+    "vitals": {
+      "temperature": "39.8°C",
+      "heart_rate": "120/min",
+      "blood_pressure": "85/55 mmHg",
+      "lactate": "4.2 mmol/L"
+    },
+    "prescription": {
+      "drug": "Piperacillin-Tazobactam",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "every 6 hours",
+      "duration": "7 days"
+    }
+  },
+  {
+    "case_id": "MENINGITIS_001",
+    "patient_profile": {
+      "age": 22,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Bacterial Meningitis",
+    "symptoms": ["severe headache", "neck stiffness", "photophobia", "fever", "vomiting"],
+    "vitals": {
+      "temperature": "40.1°C",
+      "Glasgow Coma Scale": "13/15"
+    },
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "every 12 hours",
+      "duration": "10 days"
+    }
+  },
+  {
+    "case_id": "SSTI_001",
+    "patient_profile": {
+      "age": 45,
+      "sex": "M",
+      "history": ["obesity"],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": ["erythema", "swelling", "warmth", "purulent drainage"],
+    "vitals": {
+      "temperature": "38.3°C"
+    },
+    "prescription": {
+      "drug": "Clindamycin",
+      "dosage": "300mg",
+      "route": "PO",
+      "frequency": "three times daily",
+      "duration": "7 days"
+    }
+  },
+  {
+    "case_id": "UTI_002",
+    "patient_profile": {
+      "age": 68,
+      "sex": "F",
+      "history": ["diabetes", "recurrent UTI", "CKD stage 2"],
+      "allergies": ["sulfa drugs"]
+    },
+    "diagnosis": "Complicated Urinary Tract Infections",
+    "symptoms": ["fever", "flank pain", "dysuria", "hematuria"],
+    "vitals": {
+      "temperature": "39.0°C",
+      "creatinine": "1.8 mg/dL"
+    },
+    "prescription": {
+      "drug": "Ciprofloxacin",
+      "dosage": "400mg",
+      "route": "IV",
+      "frequency": "every 12 hours",
+      "duration": "14 days"
+    }
+  }
+]
+

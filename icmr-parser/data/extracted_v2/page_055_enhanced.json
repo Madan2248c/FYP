@@ -1,0 +1,75 @@
+{
+  "page_number": 55,
+  "text": " \n \n50 \n \n7.5 Otitis externa \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative \n(with dosage \nand Duration) \nComments \nPatient presents with painful \near and pain and tenderness \non moving the pinna, itching \nof ear canal, ear discharge \nAmoxicillin-\nclavulanate \noral 1g BD/ IV \n1.2g TDS for 5-\n7 days  \n \n \nLocal measures like ichthammol \nglycerine. \nMalignant otitis externa \n(Spreading infection, cranial \nnerve involvement, Diabetes \nMellitus or \nimmunocompromised) \nPiperacillin-\ntazobactam \n4.5g IV q6h   \nOr \nCeftazidime 2g \nIV q8h \nfor 4-6 weeks \nMeropenem 1g \nIV q8h \n/Imipenem-\ncilastatin 500mg \nIV q6h \nfor 4-6 weeks  \nDebridement may be required. \nSend samples for culture at the \nearliest (from ear canal or surgical \ndebridement specimen). \nEvaluate for osteomyelitis; Do CT \nor MRI, if bone is involved. \nFor common etiological agents of Acute otitis externa, see Annexure B.7.5 \n \n7.6 Head and neck abscesses (peritonsillar/parapharyngeal and \nretropharyngeal abscess) \nType of Infection \nFirst Line (with Dosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nPatient-\nhemodynamically stable \nand immunocompetent \nAmoxicillin-clavulanate 1.2g \nIV TDS for 7 days \nInj Ceftriaxone 2g IV \nOD  \n+ \nInj Metronidazole \n500mg IV TDS for 7 \ndays \nConsider surgical \ndrainage with general \nmeasures like pain \ncontrol and radiologic \nevaluation and airway \nmanagement.  \n \nWork up for \ntuberculosis as per \nindication. \n \nTreatment for 2-3 \nweeks depending on \nsource control and \npatient’s clinical \nresponse. \nPatient hemodynamically \nunstable or presence of \nimmunocompromising \ncondition \nInj Piperacillin-tazobactam \n4.5g IV q6h \n + \nInj Clindamycin 600mg IV \nTDS for 7 days \nInj Meropenem 1g \nIV TDS  \n+ \nInj Vancomycin 1g \nq12h/ Inj \nTeicoplanin 400mg \nIV BD for 3 doses \nand then 400mg OD \nfor 7 days \nFor common etiological agents of head & neck abscesses (peritonsillar/parapharyngeal and \nretropharyngeal abscess), see Annexure B.7.6 \n \nAdditional information:  \n• \nA pure submental abscess like presentation should be evaluated for Ludwig’s angina.  \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie Comments\nDosage and (with dosage\nDuration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Patient presents with painful\near and pain and tenderness\non moving the pinna, itching\nof ear canal, ear discharge",
+          "Amoxicillin-\nclavulanate\noral 1g BD/ IV\n1.2g TDS for 5-\n7 days",
+          "",
+          "Local measures like ichthammol\nglycerine."
+        ],
+        [
+          "Malignant otitsi externa\n(Spreading infection, cranial\nnerve involvement, Diabetes\nMellitus or\nimmunocompromised)",
+          "Piperacillin-\ntazobactam\n4.5g IV q6h\nOr\nCefatzidime 2g\nIV q8h\nfor 4-6 weeks",
+          "Meropenem 1g\nIV q8h\n/Imipenem-\ncilastatin 500mg\nIV q6h\nfor 4-6 weeks",
+          "Debridement may be required.\nSend samples for culture at the\nearliest (from ear canal or surgical\ndebridement specimen).\nEvaluate for osteomyelitsi; Do CT\nor MRI, if bone is involved."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        97.2919677734375,
+        547.1200332641602,
+        313.777978515625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage and Alternatvie (with Comments\nDuration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Patient-\nhemodynamically stable\nand immunocompetent",
+          "Amoxicillin-clavulanate 1.2g\nIV TDS for 7 days",
+          "Inj Ceftriaxone 2g IV\nOD\n+\nInj Metronidazole\n500mg IV TDS for 7\ndays",
+          "Consider surgical\ndrainage with general\nmeasures like pain\ncontrol and radiologic\nevaluation and airway\nmanagement.\nWork up for\ntuberculosis as per\nindication.\nTreatment for 2-3\nweeks depending on\nsource control and\npatient’s clinical\nresponse."
+        ],
+        [
+          "Patient hemodynamically\nunstable or presence of\nimmunocompromising\ncondition",
+          "Inj Piperacillin-tazobactam\n4.5g IV q6h\n+\nInj Clindamycin 600mg IV\nTDS for 7 days",
+          "Inj Meropenem 1g\nIV TDS\n+\nInj Vancomycin 1g\nq12h/ Inj\nTeicoplanin 400mg\nIV BD for 3 doses\nand then 400mg OD\nfor 7 days",
+          null
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        405.26198120117186,
+        553.0000381469727,
+        672.6279541015625
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Otitis externa",
+    "Head and neck abscesses (peritonsillar/parapharyngeal and",
+    "retropharyngeal abscess)"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

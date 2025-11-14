@@ -1,0 +1,45 @@
+{
+  "page_number": 89,
+  "text": " \n \n84 \n \nDoxycycline 100mg \nq12h \nDuration: 7 days \nDoxycycline 100mg \nq12h \nDuration: 7 days \n \nNecrotizing pneumonia \npreceding Influenza infection \nFor common etiological agents of community acquired pneumonia, see Annexure B.12.5 \nAdditional information: \n• \nIf Pneumonia not resolving in 2 weeks – rule out TB \nReferences: \n1. Sharma BB, Singh V. Indian pneumonia guidelines. Lung India. 2012;29(4):307-308. \ndoi:10.4103/0970-2113.102793 \n2. Metlay JP, Waterer GW, Long AC, et al. Diagnosis and Treatment of Adults with Community-\nacquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society \nand Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019;200(7):e45-e67. \ndoi:10.1164/rccm.201908-1581ST \n3. Treatment Guidelines for Antimicrobial Use in Common Syndromes. 2nd edition. ICMR. 2019. \nNew \nDelhi \n(Accessed \non \n2nd \nApril, \n2025). \nAvailable \nfrom:  \nhttps://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-\nguidelines/Treatment_Guidelines_2019_Final.pdf \n12.6 Lung Abscess \nType of Infection  \nFirst Line (with Dosage \nand Duration) \nAlternative (with dosage \nand Duration) \nComments \nPrimary lung abscess* \n(In patients with \npreviously healthy lungs \nand no underlying \nstructural lung disease) \nInj Clindamycin 600mg IV \nq8h \nOr  \nInj Amoxicillin-\nclavulanate 1.2g IV q8h \nInj Piperacillin- \ntazobactam 4.5g IV q6h \nOr  \nCefoperazone- \nsulbactam 3g IV q12h \nConsider source \ncontrol in the form \nof drainage.  \nChange to targeted \ntherapy as per \nculture results of \npus/ sputum / BAL. \nSwitch to oral as \nand when patient is \nstable and able to \ntake orally. \nTreat for 4-6 weeks. \nSecondary Lung \nAbscess** \n(in patients with \nconditions causing \nobstruction of airways: \neg: malignancies) \nInj Piperacillin-\ntazobactam 4.5g IV q6h \nOr  \nCefoperazone- \nsulbactam 3g IV q12h  \nImipenem- cilastatin 500 \nmg IV q6h \nOr  \nMeropenem 1g IV q8h \n \nChange to targeted \ntherapy as per \nculture result of \npus/ sputum / BAL. \nTreat for 4-6 weeks. \nFor common etiological agents of lung abscess, see Annexure B.12.6 \n*Primary Lung abscess: due to aspiration of oropharyngeal secretions - dental/periodontal infection, \npara \nnasal \nsinusitis, \naltered \nstates \nof \nconsciousness, \nnecrotizing \npneumonia \nor \nin \nimmunocompromised patients \n**Secondary Lung abscess: due to bronchial obstructions (by tumor, foreign body or enlarged lymph \nnodes), with coexisting lung diseases (bronchiectasis, infected pulmonary infarcts), spreading from \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with dosage Comments\nand Duration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Primary lung abscess*\n(In patients with\npreviously healthy lungs\nand no underlying\nstructural lung disease)",
+          "Inj Clindamycin 600mg IV\nq8h\nOr\nInj Amoxicillin-\nclavulanate 1.2g IV q8h",
+          "Inj Piperacillin-\ntazobactam 4.5g IV q6h\nOr\nCefoperazone-\nsulbactam 3g IV q12h",
+          "Consider source\ncontrol in the form\nof drainage.\nChange to targeted\ntherapy as per\nculture results of\npus/ sputum / BAL.\nSwitch to oral as\nand when patient is\nstable and able to\ntake orally.\nTreat for 4-6 weeks."
+        ],
+        [
+          "Secondary Lung\nAbscess**\n(in patients with\nconditions causing\nobstruction of airways:\neg: malignancies)",
+          "Inj Piperacillin-\ntazobactam 4.5g IV q6h\nOr\nCefoperazone-\nsulbactam 3g IV q12h",
+          "Imipenem- cilastatin 500\nmg IV q6h\nOr\nMeropenem 1g IV q8h",
+          "Change to targeted\ntherapy as per\nculture result of\npus/ sputum / BAL.\nTreat for 4-6 weeks."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        395.54197998046874,
+        547.1400349934896,
+        665.66796875
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Lung India",
+    "Am J Respir Crit Care Med",
+    "Lung Abscess"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

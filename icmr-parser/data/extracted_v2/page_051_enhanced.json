@@ -1,0 +1,43 @@
+{
+  "page_number": 51,
+  "text": " \n \n46 \n \n7. Ear, Nose and Throat Infections  \n7.1 Rhinitis/ Common cold \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative \n(with dosage \nand Duration) \nComments \nUncomplicated - \nViral Rhinitis \n(mostly at OPDs)  \nSymptomatic \ntherapy including \nparacetamol, nasal \nsaline drops, rest, \noral fluids, \nhumidification (as \nindicated) \n \nSome cases might need oral and nasal \ndecongestants and antitussives such as \ndextromethorphan/ codeine and nasal \nirrigation. \nInfluenza-like \nsymptoms \n(lab confirmed or \noutbreak situation \nor in high-risk \npersons) \nOseltamivir 75mg \nq12h for 5-7 days. \n[Antivirals may be \nconsidered for Cat \nB1, B2 and C as per \nABC guidelines for \ninfluenza7] \n \nIn patients with influenza:  \nwhen Oseltamivir is started within 48 \nhours of onset, duration of symptoms \nreduces by 1 day, there is a decrease in \nviral shedding/ infectiousness and it \nmay reduce the risk of development of \ncomplications. \nConsider Empiric therapy of Oseltamivir \nin: \npatients with influenza like illness during \nan ongoing outbreak, who are at high \nrisk of complications such as pregnant \nwomen, those with co-morbidities and \nimmunocompromised. \nFor common probable etiological agents of Rhinitis/common cold, see Annexure B.7.1 \nAdditional Information:  \n• \nAntimicrobial therapy is not indicated for viral rhinitis. The patients should be warned about \nsymptoms which indicate complications like breathing difficulty, persistent fever beyond 4-5 \ndays or ear pain. \nReferences: \n1. Bhardwaj N, Mathur P, Behera B, Mathur K, Kapil A, Misra MC. Antimicrobial resistance in beta-\nhaemolytic streptococci in India: A four-year study. Indian J Med Res. 2018 Jan;147(1):81-87. \ndoi: 10.4103/ijmr.IJMR_1517_16. PMID: 29749365; PMCID: PMC5967222. \n2. Kim K, Jung S, Kim M, Park S, Yang HJ, Lee E. Global Trends in the Proportion of Macrolide-\nResistant Mycoplasma pneumoniae Infections: A Systematic Review and Meta-analysis. JAMA \nNetw Open. 2022 Jul 1;5(7):e2220949. doi: 10.1001/jamanetworkopen.2022.20949. PMID: \n35816304; PMCID: PMC9274321. \n3. Muthanna A, Shamsuddin NH, Abdul Rashid A, Ghazali SS, Hamat RA, Mawardi M, Salim HS, \nZakariah SZ. Diagnostic Accuracy of Centor Score for Diagnosis of Group A Streptococcal \nPharyngitis among Adults in Primary Care Clinics in Malaysia. Malays J Med Sci. 2022 \n \n7 https://ncdc.mohfw.gov.in/technical-guidelines-for-h1n1/ \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie Comments\nDosage and (with dosage\nDuration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated -\nViral Rhinitis\n(mostly at OPDs)",
+          "Symptomatic\ntherapy including\nparacetamol, nasal\nsaline drops, rest,\noral fluids,\nhumidification (as\nindicated)",
+          "",
+          "Some cases might need oral and nasal\ndecongestants and antitussives such as\ndextromethorphan/ codeine and nasal\nirrigation."
+        ],
+        [
+          "Influenza-like\nsymptoms\n(lab confirmed or\noutbreak situation\nor in high-risk\npersons)",
+          "Oseltamivir 75mg\nq12h for 5-7 days.\n[Antivirals may be\nconsidered for Cat\nB1, B2 and C as per\nABC guidelines for\ninfluenza7]",
+          "",
+          "In patients with influenza:\nwhen Oseltamivir is started within 48\nhours of onset, duration of symptoms\nreduces by 1 day, there is a decrease in\nviral shedding/ infectoi usness and it\nmay reduce the risk of development of\ncomplications.\nConsider Empiric therapy of Oseltamivir\nin:\npatients with influenza like illness during\nan ongoing outbreak, who are at high\nrisk of complications such as pregnant\nwomen, those with co-morbiditeis and\nimmunocompromised."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        149.61197509765626,
+        547.1200332641602,
+        473.5179870605469
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Rhinitis/ Common cold"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

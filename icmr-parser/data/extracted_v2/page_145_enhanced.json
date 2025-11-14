@@ -1,0 +1,66 @@
+{
+  "page_number": 145,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nB.12.5 \nCommunity \nacquired \npneumonia \nOutpatients: \nBacterial: \nStreptococcus pneumoniae \nMycoplasma pneumoniae \nHaemophilus influenzae \nC. pneumoniae \nViral: Respiratory viruses \nNon-ICU hospitalized patients: \nBacterial: \nS. pneumoniae \nM. pneumoniae \nChlamydia pneumoniae \nH. influenzae \nLegionella spp. \nViral: Respiratory viruses \nICU patients: \nBacterial: \nS. pneumoniae \nStaphylococcus aureus \nLegionella spp. \nGram-negative bacilli \nH. influenzae \nViral: Respiratory viruses \nHarrison’s Principles of Internal Medicine \nTable 126-1. Pg 1010 \n  \nB.12.6 \nLung abscess \nPrimary lung abscess: \nBacterial: \nBacteroides spp. \nPrevotella spp. \nPeptostreptococcus spp.  \nStreptococcus milleri \nMicroaerophilic Streptococci \n \nSecondary lung abscess:  \nBacterial: \nStaphylococcus aureus \nEnterobacterales \nPseudomonas aeruginosa \nStreptococcus pyogenes \nHemophilus influenzae type b \nNocardia spp. \nActinomyces \nAnaerobic bacteria  \n(Fusobacterium spp., or \nStreptococci) \nHarrison’s Principles of Internal Medicine \nTable 127-1. Pg 1020 \n  \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.12.5",
+          "Community\nacquired\npneumonia",
+          "Outpatients:\nBacterial:\nStreptococcus pneumoniae\nMycoplasma pneumoniae\nHaemophilus influenzae\nC. pneumoniae\nViral: Respiratory viruses\nNon-ICU hospitalized patients:\nBacterial:\nS. pneumoniae\nM. pneumoniae\nChlamydia pneumoniae\nH. influenzae\nLegionella spp.\nViral: Respiratory viruses\nICU patients:\nBacterial:\nS. pneumoniae\nStaphylococcus aureus\nLegionella spp.\nGram-negative bacilli\nH. influenzae\nViral: Respiratory viruses",
+          "Harrison’s Principles of Internal Medicine\nTable 126-1. Pg 1010"
+        ],
+        [
+          "B.12.6",
+          "Lung abscess",
+          "Primary lung abscess:\nBacterial:\nBacteroides spp.\nPrevotella spp.\nPeptostreptococcus spp.\nStreptococcus milleri\nMicroaerophilic Streptococci\nSecondary lung abscess:\nBacterial:\nStaphylococcus aureus\nEnterobacterales\nPseudomonas aeruginosa\nStreptococcus pyogenes\nHemophilus influenzae type b\nNocardia spp.\nActni omyces\nAnaerobic bacteria\n(Fusobacterium spp., or\nStreptococci)",
+          "Harrison’s Principles of Internal Medicine\nTable 127-1. Pg 1020"
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        64.03201904296876,
+        575.4599609375,
+        783.28798828125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Streptococcus pneumoniae",
+    "Mycoplasma pneumoniae",
+    "Haemophilus influenzae",
+    "C. pneumoniae",
+    "Viral:",
+    "S. pneumoniae",
+    "M. pneumoniae",
+    "Chlamydia pneumoniae",
+    "H. influenzae",
+    "Legionella spp.",
+    "S. pneumoniae",
+    "Staphylococcus aureus",
+    "Legionella spp.",
+    "H. influenzae",
+    "Bacteroides spp.",
+    "Prevotella spp.",
+    "Peptostreptococcus spp.",
+    "Streptococcus milleri",
+    "Staphylococcus aureus",
+    "Pseudomonas aeruginosa",
+    "Streptococcus pyogenes",
+    "Hemophilus influenzae",
+    "Nocardia spp.",
+    "Fusobacterium spp"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

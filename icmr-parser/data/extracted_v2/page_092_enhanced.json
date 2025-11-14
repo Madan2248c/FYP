@@ -1,0 +1,63 @@
+{
+  "page_number": 92,
+  "text": " \n \n87 \n \n13. Toxin-mediated Syndromes \n13.1 Botulism \nType of \nInfection \nFirst Line \n(with \nDosage \nand \nDuration) \nAlternative \n(with \ndosage and \nDuration) \nComments \nBotulism  \nNo role of \nantibiotics \nfor food \nborne or \nintestinal \nBotulism  \n \n \nBotulism is a serious medical emergency that requires \nimmediate treatment. \nBotulinum antitoxins to be administered as soon as possible, \nthis can neutralize botulinum toxin and prevent further \ndamage.   \nIt works best when given early in the illness, but it can't \nreverse paralysis that has already happened. \nFor common etiological agents of botulism, see Annexure B.13.1 \nReference: \n1. CDC. \nTreatment \nof \nBotulism. \nApril \n17, \n2024. \nAvailable \nfrom: \nhttps://www.cdc.gov/botulism/treatment/index.html \n13.2 Diphtheria \nType of \nInfection \nFirst Line (with Dosage and Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nDiphtheria Crystalline penicillin (for cases) and \nErythromycin (for contacts/less severe \ncases etc.) halts the bacterial growth, \nbut cannot alter the toxic systemic \nimpacts of the toxin.   \nThe drugs of choice are: \nCrystalline penicillin IV 1.5 lakh \nUnits/Kg/day divided 6 hrly or in adults \n20 lakh units 6 hrly for 14 days. Doses \nas high as 40 lakh units 6hrly have been \nused in exceptional circumstances. \nErythromycin 40mg/kg/day divided 6 \nhrly, or in adults 500mg 6hrly orally \nafter food for 14 days.  \nDiphtheria antitoxin used in a single \nintravenous empirical dosage is the \nmainstay of treatment. Diphtheria \nantitoxin is given as IV infusion after \ntest dose as per vial instructions. Dose \nis dependent on degree of general \nAdult: \nErythromycin 500 \nmg 4 times a day for \na 2-week duration \n \nFor paediatric: \nErythromycin 40-\n50mg/kg/day in 4 \ndivided doses times \na day for a 2-\nweek duration. \nAzithromycin 10 to \n12 mg/kg OD for 7 \ndays may be used \ninstead of \nErythromycin. \n \nFor contacts:  \nErythromycin \n40mg/Kg/day \nThe clinical \nmanifestations of C \ndiphtheriae infection are \ndiverse and depend on \nfactors such as the \nanatomical site of \ninfection, the immune \nstatus of the host, and \nthe production and \nsystemic distribution of \ntoxins. \nIn suspected cases of \ndiphtheria, antitoxin \nshould \nbe administered urgently \nbased \non clinical judgment \nwithout waiting for \nlaboratory confirmation. \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line Alternatvie Comments\nInfection (with (with\nDosage dosage and\nand Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Botulism",
+          "No role of\nantibiotics\nfor food\nborne or\nintestinal\nBotulism",
+          "",
+          "Botulism is a serious medical emergency that requires\nimmediate treatment.\nBotulinum antitoxins to be administered as soon as possible,\nthis can neutralize botulinum toxin and prevent further\ndamage.\nIt works best when given early in the illness, but it can't\nreverse paralysis that has already happened."
+        ]
+      ],
+      "bbox": [
+        71.88400395711263,
+        149.61197509765626,
+        546.9000244140625,
+        327.2179809570313
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of First Line (with Dosage and Duration) Alternatvie (with Comments\nInfection dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Diphtheria",
+          "Crystalline penicillin (for cases) and\nErythromycin (for contacts/less severe\ncases etc.) halts the bacterial growth,\nbut cannot alter the toxic systemic\nimpacts of the toxin.\nThe drugs of choice are:\nCrystalline penicillin IV 1.5 lakh\nUnits/Kg/day divided 6 hrly or in adults\n20 lakh units 6 hrly for 14 days. Doses\nas high as 40 lakh units 6hrly have been\nused in exceptional circumstances.\nErythromycin 40mg/kg/day divided 6\nhrly, or in adults 500mg 6hrly orally\nafetr food for 14 days.\nDiphtheria antitoxin used in a single\nintravenous empirical dosage is the\nmainstay of treatment. Diphtheria\nantitoxin is given as IV infusion afetr\ntest dose as per vial instructions. Dose\nis dependent on degree of general",
+          "Adult:\nErythromycin 500\nmg 4 times a day for\na 2-week duratoi n\nFor paediatric:\nErythromycin 40-\n50mg/kg/day in 4\ndivided doses times\na day for a 2-\nweek duration.\nAzithromycin 10 to\n12 mg/kg OD for 7\ndays may be used\ninstead of\nErythromycin.\nFor contacts:\nErythromycin\n40mg/Kg/day",
+          "The clinical\nmanifestations of C\ndiphtheriae infectoi n are\ndiverse and depend on\nfactors such as the\nanatomical site of\ninfectoi n, the immune\nstatus of the host, and\nthe production and\nsystemic distribution of\ntoxins.\nIn suspected cases of\ndiphtheria, antitoxin\nshould\nbe administered urgently\nbased\non clinical judgment\nwithout waitni g for\nlaboratory confirmation."
+        ]
+      ],
+      "bbox": [
+        71.88400395711263,
+        452.30198974609374,
+        546.9000244140625,
+        762.28798828125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Botulism",
+    "Diphtheria",
+    "diphtheriae"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

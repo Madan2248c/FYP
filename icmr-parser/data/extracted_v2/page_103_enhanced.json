@@ -1,0 +1,43 @@
+{
+  "page_number": 103,
+  "text": " \n \n \n3. When to start Empirical Antifungal Therapy:  \n• \nEmpirical antifungal therapy is not advised unless patient is unstable, use of CT chest and \nfungal biomarkers like serum Galactomannan and serum beta D glucan is encouraged. \n• \nFebrile after 72 hrs of antibiotic therapy. \nAdditional information: \n• \nUnexplained persistent fever in the otherwise stable patient doesn’t require a change in \nempirical antibiotic regimen. Continue the regimen till ANC is >500 cells/mm3. \n• \nIf glycopeptide has been started as a part of empirical regimen, STOP after 48 hrs, if no \nevidence of gram-positive infection. \n• \nAntibiotic therapy in febrile neutropenia can be stopped if patients are afebrile for 3 days, \nprovision for close observation is present and culture negative irrespective of ANC recovery. \n• \nShifting to oral antibiotics during neutropenia can be done if stable and susceptibility to the \noral drug has been demonstrated.  \nReferences: \n1. Freifeld AG, Bow EJ, Sepkowitz KA, Boeckh MJ, Ito JI, Mullen CA, et al. Infectious Diseases \nSociety of America. Clinical practice guideline for the use of antimicrobial agents in \nneutropenic patients with cancer: 2010 update by the Infectious Diseases Society of America. \nClin Infect Dis. 2011 Feb 15;52(4): e56-93. doi: 10.1093/cid/cir073. PMID: 21258094. \n2. Averbuch D, Orasch C, Cordonnier C, Livermore DM, Mikulska M, Viscoli C, et. al. ECIL4, a joint \nventure of EBMT, EORTC, ICHS, ESGICH/ESCMID and ELN. European guidelines for empirical \nantibacterial therapy for febrile neutropenic patients in the era of growing resistance: \nsummary of the 2011 4th European Conference on Infections in Leukemia. Haematologica. \n2013 Dec;98(12):1826-35. doi: 10.3324/haematol.2013.091025. Erratum in: Haematologica. \n2014 Feb;99(2):400. PMID: 24323983; PMCID: PMC3856957. \n17.2 Infections in Solid Organ Transplant recipients \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nImmediate post-operative \nfever (first 48 hours) \nwithout hemodynamic \ninstability \nClose observation without \nany change of \nantimicrobials \nDuration: 48 hours \n \nRule out non-\ninfectious causes, \nhematoma, DVT, \ntransfusion fever, etc. \nSurgical site infection \nTreatment based on \nhospital antibiogram and \ntype of surgery and \nmodify as per culture \nresults \n \n \nFor common etiological agents of Infections in SOT recipients, see Annexure B.17.2 \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Immediate post-operative\nfever (first 48 hours)\nwithout hemodynamic\ninstability",
+          "Close observatoi n without\nany change of\nantimicrobials\nDuration: 48 hours",
+          "",
+          "Rule out non-\ninfectoi us causes,\nhematoma, DVT,\ntransfusion fever, etc."
+        ],
+        [
+          "Surgical site infection",
+          "Treatment based on\nhospital antibiogram and\ntype of surgery and\nmodify as per culture\nresults",
+          "",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        480.3819946289062,
+        547.1200332641602,
+        643.2279907226563
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Infections in Solid Organ Transplant recipients"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

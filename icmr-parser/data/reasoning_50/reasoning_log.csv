@@ -1,0 +1,167 @@
+case_id,status,retries,validation_checks,warnings,error
+AG_ERR_039,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': True}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Dosage Accuracy Check: Dosage 168mg outside acceptable range of 500mg (±10%)
+PSB_ERR_033,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': False}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Drug Validity Check: Drug 'ciprofloxacin' not found in ICMR first-line or alternative recommendations
+CLB_ERR_047,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Dosage Accuracy Check: Dosage 24 mg/kg outside acceptable range of 15 mg/kg (±10%)
+PI(_ERR_031,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': True}, {'check': 'Duration Check', 'passed': True}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Dosage Accuracy Check: Dosage 2mg/kg/dose (max 600 mg/dose) outside acceptable range of 10mg/kg/dose (max 600 mg/dose) (±10%)
+AAD_ERR_044,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': False}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': True}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Drug Validity Check: Drug 'ampicillin' not found in ICMR first-line or alternative recommendations
+FNS_ERR_040,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Dosage Accuracy Check: Dosage 11 mg/kg loading and 15 mg/kg outside acceptable range of 25 mg/kg loading and 15 mg/kg (±10%)
+SSTI_ERR_049,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Duration Check: Duration 1-2 days differs significantly from guideline 3 to 7 days
+DI_ERR_035,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Duration Check: Duration 1-2 days differs significantly from guideline 5 days
+UTI_ERR_037,success,1,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]","Drug Validity Check: Drug 'ampicillin' not in ICMR list but justified in reasoning, Dosage Accuracy Check: Drug not found in guidelines for dosage comparison, Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome, Duration Check: No guideline duration available for comparison",
+SSTI_027,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]","Drug Validity Check: Drug 'mupirocin' not in ICMR list but justified in reasoning, Dosage Accuracy Check: Could not parse dosage: 2%, Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome, Duration Check: No guideline duration available for comparison",
+IE_010,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': True}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Duration Check: Duration 4-6 weeks differs significantly from guideline 6 weeks
+CSI_ERR_041,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Dosage Accuracy Check: Dosage 10 mg/kg outside acceptable range of 25 mg/kg (±10%)
+BA_ERR_042,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': True}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Duration Check: Duration 1-2 days differs significantly from guideline 3-12 weeks
+SSTI_028,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': False}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Drug Validity Check: Drug 'bacitracin' not found in ICMR first-line or alternative recommendations
+UTI_ERR_048,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': True}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Dosage Accuracy Check: Dosage 158 mg outside acceptable range of 100 mg (±10%)
+HAI_001,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': True}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",Duration Check: Could not parse duration: Not specified,
+MS_005,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': True}, {'check': 'Reasoning Completeness Check', 'passed': True}]",Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome,
+TP_052,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': True}, {'check': 'Reasoning Completeness Check', 'passed': True}]",Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome,
+BWI_ERR_110,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]","Dosage Accuracy Check: Could not parse dosage: 0.5%, Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome, Duration Check: No duration specified in prescription",
+FNS_ERR_132,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]","Dosage Accuracy Check: Could not parse dosage: 6-20 lakhs units, Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome, Duration Check: No duration specified in prescription",
+NI_075,failed,2,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': False}, {'check': 'Dosage Accuracy Check', 'passed': False}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,Drug Validity Check: Drug 'ciprofloxacin' not found in ICMR first-line or alternative recommendations
+CLB_021,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]","Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome, Duration Check: No duration specified in prescription",
+ATG_ERR_098,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': False}, {'check': 'Reasoning Completeness Check', 'passed': True}]","Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome, Duration Check: Could not parse guideline duration: Not specified",
+CAP_014,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': True}, {'check': 'Duration Check', 'passed': True}, {'check': 'Reasoning Completeness Check', 'passed': True}]",,
+AG_058,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': True}, {'check': 'Reasoning Completeness Check', 'passed': True}]",Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome,
+RC_ERR_139,failed,2,0,,Validation failed after max retries
+SA_015,failed,2,0,,Validation failed after max retries
+CSI_036,failed,2,0,,Validation failed after max retries
+PSB_ERR_128,failed,2,0,,Validation failed after max retries
+AAD_ERR_111,failed,2,0,,Validation failed after max retries
+OCA_002,failed,2,0,,Validation failed after max retries
+CLB_ERR_144,failed,2,0,,Validation failed after max retries
+IOL_030,failed,2,0,,Validation failed after max retries
+NI_ERR_150,failed,2,0,,Validation failed after max retries
+IC_054,failed,2,0,,Validation failed after max retries
+IE_ERR_096,failed,2,0,,Validation failed after max retries
+IIA_ERR_135,failed,2,0,,Validation failed after max retries
+IE_089,failed,2,0,,Validation failed after max retries
+IE_ERR_143,failed,2,0,,Validation failed after max retries
+FNS_ERR_127,failed,2,0,,Validation failed after max retries
+PSB_ERR_121,failed,2,0,,Validation failed after max retries
+AO_011,failed,2,0,,Validation failed after max retries
+BA_ERR_124,failed,2,0,,Validation failed after max retries
+NI_048,failed,2,0,,Validation failed after max retries
+RC_037,failed,2,0,,Validation failed after max retries
+ATG_084,failed,2,0,,Validation failed after max retries
+FNS_004,failed,2,0,,Validation failed after max retries
+ES_088,failed,2,0,,Validation failed after max retries
+AP_ERR_123,failed,2,0,,Validation failed after max retries
+ATG_ERR_116,failed,2,0,,Validation failed after max retries
+CSI_ERR_145,failed,2,0,,Validation failed after max retries
+C_070,failed,2,0,,Validation failed after max retries
+PSB_ERR_114,failed,2,0,,Validation failed after max retries
+AG_ERR_109,failed,2,0,,Validation failed after max retries
+AO_ERR_137,failed,2,0,,Validation failed after max retries
+HAI_ERR_112,failed,2,0,,Validation failed after max retries
+CSI_005,failed,2,0,,Validation failed after max retries
+DFI_085,failed,2,0,,Validation failed after max retries
+NI_ERR_115,failed,2,0,,Validation failed after max retries
+DFI_ERR_100,failed,2,0,,Validation failed after max retries
+P_022,failed,2,0,,Validation failed after max retries
+SAA_ERR_106,failed,2,0,,Validation failed after max retries
+BWI_059,failed,2,0,,Validation failed after max retries
+FNS_ERR_092,failed,2,0,,Validation failed after max retries
+ATG_044,failed,2,0,,Validation failed after max retries
+BA_060,failed,2,0,,Validation failed after max retries
+AAD_068,failed,2,0,,Validation failed after max retries
+IOL_087,failed,2,0,,Validation failed after max retries
+IE_ERR_134,failed,2,0,,Validation failed after max retries
+CAP_ERR_142,failed,2,0,,Validation failed after max retries
+PI(_ERR_120,failed,2,0,,Validation failed after max retries
+FNS_057,failed,2,0,,Validation failed after max retries
+C_066,failed,2,0,,Validation failed after max retries
+UTI_ERR_117,success,0,"[{'check': 'Guideline Reference Check', 'passed': True}, {'check': 'Drug Validity Check', 'passed': True}, {'check': 'Dosage Accuracy Check', 'passed': True}, {'check': 'Pathogen-Drug Link Check', 'passed': False}, {'check': 'Duration Check', 'passed': True}, {'check': 'Reasoning Completeness Check', 'passed': True}]",Pathogen-Drug Link Check: No pathogens listed in ICMR guidelines for this syndrome,
+AP_078,failed,2,0,,Validation failed after max retries
+IIA_ERR_099,failed,2,0,,Validation failed after max retries
+FNS_035,failed,2,0,,Validation failed after max retries
+SSTI_006,failed,2,0,,Validation failed after max retries
+CLB_045,failed,2,0,,Validation failed after max retries
+CAP_ERR_105,failed,2,0,,Validation failed after max retries
+ES_009,failed,2,0,,Validation failed after max retries
+FNS_051,failed,2,0,,Validation failed after max retries
+RC_055,failed,2,0,,Validation failed after max retries
+AO_003,failed,2,0,,Validation failed after max retries
+UTI_080,failed,2,0,,Validation failed after max retries
+IC_067,failed,2,0,,Validation failed after max retries
+SA_029,failed,2,0,,Validation failed after max retries
+MS_ERR_102,failed,2,0,,Validation failed after max retries
+G(S_ERR_097,failed,2,0,,Validation failed after max retries
+AAD_039,failed,2,0,,Validation failed after max retries
+IE_012,failed,2,0,,Validation failed after max retries
+G(S_ERR_140,failed,2,0,,Validation failed after max retries
+ATG_073,failed,2,0,,Validation failed after max retries
+IE_032,failed,2,0,,Validation failed after max retries
+NI_079,failed,2,0,,Validation failed after max retries
+AG_ERR_133,failed,2,0,,Validation failed after max retries
+NI_033,failed,2,0,,Validation failed after max retries
+CSI_028,failed,2,0,,Validation failed after max retries
+G(S_069,failed,2,0,,Validation failed after max retries
+UTI_017,failed,2,0,,Validation failed after max retries
+AG_065,failed,2,0,,Validation failed after max retries
+SAA_023,failed,2,0,,Validation failed after max retries
+DI_074,failed,2,0,,Validation failed after max retries
+SA_019,failed,2,0,,Validation failed after max retries
+DI_081,failed,2,0,,Validation failed after max retries
+RC_ERR_091,failed,2,0,,Validation failed after max retries
+IC_083,failed,2,0,,Validation failed after max retries
+MS_049,failed,2,0,,Validation failed after max retries
+IOL_ERR_107,failed,2,0,,Validation failed after max retries
+BWI_034,failed,2,0,,Validation failed after max retries
+TP_086,failed,2,0,,Validation failed after max retries
+CAP_047,failed,2,0,,Validation failed after max retries
+BWI_ERR_118,failed,2,0,,Validation failed after max retries
+OIA_046,failed,2,0,,Validation failed after max retries
+C_063,failed,2,0,,Validation failed after max retries
+HAI_072,failed,2,0,,Validation failed after max retries
+BWI_041,failed,2,0,,Validation failed after max retries
+EF_007,failed,2,0,,Validation failed after max retries
+SA_040,failed,2,0,,Validation failed after max retries
+P_ERR_136,failed,2,0,,Validation failed after max retries
+TP_064,failed,2,0,,Validation failed after max retries
+OIA_077,failed,2,0,,Validation failed after max retries
+CSI_053,failed,2,0,,Validation failed after max retries
+RC_ERR_122,failed,2,0,,Validation failed after max retries
+DFI_ERR_130,failed,2,0,,Validation failed after max retries
+PSB_071,failed,2,0,,Validation failed after max retries
+CAP_ERR_108,failed,2,0,,Validation failed after max retries
+HAI_ERR_125,failed,2,0,,Validation failed after max retries
+OCA_024,failed,2,0,,Validation failed after max retries
+RC_061,failed,2,0,,Validation failed after max retries
+CAP_ERR_119,failed,2,0,,Validation failed after max retries
+DFI_010,failed,2,0,,Validation failed after max retries
+TP_ERR_113,failed,2,0,,Validation failed after max retries
+OCA_090,failed,2,0,,Validation failed after max retries
+OC_ERR_094,failed,2,0,,Validation failed after max retries
+EF_031,failed,2,0,,Validation failed after max retries
+NI_ERR_129,failed,2,0,,Validation failed after max retries
+SSTI_ERR_104,failed,2,0,,Validation failed after max retries
+CLB_001,failed,2,0,,Validation failed after max retries
+BWI_038,failed,2,0,,Validation failed after max retries
+IOL_027,failed,2,0,,Validation failed after max retries
+PI(_025,failed,2,0,,Validation failed after max retries
+AP_076,failed,2,0,,Validation failed after max retries
+IE_016,failed,2,0,,Validation failed after max retries
+NI_ERR_149,failed,2,0,,Validation failed after max retries
+CSI_042,failed,2,0,,Validation failed after max retries
+SAA_020,failed,2,0,,Validation failed after max retries
+SSTI_008,failed,2,0,,Validation failed after max retries
+TP_013,failed,2,0,,Validation failed after max retries
+PI(_ERR_131,failed,2,0,,Validation failed after max retries
+IE_050,failed,2,0,,Validation failed after max retries
+IE_ERR_103,failed,2,0,,Validation failed after max retries
+ES_ERR_138,failed,2,0,,Validation failed after max retries
+IC_018,failed,2,0,,Validation failed after max retries
+IC_082,failed,2,0,,Validation failed after max retries
+MS_ERR_126,failed,2,0,,Validation failed after max retries
+AAD_043,failed,2,0,,Validation failed after max retries
+SSTI_ERR_093,failed,2,0,,Validation failed after max retries
+SA_ERR_095,failed,2,0,,Validation failed after max retries
+BWI_ERR_148,failed,2,0,,Validation failed after max retries
+IC_ERR_147,failed,2,0,,Validation failed after max retries
+SA_056,failed,2,0,,Validation failed after max retries
+TP_062,failed,2,0,,Validation failed after max retries
+PSB_026,failed,2,0,,Validation failed after max retries
+AP_ERR_101,failed,2,0,,Validation failed after max retries
+IC_ERR_141,failed,2,0,,Validation failed after max retries

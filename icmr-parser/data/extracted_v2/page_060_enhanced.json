@@ -1,0 +1,62 @@
+{
+  "page_number": 60,
+  "text": " \n \n55 \n \n• \nEmpiric antibiotic treatment should be broad as the etiology of necrotizing fasciitis can be \npolymicrobial (mixed aerobic–anaerobic microbes) or monomicrobial (group A streptococci, \ncommunity-acquired MRSA). \n• \nNecrotizing fasciitis, also known as flesh-eating disease is a type of aggressive skin and soft \ntissue infection (SSTI) that spreads rapidly and can lead to death. \n \nReference: \n1. Guliyeva G, Huayllani MT, Sharma NT, Janis JE. Practical Review of Necrotizing Fasciitis: \nPrinciples and Evidence-based Management. Plast Reconstr Surg Glob Open. 2024 Jan \n19;12(1):e5533. \ndoi: \n10.1097/GOX.0000000000005533. \nPMID: \n38250213; \nPMCID: \nPMC10798703 \n \n9.5 Primary Pyomyositis \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nPrimary \nPyomyositis \n \nAmoxicillin-\nclavulanic acid \n1g+200 mg q8h IV) \nOr \nCefalexin 500 mg \nq8h per oral \nOr \nInj Cloxacillin 2g q6h \nIV  \nOr  \n500 mg q6h per oral \nOr \nInj Cefazolin 1g q8h \nDuration: 48-72 \nhours after clinical \nimprovement and \nadequate source \ncontrol \nIn case of primary \npyomyositis with \nfeatures of sepsis, \nconsider  \nInj Piperacillin-\ntazobactam 4.5g \nq6h  \n+  \nInj Vancomycin 15-\n20 mg/kg/day every \n8 to 12 hours.  \nDuration: 48-72 \nhours after clinical \nimprovement and \nadequate source \ncontrol \n \n \nOptimize antibiotics based on pus \nculture and susceptibility report. \nFor common etiological agents causing primary pyomyositis, see Annexure B.9.5 \n \n9.6 Folliculitis \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \nDosage and Duration) \nComments \nFolliculitis – \nuncomplicated \nsuperficial  \nTopical Mupirocin  \nOr  \nTopical Fusidic acid  \nDuration based on \nclinical response \nOral antibiotics if \nmultiple lesions present \n • Amoxicillin 500mg \nTDS (25-50mg/kg/day)  \n• Cloxacillin 500mg QID \n(50mg/kg/day)  \nNon-infectious causes \nof folliculitis include: \nexcessive use of oils \n(especially in hot humid \nseason), waxing, \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Primary\nPyomyositsi",
+          "Amoxicillin-\nclavulanic acid\n1g+200 mg q8h IV)\nOr\nCefalexin 500 mg\nq8h per oral\nOr\nInj Cloxacillin 2g q6h\nIV\nOr\n500 mg q6h per oral\nOr\nInj Cefazolin 1g q8h\nDuration: 48-72\nhours afetr clinical\nimprovement and\nadequate source\ncontrol",
+          "In case of primary\npyomyositsi with\nfeatures of sepsis,\nconsider\nInj Piperacillin-\ntazobactam 4.5g\nq6h\n+\nInj Vancomycin 15-\n20 mg/kg/day every\n8 to 12 hours.\nDuration: 48-72\nhours afetr clinical\nimprovement and\nadequate source\ncontrol",
+          "Optmi ize antibiotics based on pus\nculture and susceptbi ility report."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        296.4020141601562,
+        554.1000162760416,
+        579.507958984375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) Dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Folliculitis –\nuncomplicated\nsuperficial",
+          "Topical Mupirocin\nOr\nTopical Fusidic acid\nDuration based on\nclinical response",
+          "Oral antibiotics if\nmultpi le lesions present\n• Amoxicillin 500mg\nTDS (25-50mg/kg/day)\n• Cloxacillin 500mg QID\n(50mg/kg/day)",
+          "Non-infectious causes\nof folliculitis include:\nexcessive use of oils\n(especially in hot humid\nseason), waxing,"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        649.972021484375,
+        547.1400349934896,
+        758.568017578125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Primary Pyomyositis",
+    "Folliculitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

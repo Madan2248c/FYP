@@ -1,0 +1,112 @@
+{
+  "page_number": 72,
+  "text": " \n \n67 \n \nAppendectomy for \nuncomplicated \nappendicitis \nEnteric gram-\nnegative \nbacilli, \nanaerobes \nCefuroxime \n1-2 g IV \nBiliary \nEnteric gram-\nnegative \nbacilli \nCefazolin \n1-2 g IV \nVascular \nS. aureus, S. \nepidermidis, \nenteric gram-\nnegative \nbacilli \nCefazolin \n1-2 g IV \nBreast and hernia \nS. aureus, S. \nepidermidis \nCefazolin \n1-2 g IV \n Urology-Clean \nwith entry into \nurinary tract \n \nCefazolin (the addition of a single \ndose of an aminoglycoside may \nbe recommended for placement \nof prosthetic material [e.g., penile \nprosthesis]) \n \nUrology-Clean \nwithout entry into \nurinary tract \n \nCefazolin (the addition of a single \ndose of an aminoglycoside may \nbe recommended for placement \nof prosthetic material [e.g., penile \nprosthesis]) \n \nGenitourinary \nLower tract \ninstrumentation \nwith risk factors \nfor infection \n(includes \ntransrectal \nprostate biopsy] \n \nFluoroquinolones, Cefazolin \n \nLiver \ntransplantation \n \nPiperacillin -tazobactam \n4.5 g \nHeart/Lung \ntransplantation \n \nCefazolin \n1-2 g IV \nHysterectomy \n \nCefazolin \n1-2 g IV \nCaesarean section \n \nCefazolin \n1-2 g IV \nNeurosurgery \n \nCefazolin \n1-2 g IV \nSmall Intestine-\nNon obstructed \n \nCefazolin \n1-2 g IV+500 mg \nSmall intestine-\nobstructed \n \nCefazolin + Metronidazole \n1-2g IV+500 mg \n",
+  "tables": [
+    {
+      "headers": [
+        "Appendectomy for\nuncomplicated\nappendicitis",
+        "Enteric gram-\nnegative\nbacilli,\nanaerobes",
+        "Cefuroxime",
+        "1-2 g IV"
+      ],
+      "rows": [
+        [
+          "Biliary",
+          "Enteric gram-\nnegative\nbacilli",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Vascular",
+          "S. aureus, S.\nepidermidis,\nenteric gram-\nnegative\nbacilli",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Breast and hernia",
+          "S. aureus, S.\nepidermidis",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Urology-Clean\nwith entry into\nurinary tract",
+          "",
+          "Cefazolin (the additoi n of a single\ndose of an aminoglycoside may\nbe recommended for placement\nof prosthetic material [e.g., penile\nprosthesis])",
+          ""
+        ],
+        [
+          "Urology-Clean\nwithout entry into\nurinary tract",
+          "",
+          "Cefazolin (the additoi n of a single\ndose of an aminoglycoside may\nbe recommended for placement\nof prosthetic material [e.g., penile\nprosthesis])",
+          ""
+        ],
+        [
+          "Genitourinary\nLower tract\ninstrumentation\nwith risk factors\nfor infection\n(includes\ntransrectal\nprostate biopsy]",
+          "",
+          "Fluoroquinolones, Cefazolin",
+          ""
+        ],
+        [
+          "Liver\ntransplantation",
+          "",
+          "Piperacillin -tazobactam",
+          "4.5 g"
+        ],
+        [
+          "Heart/Lung\ntransplantation",
+          "",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Hysterectomy",
+          "",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Caesarean section",
+          "",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Neurosurgery",
+          "",
+          "Cefazolin",
+          "1-2 g IV"
+        ],
+        [
+          "Small Intestine-\nNon obstructed",
+          "",
+          "Cefazolin",
+          "1-2 g IV+500 mg"
+        ],
+        [
+          "Small intestine-\nobstructed",
+          "",
+          "Cefazolin + Metronidazole",
+          "1-2g IV+500 mg"
+        ]
+      ],
+      "bbox": [
+        107.4040018717448,
+        72.1919921875,
+        554.0360188802083,
+        740.8080078125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "S. aureus, S.",
+    "epidermidis",
+    "S. aureus, S.",
+    "epidermidis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "page_number": 141,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nassociated \ninfections \nPropionibacterium acnes \nEnterococcus faecalis \nassociated infections, Journal of Infection \nand Public Health, Volume 17, Issue 2, 2024, \nPages 189-203, ISSN 1876-0341, \nhttps://doi.org/10.1016/j.jiph.2023.11.024. \nB.10.7 \nSurgical site \ninfections \nBacterial: \nStaphylococcus aureus  \nCoagulase negative Staphylococcus \nEnterococcus faecium and E. fecalis \nEscherichia coli \nPseudomonas aeruginosa \nEnterobacter spp. \nKlebsiella spp. \nBucataru A, Balasoiu M, Ghenea AE, Zlatian \nOM, Vulcanescu DD, Horhat FG, Bagiu IC, \nSorop VB, Sorop MI, Oprisoni A, Boeriu E, \nMogoanta SS. Factors Contributing to Surgical \nSite Infections: A Comprehensive Systematic \nReview of Etiology and Risk Factors. Clin Pract. \n2023 Dec 28;14(1):52-68. \nB.11. Ocular Infections  \nAnnexure \nTitle \nEtiology \nReference \nB.11.1.1 \nConjunctivitis \nViral: \nAdenoviruses \nHerpes simplex virus \nVaricella zoster \nEnterovirus \nBacterial: \nStaphylococcus spp. \nH. influenzae \nStreptococcus spp. \nMoraxella catarrhalis \nGram-negative intestinal \nbacteria \nOphthalmia neonatorum \nChlamydia trachomatis \nAzari AA, Arabi A. Conjunctivitis: A \nSystematic Review. J Ophthalmic Vis Res. \n2020 Aug 6;15(3):372-395. doi: \n10.18502/jovr.v15i3.7456. \nB.11.1.2 \nKeratitis \nBacterial: \nStaphylococcus spp. \nStaphylococcus aureus \nPseudomonas aeruginosa \n \nViral:  \nHSV type 1 \nCMV \n VZV \nEBV \nAdenovirus \n \nFungal: \nCandida spp. \nFusarium spp. \nAspergillus spp. \n \nParasitic: \n1. Cabrera-Aguas M, Khoo P, Watson SL. \nInfectious keratitis: A review. Clin Exp \nOphthalmol. 2022 Jul;50(5):543-562. doi: \n10.1111/ceo.14113. \n \n2. Koganti R, Yadavalli T, Naqvi RA, Shukla D, \nNaqvi AR. Pathobiology and treatment of viral \nkeratitis. Exp Eye Res. 2021 Apr;205:108483. \ndoi: 10.1016/j.exer.2021. \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "associated\ninfectoi ns",
+          "Propionibacterium acnes\nEnterococcus faecalis",
+          "associated infectoi ns, Journal of Infectoi n\nand Public Health, Volume 17, Issue 2, 2024,\nPages 189-203, ISSN 1876-0341,\nhtpts://doi.org/10.1016/j.jiph.2023.11.024."
+        ],
+        [
+          "B.10.7",
+          "Surgical site\ninfectoi ns",
+          "Bacterial:\nStaphylococcus aureus\nCoagulase negatvie Staphylococcus\nEnterococcus faecium and E. fecalis\nEscherichia coli\nPseudomonas aeruginosa\nEnterobacter spp.\nKlebsiella spp.",
+          "Bucataru A, Balasoiu M, Ghenea AE, Zlatian\nOM, Vulcanescu DD, Horhat FG, Bagiu IC,\nSorop VB, Sorop MI, Oprisoni A, Boeriu E,\nMogoanta SS. Factors Contributing to Surgical\nSite Infectoi ns: A Comprehensive Systematic\nReview of Etoi logy and Risk Factors. Clin Pract.\n2023 Dec 28;14(1):52-68."
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        64.03201904296876,
+        575.4599609375,
+        269.9779907226563
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.11.1.1",
+          "Conjunctivitis",
+          "Viral:\nAdenoviruses\nHerpes simplex virus\nVaricella zoster\nEnterovirus\nBacterial:\nStaphylococcus spp.\nH. influenzae\nStreptococcus spp.\nMoraxella catarrhalis\nGram-negative intestinal\nbacteria\nOphthalmia neonatorum\nChlamydia trachomatsi",
+          "Azari AA, Arabi A. Conjunctivitis: A\nSystematic Review. J Ophthalmic Vis Res.\n2020 Aug 6;15(3):372-395. doi:\n10.18502/jovr.v15i3.7456."
+        ],
+        [
+          "B.11.1.2",
+          "Keratitsi",
+          "Bacterial:\nStaphylococcus spp.\nStaphylococcus aureus\nPseudomonas aeruginosa\nViral:\nHSV type 1\nCMV\nVZV\nEBV\nAdenovirus\nFungal:\nCandida spp.\nFusarium spp.\nAspergillus spp.\nParasitci:",
+          "1. Cabrera-Aguas M, Khoo P, Watson SL.\nInfectoi us keratitsi: A review. Clin Exp\nOphthalmol. 2022 Jul;50(5):543-562. doi:\n10.1111/ceo.14113.\n2. Koganti R, Yadavalli T, Naqvi RA, Shukla D,\nNaqvi AR. Pathobiology and treatment of viral\nkeratitsi. Exp Eye Res. 2021 Apr;205:108483.\ndoi: 10.1016/j.exer.2021."
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        296.8819946289062,
+        575.4599609375,
+        784.3799794514974
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Propionibacterium acnes",
+    "Enterococcus faecalis",
+    "Staphylococcus aureus",
+    "Enterococcus faecium",
+    "E. fecalis",
+    "Escherichia coli",
+    "Pseudomonas aeruginosa",
+    "Enterobacter spp.",
+    "Klebsiella spp.",
+    "Staphylococcus spp.",
+    "H. influenzae",
+    "Streptococcus spp.",
+    "Moraxella catarrhalis",
+    "Chlamydia trachomatis",
+    "Staphylococcus spp.",
+    "Staphylococcus aureus",
+    "Pseudomonas aeruginosa",
+    "Candida spp.",
+    "Fusarium spp.",
+    "Aspergillus spp."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

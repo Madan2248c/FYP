@@ -1,0 +1,38 @@
+{
+  "page_number": 59,
+  "text": " \n \n54 \n \nlike bullae, skin sloughing \nor signs of systemic \ninfection  \nVancomycin 15 to 20 \nmg/kg/dose every 8 \nto 12 hours \nalong with surgical \ndebridement \nFor common etiological agents causing cellulitis, see Annexure B.9.3 \nAdditional Information:  \n• \nBacteria causing infection below the skin surface leading to an acute superficial infection \naffecting the deep dermis and subcutaneous tissue is cellulitis. Cellulitis is relatively common, \nand most often occurs in middle-aged and older adults. \nReference: \n1.Dennis L. Stevens, Alan L. Bisno, Henry F. Chambers, E. Patchen Dellinger, Ellie J. C. Goldstein, \nSherwood L. Gorbach, Jan V. Hirschmann, Sheldon L. Kaplan, Jose G. Montoya, James C. Wade, Practice \nGuidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 Update by the \nInfectious Diseases Society of America, Clinical Infectious Diseases, Volume 59, Issue 2, 15 July 2014, \nPages e10–e52, https://doi.org/10.1093/cid/ciu296 \n \n9.4 Necrotizing fasciitis \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with dosage and \nDuration) \nComments \nNecrotizing \nFasciitis  \nSurgical debridement and \nPiperacillin-\ntazobactam 4.5g every 6 \nhours \n+ \nClindamycin 600 mg to 900 \nmg q8h  \nDuration is 48 to 72 hours \nafter clinical improvement \nand fever resolution or \nuntil no surgical \nintervention is needed \n \n \nMeropenem 1g IV every 8 \nhours \n+ \nClindamycin 600 mg to 900 \nmg q8h \nUse vancomycin 15 to 20 \nmg/kg/dose every 8 to 12 \nhours instead of Clindamycin. \n(if MRSA is suspected) \nIf organism isolated is group \nA beta-hemolytic streptococci \nuse: \nInj crystalline penicillin 4 \nmillion units q4h \n+ \nInj Clindamycin 600-900 mg \nq8h  \nDuration is 48 to 72 hours \nafter clinical improvement \nand fever resolution or until \nno surgical intervention is \nneeded. \nThese patients are \nextremely ill and \nshould be \ntransferred \nimmediately to the \nintensive care unit. \nThe treatment of \nnecrotizing fasciitis is \nsurgery, and no time \nshould be wasted \ncalling for a surgical \nconsult. The earlier \nthe surgery is \nundertaken, the \nbetter the outcome. \nBased on culture \nreports, prompt de-\nescalation should be \ndone. \nGram stain may be \nused for de-\nescalation. \nFor common etiological agents causing Necrotizing fasciitis, see Annexure B.9.4 \nAdditional Information:  \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with dosage and Comments\nand Duration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Necrotizing\nFasciitis",
+          "Surgical debridement and\nPiperacillin-\ntazobactam 4.5g every 6\nhours\n+\nClindamycin 600 mg to 900\nmg q8h\nDuration is 48 to 72 hours\nafetr clinical improvement\nand fever resolution or\nuntil no surgical\ninterventoi n is needed",
+          "Meropenem 1g IV every 8\nhours\n+\nClindamycin 600 mg to 900\nmg q8h\nUse vancomycin 15 to 20\nmg/kg/dose every 8 to 12\nhours instead of Clindamycin.\n(if MRSA is suspected)\nIf organism isolated is group\nA beta-hemolytic streptococci\nuse:\nInj crystalline penicillin 4\nmillion units q4h\n+\nInj Clindamycin 600-900 mg\nq8h\nDuration is 48 to 72 hours\nafetr clinical improvement\nand fever resolution or untli\nno surgical intervention is\nneeded.",
+          "These patients are\nextremely ill and\nshould be\ntransferred\nimmediately to the\nintensive care unit.\nThe treatment of\nnecrotizing fasciitis is\nsurgery, and no time\nshould be wasted\ncalling for a surgical\nconsult. The earlier\nthe surgery is\nundertaken, the\nbetetr the outcome.\nBased on culture\nreports, prompt de-\nescalation should be\ndone.\nGram stain may be\nused for de-\nescalation."
+        ]
+      ],
+      "bbox": [
+        72.16800308227539,
+        387.961962890625,
+        547.1560363769531,
+        711.407958984375
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Clinical Infectious Diseases",
+    "Necrotizing fasciitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

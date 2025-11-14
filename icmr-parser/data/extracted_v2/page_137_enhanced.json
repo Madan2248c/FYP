@@ -1,0 +1,128 @@
+{
+  "page_number": 137,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nNontypeable Haemophilus \ninfluenzae \nMoraxella catarrhalis \nB.7.5 \nOtitis externa \nBacterial: \nPseudomonas aeruginosa \nStaphylococcus aureus \n \nFungal: \nAspergillus spp. \nCandida spp. \nHarrison’s Principles of Internal Medicine Pg \n249 \nB.7.6 \nHEAD AND \nNECK \nABSCESSES \n(peritonsillar/p\narapharyngeal \nand \nretropharyngea\nl abscess) \n \nBacterial: \nVirulent invasive pathogens \nStreptococcus pyogenes \nS. aureus \nH. Influenzae \nFacultative anaerobes \nViridans group streptococci \nH. parainfluenza \nMoraxella catarrhalis \nEikenella corodans \nCutibacterium acnes \nMycobacterium species other \nthan tuberculosis. \nObligate anaerobes: \nF. necrophorum \nPrevotella spp. \nBacteroides fragilis \nPorphyromonas spp. \nOrzell S, Suryadevara A. Pharyngitis and \nPharyngeal Space Infections: fever, sore \nthroat, difficulty swallowing. Introduction to \nClinical Infectious Diseases. 2018 Oct 15:53–\n66. \nB.8. Oral Cavity, Head & Neck Infections  \nAnnexure \nTitle \nEtiology \nReference \nB.8.1 \nOropharyngeal \nCandidiasis \nCandida albicans (most common)  \nC. glabrata \nC. guillermondii \nC. krusei \nC. lusitaniae \nC. parapsilosis \nHellstein JW, Marek CL. Candidiasis: Red and \nWhite Manifestations in the Oral Cavity. Head \nNeck Pathol. 2019 Mar;13(1):25-32. \nB.9. Skin and Soft Tissue infections \nAnnexure \nTitle \nEtiology \nReference \nB.9.1 \nAcute \nparonychia \nBacterial: \nStaphylococcus aureus \nStreptococcus pyogenes \nEnterococcus spp. \nRelhan, Vineet; Bansal, Anuva. Acute and \nchronic paronychia revisited: A narrative \nreview. Journal of Cutaneous and Aesthetic \nSurgery 15(1):p 1-16, Jan–Mar 2022. | DOI: \n10.4103/JCAS.JCAS_30_21 \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Nontypeable Haemophilus\ninfluenzae\nMoraxella catarrhalis",
+          ""
+        ],
+        [
+          "B.7.5",
+          "Otitsi externa",
+          "Bacterial:\nPseudomonas aeruginosa\nStaphylococcus aureus\nFungal:\nAspergillus spp.\nCandida spp.",
+          "Harrison’s Principles of Internal Medicine Pg\n249"
+        ],
+        [
+          "B.7.6",
+          "HEAD AND\nNECK\nABSCESSES\n(peritonsillar/p\narapharyngeal\nand\nretropharyngea\nl abscess)",
+          "Bacterial:\nVirulent invasive pathogens\nStreptococcus pyogenes\nS. aureus\nH. Influenzae\nFacultatvie anaerobes\nViridans group streptococci\nH. parainfluenza\nMoraxella catarrhalis\nEikenella corodans\nCutibacterium acnes\nMycobacterium species other\nthan tuberculosis.\nObligate anaerobes:\nF. necrophorum\nPrevotella spp.\nBacteroides fragilis\nPorphyromonas spp.",
+          "Orzell S, Suryadevara A. Pharyngitsi and\nPharyngeal Space Infections: fever, sore\nthroat, difcfiulty swallowing. Introductoi n to\nClinical Infectoi us Diseases. 2018 Oct 15:53–\n66."
+        ]
+      ],
+      "bbox": [
+        67.39854569868608,
+        64.03201904296876,
+        575.4654152610085,
+        510.3579833984375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.8.1",
+          "Oropharyngeal\nCandidiasis",
+          "Candida albicans (most common)\nC. glabrata\nC. guillermondii\nC. krusei\nC. lusitaniae\nC. parapsilosis",
+          "Hellstein JW, Marek CL. Candidiasis: Red and\nWhite Manifestations in the Oral Cavity. Head\nNeck Pathol. 2019 Mar;13(1):25-32."
+        ]
+      ],
+      "bbox": [
+        67.39854569868608,
+        537.2619995117187,
+        575.4654152610085,
+        647.9079833984375
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.9.1",
+          "Acute\nparonychia",
+          "Bacterial:\nStaphylococcus aureus\nStreptococcus pyogenes\nEnterococcus spp.",
+          "Relhan, Vineet; Bansal, Anuva. Acute and\nchronic paronychia revisited: A narrative\nreview. Journal of Cutaneous and Aesthetic\nSurgery 15(1):p 1-16, Jan–Mar 2022. | DOI:\n10.4103/JCAS.JCAS_30_21"
+        ]
+      ],
+      "bbox": [
+        67.39854569868608,
+        674.6919921875,
+        575.4654152610085,
+        778.8479858398438
+      ],
+      "table_number": 2,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Haemophilus",
+    "influenzae",
+    "Moraxella catarrhalis",
+    "Pseudomonas aeruginosa",
+    "Staphylococcus aureus",
+    "Aspergillus spp.",
+    "Candida spp.",
+    "(peritonsillar/p",
+    "arapharyngeal",
+    "and",
+    "retropharyngea",
+    "l abscess)",
+    "Streptococcus pyogenes",
+    "S. aureus",
+    "H. Influenzae",
+    "H. parainfluenza",
+    "Moraxella catarrhalis",
+    "Eikenella corodans",
+    "Cutibacterium acnes",
+    "F. necrophorum",
+    "Prevotella spp.",
+    "Bacteroides fragilis",
+    "Porphyromonas spp.",
+    "Candida albicans",
+    "C. glabrata",
+    "C. guillermondii",
+    "C. krusei",
+    "C. lusitaniae",
+    "C. parapsilosis",
+    "Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Enterococcus spp."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

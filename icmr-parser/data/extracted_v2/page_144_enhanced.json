@@ -1,0 +1,59 @@
+{
+  "page_number": 144,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nRespiratory syncytial virus \nRhinovirus \nAdenovirus \nParainfluenza virus \nHuman Metapneumovirus \n \nBacterial: \nM. pneumoniae \nHaemophilus influenzae \nStreptococcus pneumoniae \nDOI: https://doi.org/10.1513/AnnalsATS.2\n01907-569CME  \nB.12.3 \nCOPD \nViral: \nHuman rhinovirus subtypes A and C \nRSV \nCoronavirus \nInfluenza and Parainfluenza virus \n \nBacterial: \nHaemophilus influenzae \nStreptococcus pneumoniae \nMoraxella catarrhalis \nPseudomonas aeruginosa \nChlamydia pneumoniae \n1. Harrison’s Principles of Internal \nMedicine Pg 2189 \n2. Papadopoulos NG, Christodoulou I, \nRohde G, Agache I, Almqvist C, Bruno \nA, et al. Viruses and bacteria in acute \nasthma exacerbations – A GA2LEN-DARE \nsystematic review. Allergy 2011; 66: 458–\n468. \n3. WHO AWARE guidelines Pg 165 \n  \nB.12.4 \nInfective \nExacerbation of \nBronchiectasis \nMost common: \nBacterial: \nHaemophilus influenzae \nPseudomonas aeruginosa \nHarrison’s Principles of Internal Medicine \nPg 2175 \n  \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Respiratory syncytial virus\nRhinovirus\nAdenovirus\nParainfluenza virus\nHuman Metapneumovirus\nBacterial:\nM. pneumoniae\nHaemophilus influenzae\nStreptococcus pneumoniae",
+          "DOI: htpts://doi.org/10.1513/AnnalsATS.2\n01907-569CME"
+        ],
+        [
+          "B.12.3",
+          "COPD",
+          "Viral:\nHuman rhinovirus subtypes A and C\nRSV\nCoronavirus\nInfluenza and Parainfluenza virus\nBacterial:\nHaemophilus influenzae\nStreptococcus pneumoniae\nMoraxella catarrhalis\nPseudomonas aeruginosa\nChlamydia pneumoniae",
+          "1. Harrison’s Principles of Internal\nMedicine Pg 2189\n2. Papadopoulos NG, Christodoulou I,\nRohde G, Agache I, Almqvist C, Bruno\nA, et al. Viruses and bacteria in acute\nasthma exacerbations – A GA2LEN-DARE\nsystematic review. Allergy 2011; 66: 458–\n468.\n3. WHO AWARE guidelines Pg 165"
+        ],
+        [
+          "B.12.4",
+          "Infectvie\nExacerbation of\nBronchiectasis",
+          "Most common:\nBacterial:\nHaemophilus influenzae\nPseudomonas aeruginosa",
+          "Harrison’s Principles of Internal Medicine\nPg 2175"
+        ]
+      ],
+      "bbox": [
+        67.41600036621094,
+        64.03201904296876,
+        575.4479614257813,
+        473.3979919433594
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "M. pneumoniae",
+    "Haemophilus influenzae",
+    "Streptococcus pneumoniae",
+    "Haemophilus influenzae",
+    "Streptococcus pneumoniae",
+    "Moraxella catarrhalis",
+    "Pseudomonas aeruginosa",
+    "Chlamydia pneumoniae",
+    "Allergy",
+    "Haemophilus influenzae",
+    "Pseudomonas aeruginosa"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

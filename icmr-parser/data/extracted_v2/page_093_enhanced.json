@@ -1,0 +1,61 @@
+{
+  "page_number": 93,
+  "text": " \n \n88 \n \nFor etiological agent of Diphtheria, see Annexure B.13.2 \nReferences: \n1.  The Epidemiology and Prevention of Vaccine-Preventable Diseases. 14th edition. CDC. Available \nfrom:https://www.cdc.gov/pinkbook/hcp/tableofcontents/index.html?CDC_AAref_Val=https://www.\ncdc.gov/vaccines/pubs/pinkbook/downloads/dip.pdf  \n \n13.3 Tetanus \nType of \nInfection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nTetanus \n500 international unit (IU) \nsingle dose of HTIG \n(human tetanus immune \nglobulin) \nPLUS \nMetronidazole 500 mg IV \nq6h for 7 to 10 days. \nOr \nPenicillin G 2-4 million \nunits q4h for 7 to 10 days \nDoxycycline 100mg \nq12h for 7-10 days \n \nTreatment includes tetanus \nimmunoglobulin, antibiotic \ntherapy, neuromuscular \nblockade, and supportive care for \nrespiratory complications, \nautonomic instability, and muscle \nspasms. \nAntispasmodics such as \nbenzodiazepines, baclofen, \nvecuronium, pancuronium and \npropofol have been used based \non the clinical scenario. MgSO4 \nshould be used in case of \nautonomic instability. \nClinical condition should be \nassessed by Ablett score. \nFor etiological agent of Tetanus, see Annexure B.13.3 \nReferences: \n1. Guidance on the management of suspected tetanus cases and the assessment and \nmanagement of tetanus-prone wounds. UK Health Security Agency. 2024. Available from: \nhttps://www.gov.uk/government/publications/tetanus-advice-for-health-\nprofessionals/guidance-on-the-management-of-suspected-tetanus-cases-and-the-\nassessment-and-management-of-tetanus-prone-wounds#clinical-management \ntoxicity of the patient, site and size of \nmembrane, and duration of illness \nPharyngeal/laryngeal \ndisease < 2days \nduration \n20000-\n40000 Units \nNasopharyngeal \ndisease \n40000-\n60000 Units \nExtensive \ndisease/>3days \nduration/bullneck + \n80000-\n120000 \nUnits \n \n(respiratory distress hemodynamic \ninstability) \ndivided 6hrly or \n250mg 6hrly after \nfood for 10 days  \nAfter recovery patient \nshould be given full \ncourse of DT vaccination. \n",
+  "tables": [
+    {
+      "headers": [
+        "Pharyngeal/laryngeal\ndisease < 2days\nduration",
+        "20000-\n40000 Units"
+      ],
+      "rows": [
+        [
+          "Nasopharyngeal\ndisease",
+          "40000-\n60000 Units"
+        ],
+        [
+          "Extensive\ndisease/>3days\nduration/bullneck +",
+          "80000-\n120000\nUnits"
+        ]
+      ],
+      "bbox": [
+        136.81999969482422,
+        99.6199951171875,
+        313.3899841308594,
+        208.58001708984375
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of First Line (with Dosage Alternatvie (with Comments\nInfection and Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Tetanus",
+          "500 internatoi nal unit (IU)\nsingle dose of HTIG\n(human tetanus immune\nglobulin)\nPLUS\nMetronidazole 500 mg IV\nq6h for 7 to 10 days.\nOr\nPenicillin G 2-4 million\nunits q4h for 7 to 10 days",
+          "Doxycycline 100mg\nq12h for 7-10 days",
+          "Treatment includes tetanus\nimmunoglobulin, antibiotic\ntherapy, neuromuscular\nblockade, and supportvie care for\nrespiratory complications,\nautonomic instability, and muscle\nspasms.\nAntispasmodics such as\nbenzodiazepines, baclofen,\nvecuronium, pancuronium and\npropofol have been used based\non the clinical scenario. MgSO\n4\nshould be used in case of\nautonomic instability.\nClinical conditoi n should be\nassessed by Ablet tscore."
+        ]
+      ],
+      "bbox": [
+        71.92800369262696,
+        393.26198120117186,
+        546.9640258789062,
+        649.4679809570313
+      ],
+      "table_number": 2,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Tetanus"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

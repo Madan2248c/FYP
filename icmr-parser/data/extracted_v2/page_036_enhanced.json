@@ -1,0 +1,41 @@
+{
+  "page_number": 36,
+  "text": " \n \n31 \n \nspecific \ninfection is \ndealt under \nHAI) \n \nunits IV stat, \nthen 7.5-10 \nlakhs IV q12h \nOr  \nColistin 9MU \nIV stat, then \n4.5 MU IV \nq12h \n \n• \nFinding focus of infection \n• \nIdentification of infectious \nagent \n• \nPatient clinical status \n \nAdd Vancomycin or Teicoplanin if \nrisk for MRSA is noted. (eg central \nline infection suspected) \n \nAdd Colistin or Polymyxin B if risk \nfactors for CRO are present, which \ninclude history of carbapenem use \nin last 3 months, history of a \npositive carbapenem resistant \norganism culture in last 3 months. \nNeed close renal monitoring and \ndose adjustment.  \nPrefer polymyxin B over Colistin \nunless urine is suspected as a \nsource of infection.  \n \nCeftazidime-avibactam +/- \nAztreonam is a reserve drug to be \nused as targeted therapy after \nsusceptibility reporting for \ncarbapenem resistant Klebsiella \nspecies. Resistance among E.coli \nand Pseudomonas spp. is common \nand it is inactive against \nAcinetobacter spp., hence it is not \nrecommended for empiric use.  \nSeptic \nShock -  \nwith \nlocalisation \nSee below for the \nrecommendation based on the site \nof infection \n \n \n \n \n \n \nFor common etiological agents of sepsis, see Annexure B.3.4 \nAdditional Information:  \nThe Golden Hour Management \n1. Measure lactate level. Re-measure if initial lactate level > 2 mmol/L.* \n2. Obtain blood cultures before administering antibiotics.** \n3. Administer broad-spectrum antibiotics. \n4. Begin rapid IV administration of 30ml/kg crystalloid for hypotension or lactate level ≥ 4 mmol/L.*** \n5. Apply vasopressors if patient is hypotensive during or after fluid resuscitation to maintain MAP ≥ 65 \nmm Hg **** \n \n",
+  "tables": [
+    {
+      "headers": [
+        "specific\ninfection is\ndealt under\nHAI)",
+        "Col1",
+        "units IV stat,\nthen 7.5-10\nlakhs IV q12h\nOr\nColistin 9MU\nIV stat, then\n4.5 MU IV\nq12h",
+        "• Finding focus of infection\n• Identification of infectoi us\nagent\n• Patient clinical status\nAdd Vancomycin or Teicoplanin if\nrisk for MRSA is noted. (eg central\nline infection suspected)\nAdd Colistin or Polymyxin B if risk\nfactors for CRO are present, which\ninclude history of carbapenem use\nin last 3 months, history of a\npositvie carbapenem resistant\norganism culture in last 3 months.\nNeed close renal monitoring and\ndose adjustment.\nPrefer polymyxin B over Colistin\nunless urine is suspected as a\nsource of infectoi n.\nCefatzidime-avibactam +/-\nAztreonam is a reserve drug to be\nused as targeted therapy afetr\nsusceptbi ility reportni g for\ncarbapenem resistant Klebsiella\nspecies. Resistance among E.coli\nand Pseudomonas spp. is common\nand it is inactive against\nAcinetobacter spp., hence it is not\nrecommended for empiric use."
+      ],
+      "rows": [
+        [
+          "Septic\nShock -\nwith\nlocalisation",
+          "See below for the\nrecommendation based on the site\nof infectoi n",
+          "",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        72.1919921875,
+        548.5800374348959,
+        558.507958984375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Klebsiella",
+    "E.coli",
+    "Pseudomonas",
+    "Acinetobacter",
+    "****"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

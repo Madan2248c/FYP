@@ -1,0 +1,48 @@
+# ICMR Parser Configuration
+
+pdf_parsing:
+  enable_table_detection: true
+  min_table_rows: 2
+  ocr_fallback: false  # Set to true if PDFs are scanned images
+
+llm:
+  default_model: "llama-3.1-8b-instant"
+  temperature: 0.3
+  max_retries: 3
+  timeout_seconds: 60
+
+output:
+  save_intermediate: true
+  create_backup: true
+
+syndrome_detection:
+  keywords:
+    - "SYNDROME"
+    - "INFECTION"
+    - "FEVER"
+    - "SEPSIS"
+    - "PNEUMONIA"
+    - "URINARY TRACT"
+    - "SKIN AND SOFT TISSUE"
+    - "BONE AND JOINT"
+    - "CNS"
+    - "CENTRAL NERVOUS SYSTEM"
+    - "INTRA-ABDOMINAL"
+    - "PELVIC"
+    - "BLOODSTREAM"
+    - "MENINGITIS"
+    - "ENCEPHALITIS"
+    - "ENDOCARDITIS"
+    - "PERITONITIS"
+    - "CHOLECYSTITIS"
+    - "APPENDICITIS"
+    - "CELLULITIS"
+    - "ABSCESS"
+    - "OSTEOMYELITIS"
+    - "ARTHRITIS"
+    - "PYELONEPHRITIS"
+    - "CYSTITIS"
+    - "PROSTATITIS"
+    - "GASTROENTERITIS"
+    - "DIARRHEA"
+

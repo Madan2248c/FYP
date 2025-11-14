@@ -1,0 +1,49 @@
+{
+  "page_number": 20,
+  "text": " \n \n15 \n \n1. Cardiovascular Syndromes \n1.1 Infective Endocarditis (Empirical therapy pending blood culture \nresults) \nType of \nInfection \nFirst Line (with Dosage \nand Duration) \nAlternative First Line \n(with dosage and \nDuration) \nComments \nUncomplicated \n- Native valve* \nPenicillin G 4 million units \nIV 4th hrly for 4 weeks  \nOr \nAmpicillin 2g IV 4 hrly for \n4 weeks  \n+ \nGentamicin 1mg/kg IM or \nIV 8 hrly for first 2 weeks \n \nVancomycin \n15mg/kg IV 12 hrly \n(maximum 1g 12 h) \nfor 4-6 weeks  \n \n \nGentamicin 1mg/kg \nIM or IV 8hrly for 4 \nweeks \n \nThese are among the few \n conditions where combination \nantimicrobial therapy is \ncontemplated as synergism of \nantimicrobials is established.  \nIf patient is stable, ideally wait for \nblood cultures and modify \nantibiotics based on culture \nresults and complete 4-6 weeks \nof antibiotics. \nTwo sets of blood cultures within \n1 h of each other in patients with \nsuspected endocarditis and acute \nsepsis and three sets of blood \ncultures spaced ≥6 h apart in \ncases of suspected subacute or \nchronic endocarditis are \nrecommended for best results.  \nUncomplicated \n- Prosthetic \nvalve* \nVancomycin 15mg/kg IV \n12 hrly (maximum 1g 12 \nh) for 6 weeks \n+ \nGentamicin 1mg/kg IM or \nIV 8 hrly for first 2 weeks \nDaptomycin \n10mg/kg every 24 \nhours  \n+ \nGentamicin 1mg/kg \nIM or IV 8hrly for \nfirst 2 weeks \n \nComplicated \n(In Severe \nSepsis) \nVancomycin 15mg/kg IV \n12 hrly (maximum 1g 12 \nh) for 4-6 weeks  \n+  \nMeropenem 1g IV q8h \nfor 4-6 weeks  \nOr \nTeicoplanin 12mg/kg IV \n12 hrly x 3 doses \nfollowed by 6 - 12mg OD \nIV depending upon \nseverity  \n+ \nGentamicin 1mg/kg IM or \nIV 8 h for 4-6 weeks \nDaptomycin \n10mg/kg IV OD  \n+ \nMeropenem 1g IV \nq8h \nDuration: 4-6 weeks \n \n \n \n \n \n \n \n \nFor common etiological agents of Infective Endocarditis, see Annexure B.1.1 \nAdditional Information: \n• \nEchocardiography should be done in cases of suspected infective endocarditis (IE). \n• \nGuidance from Infectious disease specialist or clinical microbiologist is recommended. \n• \nHost factors like age, physiological state of the patient (e.g. pregnancy and lactation), organ \nfunction (e.g. renal or hepatic function), genetic variation (e.g. G6PD deficiency), allergy or \nintolerance must be kept in mind while prescribing antimicrobial therapy. \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Dosage Alternatvie First Line Comments\nInfection and Duration) (with dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated\n- Native valve*",
+          "Penicillin G 4 million units\nIV 4th hrly for 4 weeks\nOr\nAmpicillin 2g IV 4 hrly for\n4 weeks\n+\nGentamicin 1mg/kg IM or\nIV 8 hrly for frist 2 weeks",
+          "Vancomycin\n15mg/kg IV 12 hrly\n(maximum 1g 12 h)\nfor 4-6 weeks\nGentamicin 1mg/kg\nIM or IV 8hrly for 4\nweeks",
+          "These are among the few\nconditoi ns where combination\nantimicrobial therapy is\ncontemplated as synergism of\nantimicrobials is established.\nIf patient is stable, ideally wait for\nblood cultures and modify\nantibiotics based on culture\nresults and complete 4-6 weeks\nof antibiotics.\nTwo sets of blood cultures within\n1 h of each other in patients with\nsuspected endocarditsi and acute\nsepsis and three sets of blood\ncultures spaced ≥6 h apart in\ncases of suspected subacute or\nchronic endocarditsi are\nrecommended for best results."
+        ],
+        [
+          "Uncomplicated\n- Prosthetic\nvalve*",
+          "Vancomycin 15mg/kg IV\n12 hrly (maximum 1g 12\nh) for 6 weeks\n+\nGentamicin 1mg/kg IM or\nIV 8 hrly for frist 2 weeks",
+          "Daptomycin\n10mg/kg every 24\nhours\n+\nGentamicin 1mg/kg\nIM or IV 8hrly for\nfirst 2 weeks",
+          null
+        ],
+        [
+          "Complicated\n(In Severe\nSepsis)",
+          "Vancomycin 15mg/kg IV\n12 hrly (maximum 1g 12\nh) for 4-6 weeks\n+\nMeropenem 1g IV q8h\nfor 4-6 weeks\nOr\nTeicoplanin 12mg/kg IV\n12 hrly x 3 doses\nfollowed by 6 - 12mg OD\nIV depending upon\nseverity\n+\nGentamicin 1mg/kg IM or\nIV 8 h for 4-6 weeks",
+          "Daptomycin\n10mg/kg IV OD\n+\nMeropenem 1g IV\nq8h\nDuration: 4-6 weeks",
+          null
+        ]
+      ],
+      "bbox": [
+        72.21600341796875,
+        162.6919921875,
+        547.1080322265625,
+        648.26796875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Infective Endocarditis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

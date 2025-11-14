@@ -1,0 +1,37 @@
+{
+  "page_number": 96,
+  "text": " \n \n91 \n \n14.2 Insect Bites \nTreatment is generally supportive and includes removal of sting, cleaning the area with soap and water, \nlocal application of ice, topical steroids, and pain management. Antibiotics are rarely needed for insect \nbites, but they can be prescribed if the bite becomes infected. \nType of \nInfection \nFirst Line \n(with \nDosage and \nDuration) \nAlternative \n(with \ndosage and \nDuration) \nComments \nInsect bite \nwith \npossible \nsubsequent \nsecondary \ninfection \nAmoxicillin-\nclavulanate \n625mg q8h \nfor 3-5 days \n(based on \nclinical \nresponse) \nAzithromycin \n500mg OD \nfor 3-5 days \nPrevention against insect bites needs the use of effective \ninsect repellents which can significantly reduce the \nlikelihood of bites from mosquitoes and ticks etc. \nRemoval of ticks within 24 hours of their attachment may \nalso decrease the risk of tick-borne diseases \nVectors associated with bites: Insects, Hymenoptera (bees, wasps, etc), mosquitoes, bedbugs, fleas, \nlice, beetles, caterpillars and moths etc \nReference: \n1. Juckett G. Arthropod bites. Am Fam Physician. 2013 Dec 15;88(12):841-7. PMID: 24364549. \nAvailable from: https://pubmed.ncbi.nlm.nih.gov/24364549/ \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line Alternatvie Comments\nInfection (with (with\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Insect bite\nwith\npossible\nsubsequent\nsecondary\ninfection",
+          "Amoxicillin-\nclavulanate\n625mg q8h\nfor 3-5 days\n(based on\nclinical\nresponse)",
+          "Azithromycin\n500mg OD\nfor 3-5 days",
+          "Prevention against insect bites needs the use of efefctvie\ninsect repellents which can significantly reduce the\nlikelihood of bites from mosquitoes and ticks etc.\nRemoval of ticks within 24 hours of their atatchment may\nalso decrease the risk of tick-borne diseases"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        148.77200927734376,
+        547.1400349934896,
+        297.5779663085938
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Insect Bites"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

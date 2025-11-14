@@ -1,0 +1,86 @@
+{
+  "page_number": 86,
+  "text": " \n \n81 \n \n12. Respiratory Tract Infections \n12.1 Bronchitis \nType of \nInfection \nFirst Line \n(with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nAcute \nbronchitis  \nNo antibiotics \nBronchodilators if \nwheezing \nIf cough persists for more than 2 weeks, \nexclude TB and pertussis.  \nFor common etiological agents of Acute Bronchitis. see Annexure B.12.1 \n \n12.2 Bronchiolitis \nType of Infection \nFirst Line (with Dosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nBronchiolitis \nAntibiotics not recommended. \nNebulisation with \nbronchodilators. \n \n \nFor common etiological agents of Bronchiolitis, see Annexure B.12.2 \n \n12.3 Infective exacerbation of asthma/COPD \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nInfective exacerbation* \nTab Amoxicillin-\nclavulanate 1g BD \nOr \nTab Cefuroxime 500 mg \nBD \nOr  \nTab Cefpodoxime 200 \nmg BD \n \nInj Ceftriaxone 2g IV \nOD \nMost commonly \ncaused by viral \nrespiratory infections.  \nAntibiotics should be \nconsidered only if \nthere is increased \ndyspnoea, increased \nsputum volume and \nincreased sputum \npurulence [Anthonisen \ncriteria] \n  \nDuration of therapy: 3-\n5 days \nFor common etiological agents associated with Infective exacerbation of asthma/COPD, see \nAnnexure B.12.3 \nAdditional Information: \n*Symptoms of infective exacerbation are: \n• \nFever \n• \nSputum purulence \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line Alternatvie (with Comments\nInfection (with Dosage dosage and\nand Duration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute\nbronchitis",
+          "No antibiotics",
+          "Bronchodilators if\nwheezing",
+          "If cough persists for more than 2 weeks,\nexclude TB and pertussis."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        141.6919921875,
+        547.1400349934896,
+        214.1479736328125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage and Alternatvie (with Comments\nDuration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Bronchiolitis",
+          "Antibiotics not recommended.\nNebulisation with\nbronchodilators.",
+          "",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        284.6420043945312,
+        547.1400349934896,
+        366.3379638671875
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Infective exacerbation*",
+          "Tab Amoxicillin-\nclavulanate 1g BD\nOr\nTab Cefuroxime 500 mg\nBD\nOr\nTab Cefpodoxime 200\nmg BD",
+          "Inj Ceftriaxone 2g IV\nOD",
+          "Most commonly\ncaused by viral\nrespiratory infections.\nAntibiotics should be\nconsidered only if\nthere is increased\ndyspnoea, increased\nsputum volume and\nincreased sputum\npurulence [Anthonisen\ncriteria]\nDuration of therapy: 3-\n5 days"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        436.7019836425781,
+        547.1400349934896,
+        666.1479736328125
+      ],
+      "table_number": 2,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Bronchitis",
+    "Bronchiolitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

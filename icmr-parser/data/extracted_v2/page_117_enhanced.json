@@ -1,0 +1,43 @@
+{
+  "page_number": 117,
+  "text": " \n \n \nHealthcare Associated Infection Surveillance Network collaborators. Health-care-associated \nbloodstream and urinary tract infections in a network of hospitals in India: a multicentre, \nhospital-based, prospective surveillance study. Lancet Glob Health. 2022 Sep;10(9):e1317-\ne1325. doi: 10.1016/S2214-109X(22)00274-1. PMID: 35961355. \n \n18.7 Intra-abdominal infection \nType of \nInfection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with dosage and \nDuration) \nComments \nTertiary \nPeritonitis \nImipenem- \ncilastatin IV 500 \nmg QID \nOr  \nMeropenem 1g IV \nTDS \n \n \nCover for CRO* if patient recently \nexposed to BL-BLI / Carbapenems  \nPolymyxin B 15-20 lakhs units IV stat, \nthen 7.5-10 lakhs IV q12h \nOr  \nColistin 9MU IV stat, then 4.5 MU IV \nq12h \nOr  \nFosfomycin 4g IV q6h \nOR  \nTigecycline 200mg stat and 100mg IV \nBD \nIn combination with a carbapenem \n(meropenem/imipenem) \nAll hospital onset \ninfections; should be \nmanaged as per \nhospital antibiograms; \nthese \nrecommendations are \ngeneral and especially \nfor places where there \nis no antibiogram (it is \nhighly recommended to \ngenerate antibiograms) \nDuration: 5-7 days (if \nsource reduction is \nbeing done)  \nAdd Candida cover \n(Fluconazole or \nEchinocandin) if risk \nfactors for candida \npresent \nFor common etiological agents associated with Hospital acquired intra-abdominal infections, see \nAnnexure B.18.6 \nReferences: \n1. Bass GA, Dzierba AL, Taylor B, Lane-Fall M, Kaplan LJ. Tertiary peritonitis: considerations for \ncomplex \nteam-based \ncare. Eur \nJ \nTrauma \nEmerg \nSurg. \n2022;48(2):811-825. \ndoi:10.1007/s00068-021-01750-9 \n2. Sartelli, M., Catena, F., Abu-Zidan, F.M. et al. Management of intra-abdominal infections: \nrecommendations by the WSES 2016 consensus conference. World J Emerg Surg 12, 22 (2017). \nhttps://doi.org/10.1186/s13017-017-0132-7 \n3. Soman R, Veeraraghavan B, Hegde A, Varma S, Todi S, Singh RK, Nagavekar V, Rodrigues C, \nSwaminathan S, Ramsubramanian V, Ansari A, Chaudhry D, Pednekar A, Bhagat S, Patil S, \nBarkate H. Indian consensus on the managemeNt of carbapenem-resistant enterobacterales \ninfection in critically ill patients II (ICONIC II). Expert Rev Anti Infect Ther. 2024 Jun;22(6):453-\n468. doi: 10.1080/14787210.2024.2360116. Epub 2024 May 27. Erratum in: Expert Rev Anti \nInfect Ther. 2024 Jul;22(7):607. doi: 10.1080/14787210.2024.2370086. PMID: 38790080. \n4. Guidance on Diagnosis & Management of Carbapenem Resistant Gram-negative Infections. \nICMR.2022ICMR.Availablefrom:https://www.icmr.gov.in/icmrobject/custom_data/pdf/resour\nce-guidelines/Diagnosis_and_management_of_CROs \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie (with dosage and Comments\nInfection Dosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Tertiary\nPeritonitis",
+          "Imipenem-\ncilastatin IV 500\nmg QID\nOr\nMeropenem 1g IV\nTDS",
+          "Cover for CRO* if patient recently\nexposed to BL-BLI / Carbapenems\nPolymyxin B 15-20 lakhs units IV stat,\nthen 7.5-10 lakhs IV q12h\nOr\nColistin 9MU IV stat, then 4.5 MU IV\nq12h\nOr\nFosfomycin 4g IV q6h\nOR\nTigecycline 200mg stat and 100mg IV\nBD\nIn combination with a carbapenem\n(meropenem/imipenem)",
+          "All hospital onset\ninfectoi ns; should be\nmanaged as per\nhospital antibiograms;\nthese\nrecommendations are\ngeneral and especially\nfor places where there\nis no antibiogram (it is\nhighly recommended to\ngenerate antibiograms)\nDuration: 5-7 days (if\nsource reduction is\nbeing done)\nAdd Candida cover\n(Fluconazole or\nEchinocandin) if risk\nfactors for candida\npresent"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        169.53201904296876,
+        547.1400349934896,
+        466.07798461914064
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Intra-abdominal infection",
+    "Eur",
+    "Trauma",
+    "Emerg",
+    "Surg",
+    "et al.",
+    "World J Emerg Surg"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

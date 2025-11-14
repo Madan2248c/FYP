@@ -1,0 +1,79 @@
+{
+  "page_number": 52,
+  "text": " \n \n47 \n \nAug;29(4):88-97. doi: 10.21315/mjms2022.29.4.9. Epub 2022 Aug 29. PMID: 36101529; \nPMCID: PMC9438850. \n \n7.2 Laryngitis/Laryngopharyngitis/URTI \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nUncomplicated Viral \ninfection \nNo antibiotics needed, \nonly symptomatic \nmanagement \n \n90% are viral \ninfections, so no \nantibiotics needed. \nSymptomatic \ntherapy- Steam \ninhalation, voice \nrest and warm \nsaline gargles. \nComplicated - persistence \nand non-improvement of \nsymptoms & new onset \nfever, headache etc.  \nAmoxicillin-clavulanate \n875/125 mg q12h for 5-7 \ndays  \n \nAzithromycin 500mg \nOD for 3 days \n \n \nFor common etiological agents of Laryngitis/Laryngopharyngitis/URTI, see Annexure B.7.2 \n \nAdditional Information:  \n• \nLaryngitis usually gets better on its own within 1 to 2 weeks. \n• \nEmpiric therapy of Oseltamivir, in patients with influenza like illness during an ongoing \noutbreak, if they are at high risk of complications such as pregnant women, those with co-\nmorbidities and the immunocompromised. \n• \nFor antimicrobial therapy in URTI, see the information below: \nAntimicrobial therapy in URTI: \nCondition \nPreferred drug \nAlternative  \nPenicillin \nallergy \nAcute pharyngitis with low \nCentor score (≤2) \nNo antibiotics required \n \n \nAcute Pharyngitis with high \nCentor score (≥3) \nAmoxicillin 1g TDS for \n5-7 days \n \nAmoxicillin-\nclavulanate 1g \nBD for 5-7 days \n \nAnaphylactic: \nclindamycin/ \nclarithromycin/ \nazithromycin  \nNon-\nanaphylactic: \ncephalexin/ \ncefadroxil  \nMembranous pharyngitis  \nErythromycin 500 mg \nIV QID \nOr \nAzithromycin 500mg \nOD \nOr \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated Viral\ninfection",
+          "No antibiotics needed,\nonly symptomatic\nmanagement",
+          "",
+          "90% are viral\ninfectoi ns, so no\nantibiotics needed.\nSymptomatic\ntherapy- Steam\ninhalation, voice\nrest and warm\nsaline gargles."
+        ],
+        [
+          "Complicated - persistence\nand non-improvement of\nsymptoms & new onset\nfever, headache etc.",
+          "Amoxicillin-clavulanate\n875/125 mg q12h for 5-7\ndays",
+          "Azithromycin 500mg\nOD for 3 days",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        148.77200927734376,
+        547.1133660210503,
+        338.37798461914065
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Condition Preferred drug Alternatvie Penicillin\nallergy",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute pharyngitsi with low\nCentor score (≤2)",
+          "No antibiotics required",
+          "",
+          ""
+        ],
+        [
+          "Acute Pharyngitis with high\nCentor score (≥3)",
+          "Amoxicillin 1g TDS for\n5-7 days",
+          "Amoxicillin-\nclavulanate 1g\nBD for 5-7 days",
+          "Anaphylactci:\nclindamycin/\nclarithromycin/\nazithromycin\nNon-\nanaphylactci:\ncephalexin/\ncefadroxil"
+        ],
+        [
+          "Membranous pharyngitsi",
+          "Erythromycin 500 mg\nIV QID\nOr\nAzithromycin 500mg\nOD\nOr",
+          "",
+          ""
+        ]
+      ],
+      "bbox": [
+        107.37200164794922,
+        502.9419921875,
+        547.1133660210503,
+        746.8080078125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Laryngitis/Laryngopharyngitis/URTI"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

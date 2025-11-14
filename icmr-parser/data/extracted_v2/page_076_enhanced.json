@@ -1,0 +1,41 @@
+{
+  "page_number": 76,
+  "text": " \n \n71 \n \nChlamydia and \nGonococcus. \nViral Conjunctivitis \n(commonly both \neyes together with \nwatery discharge) \nAntibiotics should not be \nroutinely prescribed. \nEyelid hygiene should be \nexplained. \nLubricating eye drops. \nAntibiotics administered if there \nis evidence of secondary \nbacterial infection: \nGentamicin eye drops 0.3 % w/v \nQID for 1week  \nMay add - Topical Ganciclovir \n0.15% gel 1 drop 5 times a day \nfor 3 days and then 3 times daily \nfor 1 week in severe cases  \nAcyclovir 800 mg PO 5 \ntimes a day for 7 to 10 \ndays  \nOr \nFamciclovir 500 mg PO 3 \ntimes a day \nInform patients \nabout ways to \nmaintain hygiene \nto prevent \ntransmission of \ninfection to \nothers. \n \n \nBacterial Keratitis \nSize of ulcer <3 mm and not \ninvolving centre visual axis: \nMoxifloxacin eye drops 1 hrly \nfor first 48hrs and then reduce \nas per response  \n \nSize of ulcer >3 mm or involving \ncentre visual axis or non- \nresolving keratitis on single \nantibiotic within 48 hours: \nCefazolin eye drops 5% 1 hrly  \nOr  \nTobramycin eye drops 1.3% 1 \nhrly \n \nSize of ulcer <3 mm and \nnot involving centre visual \naxis: \nGatifloxacin eye drops  \nOr  \nLevofloxacin eye drops  \nOr  \nBesifloxacin eye drops \nOr  \nCeftazidime eye drops 5% \n1 hrly \n \n \nOral \nfluoroquinolones \n(Ciprofloxacin/ \nMoxifloxacin) \nmaybe added in \ncorneal ulcers \nover 5 mm in size \nor >50% deep \naccompanied \nwith limbal \ninvolvement/ \nperforated ulcer \nor following \nkeratoplasty.  \n \nCorneal scrapings \nto be sent for \nmicrobiological \ntesting (Gram \nstain/ \nKOH/cultures).  \nOnce the culture \nresults are \navailable after \n48 to 72 hours, \nthe treatment \nmust be switched \nto targeted \nantibacterial \ntherapy.  \nDuration of \ntherapy: Few \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Col1",
+        "Col2",
+        "Chlamydia and\nGonococcus."
+      ],
+      "rows": [
+        [
+          "Viral Conjunctivitis\n(commonly both\neyes together with\nwatery discharge)",
+          "Antibiotics should not be\nroutinely prescribed.\nEyelid hygiene should be\nexplained.\nLubricating eye drops.\nAntibiotics administered if there\nis evidence of secondary\nbacterial infectoi n:\nGentamicin eye drops 0.3 % w/v\nQID for 1week\nMay add - Topical Ganciclovir\n0.15% gel 1 drop 5 times a day\nfor 3 days and then 3 times daily\nfor 1 week in severe cases",
+          "Acyclovir 800 mg PO 5\ntimes a day for 7 to 10\ndays\nOr\nFamciclovir 500 mg PO 3\ntimes a day",
+          "Inform patients\nabout ways to\nmaintain hygiene\nto prevent\ntransmission of\ninfectoi n to\nothers."
+        ],
+        [
+          "Bacterial Keratti is",
+          "Size of ulcer <3 mm and not\ninvolving centre visual axis:\nMoxifloxacin eye drops 1 hrly\nfor frist 48hrs and then reduce\nas per response\nSize of ulcer >3 mm or involving\ncentre visual axis or non-\nresolving keratitsi on single\nantibiotic within 48 hours:\nCefazolin eye drops 5% 1 hrly\nOr\nTobramycin eye drops 1.3% 1\nhrly",
+          "Size of ulcer <3 mm and\nnot involving centre visual\naxis:\nGatifloxacin eye drops\nOr\nLevofloxacin eye drops\nOr\nBesifol xacin eye drops\nOr\nCefatzidime eye drops 5%\n1 hrly",
+          "Oral\nfluoroquinolones\n(Ciprofloxacin/\nMoxifloxacin)\nmaybe added in\ncorneal ulcers\nover 5 mm in size\nor >50% deep\naccompanied\nwith limbal\ninvolvement/\nperforated ulcer\nor following\nkeratoplasty.\nCorneal scrapings\nto be sent for\nmicrobiological\ntesting (Gram\nstain/\nKOH/cultures).\nOnce the culture\nresults are\navailable afetr\n48 to 72 hours,\nthe treatment\nmust be switched\nto targeted\nantibacterial\ntherapy.\nDuration of\ntherapy: Few"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        72.1919921875,
+        547.1200332641602,
+        769.1280151367188
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "page_number": 143,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nBacteroides spp. \n \nImmunocompromised hosts  \nFungal: \nMucormycosis and Aspergillosis \nClinical \nOphthalmology A Systematic Approach \nTenth Edition.Pg 124-125 \nB.11.4 \nInfectious \nretinitis \nViral: \nCytomegalovirus \nVZV \nHSV Type 1 & 2 \n \nFungal: \nCandida albicans \nAspergillus spp. \n \nParasitic: \nToxoplasma gondii  \nToxocara canis \n \nOthers: \nTreponema pallidum \nBartonella henselae (uncommon) \nYachna Ahuja, Steven M. Couch, Raymund R. \nRazonable, Sophie J. Bakri. \nInfectious retinitis: a review \nAvailable from: \nhttps://www.retinalphysician.com/issues/2008\n/novdec/infectious-retinitis-a-review/ \nB.12. Respiratory Tract Infections \nAnnexure \nTitle \nEtiology \nReference \nB.12.1 \nAcute bronchitis \nViral: \nRhinovirus \nEnterovirus \nInfluenza A and B \nParainfluenza \nCoronavirus \nHuman metapneumovirus, \nRespiratory Syncytial Virus \nAdenovirus \n \nBacterial: \nAtypical bacteria  \nMycoplasma pneumoniae \nChlamydia pneumoniae \nBordetella pertussis \nKinkade S, Long NA. Acute Bronchitis. Am \nFam Physician. 2016 Oct 1;94(7):560-565. \nPMID: 27929206. \n \nB.12.2 \nBronchiolitis \nIn adults, symptomatic acute \ninfectious bronchiolitis (without \npneumonia) is uncommon, but can \nbe caused by pathogens, such as: \nViral:  \n Influenza virus \nAparna C. Swaminathan, John M. Carney, \nTina D. Tailor, and Scott M. Palmer. \nOverview and Challenges of Bronchiolar \nDisorders.Ann Am Thorac Soc Vol 17, No \n3, pp 253–263, Mar 2020 \n  \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Bacteroides spp.\nImmunocompromised hosts\nFungal:\nMucormycosis and Aspergillosis",
+          "Clinical\nOphthalmology A Systematic Approach\nTenth Editoi n.Pg 124-125"
+        ],
+        [
+          "B.11.4",
+          "Infectoi us\nretinitsi",
+          "Viral:\nCytomegalovirus\nVZV\nHSV Type 1 & 2\nFungal:\nCandida albicans\nAspergillus spp.\nParasitci:\nToxoplasma gondii\nToxocara canis\nOthers:\nTreponema pallidum\nBartonella henselae (uncommon)",
+          "Yachna Ahuja, Steven M. Couch, Raymund R.\nRazonable, Sophie J. Bakri.\nInfectoi us retinitsi: a review\nAvailable from:\nhtpts://www.retinalphysician.com/issues/2008\n/novdec/infectoi us-retinitsi-a-review/"
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        64.03201904296876,
+        575.4599609375,
+        400.4379821777344
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.12.1",
+          "Acute bronchitis",
+          "Viral:\nRhinovirus\nEnterovirus\nInfluenza A and B\nParainfluenza\nCoronavirus\nHuman metapneumovirus,\nRespiratory Syncytial Virus\nAdenovirus\nBacterial:\nAtypical bacteria\nMycoplasma pneumoniae\nChlamydia pneumoniae\nBordetella pertussis",
+          "Kinkade S, Long NA. Acute Bronchitis. Am\nFam Physician. 2016 Oct 1;94(7):560-565.\nPMID: 27929206."
+        ],
+        [
+          "B.12.2",
+          "Bronchiolitis",
+          "In adults, symptomatci acute\ninfectoi us bronchiolitis (without\npneumonia) is uncommon, but can\nbe caused by pathogens, such as:\nViral:\nInfluenza virus",
+          "Aparna C. Swaminathan, John M. Carney,\nTina D. Tailor, and Scot tM. Palmer.\nOverview and Challenges of Bronchiolar\nDisorders.Ann Am Thorac Soc Vol 17, No\n3, pp 253–263, Mar 2020"
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        427.34198608398435,
+        575.4599609375,
+        779.8080078125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Bacteroides spp.",
+    "Candida albicans",
+    "Aspergillus spp.",
+    "Toxoplasma gondii",
+    "Toxocara canis",
+    "Treponema pallidum",
+    "Bartonella henselae",
+    "Mycoplasma pneumoniae",
+    "Chlamydia pneumoniae",
+    "Bordetella pertussis",
+    "In adults, symptomatic acute",
+    "infectious bronchiolitis (without",
+    "pneumonia) is uncommon, but can",
+    "be caused by pathogens, such as:"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

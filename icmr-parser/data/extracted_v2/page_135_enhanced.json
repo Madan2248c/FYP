@@ -1,0 +1,92 @@
+{
+  "page_number": 135,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \n  \nAnaerobes: \nPeptostreptococcus spp. \nPeptococcus spp. \nClostridium spp. \nBacteroides spp. \nFusobacterium spp. \nMobiluncus spp. \nB.6.9 \nUrethral \ndischarge \nsyndrome \nBacterial: \nNeisseria gonorrhoeae \nChlamydia trachomatis \nMycoplasma genitalium \n \nParasitic: \nTrichomonas vaginalis \nNational Technical Guidelines on STI and \nRTI 2024 Pg 33 \n \n  \nB.6.10 \nChorio-\namnionitis \nPolymicrobial infections are \ndetected in 70% infections with \nclinical chorioamnionitis and \nintraamniotic infections: \nBacterial: \nUreaplasma spp. \nGardnerella vaginalis \nMycoplasma hominis \nStaphylococcus aureus \nGroup B Streptococcus \nE. coli \nPseudomonas spp. \nEnterococcus spp. \nFusobacterium spp. \n \nFungal: \nCandida spp. \nJung, Eunjung et al. Clinical \nchorioamnionitis at term: definition, \npathogenesis, microbiology, diagnosis, and \ntreatment. American Journal of Obstetrics \n& Gynecology, Volume 230, Issue 3, S807 - \nS840 \n \n \n  \nB.7. Ear, Nose & Throat Infections \nAnnexure \nTitle \nEtiology \nReference \nB.7.1 \nRhinitis/ \nCommon cold \n \nViral: - The most common viral \ncauses of nonspecific URIs are \nRhinoviruses (over 100 \nserotypes) \nCoronaviruses \nParainfluenza virus \nRespiratory syncytial virus \nInfluenza virus \nAdenovirus (57 serotypes) \nMetapneumovirus \nBocavirus \nHarrison’s Principles of Internal Medicine Pg \n248 \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Anaerobes:\nPeptostreptococcus spp.\nPeptococcus spp.\nClostridium spp.\nBacteroides spp.\nFusobacterium spp.\nMobiluncus spp.",
+          ""
+        ],
+        [
+          "B.6.9",
+          "Urethral\ndischarge\nsyndrome",
+          "Bacterial:\nNeisseria gonorrhoeae\nChlamydia trachomatsi\nMycoplasma genitalium\nParasitci:\nTrichomonas vaginalis",
+          "National Technical Guidelines on STI and\nRTI 2024 Pg 33"
+        ],
+        [
+          "B.6.10",
+          "Chorio-\namnionitsi",
+          "Polymicrobial infectoi ns are\ndetected in 70% infections with\nclinical chorioamnionitsi and\nintraamniotic infectoi ns:\nBacterial:\nUreaplasma spp.\nGardnerella vaginalis\nMycoplasma hominis\nStaphylococcus aureus\nGroup B Streptococcus\nE. coli\nPseudomonas spp.\nEnterococcus spp.\nFusobacterium spp.\nFungal:\nCandida spp.",
+          "Jung, Eunjung et al. Clinical\nchorioamnionitsi at term: definitoi n,\npathogenesis, microbiology, diagnosis, and\ntreatment. American Journal of Obstetrics\n& Gynecology, Volume 230, Issue 3, S807 -\nS840"
+        ]
+      ],
+      "bbox": [
+        65.8290023803711,
+        64.03201904296876,
+        568.3680053710938,
+        561.8679809570312
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.7.1",
+          "Rhinitsi/\nCommon cold",
+          "Viral: - The most common viral\ncauses of nonspecific URIs are\nRhinoviruses (over 100\nserotypes)\nCoronaviruses\nParainfluenza virus\nRespiratory syncytial virus\nInfluenza virus\nAdenovirus (57 serotypes)\nMetapneumovirus\nBocavirus",
+          "Harrison’s Principles of Internal Medicine Pg\n248"
+        ]
+      ],
+      "bbox": [
+        65.8290023803711,
+        588.77197265625,
+        575.4799601236979,
+        774.1679931640625
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Peptostreptococcus spp.",
+    "Peptococcus spp.",
+    "Clostridium spp.",
+    "Bacteroides spp.",
+    "Fusobacterium spp.",
+    "Mobiluncus spp",
+    "Neisseria gonorrhoeae",
+    "Chlamydia trachomatis",
+    "Mycoplasma genitalium",
+    "Trichomonas vaginalis",
+    "Ureaplasma spp.",
+    "Gardnerella vaginalis",
+    "Mycoplasma hominis",
+    "Staphylococcus aureus",
+    "E. coli",
+    "Pseudomonas spp.",
+    "Enterococcus spp.",
+    "Fusobacterium spp.",
+    "Candida spp.",
+    "Viral"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

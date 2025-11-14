@@ -1,0 +1,38 @@
+{
+  "page_number": 90,
+  "text": " \n \n85 \n \nextrapulmonary \nsites-hematogenous \n(abdominal \nsepsis, \ninfective \nendocarditis, \nseptic \nthromboembolism) direct spread (broncho-oesophageal fistula, subphrenic abscess) \nReferences: \n1. Kuhajda I, Zarogoulidis K, Tsirgogianni K, et al. Lung abscess-etiology, diagnostic and treatment \noptions. Ann Transl Med. 2015;3(13):183. doi:10.3978/j. ISSN.2305-5839.2015.07.08 \n2. Kuhajda I, Zarogoulidis K, Tsirgogianni K, Tsavlis D, Kioumis I, Kosmidis C, Tsakiridis K, Mpakas \nA, Zarogoulidis P, Zissimopoulos A, Baloukas D, Kuhajda D. Lung abscess-etiology, diagnostic \nand treatment options. Ann Transl Med. 2015 Aug;3(13):183. doi: 10.3978/j. ISSN.2305-\n5839.2015.07.08. PMID: 26366400; PMCID: PMC4543327. \n \n12.7 Para-pneumonic pleural effusion/empyema \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nPara-pneumonic \neffusion or empyema \nCeftriaxone 2g OD IV  \nOr \nInj Amoxicillin-\nclavulanate 1.2g IV TDS \nDuration: 4 weeks \nPiperacillin-tazobactam \n4.5g IV q6h  \nDuration: 4 weeks \nAdd MRSA agent: \nVancomycin or \nTeicoplanin or \nLinezolid (use only if \nTB is excluded) if \nsuspected as per \ncomments in \npneumonia section. \n \nPleural fluid needs to \nbe sent for \nmicrobiological \nanalysis and/or direct \ninoculation in \nautomated blood-\nculture bottles for \nbetter diagnostic yield. \nChange to targeted \ntherapy based on \npleural fluid cultures. \nAntibiotics to continue \nfor 4 weeks. \n \nPleural drain or ICD \nmay be needed if \npleural effusion is \npersistent. Surgical \nintervention in \nempyema is usually by \nvideo-assisted \nthoracotomy (VATS). \nWhen the evacuation \nof the cavity or lung \nexpansion is not \nachieved with VATS, an \n",
+  "tables": [
+    {
+      "headers": [
+        "First Line (with Dosage Alternatvie (with\nType of Infection Comments\nand Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Para-pneumonic\nefufsion or empyema",
+          "Ceftriaxone 2g OD IV\nOr\nInj Amoxicillin-\nclavulanate 1.2g IV TDS\nDuration: 4 weeks",
+          "Piperacillin-tazobactam\n4.5g IV q6h\nDuration: 4 weeks",
+          "Add MRSA agent:\nVancomycin or\nTeicoplanin or\nLinezolid (use only if\nTB is excluded) if\nsuspected as per\ncomments in\npneumonia sectoi n.\nPleural fluid needs to\nbe sent for\nmicrobiological\nanalysis and/or direct\ninoculation in\nautomated blood-\nculture botltes for\nbetetr diagnostic yield.\nChange to targeted\ntherapy based on\npleural fluid cultures.\nAntibiotics to continue\nfor 4 weeks.\nPleural drain or ICD\nmay be needed if\npleural effusion is\npersistent. Surgical\ninterventoi n in\nempyema is usually by\nvideo-assisted\nthoracotomy (VATS).\nWhen the evacuation\nof the cavity or lung\nexpansion is not\nachieved with VATS, an"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        266.2820190429687,
+        547.1400349934896,
+        764.2079467773438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Ann Transl Med",
+    "Para-pneumonic pleural effusion/empyema"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

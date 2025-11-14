@@ -1,0 +1,67 @@
+{
+  "page_number": 77,
+  "text": " \n \n72 \n \nweeks to months, \ndepending on \nresolution of \nsigns and \nsymptoms until \nulcer heals. \nViral Keratitis  \nHSV is the most common cause of viral keratitis \nEpithelial \nEye ointment Acyclovir 3% 5 \ntimes per day for 2 weeks  \nTopical Ganciclovir 0.15% \ngel 1 drop 5 times a day \nfor 3 days and then 3 \ntimes daily for 1 week \nOral antiviral \nneeded if \nassociated \nstromal/endotheli\nal involvement or \nin recurrent \nepisodes. \nDiagnosis \npredominantly \nclinical. \nStromal  \n \nTab. Acyclovir (10-20 mg/kg/day \nin 5 divided doses in < 18 years; \n30 mg/kg/day in 5 divided \ndoses for > 18 years) 400 mg 5 \ntimes per day for 2 weeks \nEye drop Prednisolone acetate 6 \ntimes per day along-with eye \ndrop Moxifloxacin QID  \nEye drop Homatropine 2 % TDS  \nTab. Valacyclovir 1g TDS \nor 60 mg/kg/day in 2 to \n18 years in 3 divided \ndoses \n \n \nEndothelial  \n  \nTab Acyclovir 400 mg 5 times \nper day for 2 weeks  \nEye drop Prednisolone acetate 6 \ntimes per day along with eye \ndrop Moxifloxacin QID  \nEye drop Homatropine 2 % TDS  \n \n \nVZV (Varicella \nZoster \nOphthalmicus/Her\npes zoster \nophthalmicus) \nTab Acyclovir 800 mg 5 times in \na day for 2 weeks  \nEye drop: \nCiprofloxacin/Gentamicin QID \n(Antibiotics to be administered \nif evidence of secondary \nbacterial infection) \nTab Valacyclovir 1g TDS \nfor 2 weeks  \nEye drop Moxifloxacin \nQID  \n \n \nFungal Keratitis: \nAspergillus, \nFusarium, Candida \nspecies \nNatamycin: first line treatment \n \nFor filamentous fungi: \nNatamycin 5% Eye drops half \nhrly for the first two days after \nwhich it is reduced to one drop \nevery hour. Further reduction \nbased on response to \ntreatment.  \nBased on response to treatment \nand clinical course over 48-72 \n \nDiagnosis based \non clinical \npresentation, \nhistory of trauma \nwith vegetative \nmatter. Corneal \nscraping to be \nsent for Gram \nstain/KOH test \nwith \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Col1",
+        "Col2",
+        "weeks to months,\ndepending on\nresolutoi n of\nsigns and\nsymptoms until\nulcer heals."
+      ],
+      "rows": [
+        [
+          "Viral Keratitsi\nHSV is the most common cause of viral keratitsi",
+          null,
+          null,
+          null
+        ],
+        [
+          "Epithelial",
+          "Eye ointment Acyclovir 3% 5\ntimes per day for 2 weeks",
+          "Topical Ganciclovir 0.15%\ngel 1 drop 5 times a day\nfor 3 days and then 3\ntimes daily for 1 week",
+          "Oral antiviral\nneeded if\nassociated\nstromal/endotheli\nal involvement or\nin recurrent\nepisodes.\nDiagnosis\npredominantly\nclinical."
+        ],
+        [
+          "Stromal",
+          "Tab. Acyclovir (10-20 mg/kg/day\nin 5 divided doses in < 18 years;\n30 mg/kg/day in 5 divided\ndoses for > 18 years) 400 mg 5\ntimes per day for 2 weeks\nEye drop Prednisolone acetate 6\ntimes per day along-with eye\ndrop Moxifloxacin QID\nEye drop Homatropine 2 % TDS",
+          "Tab. Valacyclovir 1g TDS\nor 60 mg/kg/day in 2 to\n18 years in 3 divided\ndoses",
+          ""
+        ],
+        [
+          "Endothelial",
+          "Tab Acyclovir 400 mg 5 times\nper day for 2 weeks\nEye drop Prednisolone acetate 6\ntimes per day along with eye\ndrop Moxifloxacin QID\nEye drop Homatropine 2 % TDS",
+          "",
+          ""
+        ],
+        [
+          "VZV (Varicella\nZoster\nOphthalmicus/Her\npes zoster\nophthalmicus)",
+          "Tab Acyclovir 800 mg 5 times in\na day for 2 weeks\nEye drop:\nCiprofloxacin/Gentamicin QID\n(Antibiotics to be administered\nif evidence of secondary\nbacterial infectoi n)",
+          "Tab Valacyclovir 1g TDS\nfor 2 weeks\nEye drop Moxifloxacin\nQID",
+          ""
+        ],
+        [
+          "Fungal Keratitsi:\nAspergillus,\nFusarium, Candida\nspecies",
+          "Natamycin: first line treatment\nFor filamentous fungi:\nNatamycin 5% Eye drops half\nhrly for the first two days afetr\nwhich it is reduced to one drop\nevery hour. Further reductoi n\nbased on response to\ntreatment.\nBased on response to treatment\nand clinical course over 48-72",
+          "",
+          "Diagnosis based\non clinical\npresentatoi n,\nhistory of trauma\nwith vegetative\nmatetr. Corneal\nscraping to be\nsent for Gram\nstain/KOH test\nwith"
+        ]
+      ],
+      "bbox": [
+        72.23400354385376,
+        72.1919921875,
+        547.090030670166,
+        766.3680053710938
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "For filamentous fungi:"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

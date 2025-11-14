@@ -1,0 +1,97 @@
+{
+  "page_number": 139,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nKlebsiella spp. \nEnterobacter spp. \nProteus spp. \nPseudomonas aeruginosa \n \nFungal: \nMalassezia furfur \n(furuncles and carbuncles). Cochrane Database \nSyst Rev. 2021 Feb 26;2(2):CD013099. doi: \n10.1002/14651858.CD013099.pub2. PMID: \n33634465; PMCID: PMC8130991. \nB.9.7 \nDiabetic foot \ninfections \nBacterial: \nGram positive: \n Staphylococcus aureus \nEnterococcus fecalis  \nStreptococcus pneumoniae \nStreptococcus agaliticae \nStaphylococcus epidermidis \n \nGram negative aerobes: \n E.coli  \nPseudomonas aeruginosa \n Klebsiella spp \nAcinetobacter baumanii \nEnterobacter cloacae \n \nGram negative anaerobes: \nBacteroides fragilis \nFusobacterium spp. \nJneid, J.P. Lavigne, B. La Scola, N. Cassir,The \ndiabetic foot microbiota: A review,Human \nMicrobiome Journal,Volumes 5–\n6,2017,Pages 1-6, \nISSN 2452-2317 \n \nB.10. Musculoskeletal Infections \nAnnexure \nTitle \nEtiology \nReference \nB.10.1 \nAcute \nosteomyelitis \nBacterial: \nStaphylococcus aureus \nStreptococci \nEscherichia coli \nPseudomonas aeruginosa \nHarrison’s Principles of Internal Medicine Pg \n3936 \nB.10.2 \nChronic \nosteomyelitis \nBacterial: \nStaphylococcus aureus (most \ncommon) \nMycobacterium tuberculosis \nGram negative bacteria \nCoagulase negative staphylococci \nAnaerobes \nStreptococci \nEnterococci \nPolymicrobial infections are also \nseen. \nAhmed Barakat, William HK. Schilling, Sunil \nSharma, Enis Guryel, Richard \nFreeman,Chronic osteomyelitis: a review on \ncurrent concepts and trends in \ntreatment,Orthopaedics and Trauma,Volume \n33, Issue 3,2019,Pages 181-187,ISSN 1877-\n1327, \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Klebsiella spp.\nEnterobacter spp.\nProteus spp.\nPseudomonas aeruginosa\nFungal:\nMalassezia furfur",
+          "(furuncles and carbuncles). Cochrane Database\nSyst Rev. 2021 Feb 26;2(2):CD013099. doi:\n10.1002/14651858.CD013099.pub2. PMID:\n33634465; PMCID: PMC8130991."
+        ],
+        [
+          "B.9.7",
+          "Diabetic foot\ninfectoi ns",
+          "Bacterial:\nGram positive:\nStaphylococcus aureus\nEnterococcus fecalis\nStreptococcus pneumoniae\nStreptococcus agaliticae\nStaphylococcus epidermidis\nGram negative aerobes:\nE.coli\nPseudomonas aeruginosa\nKlebsiella spp\nAcinetobacter baumanii\nEnterobacter cloacae\nGram negative anaerobes:\nBacteroides fragilis\nFusobacterium spp.",
+          "Jneid, J.P. Lavigne, B. La Scola, N. Cassir,The\ndiabetic foot microbiota: A review,Human\nMicrobiome Journal,Volumes 5–\n6,2017,Pages 1-6,\nISSN 2452-2317"
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        64.03201904296876,
+        575.4599609375,
+        474.4779907226563
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.10.1",
+          "Acute\nosteomyelitsi",
+          "Bacterial:\nStaphylococcus aureus\nStreptococci\nEscherichia coli\nPseudomonas aeruginosa",
+          "Harrison’s Principles of Internal Medicine Pg\n3936"
+        ],
+        [
+          "B.10.2",
+          "Chronic\nosteomyelitsi",
+          "Bacterial:\nStaphylococcus aureus (most\ncommon)\nMycobacterium tuberculosis\nGram negative bacteria\nCoagulase negatvie staphylococci\nAnaerobes\nStreptococci\nEnterococci\nPolymicrobial infectoi ns are also\nseen.",
+          "Ahmed Barakat, William HK. Schilling, Sunil\nSharma, Enis Guryel, Richard\nFreeman,Chronic osteomyelitis: a review on\ncurrent concepts and trends in\ntreatment,Orthopaedics and Trauma,Volume\n33, Issue 3,2019,Pages 181-187,ISSN 1877-\n1327,"
+        ]
+      ],
+      "bbox": [
+        67.4040002822876,
+        501.26198120117186,
+        575.4599609375,
+        765.28798828125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Klebsiella spp.",
+    "Enterobacter spp.",
+    "Proteus spp.",
+    "Pseudomonas aeruginosa",
+    "Malassezia furfur",
+    "Gram positive:",
+    "Staphylococcus aureus",
+    "Enterococcus fecalis",
+    "Streptococcus pneumoniae",
+    "Streptococcus agaliticae",
+    "Staphylococcus epidermidis",
+    "E.coli",
+    "Pseudomonas aeruginosa",
+    "Klebsiella spp",
+    "Acinetobacter baumanii",
+    "Enterobacter cloacae",
+    "Bacteroides fragilis",
+    "Fusobacterium spp.",
+    "Staphylococcus aureus",
+    "Escherichia coli",
+    "Pseudomonas aeruginosa",
+    "Staphylococcus aureus",
+    "Mycobacterium tuberculosis",
+    "Polymicrobial infections are also",
+    "seen."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "page_number": 132,
+  "text": " \n \n \nAnnexure \nno. \nTitle \nEtiology \nReference \nfragilis, Fusobacterium spp, \nStreptococcus spp. \nB.4.5 \nDiverticulitis \nAcute diverticulitis involves \nmicro- or macro-perforation \nwith translocation of \ncommensal bacteria across the \ncolon mucosal barrier, \nsometimes resulting in frank \ninfections, including abscess \nformation and peritonitis. \nBacterial: \nBifidobacterium spp. \nEnterobacteriaceae family \nClostridium spp. \nStrate LL, Morris AM. Epidemiology, \nPathophysiology, and Treatment of \nDiverticulitis. Gastroenterology. 2019 \nApr;156(5):1282-1298 \n \nB.4.6 \nPeritonitis \nPrimary Peritonitis- \nBacterial: \nEscherichia coli \nStreptococci \nEnterococci \nPneumococci \n  \nSecondary Peritonitis – \nBacterial: \nGram-negative bacilli, \nparticularly E. coli \nBacteroides fragilis \nHarrison’s Principles of Internal medicine, \nPg 1055, 1056 \n \nB.4.7 \nSplenic abscess \nBacterial: \nE.coli \nStreptococcus spp.  \nStaphylococcus aureus  \nKlebsiella spp \nBurkholderia pseudomallei \nPseudomonas aeruginosa \nBacteroides fragilis \nPolymicrobial infections may \nbe seen. \n1. Sreekar H, Saraf V, Pangi AC, Sreeharsha \nH, Reddy R, Kamat G. A retrospective study \nof 75 cases of splenic abscess. Indian J Surg \n2011; 73:398–402. \n2. Singh AK, Karmani S, Samanta J, et al. . \nSplenic abscess in a tertiary care centre in \nIndia: clinical characteristics and \nprognostic factors. ANZ J Surg 2021; \n91:1819–25. \n3. Harrison’s Principles of Internal \nmedicine, Pg 1055, 1056 \nB.5. Urinary Tract Infections \nAnnexure \nTitle \nEtiology \nReference \n  \nB.5.1 \nAcute Cystitis \nand acute \npyelonephritis \nBacterial: \nE. coli \nKlebsiella spp \nProteus spp \nEnterococcus spp \nCitrobacter spp \nPseudomonas spp \nHarrison’s Principles of Internal medicine, \nPg 1071 \n  \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure\nno.",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "fragilis, Fusobacterium spp,\nStreptococcus spp.",
+          ""
+        ],
+        [
+          "B.4.5",
+          "Diverticulitis",
+          "Acute diverticulitis involves\nmicro- or macro-perforation\nwith translocation of\ncommensal bacteria across the\ncolon mucosal barrier,\nsometimes resulting in frank\ninfections, including abscess\nformation and peritonitis.\nBacterial:\nBifidobacterium spp.\nEnterobacteriaceae family\nClostridium spp.",
+          "Strate LL, Morris AM. Epidemiology,\nPathophysiology, and Treatment of\nDiverticulitis. Gastroenterology. 2019\nApr;156(5):1282-1298"
+        ],
+        [
+          "B.4.6",
+          "Peritonitis",
+          "Primary Peritonitis-\nBacterial:\nEscherichia coli\nStreptococci\nEnterococci\nPneumococci\nSecondary Peritonitis –\nBacterial:\nGram-negative bacilli,\nparticularly E. coli\nBacteroides fragilis",
+          "Harrison’s Principles of Internal medicine,\nPg 1055, 1056"
+        ],
+        [
+          "B.4.7",
+          "Splenic abscess",
+          "Bacterial:\nE.coli\nStreptococcus spp.\nStaphylococcus aureus\nKlebsiella spp\nBurkholderia pseudomallei\nPseudomonas aeruginosa\nBacteroides fragilis\nPolymicrobial infections may\nbe seen.",
+          "1. Sreekar H, Saraf V, Pangi AC, Sreeharsha\nH, Reddy R, Kamat G. A retrospective study\nof 75 cases of splenic abscess. Indian J Surg\n2011; 73:398–402.\n2. Singh AK, Karmani S, Samanta J, et al. .\nSplenic abscess in a tertiary care centre in\nIndia: clinical characteristics and\nprognostic factors. ANZ J Surg 2021;\n91:1819–25.\n3. Harrison’s Principles of Internal\nmedicine, Pg 1055, 1056"
+        ]
+      ],
+      "bbox": [
+        65.73066923353407,
+        64.03201904296876,
+        568.3733384874132,
+        590.427978515625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.5.1",
+          "Acute Cystitsi\nand acute\npyelonephritsi",
+          "Bacterial:\nE. coli\nKlebsiella spp\nProteus spp\nEnterococcus spp\nCitrobacter spp\nPseudomonas spp",
+          "Harrison’s Principles of Internal medicine,\nPg 1071"
+        ]
+      ],
+      "bbox": [
+        65.73066923353407,
+        617.2119750976562,
+        568.3733384874132,
+        742.3680053710938
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "fragilis, Fusobacterium spp,",
+    "Streptococcus spp.",
+    "Bifidobacterium spp.",
+    "Clostridium spp.",
+    "Escherichia coli",
+    "E. coli",
+    "Bacteroides fragilis",
+    "E.coli",
+    "Streptococcus spp.",
+    "Staphylococcus aureus",
+    "Klebsiella spp",
+    "Burkholderia pseudomallei",
+    "Pseudomonas aeruginosa",
+    "Bacteroides fragilis",
+    "E. coli",
+    "Klebsiella spp",
+    "Proteus spp",
+    "Enterococcus spp",
+    "Citrobacter spp",
+    "Pseudomonas spp"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "page_number": 95,
+  "text": " \n \n90 \n \n14. Bite wound infections \n14.1 Animal (Dog/cat/monkey/Human) \nAnimal Bite \nFirst Line (with \nDosage and Duration) \nAlternative (with dosage \nand Duration) \nComments \n \n \n \n \nAny bite or suspected bite \nfrom mammal   requires \nRabies prophylaxis. \nAnimal bite – \nbreach in \nskin/open \nwound \n \n \nBites deeper than superficial, \nso thorough irrigation under \nlocal anaesthesia is needed, \nand the wound should be left \nopen. \nCat, dog, bat, \nracoon, horse, \npig, rat \nAmoxicillin-clavulanic \nacid 625mg q8h for 3 \nto 5 days \n \nCefuroxime 500mg q12h  \nOr  \nDoxycycline 100mg q12h \nfor 3 to 5 days \n \nCamel, Bear, \nAlligator \nInj Piperacillin-\ntazobactam 4.5g q8h \nfor 5 to 7 days \n \n \nMonkey  \nValacyclovir/Acyclovir \nfor 7 days \n \nHerpes virus simiae has to be \ncovered \nHuman Bite \nEarly [Not yet \ninfected]: \nAmoxicillin-Clavulanic \nacid 625mg q8h for 3 \nto 5 days \n \nLate [Signs of infection \npresent]: \nInj Ampicillin-Sulbactam \n1.5g q6h  \nOr \nInj Piperacillin-tazobactam \n4.5g q8h for 3 to 5 days \n \nFor common etiological agents associated with infections after human and animal bites, see \nAnnexure B.14.1 \nAdditional Information:  \n• \nPatients should be encouraged to get an updated tetanus vaccination. \nReferences: \n1. Who animal bite fact sheet https://www.who.int/news-room/fact-sheets/detail/animal-bites \n2. WB Health National Rabies Control Programme 2019. \n3. Centers \nfor \nDisease \nControl \nand \nPrevention. \nRabies. \nhttp://www.cdc. \ngov/rabies/medical_care/index.html. Accessed June 19, 2013.  \n4. Oehler RL, Velez AP, Mizrachi M, Lamarche J, Gompf S. Bite-related and septic syndromes \ncaused by cats and dogs [published correction appears in Lancet Infect Dis. 2009;9(9):536]. \nLancet Infect Dis. 2009;9(7):439-447.  \n5. Morgan M, Palmer J. Dog bites. BMJ. 2007;334(7590):413-417.  \n6. Fleisher GR. The management of bite wounds. N Engl J Med. 1999;340 (2):138-140.  \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Animal Bite First Line (with Alternatvie (with dosage Comments\nDosage and Duration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "Any bite or suspected bite\nfrom mammal requires\nRabies prophylaxis."
+        ],
+        [
+          "Animal bite –\nbreach in\nskin/open\nwound",
+          "",
+          "",
+          "Bites deeper than superfciial,\nso thorough irrigatoi n under\nlocal anaesthesia is needed,\nand the wound should be left\nopen."
+        ],
+        [
+          "Cat, dog, bat,\nracoon, horse,\npig, rat",
+          "Amoxicillin-clavulanic\nacid 625mg q8h for 3\nto 5 days",
+          "Cefuroxime 500mg q12h\nOr\nDoxycycline 100mg q12h\nfor 3 to 5 days",
+          ""
+        ],
+        [
+          "Camel, Bear,\nAlligator",
+          "Inj Piperacillin-\ntazobactam 4.5g q8h\nfor 5 to 7 days",
+          "",
+          ""
+        ],
+        [
+          "Monkey",
+          "Valacyclovir/Acyclovir\nfor 7 days",
+          "",
+          "Herpes virus simiae has to be\ncovered"
+        ],
+        [
+          "Human Bite",
+          "Early [Not yet\ninfected]:\nAmoxicillin-Clavulanic\nacid 625mg q8h for 3\nto 5 days",
+          "Late [Signs of infectoi n\npresent]:\nInj Ampicillin-Sulbactam\n1.5g q6h\nOr\nInj Piperacillin-tazobactam\n4.5g q8h for 3 to 5 days",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.23400354385376,
+        131.61197509765626,
+        547.090030670166,
+        492.5979858398438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Animal (Dog/cat/monkey/Human)",
+    "WB Health National Rabies Control Programme 2019.",
+    "Lancet Infect Dis",
+    "Lancet Infect Dis",
+    "BMJ",
+    "N Engl J Med"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

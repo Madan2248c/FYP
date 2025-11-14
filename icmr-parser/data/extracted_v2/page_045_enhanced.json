@@ -1,0 +1,62 @@
+{
+  "page_number": 45,
+  "text": " \n \n40 \n \n5. Urinary Tract Infections \n5.1 Cystitis \nType of \nInfection \nFirst Line (with Dosage and \nDuration) \nAlternative (with dosage \nand Duration) \nComments \nUncomplicated \n- Acute \ndysuria, \nfrequency and \nurgency \nwithout fever \nwith chills. \nNitrofurantoin 100 mg q12h \nfor 5 days \n \nCotrimoxazole 960 mg BD \nfor 5 days \n \nCollect urine for culture \nbefore antibiotics. \nThese are \nrecommendations for \nempirical drug usage.  \nClinicians must narrow \ndown the drug once \nculture reports are \navailable. \nFor common etiological agents of Cystitis, see Annexure B.5.1 \n \n5.2 Pyelonephritis  \nType of \nInfection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nAcute \nPyelonephritis  \nPiperacillin-\ntazobactam 4.5g \nIV q6h for 7-10 \ndays \nErtapenem 1g \nIV/IM q24h for 7-10 \ndays \nOr \nInj Cefoperazone-\nsulbactam 3g IV BD \nOr \nInj Amikacin \n15mg/kg IV OD  \nCollect urine and blood specimens \nprior to the administration of \nantibiotics.  \nChange the empiric regimen based \non susceptibility testing. \nFor common etiological agents of Acute Pyelonephritis, see Annexure B.5.1 \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Dosage and Alternatvie (with dosage Comments\nInfection Duration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated\n- Acute\ndysuria,\nfrequency and\nurgency\nwithout fever\nwith chills.",
+          "Nitrofurantoin 100 mg q12h\nf or 5 days",
+          "Cotrimoxazole 960 mg BD\nf or 5 days",
+          "Collect urine for culture\nbefore antibiotics.\nThese are\nrecommendations for\nempirical drug usage.\nClinicians must narrow\ndown the drug once\nculture reports are\navailable."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        131.61197509765626,
+        552.6600138346354,
+        280.53798828125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie (with Comments\nInfection Dosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute\nPyelonephritis",
+          "Piperacillin-\ntazobactam 4.5g\nIV q6h for 7-10\ndays",
+          "Ertapenem 1g\nIV/IM q24h for 7-10\ndays\nOr\nInj Cefoperazone-\nsulbactam 3g IV BD\nOr\nInj Amikacin\n15mg/kg IV OD",
+          "Collect urine and blood specimens\nprior to the administration of\nantibiotics.\nChange the empiric regimen based\non susceptibility testing."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        350.88197631835936,
+        511.6199951171875,
+        513.2380004882813
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Cystitis",
+    "Pyelonephritis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

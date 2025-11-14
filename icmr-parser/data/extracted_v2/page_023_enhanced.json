@@ -1,0 +1,37 @@
+{
+  "page_number": 23,
+  "text": " \n \n18 \n \nAdditional Information:  \n• \nCorticosteroid therapy may be considered on a case-to-case basis for treatment of \npericarditis.  \n• \nPericardiocentesis may be considered where cardiac tamponade is imminent. \n \n1.4 Rheumatic fever  \nType of \nInfection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and Duration) \nComments \nUncomplicated Penicillin G \nbenzathine 0.6 \nmillion {weight < 27 \nKgs}, 1.2 million \n{>27Kgs} units IM as \na single dose \nPenicillin V, 500 mg \nq8h for 10 days  \nOr \nAmoxicillin 500 mg \nq8h for 10 days \n \nConfirmed penicillin \nallergy – Azithromycin \n500 mg per oral / q24h \nfor 5 days \n \nSecondary prophylaxis:  \nAn injection of 0.6-1.2 million units \nof Benzathine penicillin G \nintramuscularly every 3 weeks is the \nrecommended regimen  \nOr  \nPenicillin V, 250 mg BD \nOr  \nOral erythromycin 20 mg/Kg/dose \nMaximum dose of 500 mg BD. \nFor common etiological agents of Rheumatic fever, see Annexure B.1.4 \nAdditional Information:  \n• \nAspirin, steroids, or nonsteroidal anti-inflammatory drugs (NSAIDs) may be given to reduce \ninflammation. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie (with Comments\nInfection Dosage and dosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated",
+          "Penicillin G\nbenzathine 0.6\nmillion {weight < 27\nKgs}, 1.2 million\n{>27Kgs} units IM as\na single dose\nPenicillin V, 500 mg\nq8h for 10 days\nOr\nAmoxicillin 500 mg\nq8h for 10 days",
+          "Confirmed penicillin\nallergy – Azithromycin\n500 mg per oral / q24h\nfor 5 days",
+          "Secondary prophylaxis:\nAn injection of 0.6-1.2 million units\nof Benzathine penicillin G\nintramuscularly every 3 weeks is the\nrecommended regimen\nOr\nPenicillin V, 250 mg BD\nOr\nOral erythromycin 20 mg/Kg/dose\nMaximum dose of 500 mg BD."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        201.452001953125,
+        547.1400349934896,
+        404.03798828125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Rheumatic fever"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

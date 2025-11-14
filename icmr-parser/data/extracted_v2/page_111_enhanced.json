@@ -1,0 +1,64 @@
+{
+  "page_number": 111,
+  "text": " \n \n \n18. Healthcare Associated Infections \n18.1 Fever in ICU \nType of Infection \nFirst Line (with Dosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nFever in ICU can \nbe due to infective \nor non-infective \ncauses.  \nEmpiric therapy \nfor HAI would \ndepend upon the \ninfectious \nsyndrome, \norganism \nprevalent in the \nunit, local \nresistance pattern  \n \n For empirical antibiotic \nrecommendations – refer to \nrespective sections / tables as \nper suspected site of infections \n \n \nCommon infectious \ncauses include ventilator-\nassociated pneumonia, \ncatheter-related \nbloodstream infections, \ncatheter associated \nurinary tract infections, \nsurgical site infections, \nand hospital onset \nbacteremia from any \nother source. \nDraw two sets (each set \nhaving 1 aerobic and 1 \nanaerobic bottle) of \nblood cultures, from two \ndifferent sites before \nstarting treatment with \nantimicrobials.  \nDe-escalation should be \ndone once the culture \nreports are available. \nFor common etiological agents of fever in ICU, see Annexure B.18.1 \n18.2 Invasive Candidiasis \nType of \nInfection \nFirst Line (with Dosage and Duration) \nAlternative \n(with dosage \nand Duration) \nComments \nInvasive \ncandidiasis \nEchinocandins (caspofungin, anidulafungin, or \nmicafungin) are recommended as first-line \nagents, regardless of the underlying disease.  \nMicafungin 100 mg IV daily \nOr \nAnidulafungin loading dose 200 mg, then 100 \nmg daily \nOr \nCaspofungin loading dose 70 mg, then 50 mg \ndaily \nOr \nFluconazole PO/IV 800mg (12 mg/kg) loading \ndose, then 400 mg (6 mg/kg) daily (can choose \nfluconazole if patient is stable and azole \nresistant candida (like C. glabrata, C.  auris and \nC. krusei) are not commonly seen in particular \nhealth care facility \nLiposomal \nAmphotericin \nB 3–5 mg/kg \ndaily  \n  \nTransition from \nechinocandins \nto fluconazole is \nrecommended \nafter 5–7 days \namong patients \nwho have \nisolates that are \nsusceptible to \nfluconazole, \nwho are \nclinically stable, \nand in whom \nrepeat cultures \non antifungal \ntherapy are \nnegative. \nFor common etiological agents of Invasive Candidiasis, see Annexure B.18.2 \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage and Alternatvie (with Comments\nDuration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Fever in ICU can\nbe due to infective\nor non-infective\ncauses.\nEmpiric therapy\nfor HAI would\ndepend upon the\ninfectious\nsyndrome,\norganism\nprevalent in the\nunit, local\nresistance patetrn",
+          "For empirical antibiotic\nrecommendations – refer to\nrespectvie sectoi ns / tables as\nper suspected site of infectoi ns",
+          "",
+          "Common infectoi us\ncauses include ventilator-\nassociated pneumonia,\ncatheter-related\nbloodstream infectoi ns,\ncatheter associated\nurinary tract infectoi ns,\nsurgical site infections,\nand hospital onset\nbacteremia from any\nother source.\nDraw two sets (each set\nhaving 1 aerobic and 1\nanaerobic botlte) of\nblood cultures, from two\ndifefrent sites before\nstartni g treatment with\nantimicrobials.\nDe-escalation should be\ndone once the culture\nreports are available."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        123.452001953125,
+        545.1000162760416,
+        446.87798461914065
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of First Line (with Dosage and Duration) Alternatvie Comments\nInfection (with dosage\nand Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Invasive\ncandidiasis",
+          "Echinocandins (caspofungin, anidulafungin, or\nmicafungin) are recommended as frist-line\nagents, regardless of the underlying disease.\nMicafungin 100 mg IV daily\nOr\nAnidulafungin loading dose 200 mg, then 100\nmg daily\nOr\nCaspofungin loading dose 70 mg, then 50 mg\ndaily\nOr\nFluconazole PO/IV 800mg (12 mg/kg) loading\ndose, then 400 mg (6 mg/kg) daily (can choose\nfluconazole if patient is stable and azole\nresistant candida (like C. glabrata, C. auris and\nC. krusei) are not commonly seen in partciular\nhealth care facility",
+          "Liposomal\nAmphotericin\nB 3–5 mg/kg\ndaily",
+          "Transitoi n from\nechinocandins\nto fluconazole is\nrecommended\nafetr 5–7 days\namong patients\nwho have\nisolates that are\nsusceptbi le to\nfluconazole,\nwho are\nclinically stable,\nand in whom\nrepeat cultures\non antifungal\ntherapy are\nnegative."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        494.7819885253906,
+        532.8599650065104,
+        764.568017578125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Fever in ICU",
+    "Invasive Candidiasis",
+    ". glabrata, C.  auris and",
+    "C. krusei"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

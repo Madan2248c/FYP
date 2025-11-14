@@ -1,0 +1,49 @@
+{
+  "page_number": 65,
+  "text": " \n \n60 \n \n10. Musculoskeletal Infections \n10.1 Acute Osteomyelitis  \n• \nBlood culture should be obtained before starting antimicrobial therapy \n• \nEmpirical treatment should be started with narrow spectrum antibiotic \n• \nDefinitive antibiotic therapy should be started as soon as culture results are available \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and Duration) \nComments \nNon Hematogenous -\nCaused by bacteria that \ngain access to bone \ndirectly from an \nadjacent focus of \ninfection, direct \ninoculation during \nsurgery or after trauma \nInj Cloxacillin 2g IV \nq6h  \n \nAmoxicillin-clavulanic \nacid 1g + 200mg q8h IV \nInj Cefazolin 1g q8h  \nOr  \nInj cefuroxime 1.5g q8h \n \nTreatment based on \nculture results.  \nSurgical debridement \nshould be done to drain \nout the infected area, the \nextent of surgery may \npreferably be guided by \nultrasound or MRI \nevaluation (if possible). \nDrain pus, rationalize \nantibiotics according to \nculture and susceptibility \nreports.  \nTreatment starting with IV \ntherapy to be continued \nuntil there are clinical signs \nof improvement \n(defervescence, other signs \nof septicemia reduced, CRP \nreduction, ESR reduction), \nthen only consider change \nfrom IV to oral therapy. \n(total duration of \nantibiotics 4 – 6 weeks) \n \nIn diabetic foot: before \nstarting antibiotics, take \nblood sample for culture \nand renal function \nestimation. \nHematogenous \nosteomyelitis \nInj Cloxacillin 2g \nq6h IV \nAmoxicillin-clavulanic \nacid 1g+ 200mg q8h IV \nInj Cefazolin 1g q8h  \nOr \nInj Cefuroxime 1.5g q8h \nComplicated \nosteomyelitis (diabetic \nfoot infection or any \nother reason for \ndiminished blood supply \nto the bones) \nPiperacillin-\ntazobactam 4.5g 6 \nh  \n+/-  \nClindamycin 900mg \nIV q8h \nOr \nInj Vancomcyin 15-\n20 mg/kg/day \nevery 8-12 hrly  \nCefoperazone-\nsulbactam 3 g q12h  \nFor common etiological agents of acute osteomyelitis, see Annexure B.10.1 \nAdditional Information: \n• \nRisk factors of bone vulnerability to osteomyelitis include recent trauma, having diabetes, \nbeing on hemodialysis, intravenous drug abuse, and history of splenectomy. \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Non Hematogenous -\nCaused by bacteria that\ngain access to bone\ndirectly from an\nadjacent focus of\ninfection, direct\ninoculation during\nsurgery or afetr trauma",
+          "Inj Cloxacillin 2g IV\nq6h",
+          "Amoxicillin-clavulanic\nacid 1g + 200mg q8h IV\nInj Cefazolin 1g q8h\nOr\nInj cefuroxime 1.5g q8h",
+          "Treatment based on\nculture results.\nSurgical debridement\nshould be done to drain\nout the infected area, the\nextent of surgery may\npreferably be guided by\nultrasound or MRI\nevaluation (if possible).\nDrain pus, rationalize\nantibiotics according to\nculture and susceptbi ility\nreports.\nTreatment startni g with IV\ntherapy to be continued\nuntil there are clinical signs\nof improvement\n(defervescence, other signs\nof septicemia reduced, CRP\nreduction, ESR reduction),\nthen only consider change\nfrom IV to oral therapy.\n(total duration of\nantibiotics 4 – 6 weeks)\nIn diabetic foot: before\nstartni g antibiotics, take\nblood sample for culture\nand renal function\nestimation."
+        ],
+        [
+          "Hematogenous\nosteomyelitis",
+          "Inj Cloxacillin 2g\nq6h IV",
+          "Amoxicillin-clavulanic\nacid 1g+ 200mg q8h IV\nInj Cefazolin 1g q8h\nOr\nInj Cefuroxime 1.5g q8h",
+          null
+        ],
+        [
+          "Complicated\nosteomyelitis (diabetic\nfoot infection or any\nother reason for\ndiminished blood supply\nto the bones)",
+          "Piperacillin-\ntazobactam 4.5g 6\nh\n+/-\nClindamycin 900mg\nIV q8h\nOr\nInj Vancomcyin 15-\n20 mg/kg/day\nevery 8-12 hrly",
+          "Cefoperazone-\nsulbactam 3 g q12h",
+          null
+        ]
+      ],
+      "bbox": [
+        72.21600341796875,
+        184.89200439453126,
+        547.1080322265625,
+        629.1880126953125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Acute Osteomyelitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

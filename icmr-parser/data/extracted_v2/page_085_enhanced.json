@@ -1,0 +1,43 @@
+{
+  "page_number": 85,
+  "text": " \n \n80 \n \n11.4 Retinitis \nMost common etiological agent for retinitis is Cytomegalovirus (CMV) \nType of \nInfection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nCMV  \nInduction: \nintravenous \nGanciclovir 5 mg/kg \nevery 12 hours for \n14 to 21 days  \n&  \nMaintenance phase \n5 mg/kg/d  \nOr  \nValganciclovir \ninduction therapy \nconsists of 900 mg \nBD, followed by 900 \nmg/d for \nmaintenance. \nIntravitreal \ninjection of \nGanciclovir 2.5 \nmg/0.05 ml \nweekly for 2 to 3 \nweeks  \nOr  \nFoscarnet 2.4 \nmg/injection \nadministered \ntwice weekly for 2 \nto 4 doses with \nconcurrent \nsystemic therapy \nIn all cases of infective retinitis, the \nantimicrobial should be initiated first, \nfollowed by steroids.  \nInitiating steroids in the presence of \ninfective retinitis or panuveitis without \nantimicrobial coverage may result in severe \nocular damage and could be life-threatening \nif systemic disease is present. \nAcute \nretinal \nnecrosis  \nDifluprednate, a \ntopical \ncorticosteroid \nPeriocular or \nIntraocular \nglucocorticoid \ninjections \nValganciclovir 900 \nmg BD for induction \nphase of 3 weeks \nfollowed by \nmaintenance dose \nof 900 mg OD and \nthen long term for 3 \nto 6 months \n+  \nlow dose aspirin \n \nFor common etiological agents of infectious retinitis, see Annexure B.11.4 \nAdditional Information:  \n• \nPatients presenting with posterior uveitis and no evidence of an underlying etiology should \nundergo a chest radiograph to evaluate for pulmonary sarcoidosis or infections such as \ntuberculosis. In addition, affected patients should undergo serology to rule out syphilis. \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Alternatvie (with Comments\nInfection Dosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "CMV",
+          "Induction:\nintravenous\nGanciclovir 5 mg/kg\nevery 12 hours for\n14 to 21 days\n&\nMaintenance phase\n5 mg/kg/d\nOr\nValganciclovir\ninduction therapy\nconsists of 900 mg\nBD, followed by 900\nmg/d for\nmaintenance.",
+          "Intravitreal\ninjection of\nGanciclovir 2.5\nmg/0.05 ml\nweekly for 2 to 3\nweeks\nOr\nFoscarnet 2.4\nmg/injectoi n\nadministered\ntwice weekly for 2\nto 4 doses with\nconcurrent\nsystemic therapy",
+          "In all cases of infective retni itsi, the\nantimicrobial should be initiated frist,\nfollowed by steroids.\nInitaiting steroids in the presence of\ninfectvie retinitsi or panuveitsi without\nantimicrobial coverage may result in severe\nocular damage and could be life-threatening\nif systemic disease is present."
+        ],
+        [
+          "Acute\nretinal\nnecrosis",
+          "Difluprednate, a\ntopical\ncortciosteroid\nPeriocular or\nIntraocular\nglucocortcioid\ninjections\nValganciclovir 900\nmg BD for induction\nphase of 3 weeks\nfollowed by\nmaintenance dose\nof 900 mg OD and\nthen long term for 3\nto 6 months\n+\nlow dose aspirin",
+          "",
+          null
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        119.73197021484376,
+        547.1200332641602,
+        591.3879638671875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Retinitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

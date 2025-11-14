@@ -1,0 +1,69 @@
+{
+  "page_number": 57,
+  "text": " \n \n52 \n \n9. Skin and Soft Tissue Infections \n9.1 Paronychia \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nAcute paronychia - \nLasting less than six \nweeks, painful and \npurulent condition; \nmost frequently \ncaused by a bacterial \ninfection, especially \nStaphylococcus spp. \nTopical antibiotic \nointment: \nBacitracin or \nMupirocin \nOr \nAmoxicillin \n500mg TDS \nOr \nAmoxicillin-\nclavulanate \n625mg q8h for 5-\n10 days \nCephalexin \n(500mg three to \nfour times a day) \nfor 5 to 10 days \ndepending on \nwhether incision \nand drainage is \nperformed \n \nFluctuant paronychia is usually treated \nwith incision and drainage. \nFor common etiological agents of acute paronychia, see Annexure B.9.1 \nReference: \n1. Rerucha CM, Ewing JT, Oppenlander KE, Cowan WC. Acute Hand Infections. Am Fam \nPhysician. 2019 Feb 15;99(4):228-236.Available from: Acute Hand Infections - PubMed Leggit \nJC. Acute and Chronic Paronychia. Am Fam Physician. 2017 Jul 1;96(1):44-51. PMID: \n28671378. Available from: https://pubmed.ncbi.nlm.nih.gov/28671378/ \n \n 9.2 Impetigo \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nImpetigo – localised skin \ninvolvement \nTopical antibiotic \ntherapy: Mupirocin \n2% & Fusidic acid \n2% for 7 days  \n \nWash skin, remove crust \nand use disinfectants.  \nImpetigo – extensive skin \ninvolvement, bullous disease \nand/or lymphadenopathy \nTopical antibiotic \ntherapy: Mupirocin \n2% & Fusidic acid \n2% for 7 days  \n+ \nAmoxicillin 500mg \nTDS (25-50 \nmg/kg/day)  \nOr \nAmoxicillin-\nclavulanate 625mg \nq8h \nCephalexin 500 mg \nevery 6 hours for 5 \ndays \n \n \nFor common etiological agents causing impetigo, see Annexure B.9.2 \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute paronychia -\nLasting less than six\nweeks, painful and\npurulent condition;\nmost frequently\ncaused by a bacterial\ninfection, especially\nStaphylococcus spp.",
+          "Topical antibiotci\nointment:\nBacitracin or\nMupirocin\nOr\nAmoxicillin\n500mg TDS\nOr\nAmoxicillin-\nclavulanate\n625mg q8h for 5-\n10 days",
+          "Cephalexin\n(500mg three to\nfour times a day)\nfor 5 to 10 days\ndepending on\nwhether incision\nand drainage is\nperformed",
+          "Fluctuant paronychia is usually treated\nwith incision and drainage."
+        ]
+      ],
+      "bbox": [
+        72.19543184552874,
+        141.6919921875,
+        554.0885881696429,
+        344.25798950195315
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Impetigo – localised skin\ninvolvement",
+          "Topical antibiotci\ntherapy: Mupirocin\n2% & Fusidic acid\n2% for 7 days",
+          "",
+          "Wash skin, remove crust\nand use disinfectants."
+        ],
+        [
+          "Impetigo – extensive skin\ninvolvement, bullous disease\nand/or lymphadenopathy",
+          "Topical antibiotci\ntherapy: Mupirocin\n2% & Fusidic acid\n2% for 7 days\n+\nAmoxicillin 500mg\nTDS (25-50\nmg/kg/day)\nOr\nAmoxicillin-\nclavulanate 625mg\nq8h",
+          "Cephalexin 500 mg\nevery 6 hours for 5\ndays",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.19543184552874,
+        495.14198608398436,
+        554.0885881696429,
+        751.8479858398438
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Paronychia",
+    "Staphylococcus",
+    "Impetigo"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

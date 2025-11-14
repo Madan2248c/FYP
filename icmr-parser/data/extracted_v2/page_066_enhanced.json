@@ -1,0 +1,62 @@
+{
+  "page_number": 66,
+  "text": " \n \n61 \n \nReference: \n1. The WHO AWaRe (Access, Watch, Reserve) antibiotic book. Geneva: World Health \nOrganization; \n2022. \nLicence: \nCC \nBY-NC-SA \n3.0 \nIGO. \nAvailable \nfrom: \nhttps://www.who.int/publications/i/item/9789240062382 \n10.2 Chronic Osteomyelitis \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \nDosage and Duration) \nComments \nAcute on chronic \n(accompanied with \nfever) \nBlood culture should be \nobtained before \nstarting antimicrobial \ntherapy. \nEmpirical treatment \nshould be started with \nnarrow spectrum \nantibiotic. \nDefinitive antibiotic \ntherapy should be \nstarted as soon as \nculture results are \navailable. \nEmpirical therapy as \nper guidelines for acute \nosteomyelitis. \nSame as in acute \nosteomyelitis \nIt is a continuous bacterial \ninfection involving cortical \nbone. \nSurgical debridement of \nall diseased bone is often \nrequired as antibiotics \npenetrate poorly into \ninfected fluid collections \nsuch as abscesses and \ninjured or necrotic bone. \nOnce susceptibility data \nbecomes available, \nantibiotic therapy should \nbe narrowed for targeted \ncoverage of the \nsusceptible organisms. \nFor common etiological agents of chronic osteomyelitis, see Annexure B.10.2 \nAdditional Information:  \n• \nSupportive care should be continued and then narrow spectrum therapy must be initiated \nbased on the results of investigations. \nReference:  \n1. Ahmed Barakat, William HK. Schilling, Sunil Sharma, Enis Guryel, Richard Freeman. Chronic \nosteomyelitis: a review on current concepts and trends in treatment, Orthopaedics and \nTrauma, \nVolume \n33, \nIssue \n3,2019,Pages \n181-187,ISSN \n1877-1327. \nDOI: \n10.1016/j.mporth.2019.03.005 \n \n10.3 Gas gangrene \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nTraumatic gas \ngangrene: lethal \ninfection of soft \ntissue and is \nsynonymous with \nmyonecrosis usually \nPenicillin G 4million \nUnits per day 4 hrly \n +  \nClindamycin 900mg \n8 hr  \n+  \nClindamycin 900 \nmg IV q8h may be \nused alone in case \nof past history of \nanaphylaxis to \npenicillin \nImmediately start treatment with \nantibiotics, early surgical \nconsultation with extensive \ndebridement, intravenous fluid \nresuscitation, ICU monitoring, and \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) Dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute on chronic\n(accompanied with\nfever)",
+          "Blood culture should be\nobtained before\nstartni g antimicrobial\ntherapy.\nEmpirical treatment\nshould be started with\nnarrow spectrum\nantibiotic.\nDefinitvie antibiotic\ntherapy should be\nstarted as soon as\nculture results are\navailable.\nEmpirical therapy as\nper guidelines for acute\nosteomyelitsi.",
+          "Same as in acute\nosteomyelitsi",
+          "It is a continuous bacterial\ninfectoi n involving cortcial\nbone.\nSurgical debridement of\nall diseased bone is ofetn\nrequired as antibiotics\npenetrate poorly into\ninfected fluid collections\nsuch as abscesses and\ninjured or necrotic bone.\nOnce susceptbi ility data\nbecomes available,\nantibiotic therapy should\nbe narrowed for targeted\ncoverage of the\nsusceptbi le organisms."
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        171.21201171875,
+        554.1000162760416,
+        416.5179870605469
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Traumatic gas\ngangrene: lethal\ninfection of sof t\ntissue and is\nsynonymous with\nmyonecrosis usually",
+          "Penicillin G 4million\nUnits per day 4 hrly\n+\nClindamycin 900mg\n8 hr\n+",
+          "Clindamycin 900\nmg IV q8h may be\nused alone in case\nof past history of\nanaphylaxis to\npenicillin",
+          "Immediately start treatment with\nantibiotics, early surgical\nconsultation with extensive\ndebridement, intravenous fluid\nresuscitatoi n, ICU monitoring, and"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        635.5719604492188,
+        547.1400349934896,
+        757.4880004882813
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Chronic Osteomyelitis",
+    "Gas gangrene"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

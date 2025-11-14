@@ -1,0 +1,44 @@
+{
+  "page_number": 74,
+  "text": " \n \n69 \n \n11. Ocular Infections \n11.1 Conjunctivitis & Keratitis \nType of Infection \nFirst Line (with Dosage and \nDuration) \nAlternative (with Dosage \nand Duration) \nComments \nAllergic (reaction is \nsecondary to \nallergens such as \npollen)  \nCool compresses and artificial \ntears help in relieving \ndiscomfort. \nTopical and systemic anti- \nhistaminics.   \nTopical mast-stabilizers.   \nTopical NSAIDs (Ketorolac 0.5%/ \nFlurbiprofen 0.03% w/v).  \nPersistent allergic conjunctivitis \nmay also require topical steroid \neye drops (Topical steroids in \nshort pulses-(1-2 weeks or \nlonger):Lower potency steroids -\nLoteprednol/ Fluorometholone)\n  \nDuration: Topical mast cell \nstabiliser eye drops are given for \nfrom a few days to at least 4-6 \nweeks depending on resolution \nof symptoms and signs \nTopical glucocorticoids for \nrefractory symptoms: \nPrednisolone acetate 1%/ \nPrednisolone sodium \nphosphate 1% \nDuration: Few days to \nweeks (For 3-4 weeks \nwith gradual shifting to a \nsteroid sparing agent), \ndepending on resolution \nof clinical signs \n \nNSAIDS and \nantihistamines to \nbe considered as \nfirst line agents in \nmilder cases. \nOpinion with ENT \nspecialist/pulmon\nologist to be \ntaken in view of \naccompanying \nsystemic \nsymptoms. \nBacterial \nConjunctivitis:  \nstarts commonly \nwith one eye then \nboth eyes stick \nwith mucopurulent \ndischarge \n \nChloramphenicol eye drops 6 \nhrly for 5 to 7 days  \nOr \nGentamicin 0.3% 6 hrly for 5 \ndays   \nIntensive instillation every 15 to \n30 minutes until symptoms and \nsigns are reduced, and then \ngradually taper   \n \nCiprofloxacin eye drops \nq12h for 5-7 days \nOr \nGatifloxacin 0.3% eye \ndrops  \nDose: 1-2 drops every 2h \nduring the first 2 days, \nthen every 4-8hrs \nDuration: 7 days  \n \n \nLid hygiene.  \nProtective glasses  \nPatient education \nregarding \nlikelihood of \ntransmission to \nothers. \nIf Contact lens \nassociated & \nPseudomonas \nspp. \nkeratoconjunctivit\nis suspected- \nGentamicin 14 \nmg/ml 1 drop 1 \nhrly or \nTobramycin \nfortified e/d 1.3 % \n1 drop 1 hrly           \n(Contact lens \nsolution to be \nsent for \nmicrobiological \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage and Alternatvie (with Dosage Comments\nDuration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Allergic (reaction is\nsecondary to\nallergens such as\npollen)",
+          "Cool compresses and artificial\ntears help in relieving\ndiscomfort.\nTopical and systemic anti-\nhistaminics.\nTopical mast-stabilizers.\nTopical NSAIDs (Ketorolac 0.5%/\nFlurbiprofen 0.03% w/v).\nPersistent allergic conjunctviitsi\nmay also require topical steroid\neye drops (Topical steroids in\nshort pulses-(1-2 weeks or\nlonger):Lower potency steroids -\nLoteprednol/ Fluorometholone)\nDuration: Topical mast cell\nstabiliser eye drops are given for\nfrom a few days to at least 4-6\nweeks depending on resolution\nof symptoms and signs",
+          "Topical glucocortcioids for\nrefractory symptoms:\nPrednisolone acetate 1%/\nPrednisolone sodium\nphosphate 1%\nDuration: Few days to\nweeks (For 3-4 weeks\nwith gradual shifting to a\nsteroid sparing agent),\ndepending on resolutoi n\nof clinical signs",
+          "NSAIDS and\nantihistamines to\nbe considered as\nfirst line agents in\nmilder cases.\nOpinion with ENT\nspecialist/pulmon\nologist to be\ntaken in view of\naccompanying\nsystemic\nsymptoms."
+        ],
+        [
+          "Bacterial\nConjunctivitis:\nstarts commonly\nwith one eye then\nboth eyes stick\nwith mucopurulent\ndischarge",
+          "Chloramphenicol eye drops 6\nhrly for 5 to 7 days\nOr\nGentamicin 0.3% 6 hrly for 5\ndays\nIntensive instillatoi n every 15 to\n30 minutes until symptoms and\nsigns are reduced, and then\ngradually taper",
+          "Ciprofloxacin eye drops\nq12h for 5-7 days\nOr\nGatifloxacin 0.3% eye\ndrops\nDose: 1-2 drops every 2h\nduring the frist 2 days,\nthen every 4-8hrs\nDuration: 7 days",
+          "Lid hygiene.\nProtective glasses\nPatient education\nregarding\nlikelihood of\ntransmission to\nothers.\nIf Contact lens\nassociated &\nPseudomonas\nspp.\nkeratoconjunctivit\nis suspected-\nGentamicin 14\nmg/ml 1 drop 1\nhrly or\nTobramycin\nfortfi ied e/d 1.3 %\n1 drop 1 hrly\n(Contact lens\nsolution to be\nsent for\nmicrobiological"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        131.61197509765626,
+        547.1200332641602,
+        742.6079956054688
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Conjunctivitis & Keratitis",
+    "Pseudomonas"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

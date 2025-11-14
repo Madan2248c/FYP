@@ -1,0 +1,43 @@
+{
+  "page_number": 87,
+  "text": " \n \n82 \n \n• \nWorsening bronchospasm \n• \nWorsening oxygenation \n \nReferences: \n1. Normansell R, Sayer B, Waterson S, Dennett EJ, Del Forno M, Dunleavy A. Antibiotics for \nexacerbations of asthma. Cochrane Database Syst Rev. 2018 Jun 25;6(6):CD002741. doi: \n10.1002/14651858.CD002741.pub2. PMID: 29938789; PMCID: PMC6513273. \n2. Siddiqi A, Sethi S. Optimizing antibiotic selection in treating COPD exacerbations. Int J Chron \nObstruct Pulmon Dis. 2008;3(1):31-44. doi: 10.2147/copd.s1089. PMID: 18488427; PMCID: \nPMC2528209. \n3. American Thoracic Society / European Respiratory Society Task Force. Standards for the \nDiagnosis \nand \nManagement \nof \nPatients \nwith \nCOPD \n[Internet]. \nVersion \n1.2 \nhttp://www.thoracic.org/go/copd  \n \n12.4 Infective Exacerbation of Bronchiectasis \nType of \nInfection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nOPD \nTab Amoxicillin-\nclavulanate 1g BD for 5-\n7 days  \n \nTab Cefuroxime 500 \nmg BD for 5-7 days \nSymptoms of infective \nexacerbation include fever and \nsputum purulence. \n \nSputum culture is \nrecommended for targeted \ntherapy. \nDuration may be prolonged to \n14 days if very slow \nimprovement in symptoms. \n \nAvoid empiric use of \nfluoroquinolones. Use only as \ntargeted therapy (after culture \nresult) and after ruling out TB. \nIPD \nInj Piperacillin- \ntazobactam 4.5g IV q6h \nfor 5-7 days \nOr \nInj Cefoperazone – \nsulbactam 3g IV BD for \n5-7 days \nInj Meropenem 1g \nTDS  \nOr \nInj Imipenem- \ncilastatin 500mg q6h  \nfor 5-7 days \nFor common etiological agents associated with Infective exacerbation of bronchiectasis, see \nAnnexure B.12.4 \nReference: \n1. Polverino E, Goeminne PC, McDonnell MJ, et al. European Respiratory Society guidelines for \nthe management of adult bronchiectasis. Eur Respir J 2017; 50: 1700629 [https://doi.org/ \n10.1183/13993003.00629-2017]. \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line (with Dosage Alternatvie (with Comments\nInfection and Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "OPD",
+          "Tab Amoxicillin-\nclavulanate 1g BD for 5-\n7 days",
+          "Tab Cefuroxime 500\nmg BD for 5-7 days",
+          "Symptoms of infective\nexacerbation include fever and\nsputum purulence.\nSputum culture is\nrecommended for targeted\ntherapy.\nDuration may be prolonged to\n14 days if very slow\nimprovement in symptoms.\nAvoid empiric use of\nfluoroquinolones. Use only as\ntargeted therapy (afetr culture\nresult) and afetr ruling out TB."
+        ],
+        [
+          "IPD",
+          "Inj Piperacillin-\ntazobactam 4.5g IV q6h\nfor 5-7 days\nOr\nInj Cefoperazone –\nsulbactam 3g IV BD for\n5-7 days",
+          "Inj Meropenem 1g\nTDS\nOr\nInj Imipenem-\ncilastatin 500mg q6h\nfor 5-7 days",
+          null
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        333.3619873046875,
+        539.9199829101562,
+        562.82802734375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Infective Exacerbation of Bronchiectasis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

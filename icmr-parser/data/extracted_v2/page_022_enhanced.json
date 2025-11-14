@@ -1,0 +1,74 @@
+{
+  "page_number": 22,
+  "text": " \n \n17 \n \n1.2 Acute Myocarditis: \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nUncomplicated \nNo empirical \nantibiotics \nrequired \n \nMild myocarditis may only \nneed rest and supportive \nmedicine. If myocarditis is \nsevere, immunomodulators \nlike steroids may be \nadministered to improve \ncardiac function. \nMyocarditis is a diagnosis of \nexclusion. \nIf bacterial cause is \nascertained through \nculture, start antibiotics \nbased on AST results.  \n \nNo empirical \nantibiotics \nrequired \n \nIf myocarditis is causing \nsevere heart failure or \narrythmia, to reduce the \nrisk of blood clots \nanticoagulants may be \nadministered. In addition, \nto address fluid overload \nand to reduce the strain on \nthe heart, diuretics, beta \nblockers, angiotensin-\nconverting enzyme (ACE) \ninhibitors or angiotensin 2 \nreceptor blockers (ARBs) \nneed to be given. \nFor common etiological agents of Myocarditis, see Annexure B.1.2 \n \n1.3 Pericarditis  \nType of \nInfection \nFirst Line \n(with Dosage \nand \nDuration) \nAlternative (with \ndosage and Duration) \nComments \nUncomplicated \nNo empirical \nantibiotics \nrequired \n \nMostly viral etiology  \n \nComplicated \n(features of \ntamponade) \nNo empirical \nantibiotics \nrequired \n \nPericardiocentesis is recommended, when \npossible, to establish cause. \nIf microbiology laboratory evidence \nindicates bacterial infection, antibiotics \nshould be started. \nFor common etiological agents of Pericarditis, see Annexure B.1.3 \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated",
+          "No empirical\nantibiotics\nrequired",
+          "",
+          "Mild myocarditsi may only\nneed rest and supportvie\nmedicine. If myocarditsi is\nsevere, immunomodulators\nlike steroids may be\nadministered to improve\ncardiac function.\nMyocarditsi is a diagnosis of\nexclusion.\nIf bacterial cause is\nascertained through\nculture, start antibiotics\nbased on AST results."
+        ],
+        [
+          "",
+          "No empirical\nantibiotics\nrequired",
+          "",
+          "If myocarditsi is causing\nsevere heart failure or\narrythmia, to reduce the\nrisk of blood clots\nanticoagulants may be\nadministered. In additoi n,\nto address fluid overload\nand to reduce the strain on\nthe heart, diuretics, beta\nblockers, angiotensin-\nconverting enzyme (ACE)\ninhibitors or angiotensin 2\nreceptor blockers (ARBs)\nneed to be given."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        101.25198974609376,
+        547.1200332641602,
+        505.79798583984376
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of First Line Alternatvie (with Comments\nInfection (with Dosage dosage and Duration)\nand\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated",
+          "No empirical\nantibiotics\nrequired",
+          "",
+          "Mostly viral etoi logy"
+        ],
+        [
+          "Complicated\n(features of\ntamponade)",
+          "No empirical\nantibiotics\nrequired",
+          "",
+          "Pericardiocentesis is recommended, when\npossible, to establish cause.\nIf microbiology laboratory evidence\nindicates bacterial infectoi n, antibiotics\nshould be started."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        586.8520263671875,
+        547.1200332641602,
+        749.568017578125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Acute Myocarditis",
+    "Pericarditis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "page_number": 47,
+  "text": " \n \n42 \n \n6.3 Septic abortion  \nType of Infection \nFirst Line (with \nDosage and Duration) \nAlternative (with dosage \nand Duration) \nComments \nSeptic Abortion – Fever, \nVaginal discharge, \npelvic/abdominal pain, etc \nAmpicillin 2g IV q6h  \n+ \nGentamicin 5 mg/kg \ndaily IV \n+ \nMetronidazole 500 mg \nIV q8h \nOr \nAmoxicillin-clavulanic \nacid 1.2g q8h IV \nfor 7-10 days \nClindamycin 600 IV q8h  \n+  \nGentamicin 5 mg/kg daily IV \nfor 7-10 days \nBe vigilant and \nsuspect sepsis \nearly. \nThese \nsymptoms \nusually appear \nwithin 24 to 48 \nhours after an \nabortion. \nObtain blood \nand cervical \ncultures to help \nguide antibiotic \ntherapy. \n \nComplicated with Sepsis– \nAssociated with organ \ndysfunction (Peritonitis, \nVaginal bleeding, and \nSevere pelvic/abdominal \npain).  \nPiperacillin-\ntazobactam 4.5g IV q6 \nh,  \nfor 7-10 days \nMeropenem 1g IV q8h \nfor 7-10 days \nFor common etiological agents of Septic Abortions, see Annexure B.6.3 \nAdditional Information:  \n• \nEvacuation of any retained product of conception is crucial for optimal response. \nReferences: \n1. Abortion care guideline. Geneva: World Health Organization; 2022. Licence: CC BY-NC-\nSA 3.0 IGO. \nAvailable \nfrom: \nhttps://iris.who.int/bitstream/handle/10665/349316/9789240039483-eng.pdf?sequence=1 \n2. Udoh A, Effa EE, Oduwole O, Okusanya BO, Okafo O. Antibiotics for treating septic abortion. \nCochrane \nDatabase \nSyst \nRev. \n2016 \nJul \n1;7(7):CD011528. \ndoi: \n10.1002/14651858.CD011528.pub2. PMID: 27364644; PMCID: PMC6458041.  \n \n6.4 Vaginal Discharge Syndrome \nRefer to: National Technical Guidelines on Sexually Transmitted Infections and Reproductive Tract \nInfections (2024). Pg 41-43. National AIDS Control Organization, Ministry of Health and Family \nWelfare, Government of India.2024.4  \nFor common etiological agents of Vaginal Discharge Syndrome, see Annexure B.6.4  \n \n \n4 https://naco.gov.in/sites/default/files/National%20Technical%20Guidelines%20on%20STI%20and%20RTI_Final.pdf \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with dosage Comments\nDosage and Duration) and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Septic Abortion – Fever,\nVaginal discharge,\npelvic/abdominal pain, etc",
+          "Ampicillin 2g IV q6h\n+\nGentamicin 5 mg/kg\ndaily IV\n+\nMetronidazole 500 mg\nIV q8h\nOr\nAmoxicillin-clavulanic\nacid 1.2g q8h IV\nfor 7-10 days",
+          "Clindamycin 600 IV q8h\n+\nGentamicin 5 mg/kg daily IV\nfor 7-10 days",
+          "Be vigilant and\nsuspect sepsis\nearly.\nThese\nsymptoms\nusually appear\nwithin 24 to 48\nhours afetr an\nabortoi n.\nObtain blood\nand cervical\ncultures to help\nguide antibiotic\ntherapy."
+        ],
+        [
+          "Complicated with Sepsis–\nAssociated with organ\ndysfunction (Peritonitis,\nVaginal bleeding, and\nSevere pelvic/abdominal\npain).",
+          "Piperacillin-\ntazobactam 4.5g IV q6\nh,\nfor 7-10 days",
+          "Meropenem 1g IV q8h\nfor 7-10 days",
+          null
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        97.2919677734375,
+        547.1200332641602,
+        354.0979858398438
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Septic abortion",
+    "Vaginal Discharge Syndrome",
+    "National Technical Guidelines on Sexually Transmitted Infections and Reproductive Tract",
+    "Infections (2024). Pg 41-43. National AIDS Control Organization, Ministry of Health and Family",
+    "Welfare, Government of India.2024."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

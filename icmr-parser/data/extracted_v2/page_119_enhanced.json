@@ -1,0 +1,41 @@
+{
+  "page_number": 119,
+  "text": " \n \n \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \n• 30-36 weeks PMA \nand >7 days PNA or \n37 weeks PMA: 15 \nmg/kg/dose over 30 \nminutes slow IV q24 \nh \nAND \n(Piperacillin-\ntazobactam \n• ≤ 30 weeks PMA: 100 \nmg/kg/dose IV \ninfusion over one \nhour q8h \n• >30 and ≤ 35 weeks \nPMA: 80 mg/kg/dose \nIV infusion over one-\nhour q6h \n• >35 and ≤ 49 weeks \nPMA: 80 mg/kg/dose \nIV infusion over one \nhour q4h \nOr \nCiprofloxacin (may be \navoided in neonates \nbecause of concerns of \narthropathy) \n10 mg/kg/dose IV q12 \nh) \n \nDuration of treatment:  \n• If culture-negative: 5-\n7 days \nIf culture positive: 7-14 \ndays \n \nIn case of high \nrates of MRSA, \nADD  \nTeicoplanin  \n• 10 mg/kg/dose \nIV q 12 h for 3 \ndoses, then \n10mg/kg/day \nIV/IM q 24 h \n \nDuration of \ntreatment:  \n• If culture-\nnegative: 5-7 \ndays \n• If culture \npositive: 7-14 \ndays \n• If treating for \npossible MRSA, \nprefer 14 days \nMeningitis  \nCefotaxime  \n(dose as mentioned \nabove) \n \nDuration of treatment: \n• 21 days  \nAmpicillin (dose as \nmentioned above) \nAND  \nCefepime  \n• < 36 weeks GA \nand <30 days \nPNA: 30-50 \nmg/kg/dose IV q \n12 h \n• ≥ 36 weeks GA \nand < 30 days \nPNA: 50 \nmg/kg/dose IV q \n12h \n \nMay avoid aminoglycosides for \nmeningitis due to poor CSF \npenetration  \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "",
+          "• 30-36 weeks PMA\nand >7 days PNA or\n37 weeks PMA: 15\nmg/kg/dose over 30\nminutes slow IV q24\nh\nAND\n(Piperacillin-\ntazobactam\n• ≤ 30 weeks PMA: 100\nmg/kg/dose IV\ninfusion over one\nhour q8h\n• >30 and ≤ 35 weeks\nPMA: 80 mg/kg/dose\nIV infusion over one-\nhour q6h\n• >35 and ≤ 49 weeks\nPMA: 80 mg/kg/dose\nIV infusion over one\nhour q4h\nOr\nCiprofloxacin (may be\navoided in neonates\nbecause of concerns of\narthropathy)\n10 mg/kg/dose IV q12\nh)\nDuration of treatment:\n• If culture-negative: 5-\n7 days\nIf culture positvie: 7-14\ndays",
+          "In case of high\nrates of MRSA,\nADD\nTeicoplanin\n• 10 mg/kg/dose\nIV q 12 h for 3\ndoses, then\n10mg/kg/day\nIV/IM q 24 h\nDuration of\ntreatment:\n• If culture-\nnegative: 5-7\ndays\n• If culture\npositvie: 7-14\ndays\n• If treating for\npossible MRSA,\nprefer 14 days",
+          ""
+        ],
+        [
+          "Meningitsi",
+          "Cefotaxime\n(dose as mentioned\nabove)\nDuration of treatment:\n• 21 days",
+          "Ampicillin (dose as\nmentioned above)\nAND\nCefepime\n• < 36 weeks GA\nand <30 days\nPNA: 30-50\nmg/kg/dose IV q\n12 h\n• ≥ 36 weeks GA\nand < 30 days\nPNA: 50\nmg/kg/dose IV q\n12h",
+          "May avoid aminoglycosides for\nmeningitsi due to poor CSF\npenetration"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        64.03201904296876,
+        547.1200332641602,
+        768.64794921875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

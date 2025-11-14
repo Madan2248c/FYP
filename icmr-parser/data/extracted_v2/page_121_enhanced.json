@@ -1,0 +1,52 @@
+{
+  "page_number": 121,
+  "text": " \n \n \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nsuperficial \nabscesses) \n• 25-50 mg/kg/dose \nPO* q6h \nDuration of treatment: \n• 5-7 days \n \nSevere \nCloxacillin \n• ≤7 days of PNA and \n<2 kg: 25 mg/kg/dose \nIV q12h \n• ≤7 days of PNA and \n<2 kg: 25 mg/kg/dose \nIV q8h \n• 7-28 days PNA and < \n2 kg: 25 mg/kg/dose \nIV q8h \n• 7-28 days PNA and > \n2 kg: 25 mg/kg/dose \nIV q6h \nAND \nGentamicin  \n(Dose as mentioned \nabove) \nDuration of treatment: \n• 7-10 days \n• <4 weeks PNA: \n15-20 \nmg/kg/day IV 6-\n8 hrly \nNo dosing \nrecommendation \nfor preterm \nneonates  \nAND \nGentamicin \n(Dose as \nmentioned above) \nDuration of \ntreatment: \n7-10 days  \nTetanus Neonatorum Tetanus \nImmunoglobulin  \n• 6,000 IU* IM* once \nAND \nMetronidazole \n• < 34 weeks PMA: 15 \nmg/kg LD* followed \nby 7.5 mg/kg/dose \nq12h \n• 34 to 40 weeks PMA: \n15 mg/kg LD followed \nby 7.5 mg/kg/dose \nq8h \n• > 40 weeks PMA: 15 \nmg/kg LD followed by \n7.5 mg/kg/dose q6h \nAlternative to \nmetronidazole is \npenicillin G (less \npreferred as it \nmay worsen \nspasms) \n• 50,000 \nIU/kg/dose IV q \n6-8h \nIndia was declared free of \nmaternal and neonatal tetanus \non 15th May, 2015.  \nOro-cutaneous \ncandidiasis \nLocalised \nCutaneous \nTerm and late preterm \ninfants \nClotrimazole  \n• 1% ointment locally q \n8-12h \nOral \nWidespread (burn \nlike) or cutaneous \ncandidiasis [term \nor preterm] \nFluconazole (dose \nmentioned in the \nleft-hand side \ncolumn) \nOr \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "superficial\nabscesses)",
+          "• 25-50 mg/kg/dose\nPO* q6h\nDuration of treatment:\n• 5-7 days\nSevere\nCloxacillin\n• ≤7 days of PNA and\n<2 kg: 25 mg/kg/dose\nIV q12h\n• ≤7 days of PNA and\n<2 kg: 25 mg/kg/dose\nIV q8h\n• 7-28 days PNA and <\n2 kg: 25 mg/kg/dose\nIV q8h\n• 7-28 days PNA and >\n2 kg: 25 mg/kg/dose\nIV q6h\nAND\nGentamicin\n(Dose as mentioned\nabove)\nDuration of treatment:\n• 7-10 days",
+          "• <4 weeks PNA:\n15-20\nmg/kg/day IV 6-\n8 hrly\nNo dosing\nrecommendation\nfor preterm\nneonates\nAND\nGentamicin\n(Dose as\nmentioned above)\nDuration of\ntreatment:\n7-10 days",
+          ""
+        ],
+        [
+          "Tetanus Neonatorum",
+          "Tetanus\nImmunoglobulin\n• 6,000 IU* IM* once\nAND\nMetronidazole\n• < 34 weeks PMA: 15\nmg/kg LD* followed\nby 7.5 mg/kg/dose\nq12h\n• 34 to 40 weeks PMA:\n15 mg/kg LD followed\nby 7.5 mg/kg/dose\nq8h\n• > 40 weeks PMA: 15\nmg/kg LD followed by\n7.5 mg/kg/dose q6h",
+          "Alternative to\nmetronidazole is\npenicillin G (less\npreferred as it\nmay worsen\nspasms)\n• 50,000\nIU/kg/dose IV q\n6-8h",
+          "India was declared free of\nmaternal and neonatal tetanus\non 15th May, 2015."
+        ],
+        [
+          "Oro-cutaneous\ncandidiasis",
+          "Localised\nCutaneous\nTerm and late preterm\ninfants\nClotrimazole\n• 1% ointment locally q\n8-12h\nOral",
+          "Widespread (burn\nlike) or cutaneous\ncandidiasis [term\nor preterm]\nFluconazole (dose\nmentioned in the\nlef-thand side\ncolumn)\nOr",
+          ""
+        ]
+      ],
+      "bbox": [
+        72.21600341796875,
+        64.03201904296876,
+        547.1080322265625,
+        784.3680053710938
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Cutaneous",
+    "Term and late preterm",
+    "infants",
+    "Oral"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

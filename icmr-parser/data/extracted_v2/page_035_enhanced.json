@@ -1,0 +1,74 @@
+{
+  "page_number": 35,
+  "text": " \n \n30 \n \n3.3 Pyrexia of unknown origin (PUO) \nType of Infection \nFirst Line (with Dosage and \nDuration) \nComments \nPUO \nNo antibiotics suggested \nunless the patient has \nfeatures of sepsis \n \nEmpiric antimicrobial therapy is generally \nnot recommended for treating pyrexia of \nunknown origin (PUO) as it can delay the \nevaluation for the cause of the fever. Needs \nwork up for infectious & non-infectious \ncauses. \nFor common etiological agents of Pyrexia of unknown origin, see Annexure B.3.3 \nReferences: \n1. Fernandez C, Beeching NJ. Pyrexia of unknown origin. Clin Med (Lond). 2018;18(2):170-174. \ndoi:10.7861/clinmedicine.18-2-170 \n2. Varghese G M, Trowbridge P, Doherty T. Investigating and managing pyrexia of unknown origin \nin adults BMJ 2010; 341: c5470 doi:10.1136/bmj.c5470 \n \n3.4 Sepsis syndrome- Community acquired and Hospital acquired \nType of \nInfection \nFirst Line \nAlternative \nComments \nSepsis – \nCommunity \nacquired \nwithout \nlocalization \nPiperacillin-tazobactam 4.5g IV q6h  \n \nCefoperazone- \nsulbactam 3g \nIV q12h  \nAdd Doxycycline 100mg IV q12h if \nfrom endemic area for rickettsial \ninfections. \nDuration of therapy will depend \nupon: \n• \nFinding focus of infection \n• \nIdentification of infectious \nagent \n• \nPatient clinical status \n \nSeptic \nshock- \ncommunity \nacquired \ninfection \nwithout \nlocalization \nInj Meropenem 1g IV q8h \n+ \nInj Teicoplanin 400mg IV q12h for \n3 doses followed by 6-12mg/kg IV \nq24h \nInj Imipenem-\ncilastatin 1g \nstat and \n500mg IV q6h \n+ \nInj \nvancomycin \n25 mg/kg IV \nstat followed \nby 15mg/kg \nq8-12h \n \nAdd Doxycycline 100mg q12h IV if \nfrom endemic area for rickettsial \ninfections. \nDuration of therapy will depend \nupon: \n• \nFinding focus of infection \n• \nIdentification of infectious \nagent \n• \nPatient clinical status \nIf blood cultures are negative at 48 \nhours and if patient is improving, \nantibiotics can be de-escalated. \n \nHospital \nacquired \nsepsis  \n(organ / \ndevice \nMeropenem 1g IV q8h  \nOr  \nImipenem-cilastatin IV 1g stat and \n500mg q6h \n \nMeropenem \n1g IV q8h \n+ \nPolymyxin B \n15-20 lakhs \nHospital antibiogram is crucial for \nselecting empiric antibiotics for \nHAI. \nDuration of therapy will depend \nupon: \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage and Comments\nDuration)",
+        "Col1",
+        "Col2"
+      ],
+      "rows": [
+        [
+          "PUO",
+          "No antibiotics suggested\nunless the patient has\nfeatures of sepsis",
+          "Empiric antimicrobial therapy is generally\nnot recommended for treating pyrexia of\nunknown origin (PUO) as it can delay the\nevaluation for the cause of the fever. Needs\nwork up for infectious & non-infectoi us\ncauses."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        97.27996826171875,
+        554.1000162760416,
+        205.8800048828125
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of First Line Alternatvie Comments\nInfection",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Sepsis –\nCommunity\nacquired\nwithout\nlocalization",
+          "Piperacillin-tazobactam 4.5g IV q6h",
+          "Cefoperazone-\nsulbactam 3g\nIV q12h",
+          "Add Doxycycline 100mg IV q12h if\nfrom endemic area for ricketstial\ninfectoi ns.\nDuration of therapy will depend\nupon:\n• Finding focus of infection\n• Identification of infectoi us\nagent\n• Patient clinical status"
+        ],
+        [
+          "Septic\nshock-\ncommunity\nacquired\ninfection\nwithout\nlocalization",
+          "Inj Meropenem 1g IV q8h\n+\nInj Teicoplanin 400mg IV q12h for\n3 doses followed by 6-12mg/kg IV\nq24h",
+          "Inj Imipenem-\ncilastatin 1g\nstat and\n500mg IV q6h\n+\nInj\nvancomycin\n25 mg/kg IV\nstat followed\nby 15mg/kg\nq8-12h",
+          "Add Doxycycline 100mg q12h IV if\nfrom endemic area for ricketstial\ninfectoi ns.\nDuration of therapy will depend\nupon:\n• Finding focus of infection\n• Identification of infectoi us\nagent\n• Patient clinical status\nIf blood cultures are negatvie at 48\nhours and if patient is improving,\nantibiotics can be de-escalated."
+        ],
+        [
+          "Hospital\nacquired\nsepsis\n(organ /\ndevice",
+          "Meropenem 1g IV q8h\nOr\nImipenem-cilastatin IV 1g stat and\n500mg q6h",
+          "Meropenem\n1g IV q8h\n+\nPolymyxin B\n15-20 lakhs",
+          "Hospital antibiogram is crucial for\nselecting empiric antibiotics for\nHAI.\nDuration of therapy will depend\nupon:"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        356.76198120117186,
+        548.5480346679688,
+        765.28798828125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Pyrexia of unknown origin",
+    "(PUO)",
+    "Clin Med (Lond)",
+    "Sepsis syndrome- Community acquired and Hospital acquired"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

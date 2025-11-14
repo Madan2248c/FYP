@@ -1,0 +1,112 @@
+{
+  "page_number": 146,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nLegionella spp. \nFungal:  \nMucorales \nAspergillus spp. \nPneumocyctis jirovecii \nCryptococcus spp. \nB.12.7 \nEmpyema \nBacterial: \nStaphylococcus aureus \nStreptococcus pyogenes \nStreptococcus pneumonie \nViridans streptococci group \nPseudomonas spp. \nKlebsiella spp. \nEnterobacteriaceae \nAcinetobacter spp. \nInfections may be polymicrobial in \nnature with involvement of both \naerobic and anaerobic in nature. \nFoley, Sean P. F., and John Scott Parrish. \n2023. \"Pleural Space Infections\" Life 13, \nno. 2: \n376. https://doi.org/10.3390/life1302037\n6 \n \n  \nB.13. Toxin-mediated Syndromes  \nAnnexure \nTitle \nEtiology \nReference \nB.13.1 \nBotulism \nAnaerobic bacterium Clostridium \nbotulinum.  \n \nOther Clostridium species: \nClostridium butyricum \nClostridium baratii \nHarrison’s Principles of Internal Medicine Pg \n1215 \nhttps://www.cdc.gov/botulism/treatment/in\ndex.html \nB.13.2 \nDiphtheria \nToxigenic strains of \nCorynebacterium diphtheriae.  \nOther Corynaebacterium species: \nCorynebacterium ulcerans \nCorynebacterium pseudotuberculosis \nHarrison’s Principles of Internal Medicine Pg \n1203 \n \nB.13.3 \nTetanus \nMost common: Clostridium tetani \nMay be complicated by: \nStaphylococcus epidermidis \nStaphylococcus aureus \nPropionibacterium acnes \nPseudomonas aeruginosa \nAcinetobacter baumanii \nHarrison’s Principles of Internal Medicine Pg \n1211 \n \nB.13.4 \nToxic shock \nsyndrome \n \nStaphylococcus aureus \nToxic shock syndrome toxin 1 \nenterotoxins B \nGroup A Streptococcus pyogenes \nStreptococcal pyrogenic exotoxins \n(SpE)A,B and C \nHarrison’s Principles of Internal Medicine Pg \n1183 \nAtchade E, De Tymowski C, Grall N, Tanaka S, \nMontravers P. Toxic Shock Syndrome: A \nLiterature Review. Antibiotics (Basel). 2024 \nJan 18;13(1):96. doi: \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Legionella spp.\nFungal:\nMucorales\nAspergillus spp.\nPneumocyctis jirovecii\nCryptococcus spp.",
+          ""
+        ],
+        [
+          "B.12.7",
+          "Empyema",
+          "Bacterial:\nStaphylococcus aureus\nStreptococcus pyogenes\nStreptococcus pneumonie\nViridans streptococci group\nPseudomonas spp.\nKlebsiella spp.\nEnterobacteriaceae\nAcinetobacter spp.\nInfectoi ns may be polymicrobial in\nnature with involvement of both\naerobic and anaerobic in nature.",
+          "Foley, Sean P. F., and John Scot tParrish.\n2023. \"Pleural Space Infections\" Life 13,\nno. 2:\n376. htpts://doi.org/10.3390/life1302037\n6"
+        ]
+      ],
+      "bbox": [
+        67.41600036621094,
+        64.03201904296876,
+        575.4479614257813,
+        356.977978515625
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.13.1",
+          "Botulism",
+          "Anaerobic bacterium Clostridium\nbotulinum.\nOther Clostridium species:\nClostridium butyricum\nClostridium barati",
+          "Harrison’s Principles of Internal Medicine Pg\n1215\nhtpts://www.cdc.gov/botulism/treatment/in\ndex.html"
+        ],
+        [
+          "B.13.2",
+          "Diphtheria",
+          "Toxigenic strains of\nCorynebacterium diphtheriae.\nOther Corynaebacterium species:\nCorynebacterium ulcerans\nCorynebacterium pseudotuberculosis",
+          "Harrison’s Principles of Internal Medicine Pg\n1203"
+        ],
+        [
+          "B.13.3",
+          "Tetanus",
+          "Most common: Clostridium tetani\nMay be complicated by:\nStaphylococcus epidermidis\nStaphylococcus aureus\nPropionibacterium acnes\nPseudomonas aeruginosa\nAcinetobacter baumanii",
+          "Harrison’s Principles of Internal Medicine Pg\n1211"
+        ],
+        [
+          "B.13.4",
+          "Toxic shock\nsyndrome",
+          "Staphylococcus aureus\nToxic shock syndrome toxin 1\nenterotoxins B\nGroup A Streptococcus pyogenes\nStreptococcal pyrogenic exotoxins\n(SpE)A,B and C",
+          "Harrison’s Principles of Internal Medicine Pg\n1183\nAtchade E, De Tymowski C, Grall N, Tanaka S,\nMontravers P. Toxic Shock Syndrome: A\nLiterature Review. Antibiotics (Basel). 2024\nJan 18;13(1):96. doi:"
+        ]
+      ],
+      "bbox": [
+        67.41600036621094,
+        383.88197631835936,
+        575.4479614257813,
+        780.7679443359375
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Legionella spp.",
+    "Aspergillus spp.",
+    "Pneumocyctis jirovecii",
+    "Cryptococcus spp.",
+    "Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Streptococcus pneumonie",
+    "Pseudomonas spp.",
+    "Klebsiella spp.",
+    "Acinetobacter spp.",
+    "Infections may be polymicrobial in",
+    "nature with involvement of both",
+    "aerobic and anaerobic in nature.",
+    "Life",
+    "Clostridium",
+    "botulinum",
+    "Clostridium butyricum",
+    "Clostridium baratii",
+    "Corynebacterium diphtheriae",
+    "Corynebacterium ulcerans",
+    "Corynebacterium pseudotuberculosis",
+    "Clostridium tetani",
+    "Staphylococcus epidermidis",
+    "Staphylococcus aureus",
+    "Propionibacterium acnes",
+    "Pseudomonas aeruginosa",
+    "Acinetobacter baumanii",
+    "Staphylococcus aureus"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

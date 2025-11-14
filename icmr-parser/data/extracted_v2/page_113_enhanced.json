@@ -1,0 +1,41 @@
+{
+  "page_number": 113,
+  "text": " \n \n \n1. Howroyd, F., Chacko, C., MacDuff, A. et al. Ventilator-associated pneumonia: pathobiological \nheterogeneity \nand \ndiagnostic \nchallenges. Nat \nCommun 15, \n6447 \n(2024). \nhttps://doi.org/10.1038/s41467-024-50805-z \n2. Guidelines for the Management of Adults with Hospital-acquired, Ventilator-associated, and \nHealthcare-associated Pneumonia, (2005) American Journal of Respiratory and Critical Care \nMedicine. American Thoracic Society – AJRCCM. doi: 10.1164/rccm.200405-644ST. \nhttps://doi.org/10.1164/rccm.200405-644ST \n3. Andre C. Kalil, Mark L. Metersky, Michael Klompas, John Muscedere, Daniel A. Sweeney, Lucy \nB. Palmer, Lena M. Napolitano, Naomi P. O'Grady, John G. Bartlett, Jordi Carratalà, Ali A. El Solh, \nSantiago Ewig, Paul D. Fey, Thomas M. File, Jr, Marcos I. Restrepo, Jason A. Roberts, Grant W. \nWaterer, Peggy Cruse, Shandra L. Knight, Jan L. Brozek. ATS/IDSA 2016 Clinical Practice \nGuidelines for the Management of Adults With Hospital-acquired and Ventilator-associated \nPneumonia. Clinical Infectious Diseases, Volume 63, Issue 5, 1 September 2016, Pages e61–\ne111, https://doi.org/10.1093/cid/ciw353 \n4. Soman R, Veeraraghavan B, Hegde A, Varma S, Todi S, Singh RK, Nagavekar V, Rodrigues C, \nSwaminathan S, Ramsubramanian V, Ansari A, Chaudhry D, Pednekar A, Bhagat S, Patil S, \nBarkate H. Indian consensus on the management of carbapenem-resistant Enterobacterales \ninfection in critically ill patients II (ICONIC II). Expert Rev Anti Infect Ther. 2024 Jun;22(6):453-\n468. doi: 10.1080/14787210.2024.2360116. Epub 2024 May 27. Erratum in: Expert Rev Anti \nInfect Ther. 2024 Jul;22(7):607. doi: 10.1080/14787210.2024.2370086. PMID: 38790080. \n5. Guidance on Diagnosis & Management of Carbapenem Resistant Gram-negative Infections. \nICMR. 2022. Available from: https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-\nguidelines/Diagnosis_and_management_of_CROs.pdf \n \n18.4 Central Line-Associated Bloodstream Infection (CLABSI) \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nCLABSI without \nprevious antibiotic \nexposure and stable  \nPiperacillin- tazobactam \n4.5g iv q6h  \nOr  \nCefoperazone-sulbactam \n3g iv bd \n+  \nInj Vancomycin (15 mg/kg \nIV q8–12h)  \nOr  \nInj Teicoplanin (400mg IV \nevery 12h for 3 doses \nfollowed by 400mg IV \nq24h)   \nMeropenem 1g iv \nq8h   \nOr  \nImipenem -cilastatin \n500 mg IV q6h  \n+ \nInj Vancomycin 1g iv \nbd  \nOr  \nInj Teicoplanin \n(400mg IV every 12h \nfor 3 doses followed \nby 400mg IV q24h)   \nAll hospital onset \ninfections; should be \nmanaged as per hospital \nantibiograms; these \nrecommendations are \ngeneral and especially for \nplaces where there is no \nantibiogram (it is highly \nrecommended to \ngenerate antibiograms).  \nBlood culture should be \nobtained prior to initiation \nof antibiotic therapy. \nPaired blood samples, \ndrawn from the catheter \nand a peripheral vein, \nshould be sent for culture, \nand the bottles should be \nappropriately marked to \nreflect the site from which \nthe samples were \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "CLABSI without\nprevious antibiotic\nexposure and stable",
+          "Piperacillin- tazobactam\n4.5g iv q6h\nOr\nCefoperazone-sulbactam\n3g iv bd\n+\nInj Vancomycin (15 mg/kg\nIV q8–12h)\nOr\nInj Teicoplanin (400mg IV\nevery 12h for 3 doses\nfollowed by 400mg IV\nq24h)",
+          "Meropenem 1g iv\nq8h\nOr\nImipenem -cilastatin\n500 mg IV q6h\n+\nInj Vancomycin 1g iv\nbd\nOr\nInj Teicoplanin\n(400mg IV every 12h\nfor 3 doses followed\nby 400mg IV q24h)",
+          "All hospital onset\ninfectoi ns; should be\nmanaged as per hospital\nantibiograms; these\nrecommendations are\ngeneral and especially for\nplaces where there is no\nantibiogram (it is highly\nrecommended to\ngenerate antibiograms).\nBlood culture should be\nobtained prior to initiation\nof antibiotic therapy.\nPaired blood samples,\ndrawn from the catheter\nand a peripheral vein,\nshould be sent for culture,\nand the botltes should be\nappropriately marked to\nreflect the site from which\nthe samples were"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        452.90196533203124,
+        547.1400349934896,
+        776.3279418945312
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "et al.",
+    "Nat",
+    "Commun",
+    "Clinical Infectious Diseases",
+    "Central Line-Associated Bloodstream Infection (CLABSI)"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

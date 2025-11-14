@@ -1,0 +1,73 @@
+{
+  "page_number": 54,
+  "text": " \n \n49 \n \ntreat like complicated \nsinusitis as mentioned \nbelow \n \nA. Signs/symptoms >10 \ndays without \nimprovement. \nB. fever>39[102], \npurulent nasal \ndischarge, facial pain>3 \ndays from beginning. \nC. double sickening \n{worsening of \nsymptoms at 5 to 6 \ndays after initial \nimprovement}. \n \nComplicated sinusitis \n(Patient with acute onset \nhigh fever with facial pain or \npurulent nasal discharge \nwith orbital/ soft tissue \ncellulitis or cranial \ncomplication) \nAmoxicillin 1000 mg \nq8h for 5-7 days \nOr \nAmoxicillin-clavulanate \n1.2g IV q8h in adults for \n5 -7 days  \nOr  \nAmoxicillin-clavulanate \n1g BD PO \nCefixime 400mg \nBD for 7 days \nOr \nDoxycycline 100 \nmg q12h for 5-10 \ndays  \n \n \nSuspicion of Fungal sinusitis \n \nTreatment based on \nmicrobiological test \nreports \n \nScraping from middle \nmeatus to be done for \nmicroscopy (KOH \nmount). \nSurgical debridement; \ntreatment of \ncomorbidities. \nFor common etiological agents of sinusitis, see Annexure B.7.3 \nAdditional Information:  \n• \nSteam inhalation is advised for alleviation of symptoms \n \n7.4 Otitis media \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with dosage and \nDuration) \nComments \nAcute otitis media:  \nIf the patient has \nrecent onset of ear \npain/ erythema of \nthe tympanic \nmembrane \nMostly viral- \nantibiotics not \nindicated \n \n \nTreat children <2 \nyears.  \nIf >2 years, afebrile \nand no ear pain- \nconsider analgesics \nand defer \nantibiotics. \nPain assessment \nand relief by using \nanalgesics. \n \nSevere: Temperature \n39 0C or higher OR \nsevere otalgia OR \notalgia persisting for \nmore than 48 hours \nor bulging tympanic \nmembrane or \ncomplication like \nmastoiditis or \nabscess \nAmoxicillin-\nclavulanate \n90/6.4mg /kg/day \nBID \nfor 5-7 days    \nCefuroxime axetil 250mg BD for 5-7 \ndays  \nOr  \nPiperacillin- tazobactam 4.5g IV 8h \nor  \nCefepime or Ceftazidime 2g IV OD \nand Metronidazole  \n(in immunocompromised or \nintracranial extension/ diabetes \nmellitus) \nFor common etiological agents of acute otitis media, see Annexure B.7.4 \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "treat like complicated\nsinusitsi as mentioned\nbelow",
+        "Col2",
+        "A. Signs/symptoms >10\ndays without\nimprovement.\nB. fever>39[102],\npurulent nasal\ndischarge, facial pain>3\ndays from beginning.\nC. double sickening\n{worsening of\nsymptoms at 5 to 6\ndays afetr initail\nimprovement}."
+      ],
+      "rows": [
+        [
+          "Complicated sinusitsi\n(Patient with acute onset\nhigh fever with facial pain or\npurulent nasal discharge\nwith orbital/ sof ttissue\ncellulitis or cranial\ncomplication)",
+          "Amoxicillin 1000 mg\nq8h for 5-7 days\nOr\nAmoxicillin-clavulanate\n1.2g IV q8h in adults for\n5 -7 days\nOr\nAmoxicillin-clavulanate\n1g BD PO",
+          "Cefixime 400mg\nBD for 7 days\nOr\nDoxycycline 100\nmg q12h for 5-10\ndays",
+          null
+        ],
+        [
+          "Suspicion of Fungal sinusitsi",
+          "Treatment based on\nmicrobiological test\nreports",
+          "",
+          "Scraping from middle\nmeatus to be done for\nmicroscopy (KOH\nmount).\nSurgical debridement;\ntreatment of\ncomorbiditeis."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        72.1919921875,
+        547.1200332641602,
+        342.45798950195314
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with dosage and Comments\nDosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Acute otitis media:\nIf the patient has\nrecent onset of ear\npain/ erythema of\nthe tympanic\nmembrane",
+          "Mostly viral-\nantibiotics not\nindicated",
+          "",
+          "Treat children <2\nyears.\nIf >2 years, afebrile\nand no ear pain-\nconsider analgesics\nand defer\nantibiotics.\nPain assessment\nand relief by using\nanalgesics."
+        ],
+        [
+          "Severe: Temperature\n39 0C or higher OR\nsevere otalgia OR\notalgia persisting for\nmore than 48 hours\nor bulging tympanic\nmembrane or\ncomplication like\nmastoiditis or\nabscess",
+          "Amoxicillin-\nclavulanate\n90/6.4mg /kg/day\nBID\nfor 5-7 days",
+          "Cefuroxime axetil 250mg BD for 5-7\ndays\nOr\nPiperacillin- tazobactam 4.5g IV 8h\nor\nCefepime or Cefatzidime 2g IV OD\nand Metronidazole\n(in immunocompromised or\nintracranial extension/ diabetes\nmellitus)",
+          null
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        450.5019897460937,
+        554.0800170898438,
+        707.1880126953125
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Otitis media"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

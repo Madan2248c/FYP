@@ -1,0 +1,37 @@
+{
+  "page_number": 27,
+  "text": " \n \n22 \n \n2.4 CSF shunt infections \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and Duration) \nComments \nCNS device \ninfections \nin stable patients  \n \n \n \n \n \nVancomycin 25 mg/kg IV \nstat followed by \n15mg/kg q 8-12h   \n+ \nCeftazidime 2g IV q8h  \nOr \nCefepime 2g IV q8h \n \n \n \nFor confirmed shunt \ninfections, the shunt \nshould be removed and a \ntemporary external \nventricular drain inserted. \nThe shunt should be sent \nfor cultures. \n \nAdjunctive intraventricular \nantibiotics are not \nroutinely necessary for \ntreatment of CSF shunt \ninfections. \nIntraventricular antibiotics \nmay be required for: \ninfections that are \nrefractory to appropriate \nsystemic antibiotic therapy,  \ninfections caused by highly \nresistant organisms \nsusceptible only to \nantimicrobials with poor \nCSF penetration, and  \ninfections in which the \nshunt cannot be removed.  \nWhen intraventricular \nantibiotics are used, they \nshould be administered in \ncombination with \nintravenous therapy. \n \nUncomplicated shunt \ninfections can be treated \nwith a total course of 7–12 \ndays of intra-ventricular \nand intravenous \nantibiotics. \n \nComplicated shunt \ninfections can be treated \nwith 2 weeks intra-\nventricular (given OD) and \n3 weeks intravenous \nantibiotics. \n \nComplicated shunt \ninfections are defined for \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "CNS device\ninfections\nin stable patients",
+          "Vancomycin 25 mg/kg IV\nstat followed by\n15mg/kg q 8-12h\n+\nCefatzidime 2g IV q8h\nOr\nCefepime 2g IV q8h",
+          "",
+          "For confirmed shunt\ninfectoi ns, the shunt\nshould be removed and a\ntemporary external\nventricular drain inserted.\nThe shunt should be sent\nfor cultures.\nAdjunctive intraventricular\nantibiotics are not\nroutinely necessary for\ntreatment of CSF shunt\ninfectoi ns.\nIntraventricular antibiotics\nmay be required for:\ninfectoi ns that are\nrefractory to appropriate\nsystemic antibiotci therapy,\ninfectoi ns caused by highly\nresistant organisms\nsusceptbi le only to\nantimicrobials with poor\nCSF penetration, and\ninfectoi ns in which the\nshunt cannot be removed.\nWhen intraventricular\nantibiotics are used, they\nshould be administered in\ncombination with\nintravenous therapy.\nUncomplicated shunt\ninfectoi ns can be treated\nwith a total course of 7–12\ndays of intra-ventricular\nand intravenous\nantibiotics.\nComplicated shunt\ninfectoi ns can be treated\nwith 2 weeks intra-\nventricular (given OD) and\n3 weeks intravenous\nantibiotics.\nComplicated shunt\ninfectoi ns are defined for"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        97.2919677734375,
+        547.1400349934896,
+        756.407958984375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "CSF shunt infections"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

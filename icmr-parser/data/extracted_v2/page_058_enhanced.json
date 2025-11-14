@@ -1,0 +1,55 @@
+{
+  "page_number": 58,
+  "text": " \n \n53 \n \nReference:  \n1. Griffiths, C.E.M. and Barker, J. and Bleiker, T.O. and Hussain, W. and Simpson, R.C. Rook's \nTextbook of Dermatology. 10th Edition 2024. United Kingdom: Wiley.  \n \n9.3 Cellulitis  \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \ndosage and \nDuration) \nComments \nCellulitis – non purulent  \nPrefer β-lactams. \nPenicillin V 250-500 \nq6h \nOr \nAmoxicillin 500mg \nTDS (25-50 \nmg/kg/day)  \nOr \nCloxacillin 500mg \nQID (50mg/kg/day)  \nOr \nCephalexin 250-\n500mg QID (25–50 \nmg/kg/day) \nOr \nCefadroxil 500 mg \nq12h \nClindamycin: 300-\n600mg BD/TID \n(20mg/kg/day) \n \n \nDuration of therapy is 5 to \n7 days based on clinical \nresponse. \n \n \nCellulitis- moderate to \nsevere \nInj Cefazolin 1-2g q8h  \nOr  \nInj Amoxicillin-\nclavulanate 1.2g TDS \n \nSevere infection: \nInj Cefuroxime \n1.5g q8h  \nOr \nInj Clindamycin \n600-900mg IV TDS \n(if allergic to \npenicillins) \n \nDuration of therapy is 7 to \n10 days based on clinical \nresponse. \nCellulitis with MRSA risk \nfactors: \nMild \n \n \nModerate to Severe \n \nTrimethoprim-\nsulfamethoxazole \n800 mg/160 mg BD \n \n \nVancomycin 15 to 20 \nmg/kg/dose every 8 \nto 12 hours. \nDoxycycline 100 \nmg q12h \n \n \n \nInj Linezolid \n600mg q12 h \n \nDuration of therapy is 5 to \n10 days based on severity. \nA longer duration of \nantibiotic treatment may be \na consideration in patients \nwho show minimal \nimprovement with \nantibiotic therapy within 48 \nhours. \nCellulitis in patients with \ncomorbidities, poor \nresponse to oral antibiotics, \nimmunocompromised, \nsigns of deeper infection \nInj Piperacillin-\ntazobactam 4.5g q6h  \n±  \nAs per culture \nsusceptibility \nreports \n \nDuration of therapy is 7 to \n10 days based on severity. \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and dosage and\nDuration) Duration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Cellulitsi – non purulent",
+          "Prefer β-lactams.\nPenicillin V 250-500\nq6h\nOr\nAmoxicillin 500mg\nTDS (25-50\nmg/kg/day)\nOr\nCloxacillin 500mg\nQID (50mg/kg/day)\nOr\nCephalexin 250-\n500mg QID (25–50\nmg/kg/day)\nOr\nCefadroxil 500 mg\nq12h",
+          "Clindamycin: 300-\n600mg BD/TID\n(20mg/kg/day)",
+          "Duration of therapy is 5 to\n7 days based on clinical\nresponse."
+        ],
+        [
+          "Cellulitsi- moderate to\nsevere",
+          "Inj Cefazolin 1-2g q8h\nOr\nInj Amoxicillin-\nclavulanate 1.2g TDS",
+          "Severe infection:\nInj Cefuroxime\n1.5g q8h\nOr\nInj Clindamycin\n600-900mg IV TDS\n(if allergic to\npenicillins)",
+          "Duration of therapy is 7 to\n10 days based on clinical\nresponse."
+        ],
+        [
+          "Cellulitsi with MRSA risk\nfactors:\nMild\nModerate to Severe",
+          "Trimethoprim-\nsulfamethoxazole\n800 mg/160 mg BD\nVancomycin 15 to 20\nmg/kg/dose every 8\nto 12 hours.",
+          "Doxycycline 100\nmg q12h\nInj Linezolid\n600mg q12 h",
+          "Duration of therapy is 5 to\n10 days based on severity.\nA longer duration of\nantibiotic treatment may be\na consideratoi n in patients\nwho show minimal\nimprovement with\nantibiotic therapy within 48\nhours."
+        ],
+        [
+          "Cellulitsi in patients with\ncomorbidities, poor\nresponse to oral antibiotics,\nimmunocompromised,\nsigns of deeper infection",
+          "Inj Piperacillin-\ntazobactam 4.5g q6h\n±",
+          "As per culture\nsusceptbi ility\nreports",
+          "Duration of therapy is 7 to\n10 days based on severity."
+        ]
+      ],
+      "bbox": [
+        72.22400347391765,
+        179.25198974609376,
+        547.1000315348307,
+        759.407958984375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Cellulitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

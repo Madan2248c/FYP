@@ -1,0 +1,79 @@
+{
+  "page_number": 140,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nB.10.3 \nGas gangrene \nClostridium perfringens \nClostridium septicum \nClostridium novyi \nC.tertium \nClostridium sordelli \nHarrison’s Principles of Internal Medicine Pg \n1222 \nB.10.4 \nSeptic arthritis \nInfants: \nGroup B streptococci \nGram-negative enteric bacilli \nS. aureus \n \nChildren <5 years: \nS. aureus \nStreptococcus pyogenes \n \nYoung adults and adolescents: \nN. gonorrhoeae \n \nAdults: \nS. aureus \nGram-negative bacilli \nPneumococci \nβ-hemolytic streptococci—\nparticularly groups A and B but \nalso groups C, G, and F \nHarrison’s Principles of Internal Medicine Pg \n1041 \nB.10.5 \nSkin and soft \ntissue injuries \nWound infections are often \npolymicrobial.  \nBacterial: \nAerobic bacteria  \nStaphylococcus aureus \nEscherichia coli \n Pseudomonas aeruginosa \nEnterobacter cloacae \nKlebsiella spp. \nStreptococcus spp. \nEnterococcus spp.  \nProteus spp. \n \nAnaerobic bacteria \nPeptostreptococcus spp. \nPrevotella spp.  \nPorphyromonas spp.  \nBacteroides spp. \nMaillard JY, Kampf G, Cooper R. Antimicrobial \nstewardship of antiseptics that are pertinent to \nwounds: the need for a united approach. JAC \nAntimicrob Resist. 2021 Mar 25;3(1):dlab027. \nB.10.6 \nOrthopedic \nimplant \nBacterial: \nStaphylococcus aureus \nStaphylococcus epidermidis  \nIhtisham Ul Haq, Taj Ali Khan, Katarzyna \nKrukiewicz, Etiology, pathology, and host-\nimpaired immunity in medical implant-\n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.10.3",
+          "Gas gangrene",
+          "Clostridium perfringens\nClostridium septcium\nClostridium novyi\nC.tertium\nClostridium sordelli",
+          "Harrison’s Principles of Internal Medicine Pg\n1222"
+        ],
+        [
+          "B.10.4",
+          "Septic arthritsi",
+          "Infants:\nGroup B streptococci\nGram-negative enteric bacilli\nS. aureus\nChildren <5 years:\nS. aureus\nStreptococcus pyogenes\nYoung adults and adolescents:\nN. gonorrhoeae\nAdults:\nS. aureus\nGram-negative bacilli\nPneumococci\nβ-hemolytic streptococci—\npartciularly groups A and B but\nalso groups C, G, and F",
+          "Harrison’s Principles of Internal Medicine Pg\n1041"
+        ],
+        [
+          "B.10.5",
+          "Skin and soft\ntissue injuries",
+          "Wound infectoi ns are ofetn\npolymicrobial.\nBacterial:\nAerobic bacteria\nStaphylococcus aureus\nEscherichia coli\nPseudomonas aeruginosa\nEnterobacter cloacae\nKlebsiella spp.\nStreptococcus spp.\nEnterococcus spp.\nProteus spp.\nAnaerobic bacteria\nPeptostreptococcus spp.\nPrevotella spp.\nPorphyromonas spp.\nBacteroides spp.",
+          "Maillard JY, Kampf G, Cooper R. Antimicrobial\nstewardship of antiseptcis that are pertinent to\nwounds: the need for a united approach. JAC\nAntimicrob Resist. 2021 Mar 25;3(1):dlab027."
+        ],
+        [
+          "B.10.6",
+          "Orthopedic\nimplant",
+          "Bacterial:\nStaphylococcus aureus\nStaphylococcus epidermidis",
+          "Ihtisham Ul Haq, Taj Ali Khan, Katarzyna\nKrukiewicz, Etoi logy, pathology, and host-\nimpaired immunity in medical implant-"
+        ]
+      ],
+      "bbox": [
+        67.42400042215984,
+        64.03201904296876,
+        575.4399617513021,
+        780.8000081380209
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Clostridium perfringens",
+    "Clostridium septicum",
+    "Clostridium novyi",
+    "C.tertium",
+    "Clostridium sordelli",
+    "S. aureus",
+    "S. aureus",
+    "Streptococcus pyogenes",
+    "N. gonorrhoeae",
+    "S. aureus",
+    "Staphylococcus aureus",
+    "Escherichia coli",
+    "Pseudomonas aeruginosa",
+    "Enterobacter cloacae",
+    "Klebsiella spp.",
+    "Streptococcus spp.",
+    "Enterococcus spp.",
+    "Proteus spp.",
+    "Peptostreptococcus spp.",
+    "Prevotella spp.",
+    "Porphyromonas spp.",
+    "Bacteroides spp.",
+    "Bacterial:",
+    "Staphylococcus aureus",
+    "Staphylococcus epidermidis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "page_number": 24,
+  "text": " \n \n19 \n \n2. Central Nervous System Infections \n2.1 Brain Abscess \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with dosage and \nDuration) \nComments \nUncomplicated \n(abscess <2.5cm & \npatient \nneurologically \nstable) \nCeftriaxone 2g IV \nq12h  \nOr \nCefotaxime 2g IV \nq6h  \n+ \nMetronidazole \n500mgIV q8h (10 \nmg/kg/dose) \n \n \n \nInj Meropenem 2g IV q8h \n \nIn case of allergy to penicillins, \ncephalosporins and \ncarbapenems antibiotics:  \n \nVancomycin 1g IV q12h  \n+  \nAztreonam IV 2g q8h   \n \nTo exclude TB, \nNocardia, Aspergillus, \nMucor, \nCladophialophora, \nCandida, Cryptococcus \nneoformans, \nEntamoeba histolytica, \nListeria \nmonocytogenes. \n \nDuration of treatment: \n3- 12 weeks \n(depending on \nresolution of lesions \nand symptoms. \nComplicated \n(Patient \nneurologically \nunstable) \nMeropenem 2mg \nIV q8h \n+ \nVancomycin 25 \nmg/kg IV stat \nfollowed by \n15mg/kg q 8-12h \n \nDrain pus, rationalize \nantibiotics according to \nculture and sensitivity \nand continue for 3 to \n12 weeks. \nFor common etiological agents of brain abscess, see Annexure B.2.1 \nAdditional Information:  \n• \nIf abscess >2.5cm consider aspiration/surgical drainage and modify antibiotics as per \nsensitivity of aspirated/drained secretions. \nReference:  \n1. Bodilsen J, D'Alessandris QG, Humphreys H, Iro MA, Klein M, Last K, Montesinos IL, Pagliano P, \nSipahi OR, San-Juan R, Tattevin P, Thurnher M, de J Treviño-Rangel R, Brouwer MC; ESCMID Study \nGroup for Infections of the Brain (ESGIB). European society of Clinical Microbiology and \nInfectious Diseases guidelines on diagnosis and treatment of brain abscess in children and \nadults. Clin Microbiol Infect. 2024 Jan;30(1):66-89. doi: 10.1016/j.cmi.2023.08.016. Epub 2023 \nAug 29. Erratum in: Clin Microbiol Infect. 2024 May;30(5):698. doi: 10.1016/j.cmi.2024.01.026. \nPMID: 37648062. https://idmp.ucsf.edu/content/intracranial-abscess. \n \n \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with dosage and Comments\nDosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Uncomplicated\n(abscess <2.5cm &\npatient\nneurologically\nstable)",
+          "Ceftriaxone 2g IV\nq12h\nOr\nCefotaxime 2g IV\nq6h\n+\nMetronidazole\n500mgIV q8h (10\nmg/kg/dose)",
+          "Inj Meropenem 2g IV q8h\nIn case of allergy to penicillins,\ncephalosporins and\ncarbapenems antibiotics:\nVancomycin 1g IV q12h\n+\nAztreonam IV 2g q8h",
+          "To exclude TB,\nNocardia, Aspergillus,\nMucor,\nCladophialophora,\nCandida, Cryptococcus\nneoformans,\nEntamoeba histolytica,\nListeria\nmonocytogenes.\nDuration of treatment:\n3- 12 weeks\n(depending on\nresolutoi n of lesions\nand symptoms."
+        ],
+        [
+          "Complicated\n(Patient\nneurologically\nunstable)",
+          "Meropenem 2mg\nIV q8h\n+\nVancomycin 25\nmg/kg IV stat\nfollowed by\n15mg/kg q 8-12h",
+          "",
+          "Drain pus, rationalize\nantibiotics according to\nculture and sensitviity\nand continue for 3 to\n12 weeks."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        131.61197509765626,
+        544.47998046875,
+        468.95798950195314
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Brain Abscess",
+    "Nocardia, Aspergillus,",
+    "Mucor,",
+    "Cladophialophora,",
+    "Candida, Cryptococcus",
+    "neoformans,",
+    "Entamoeba histolytica,",
+    "Listeria",
+    "monocytogenes.",
+    "Clin Microbiol Infect."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

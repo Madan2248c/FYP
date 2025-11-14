@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "total_cases": 166,
+    "successful": 12,
+    "failed": 154,
+    "success_rate": 0.07228915662650602,
+    "retries_needed": 1,
+    "avg_retries": 1.8614457831325302
+  },
+  "reasoning_quality": {
+    "avg_reasoning_steps": 6.916666666666667,
+    "avg_confidence": 0.9833333333333334,
+    "min_confidence": 0.95,
+    "max_confidence": 1.0
+  },
+  "validation_stats": {
+    "first_pass_rate": 0.9166666666666666
+  }
+}

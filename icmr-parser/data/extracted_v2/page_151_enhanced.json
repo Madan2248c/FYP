@@ -1,0 +1,91 @@
+{
+  "page_number": 151,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nB.18.2 \n \nInvasive \nCandidiasis \n \nCandida albicans \nC. glabrata \nC. parapsilosis \nC. tropicalis \nC. krusei \n* Incidence of Candida auris is \nlargely associated with infection \ncontrol practices of hospital. \nhttps://www.cdc.gov/candidiasis/hcp/clinica\nl-overview/index.html \nB.18.3 \nVentilator \nAssociated \nPneumonia \nBacterial: \nKlebsiella spp. \nAcinetobacter spp. \nPseudomonas spp. \nE. coli and other \nEnterobacteriaceae \nStaphylococcus aureus \nMathur P, Malpiedi P, Walia K, et al. Health-\ncare-associated bloodstream and urinary \ntract infections in a network of hospitals in \nIndia: a multicentre, hospital-based, \nprospective surveillance study.Lancet Glob \nHealth, 10 (2022), pp. e1317-e1325 \nDOI: 10.1016/S2214-109X(22)00274-1 \n \nB.18.4 \nCLABSI \nBacterial: \nKlebsiella pneumoniae \nAcinetobacter spp. \nEnterobacter spp.  \nCitrobacter spp. \n Proteus spp. \n Serratia spp. \nBurkholderia cepacia complex \nStenotrophomonas maltophilia \nStaphylococcus spp. \nEnterococcus spp. \n \nFungal: \nCandida spp. (unspeciated) \nC. albicans \nC. tropicalis \nC. parapsilosis \nC. auris \nC. haemulonii \nC. krusei \nC. glabrata \nMathur et al; Indian Healthcare Associated \nInfection Surveillance Network \ncollaborators. Health-care-associated \nbloodstream and urinary tract infections in a \nnetwork of hospitals in India: a multicentre, \nhospital-based, prospective surveillance \nstudy. Lancet Glob Health. 2022 \nSep;10(9):e1317-e1325. doi: \n10.1016/S2214-109X(22)00274-1. PMID: \n35961355 \nB.18.5 \nCAUTI \nBacterial: \nKlebsiella pneumoniae \nAcinetobacter spp. \nEnterobacter spp. \nCitrobacter spp. \n Proteus spp. \n Serratia spp. \nBurkholderia cepacia complex \nMathur et al ; Indian Healthcare Associated \nInfection Surveillance Network \ncollaborators. Health-care-associated \nbloodstream and urinary tract infections in a \nnetwork of hospitals in India: a multicentre, \nhospital-based, prospective surveillance \nstudy. Lancet Glob Health. 2022 \nSep;10(9):e1317-e1325. doi: \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.18.2",
+          "Invasive\nCandidiasis",
+          "Candida albicans\nC. glabrata\nC. parapsilosis\nC. tropicalis\nC. krusei\n* Incidence of Candida auris is\nlargely associated with infection\ncontrol practices of hospital.",
+          "htpts://www.cdc.gov/candidiasis/hcp/clinica\nl-overview/index.html"
+        ],
+        [
+          "B.18.3",
+          "Ventilator\nAssociated\nPneumonia",
+          "Bacterial:\nKlebsiella spp.\nAcinetobacter spp.\nPseudomonas spp.\nE. coli and other\nEnterobacteriaceae\nStaphylococcus aureus",
+          "Mathur P, Malpiedi P, Walia K, et al. Health-\ncare-associated bloodstream and urinary\ntract infectoi ns in a network of hospitals in\nIndia: a multcientre, hospital-based,\nprospective surveillance study.Lancet Glob\nHealth, 10 (2022), pp. e1317-e1325\nDOI: 10.1016/S2214-109X(22)00274-1"
+        ],
+        [
+          "B.18.4",
+          "CLABSI",
+          "Bacterial:\nKlebsiella pneumoniae\nAcinetobacter spp.\nEnterobacter spp.\nCitrobacter spp.\nProteus spp.\nSerratia spp.\nBurkholderia cepacia complex\nStenotrophomonas maltophilia\nStaphylococcus spp.\nEnterococcus spp.\nFungal:\nCandida spp. (unspeciated)\nC. albicans\nC. tropicalis\nC. parapsilosis\nC. auris\nC. haemulonii\nC. krusei\nC. glabrata",
+          "Mathur et al; Indian Healthcare Associated\nInfectoi n Surveillance Network\ncollaborators. Health-care-associated\nbloodstream and urinary tract infectoi ns in a\nnetwork of hospitals in India: a multcientre,\nhospital-based, prospectvie surveillance\nstudy. Lancet Glob Health. 2022\nSep;10(9):e1317-e1325. doi:\n10.1016/S2214-109X(22)00274-1. PMID:\n35961355"
+        ],
+        [
+          "B.18.5",
+          "CAUTI",
+          "Bacterial:\nKlebsiella pneumoniae\nAcinetobacter spp.\nEnterobacter spp.\nCitrobacter spp.\nProteus spp.\nSerratia spp.\nBurkholderia cepacia complex",
+          "Mathur et al ; Indian Healthcare Associated\nInfectoi n Surveillance Network\ncollaborators. Health-care-associated\nbloodstream and urinary tract infectoi ns in a\nnetwork of hospitals in India: a multcientre,\nhospital-based, prospectvie surveillance\nstudy. Lancet Glob Health. 2022\nSep;10(9):e1317-e1325. doi:"
+        ]
+      ],
+      "bbox": [
+        67.42400042215984,
+        64.03201904296876,
+        575.4399617513021,
+        781.2480102539063
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Candida albicans",
+    "C. glabrata",
+    "C. parapsilosis",
+    "C. tropicalis",
+    "C. krusei",
+    "Candida auris",
+    "Klebsiella spp.",
+    "Acinetobacter spp.",
+    "Pseudomonas spp.",
+    "E. coli",
+    "Staphylococcus aureus",
+    "et al.",
+    "Klebsiella pneumoniae",
+    "Acinetobacter spp.",
+    "Enterobacter spp.",
+    "Citrobacter spp.",
+    "Proteus spp.",
+    "Serratia spp.",
+    "Burkholderia cepacia",
+    "Stenotrophomonas maltophilia",
+    "Staphylococcus spp.",
+    "Enterococcus spp.",
+    "Candida spp. (unspeciated)",
+    "C. albicans",
+    "C. tropicalis",
+    "C. parapsilosis",
+    "C. auris",
+    "C. haemulonii",
+    "C. krusei",
+    "C. glabrata",
+    "Klebsiella pneumoniae",
+    "Acinetobacter spp.",
+    "Enterobacter spp.",
+    "Citrobacter spp.",
+    "Proteus spp.",
+    "Serratia spp.",
+    "Burkholderia cepacia"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "page_number": 98,
+  "text": " \n \n93 \n \nwith occlusive \ndressings but does not \npenetrate eschar and \nit depletes \nelectrolytes, and stains \nthe local environment, \nbroad spectrum, may \ncause \nmethemoglobinemia \n \nMafenide acetate, \navailable both as  \nan 8.5% water-soluble \ncream and a 5% \naqueous solution,  \nis among the most \ncommonly employed \ntopical agents.  \nThe cream is applied \ntwice a day and has \nthe advantage that it  \ndoes not require a \ndressing to adhere to \nwounds. Mafenide has \nexcellent tissue \npenetration, including \neschar.  \nSystemic antimicrobial \ntherapy is only \nindicated for patients \nwith proven burn \nwound infection or \nsepsis (culture \nproven). \n \nThird-\ndegree \nburns: It \ncan be life-\nthreatening  \nMupirocin is a topical \ntreatment of choice for \nMRSA infections, Gram-\npositive microbes, and \nintranasal carriage, inhibits \nwound healing by a half-life \nof 2 days, should not be \nused for longer than 10 \ndays to prevent \ndevelopment of resistance \n \nExcise adherent necrotic tissue \ninitially and debride all necrotic \ntissue.  \nChange the dressing daily (twice \ndaily, if required) or as often as \nnecessary to prevent seepage \nthrough the dressing or when \nthe wounds are more exudative. \n \nSecond degree deep burns are \nmanaged by Tangential excision \nand grafting preferably within 5-\n7 days of sustaining burn injury. \nFor full thickness burns, burn \nwound excision is done followed \nby coverage with autograft or \nallograft/ dermal substitutes \nwhen there is paucity of donor \nautograft. \nTranexamic acid (TXA) can \npotentially reduce blood loss and \ntransfusion requirements \nassociated with burn surgery. \nFor common etiological agents associated with infections after burns, see Annexure B.15.1 \nAdditional Information:  \n• \nSecond-degree burns: Affect epidermis and part of dermis. The patient may experience pain, \nredness, swelling and blistering. Second degree can again be classified as second degree \nsuperficial which involves epidermis and the papillary dermis and Second-degree deep burns \nwhich involves the deeper reticular dermis as well. \n• \nThird-degree burns: affect epidermis and dermis. The burn also destroys hair follicles and \nsweat glands. Because third-degree burns damage nerve endings, you probably won’t feel pain \nin the area of the burn itself, rather adjacent to it. Burned skin may be black, white or brown \nwith a leathery appearance. \n• \nConsider Lund & Browder’s chart for burn wound estimation. \n• \nBurns greater than 20% surface area (adult), greater than 10% (child) or any burn occurring in \nthe extremes of age are considered serious.  \n• \nManagement of major burns: Airways, oxygen inhalation, securing central venous line, \nadequate and proper Fluid Resuscitation, pain relief with analgesia and sedation, isolation of \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "with occlusive\ndressings but does not\npenetrate eschar and\nit depletes\nelectrolytes, and stains\nthe local environment,\nbroad spectrum, may\ncause\nmethemoglobinemia\nMafenide acetate,\navailable both as\nan 8.5% water-soluble\ncream and a 5%\naqueous solution,\nis among the most\ncommonly employed\ntopical agents.\nThe cream is applied\ntwice a day and has\nthe advantage that it\ndoes not require a\ndressing to adhere to\nwounds. Mafenide has\nexcellent tissue\npenetration, including\neschar.\nSystemic antimicrobial\ntherapy is only\nindicated for patients\nwith proven burn\nwound infectoi n or\nsepsis (culture\nproven).",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Third-\ndegree\nburns: It\ncan be life-\nthreatening",
+          null,
+          "Mupirocin is a topical\ntreatment of choice for\nMRSA infectoi ns, Gram-\npositvie microbes, and\nintranasal carriage, inhibits\nwound healing by a half-life\nof 2 days, should not be\nused for longer than 10\ndays to prevent\ndevelopment of resistance",
+          "Excise adherent necrotic tissue\ninitailly and debride all necrotic\ntissue.\nChange the dressing daily (twice\ndaily, if required) or as ofetn as\nnecessary to prevent seepage\nthrough the dressing or when\nthe wounds are more exudative.\nSecond degree deep burns are\nmanaged by Tangential excision\nand grafting preferably within 5-\n7 days of sustaining burn injury.\nFor full thickness burns, burn\nwound excision is done followed\nby coverage with autograft or\nallograft/ dermal substitutes\nwhen there is paucity of donor\nautograft.\nTranexamic acid (TXA) can\npotentially reduce blood loss and\ntransfusion requirements\nassociated with burn surgery."
+        ]
+      ],
+      "bbox": [
+        71.94399770100911,
+        72.1919921875,
+        547.1400349934896,
+        529.4379638671875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "page_number": 73,
+  "text": " \n \n68 \n \nAdministration of prophylactic antimicrobials should be performed only when indicated. It \nshould be administered within 1 hour before incision for all antimicrobials except Vancomycin \nand Fluoroquinolones, for which it should be administered within 2 hours before incision. \nRedosing should be considered to maintain adequate tissue levels on the basis of on agent half-\nlife. A single dose of a prophylactic antimicrobial is adequate for most surgical procedures. If \nCefazolin is not available, use Inj Cefuroxime 1.5 g IV instead. \n \n• \nDoses of drugs used in Musculoskeletal infections is tabulated below: \nDrug \nAdult dose \nPaediatric dose \nCeftriaxone \n2g 12 OD \n50 mg/kg 12 hrly \nCeftazidime \n2g q 6-8 hrly \n50 mg/kg 8 hrly \nCefepime \n2g 8-12 hrly \n50 mg/ kg 12 hrly \nCefotaxime \n2g 6 hrly \n50 mg/kg 6 hrly \nMeropenem \n2g 8 hrly \n40 mg/kg 8 hrly \nColistin  \n9 million unit loading and \nthen 3 million 8 hrly \n150,000 units/ kg loading and then \n50,000 units/ kg 8 hrly \nPolymyxin B \n7,50,000 q12h \n15-25,000 units/ kg loading and then \n5000-7500 units/kg 8 hrly \nFosfomycin \n4g 6 hrly \n75-100 mg/kg/dose 6 hrly \nCotrimoxazole \n3-6 mg/kg of TMP TDS \nVancomycin \n15 mg/kg (max 2 g) 8 hrly \n15 mg/kg 6 hrly \nCloxacillin \n2 g 4 hrly \n50 mg/kg 6 hrly \nDoxycycline \n100 mg 12 hrly \n1.5-2 mg/kg 12 hrly \nChloramphenicol \n1-2 g 6 hrly \n25 mg/kg 6 hrly \nMetronidazole \n400 mg 8 hrly \n10 mg/kg 8 hrly \nAmphotericin B \n1 mg/kg/day \nLiposomal amphotericin \nB \n3-5 mg/kg/day \nFluconazole \n800 mg loading and then \n400 mg OD \n12 mg/kg loading and then 6 mg/ kg \ndaily \ng/kg loading in neonates and then 12 \nmg/kg daily \nReferences:  \n1. Bucataru A, Balasoiu M, Ghenea AE, Zlatian OM, Vulcanescu DD, Horhat FG, Bagiu IC, Sorop \nVB, Sorop MI, Oprisoni A, Boeriu E, Mogoanta SS. Factors Contributing to Surgical Site \nInfections: A Comprehensive Systematic Review of Etiology and Risk Factors. Clin Pract. 2023 \nDec 28;14(1):52-68. \n2. Surgical site infections: prevention and treatment. London: National Institute for Health and \nCare Excellence (NICE); 2020 Aug 19. (NICE Guideline, No. 125.) Available from: \nhttps://www.ncbi.nlm.nih.gov/books/NBK542473/ \n3. Lerano C, Nankervis JM, James R, Rajkhowa A, Peel T, Thursky K. Surgical antimicrobial \nprophylaxis. Aust Prescr. 2017 Dec;40(6):225-229. doi: 10.18773/austprescr.2017.073. Epub \n2017 Nov 14. PMID: 29377021; PMCID: PMC5768598. \n",
+  "tables": [
+    {
+      "headers": [
+        "Drug",
+        "Adult dose",
+        "Paediatric dose"
+      ],
+      "rows": [
+        [
+          "Ceftriaxone",
+          "2g 12 OD",
+          "50 mg/kg 12 hrly"
+        ],
+        [
+          "Cefatzidime",
+          "2g q 6-8 hrly",
+          "50 mg/kg 8 hrly"
+        ],
+        [
+          "Cefepime",
+          "2g 8-12 hrly",
+          "50 mg/ kg 12 hrly"
+        ],
+        [
+          "Cefotaxime",
+          "2g 6 hrly",
+          "50 mg/kg 6 hrly"
+        ],
+        [
+          "Meropenem",
+          "2g 8 hrly",
+          "40 mg/kg 8 hrly"
+        ],
+        [
+          "Colistin",
+          "9 million unit loading and\nthen 3 million 8 hrly",
+          "150,000 units/ kg loading and then\n50,000 units/ kg 8 hrly"
+        ],
+        [
+          "Polymyxin B",
+          "7,50,000 q12h",
+          "15-25,000 units/ kg loading and then\n5000-7500 units/kg 8 hrly"
+        ],
+        [
+          "Fosfomycin",
+          "4g 6 hrly",
+          "75-100 mg/kg/dose 6 hrly"
+        ],
+        [
+          "Cotrimoxazole",
+          "3-6 mg/kg of TMP TDS",
+          null
+        ],
+        [
+          "Vancomycin",
+          "15 mg/kg (max 2 g) 8 hrly",
+          "15 mg/kg 6 hrly"
+        ],
+        [
+          "Cloxacillin",
+          "2 g 4 hrly",
+          "50 mg/kg 6 hrly"
+        ],
+        [
+          "Doxycycline",
+          "100 mg 12 hrly",
+          "1.5-2 mg/kg 12 hrly"
+        ],
+        [
+          "Chloramphenicol",
+          "1-2 g 6 hrly",
+          "25 mg/kg 6 hrly"
+        ],
+        [
+          "Metronidazole",
+          "400 mg 8 hrly",
+          "10 mg/kg 8 hrly"
+        ],
+        [
+          "Amphotericin B",
+          "1 mg/kg/day",
+          null
+        ],
+        [
+          "Liposomal amphotericin\nB",
+          "3-5 mg/kg/day",
+          null
+        ],
+        [
+          "Fluconazole",
+          "800 mg loading and then\n400 mg OD",
+          "12 mg/kg loading and then 6 mg/ kg\ndaily\ng/kg loading in neonates and then 12\nmg/kg daily"
+        ]
+      ],
+      "bbox": [
+        107.39714468093146,
+        205.27996826171875,
+        554.0428757440476,
+        577.239990234375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

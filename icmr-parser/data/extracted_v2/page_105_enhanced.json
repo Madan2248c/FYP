@@ -1,0 +1,45 @@
+{
+  "page_number": 105,
+  "text": " \n \n \nare clinically stable, and in whom \nrepeat cultures while on \nantifungal therapy are negative. \nInvasive \naspergillosis \nVoriconazole  \n(6mg/kg X 2 doses \nFollowed by 4 mg/kg \nq12h) \nOr \nIsavuconazole 200mg \nTDS for 6 doses and \n200mg OD  \n \n \nPosaconazole 300 mg \ntwice on day 1, \nfollowed by 300 mg \nOD \nOr \nLiposomal \nAmphotericin B  \n3 to 5 mg/kg/day OD \nDuration is 6-12 weeks but \nprolonged treatment may be \nrequired depending on the site of \ninfection and resolution of \nsymptoms. \nTherapeutic Dose Monitoring \n(TDM) of \nvoriconazole/posaconazole is \nrecommended. \nMucormycosis \nLiposomal \nAmphotericin B: 5 to \n10 mg/kg/day OD \n(concomitant \nadministration with \nother nephrotoxic \ndrugs should be \navoided) \n \nIsavuconazole 200mg \nTDS for 2 days and \n200mg OD \nOr \nPosaconazole 300 mg \ntwice on day 1, \nfollowed by 300 mg \nOD \n \nSurgical debridement at the \nearliest to the extent possible \nAmphotericin deoxycholate (1-\n1.5mg/kg/day) is an alternative \noption to liposomal amphotericin \nB, though less preferred due to \nincreased adverse events. \nNephrotoxicity may be reduced \nby prehydration with Normal \nSaline and by administering \nAmphotericin B deoxycholate at \nrate 0.08mg/kg/hour. \n \nDuration of therapy for \nmucormycosis is difficult to \ndefine, but in general 2 weeks, \nafter complete surgical \ndebridement is advised. If \ncomplete surgical debridement is \nnot done or not possible then \ntherapy should be continued till \nradiological resolution.  \nFor common etiological agents of Invasive Fungal Infections in immunocompromised hosts, see \nAnnexure B.17.4 \nReferences: \n1. Peter G. Pappas, Carol A. Kauffman, David R. Andes, Cornelius J. Clancy, Kieren A. Marr, Luis \nOstrosky-Zeichner, et al, Clinical Practice Guideline for the Management of Candidiasis: 2016 \nUpdate by the Infectious Diseases Society of America, Clinical Infectious Diseases, Volume 62, \nIssue 4, 15 February 2016, Pages e1–e50, https://doi.org/10.1093/cid/civ933 \n2. Thomas F. Patterson, George R. Thompson, David W. Denning, Jay A. Fishman, Susan Hadley, \nRaoul Herbrecht, Dimitrios P. Kontoyiannis, Kieren A. Marr, Vicki A. Morrison, M. Hong Nguyen, \nBrahm H. Segal, William J. Steinbach, David A. Stevens, Thomas J. Walsh, John R. Wingard, Jo-\nAnne H. Young, John E. Bennett, Practice Guidelines for the Diagnosis and Management of \nAspergillosis: 2016 Update by the Infectious Diseases Society of America, Clinical Infectious \nDiseases, \nVolume \n63, \nIssue \n4, \n15 \nAugust \n2016, \nPages \ne1–\ne60, https://doi.org/10.1093/cid/ciw326 \n3. Cornely OA, Alastruey-Izquierdo A, Arenz D, Chen SCA, Dannaoui E, Hochhegger B, Hoenigl M, \nJensen HE, Lagrou K, Lewis RE, Mellinghoff SC, Mer M, Pana ZD, Seidel D, Sheppard DC, Wahba \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "Col1",
+        "Col2",
+        "are clinically stable, and in whom\nrepeat cultures while on\nantifungal therapy are negative."
+      ],
+      "rows": [
+        [
+          "Invasive\naspergillosis",
+          "Voriconazole\n(6mg/kg X 2 doses\nFollowed by 4 mg/kg\nq12h)\nOr\nIsavuconazole 200mg\nTDS for 6 doses and\n200mg OD",
+          "Posaconazole 300 mg\ntwice on day 1,\nfollowed by 300 mg\nOD\nOr\nLiposomal\nAmphotericin B\n3 to 5 mg/kg/day OD",
+          "Duration is 6-12 weeks but\nprolonged treatment may be\nrequired depending on the site of\ninfectoi n and resolutoi n of\nsymptoms.\nTherapeutci Dose Monitoring\n(TDM) of\nvoriconazole/posaconazole is\nrecommended."
+        ],
+        [
+          "Mucormycosis",
+          "Liposomal\nAmphotericin B: 5 to\n10 mg/kg/day OD\n(concomitant\nadministration with\nother nephrotoxic\ndrugs should be\navoided)",
+          "Isavuconazole 200mg\nTDS for 2 days and\n200mg OD\nOr\nPosaconazole 300 mg\ntwice on day 1,\nfollowed by 300 mg\nOD",
+          "Surgical debridement at the\nearliest to the extent possible\nAmphotericin deoxycholate (1-\n1.5mg/kg/day) is an alternative\noption to liposomal amphotericin\nB, though less preferred due to\nincreased adverse events.\nNephrotoxicity may be reduced\nby prehydration with Normal\nSaline and by administering\nAmphotericin B deoxycholate at\nrate 0.08mg/kg/hour.\nDuration of therapy for\nmucormycosis is difcfiult to\ndefine, but in general 2 weeks,\nafetr complete surgical\ndebridement is advised. If\ncomplete surgical debridement is\nnot done or not possible then\ntherapy should be continued till\nradiological resolution."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        64.03201904296876,
+        554.0800170898438,
+        535.6780029296875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Clinical Infectious Diseases",
+    "Clinical Infectious",
+    "Diseases"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

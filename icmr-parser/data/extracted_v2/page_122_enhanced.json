@@ -1,0 +1,48 @@
+{
+  "page_number": 122,
+  "text": " \n \n \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \n• 2% nystatin \nsuspension after \nevery feed \nOr \n• 1% clotrimazole \nsuspension after \nevery feed \nDuration of treatment:  \n7-10 days and 48 hours \nafter lesions have \ncleared \n \nPreterm infants \n(especially extremely \npreterm) \nFluconazole \n• 12 mg/kg/dose q24 h \nOr \nAmphotericin B \n• 1 mg/kg/dose q24h \nDuration of treatment: \n• 14-21 days \n \nAmphotericin B \n(dose mentioned \nin the left-hand \nside column) \nDisseminated or CNS \nHSV infection \nAcyclovir  \n• 20 mg/kg/dose IV q \n8 h  \nAND  \nPost treatment for CNS \ndisease, suppressive \nregimen \n• Acyclovir \n300 mg/m2/dose PO \nq8h \nDuration of treatment: \n• for the IV regimen: 21 \ndays \n• for the oral \nsuppressive therapy \npost-treatment: 6 \nmonths \n \nWent to suspect?  \nHSV CNS infection: focal \nneurological deficits, profound \nencephalopathy and CSF picture \nwhich is not typical of bacterial \nmeningitis  \nDisseminated HSV infection: \nsevere sepsis-like syndrome with \nsevere liver dysfunction \n(markedly raised \naminotransferases)  \n*PO-per oral; GA- gestational age; PMA-postmenstrual age; PNA-postnatal age; IM-intramuscular; IU-\ninternational units; LD-loading dose. \n \n \nFor common etiological agents of neonatal infections, see Annexure B.19 \nAdditional Information:  \n1. For prevention of Neonatal Infections, the following points are recommended: \n• \nUse basic hygiene and cleanliness during delivery \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "",
+          "• 2% nystatin\nsuspension afetr\nevery feed\nOr\n• 1% clotrimazole\nsuspension afetr\nevery feed\nDuration of treatment:\n7-10 days and 48 hours\nafetr lesions have\ncleared\nPreterm infants\n(especially extremely\npreterm)\nFluconazole\n• 12 mg/kg/dose q24 h\nOr\nAmphotericin B\n• 1 mg/kg/dose q24h\nDuration of treatment:\n• 14-21 days",
+          "Amphotericin B\n(dose mentioned\nin the lef-thand\nside column)",
+          ""
+        ],
+        [
+          "Disseminated or CNS\nHSV infection",
+          "Acyclovir\n• 20 mg/kg/dose IV q\n8 h\nAND\nPost treatment for CNS\ndisease, suppressive\nregimen\n• Acyclovir\n300 mg/m2/dose PO\nq8h\nDuration of treatment:\n• for the IV regimen: 21\ndays\n• for the oral\nsuppressive therapy\npost-treatment: 6\nmonths",
+          "",
+          "Went to suspect?\nHSV CNS infectoi n: focal\nneurological defciits, profound\nencephalopathy and CSF picture\nwhich is not typical of bacterial\nmeningitsi\nDisseminated HSV infectoi n:\nsevere sepsis-like syndrome with\nsevere liver dysfunctoi n\n(markedly raised\naminotransferases)"
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        64.03201904296876,
+        547.1200332641602,
+        648.3879638671875
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Preterm infants",
+    "(especially extremely",
+    "preterm)",
+    "Went to suspect?",
+    "HSV CNS infection",
+    "Disseminated HSV infection"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "page_number": 84,
+  "text": " \n \n79 \n \nType of Infection \nFirst Line (with \nDosage and \nDuration) \nAlternative (with \nDosage and Duration) \nComments \nParacetamol to be \nused. \nComplicated  \n(With intracranial \nextension) \nVancomycin 15 to \n20 mg/kg per day \nIV every 8 to 12 \nhours \n+ \nCeftriaxone 2 g IV \nper 12hrs \nDuration: at least 2 \nto 3 weeks or until \nthe resolution of \ninflammation. \n \nClindamycin \n15mg/kg (max 600 \nmg) IV/oral 8 hrly x \n7-10 days \nOr  \nTab Cotrimoxazole \n(8/40mg/ml) 4.20 \nmg/kg (max \n320/1600mg) BD x \n7-10 days  \n \n Surgery is almost always \nindicated in patients with \nintracranial extension of \nthe infection. \nFor common etiological agents of orbital cellulitis, see Annexure B.11.3.1 and for preseptal cellulitis, \nsee Annexure B.11.3.2 \nAdditional Information:  \n• \nAspergillus infection of the orbit occurs in patients with severe neutropenia or other immune \ndeficiencies, such as HIV infection. \nReferences: \n1. A.A. Gordon and P.O. Phelps, Management of pre-septal and orbital cellulitis for the primary \ncare physician, Disease-a-Month, https://doi.org/10.1016/j.disamonth.2020.101044, \n2. Kanski’s clinical ophthalmology, a systemic approach 10th edition, pg 124,125 \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of Infection First Line (with Alternatvie (with Comments\nDosage and Dosage and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "",
+          "Paracetamol to be\nused.",
+          "",
+          ""
+        ],
+        [
+          "Complicated\n(With intracranial\nextension)",
+          "Vancomycin 15 to\n20 mg/kg per day\nIV every 8 to 12\nhours\n+\nCeftriaxone 2 g IV\nper 12hrs\nDuration: at least 2\nto 3 weeks or until\nthe resolutoi n of\ninflammation.\nClindamycin\n15mg/kg (max 600\nmg) IV/oral 8 hrly x\n7-10 days\nOr\nTab Cotrimoxazole\n(8/40mg/ml) 4.20\nmg/kg (max\n320/1600mg) BD x\n7-10 days",
+          "",
+          "Surgery is almost always\nindicated in patients with\nintracranial extension of\nthe infectoi n."
+        ]
+      ],
+      "bbox": [
+        72.20400333404541,
+        72.1919921875,
+        547.1200332641602,
+        441.4779907226563
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Aspergillus"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

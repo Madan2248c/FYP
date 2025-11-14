@@ -1,0 +1,42 @@
+{
+  "page_number": 94,
+  "text": " \n \n89 \n \n \n2. Rodrigo C, Fernando D, Rajapakse S. Pharmacological management of tetanus: an evidence-\nbased review. Crit Care. 2014 Mar 26;18(2):217. doi: 10.1186/cc13797. PMID: 25029486; \nPMCID: PMC4057067. \n13.4 Toxic shock syndrome  \nType of \nInfection \nFirst Line \n(with \nDosage and \nDuration) \nAlternative \n(with dosage \nand Duration) \nComments \nToxic shock \nsyndrome \n(TSS) is a \nrare, life-\nthreatening \ncondition \nwith high \ngrade fever, \nhypotension, \nrash, organ \nfailure  \nPenicillin \nCrystalline \n(24 million \nunit /day)  \n+ \nClindamycin \n900mg 8h \n \nDuration: 7-\n10 days \n \nCefazolin (1-2mg \n8h)  \n+ \nClindamycin 600-\n900 mg IV q8h  \nOr \nVancomycin \n15mg/kg IV q8h  \nDuration: 7-10 \ndays \n \nTSS can be cause by Staphylococcus aureus, \nstreptococcus (Group A) or rarely by Clostridium \nSordellii. \n \nIt may not be possible to pinpoint the etiological \nagents based on clinical syndromes, but presence of a \ndeep-seated foci (like blunt trauma) or clear signs of \nskin soft tissue infection are more in favour of TSS \ncaused by Group A Streptococcus.  \n \nPresence of a minor superficial skin infection or \nhistory of use of vaginal tampons can give clue to TSS \ncaused by Staphylococcus aureus. \n \nBlood cultures, culture and gram stain from an \ninfected site are needed to attain microbiological \ndiagnosis \nFor etiological agent of Toxic Shock Syndrome, see Annexure B.13.4 \nAdditional Information: \n• \nTSS is a toxin-mediated disease that is caused by toxin-producing streptococci or S. aureus. \nStaphylococcal TSS is likely to cause vomiting, diarrhoea, myalgia, elevated creatine kinase, \nmucositis, hepatic damage, thrombocytopenia, and confusion. The staphylococcal TSS rash is \nmore likely to desquamate, particularly on the palms and soles, between 3 and 7 days after \nonset. \nReferences: \n1. Stanford Guidelines on Antimicrobial Therapy 2024. \n2. Allen JM, Surajbali D, Q Nguyen D, Kuczek J, Tran M, Hachey B, Feild C, Shoulders BR, Smith \nSM, Voils SA. Impact of Piperacillin-Tazobactam Dosing in Septic Shock Patients Using Real-\nWorld Evidence: An Observational, Retrospective Cohort Study. Ann Pharmacother. 2023 \nJun;57(6):653-661. doi: 10.1177/10600280221125919. Epub 2022 Sep 25. PMID: 36154486; \nPMCID: PMC10433263. \n3. Atchade E, De Tymowski C, Grall N, Tanaka S, Montravers P. Toxic Shock Syndrome: A Literature \nReview. Antibiotics (Basel). 2024 Jan 18;13(1):96. doi: 10.3390/antibiotics13010096. PMID: \n38247655; PMCID: PMC10812596 \n \n \n",
+  "tables": [
+    {
+      "headers": [
+        "Type of First Line Alternatvie Comments\nInfection (with (with dosage\nDosage and and Duration)\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Toxic shock\nsyndrome\n(TSS) is a\nrare, life-\nthreatening\ncondition\nwith high\ngrade fever,\nhypotension,\nrash, organ\nfailure",
+          "Penicillin\nCrystalline\n(24 million\nunit /day)\n+\nClindamycin\n900mg 8h\nDuration: 7-\n10 days",
+          "Cefazolin (1-2mg\n8h)\n+\nClindamycin 600-\n900 mg IV q8h\nOr\nVancomycin\n15mg/kg IV q8h\nDuration: 7-10\ndays",
+          "TSS can be cause by Staphylococcus aureus,\nstreptococcus (Group A) or rarely by Clostridium\nSordellii.\nIt may not be possible to pinpoint the etoi logical\nagents based on clinical syndromes, but presence of a\ndeep-seated foci (like blunt trauma) or clear signs of\nskin soft tissue infectoi n are more in favour of TSS\ncaused by Group A Streptococcus.\nPresence of a minor superfciial skin infectoi n or\nhistory of use of vaginal tampons can give clue to TSS\ncaused by Staphylococcus aureus.\nBlood cultures, culture and gram stain from an\ninfected site are needed to atatin microbiological\ndiagnosis"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        162.21201171875,
+        547.1400349934896,
+        445.3179870605469
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Toxic shock syndrome",
+    "Staphylococcus aureus",
+    "Clostridium",
+    "Sordellii.",
+    "Staphylococcus aureus",
+    "S. aureus."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

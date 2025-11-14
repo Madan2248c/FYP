@@ -1,0 +1,73 @@
+{
+  "page_number": 53,
+  "text": " \n \n48 \n \nPenicillin G 50000 \nunits/kg IV 12 hrly \nDiphtheria antitoxin: \nHorse serum < 48 \nhours: 20,000-40,000 \nunits, Nasopharyngeal \nmembranes: 40,000-\n60,000 units  \n>3 days and bull neck: \n80,000-1,20,000 units \n \n• \nCentor Score (Modified/McIsaac): is used to estimate the probability of Group A \nStreptococcus (GAS) pharyngitis and suggest further management course. \nClinical variables \nScore \nAge: \n3-14 years \n14-44 years \n>44 years \n \n1 \n0 \n-1 \nHigh fever (>100.4 F) \n1 \nTonsillar Exudate \n1 \nAbsence of cough \n1 \nPresence of Lymphadenopathy \n1 \n \nInterpretation of Centor Score: \no Low risk (0-1): A low Centor score suggests a low probability of strep throat, and \nfurther testing or antibiotic treatment may not be necessary.  \no Moderate risk (2): A score of 2 indicates a moderate risk. Some guidelines suggest \nrapid strep testing.  \no High risk (3-4): A higher Centor score (3 or 4) indicates a higher probability of strep \nthroat, and further testing (rapid antigen test or throat culture) is generally \nrecommended, along with consideration for antibiotic treatment if the test is positive. \n \n7.3 Sinusitis \nType of Infection \nFirst Line (with Dosage \nand Duration) \nAlternative (with \ndosage and \nDuration) \nComments \nPatient-haemodynamically \nstable \nMost commonly it is \nviral in etiology and \nhence not required to \ntreat with antibiotics, \nunless signs of bacterial \ninfection are present \nlike: new onset fever \nafter initial \nimprovement or facial \npain or purulent \ndischarge, in that case \n \nSymptoms for 10 days \nor less: no antibiotic \nrequired.  \nSystemically very \nunwell or high risk of \ncomplications: \nimmediate antibiotics.  \nIndications for \nantibiotics: \n",
+  "tables": [
+    {
+      "headers": [
+        "Clinical variables",
+        "Score"
+      ],
+      "rows": [
+        [
+          "Age:\n3-14 years\n14-44 years\n>44 years",
+          "1\n0\n-1"
+        ],
+        [
+          "High fever (>100.4 F)",
+          "1"
+        ],
+        [
+          "Tonsillar Exudate",
+          "1"
+        ],
+        [
+          "Absence of cough",
+          "1"
+        ],
+        [
+          "Presence of Lymphadenopathy",
+          "1"
+        ]
+      ],
+      "bbox": [
+        105.96666590372722,
+        267.56996663411456,
+        554.0543038504464,
+        391.5699869791667
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Type of Infection First Line (with Dosage Alternatvie (with Comments\nand Duration) dosage and\nDuration)",
+        "Col1",
+        "Col2",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Patient-haemodynamically\nstable",
+          "Most commonly it is\nviral in etiology and\nhence not required to\ntreat with antibiotcis,\nunless signs of bacterial\ninfectoi n are present\nlike: new onset fever\nafetr initail\nimprovement or facial\npain or purulent\ndischarge, in that case",
+          "",
+          "Symptoms for 10 days\nor less: no antibiotic\nrequired.\nSystemically very\nunwell or high risk of\ncomplications:\nimmediate antibiotics.\nIndications for\nantibiotics:"
+        ]
+      ],
+      "bbox": [
+        72.18400319417317,
+        577.972021484375,
+        547.1560363769531,
+        767.0879516601562
+      ],
+      "table_number": 2,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Sinusitis"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "page_number": 148,
+  "text": " \n \n \n Candida spp. \nB.16. Dental Infections \nAnnexure \nTitle \nEtiological agents \nReference \nB.16.1 \nOdontogenic \ninfections \nOdontogenic infections are \npolymicrobial, consisting of various \nfacultative anaerobes, such as: \nS. mitis \nS. sanguinis \nS. salivarius \nS. anginosus \nS. viridans group \n \nAND \nStrict anaerobes: \nAnaerobic cocci \nPrevotella spp. \nFusobacterium spp. \nTahmasebi, E.; Keshvad, A.; Alam, M.; \nAbbasi, K.; Rahimi, S.; Nouri, F.; Yazdanian, \nM.; Tebyaniyan, H.; Heboyan, A.; Fernandes, \nG.V.O. Current Infections of the Orofacial \nRegion: Treatment, Diagnosis, and \nEpidemiology. Life 2023, 13, 269. Available \nfrom: https://doi.org/10.3390/life13020269 \n \nB.17. Infections in Immuno-Compromised hosts  \nAnnexure \nTitle \nEtiology \nReference \nB.17.1 \nFebrile neutropenia syndrome  \nBacterial:  \nEnterobacteriaceae \nPseudomonas spp. \nStaphylococcus spp. \nStreptococcus spp. \nFungal: \nCandida spp. \nMolds \n \nViral:  \nRespiratory viruses  \nHSV \nVZV \nVillafuerte-Gutierrez P, Villalon L, \nLosa JE, Henriquez-Camacho C. \nTreatment of febrile neutropenia \nand prophylaxis in hematologic \nmalignancies: a critical review \nand update. Adv \nHematol. 2014;2014:986938. \nB.17.2 \nTitle:Infections in Solid Organ Transplant patients \nTime \ninterval \n<4 weeks of transplant \n1-6 months after SOT \n>6 months after SOT \n \nBacterial: \nMethicillin Resistant \nStaphylococcus aureus (MRSA) \nVancomycin resistant \nEnterococcus (VRE) \nPseudomonas spp. \nFungal: \nWith PCP and Antiviral \nprophylaxis(CMV and \nHBV): \nViral: \nBk Polyoma virus \nnephropathy \nHepatitis C Virus \nFungal: \nAspergillus spp. \nAtypical moulds \nMucor spp. \nBacterial: \nNocardia spp. \nRhodococcus spp. \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiological agents",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.16.1",
+          "Odontogenic\ninfectoi ns",
+          "Odontogenic infectoi ns are\npolymicrobial, consisting of various\nfacultative anaerobes, such as:\nS. mitis\nS. sanguinis\nS. salivarius\nS. anginosus\nS. viridans group\nAND\nStrict anaerobes:\nAnaerobic cocci\nPrevotella spp.\nFusobacterium spp.",
+          "Tahmasebi, E.; Keshvad, A.; Alam, M.;\nAbbasi, K.; Rahimi, S.; Nouri, F.; Yazdanian,\nM.; Tebyaniyan, H.; Heboyan, A.; Fernandes,\nG.V.O. Current Infections of the Orofacial\nRegion: Treatment, Diagnosis, and\nEpidemiology. Life 2023, 13, 269. Available\nfrom: htpts://doi.org/10.3390/life13020269"
+        ]
+      ],
+      "bbox": [
+        67.39854569868608,
+        106.0519775390625,
+        575.4654152610085,
+        339.9379821777344
+      ],
+      "table_number": 1,
+      "extraction_method": "standard"
+    },
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "B.17.1",
+          "Febrile neutropenia syndrome",
+          "Bacterial:\nEnterobacteriaceae\nPseudomonas spp.\nStaphylococcus spp.\nStreptococcus spp.\nFungal:\nCandida spp.\nMolds\nViral:\nRespiratory viruses\nHSV\nVZV",
+          "Villafuerte-Gutierrez P, Villalon L,\nLosa JE, Henriquez-Camacho C.\nTreatment of febrile neutropenia\nand prophylaxis in hematologic\nmalignancies: a critcial review\nand update. Adv\nHematol. 2014;2014:986938."
+        ],
+        [
+          "B.17.2",
+          "Title:Infections in Solid Organ Transplant patients",
+          null,
+          null
+        ],
+        [
+          "Time\ninterval",
+          "<4 weeks of transplant",
+          "1-6 months afetr SOT",
+          ">6 months afetr SOT"
+        ],
+        [
+          "",
+          "Bacterial:\nMethicillin Resistant\nStaphylococcus aureus (MRSA)\nVancomycin resistant\nEnterococcus (VRE)\nPseudomonas spp.\nFungal:",
+          "With PCP and Antviiral\nprophylaxis(CMV and\nHBV):\nViral:\nBk Polyoma virus\nnephropathy\nHepatitsi C Virus",
+          "Fungal:\nAspergillus spp.\nAtypical moulds\nMucor spp.\nBacterial:\nNocardia spp.\nRhodococcus spp."
+        ]
+      ],
+      "bbox": [
+        67.39854569868608,
+        381.3619873046875,
+        575.4654152610085,
+        781.3680053710938
+      ],
+      "table_number": 2,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Candida spp.",
+    "Odontogenic infections are",
+    "polymicrobial, consisting of",
+    "various",
+    "facultative anaerobes",
+    ", such as:",
+    "S. mitis",
+    "S. sanguinis",
+    "S. salivarius",
+    "S. anginosus",
+    "S. viridans",
+    "Prevotella spp.",
+    "Fusobacterium spp.",
+    "Life",
+    "Pseudomonas spp.",
+    "Staphylococcus spp.",
+    "Streptococcus spp.",
+    "Candida spp",
+    "Staphylococcus aureus",
+    "Pseudomonas spp.",
+    "Aspergillus spp.",
+    "Mucor spp.",
+    "Nocardia spp.",
+    "Rhodococcus spp."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

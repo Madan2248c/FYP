@@ -1,0 +1,97 @@
+{
+  "page_number": 142,
+  "text": " \n \n \nAnnexure \nTitle \nEtiology \nReference \nAcanthamoeba spp. \nB.11.2.1 \nAcute \nEndophthalmitis \nBacterial: \nCoagulase Negative \nStaphylococci  \nStaphylococcus aureus \nBeta-hemolytic Streptococci \nS.pneumoniae \nAlpha – haemolytic streptococci \nincluding S.mitis and S.salivarius  \nPseudomonas Aeruginosa \n \nFungal: \nCandida spp. \nAspergillus spp. \nFusarium spp. \nESCRS Guidelines for Prevention and \nTreatment of Endophthalmitis Following \nCataract Surgery: Data, Dilemmas and \nConclusions 2013 \nB.11.2.2 \nChronic \nEndophthalmitis \nBacterial: \nPropionibacterium acnes \nCorynebacterium spp. \nS.epidermidis \nESCRS Guidelines for Prevention and \nTreatment of Endophthalmitis Following \nCataract Surgery: Data, Dilemmas and \nConclusions 2013 \nB.11.2.3 \nEndogenous \nEndophthalmitis \nBacterial: \nStaphylococcus aureus \nStreptococcus spp.  \nGram Negative bacilli (Eg., \nKlebsiella spp.) \nFungal: \nCandida spp. \nAspergillus spp. \nFusarium spp. \nEndophthalmitis Durand, M.L.Clinical \nMicrobiology and Infection, Volume 19, \nIssue 3, 227 – 234.  \nB.11.3.1 \nOrbital cellulitis \nBacterial: \nStreptococcal spp. \nStaphylococcus aureus \nH. influenzae  \nPropionibacterium spp. \nBacillus spp.  \nBacteroides spp. \nPeptostreptococcus spp. \nFusiobacterium spp. \nYadalla D, Jayagayathri R, Padmanaban K, \nRamasamy R, Rammohan R, Nisar SP, \nRangarajan V, Menon V. Bacterial orbital \ncellulitis - A review. Indian J Ophthalmol. 2023 \nJul;71(7):2687-2693. doi: \n10.4103/IJO.IJO_3283_22. \nB.11.3.2 \nPreseptal \ncellulitis \nBacterial: \n \nStaphylococcus spp. (majority of \ninfections) \nStreptococcus spp. (majority of \ninfections) \nHaemophilus influenzae \nM. catarrhalis \nPeptostreptococcus spp. \n1. A.A. Gordon and P.O. Phelps, \nManagement of preseptal and orbital \ncellulitis for the primary care physician, \nDisease-a-Month, \nhttps://doi.org/10.1016/j.disamonth.2020.1\n01044 \n2. KANSKI'S \n",
+  "tables": [
+    {
+      "headers": [
+        "Annexure",
+        "Title",
+        "Etiology",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "Acanthamoeba spp.",
+          ""
+        ],
+        [
+          "B.11.2.1",
+          "Acute\nEndophthalmitsi",
+          "Bacterial:\nCoagulase Negatvie\nStaphylococci\nStaphylococcus aureus\nBeta-hemolytic Streptococci\nS.pneumoniae\nAlpha – haemolytic streptococci\nincluding S.mitsi and S.salivarius\nPseudomonas Aeruginosa\nFungal:\nCandida spp.\nAspergillus spp.\nFusarium spp.",
+          "ESCRS Guidelines for Prevention and\nTreatment of Endophthalmitsi Following\nCataract Surgery: Data, Dilemmas and\nConclusions 2013"
+        ],
+        [
+          "B.11.2.2",
+          "Chronic\nEndophthalmitsi",
+          "Bacterial:\nPropionibacterium acnes\nCorynebacterium spp.\nS.epidermidis",
+          "ESCRS Guidelines for Prevention and\nTreatment of Endophthalmitsi Following\nCataract Surgery: Data, Dilemmas and\nConclusions 2013"
+        ],
+        [
+          "B.11.2.3",
+          "Endogenous\nEndophthalmitsi",
+          "Bacterial:\nStaphylococcus aureus\nStreptococcus spp.\nGram Negative bacilli (Eg.,\nKlebsiella spp.)\nFungal:\nCandida spp.\nAspergillus spp.\nFusarium spp.",
+          "Endophthalmitsi Durand, M.L.Clinical\nMicrobiology and Infectoi n, Volume 19,\nIssue 3, 227 – 234."
+        ],
+        [
+          "B.11.3.1",
+          "Orbital cellulitis",
+          "Bacterial:\nStreptococcal spp.\nStaphylococcus aureus\nH. influenzae\nPropionibacterium spp.\nBacillus spp.\nBacteroides spp.\nPeptostreptococcus spp.\nFusiobacterium spp.",
+          "Yadalla D, Jayagayathri R, Padmanaban K,\nRamasamy R, Rammohan R, Nisar SP,\nRangarajan V, Menon V. Bacterial orbital\ncellulitis - A review. Indian J Ophthalmol. 2023\nJul;71(7):2687-2693. doi:\n10.4103/IJO.IJO_3283_22."
+        ],
+        [
+          "B.11.3.2",
+          "Preseptal\ncellulitis",
+          "Bacterial:\nStaphylococcus spp. (majority of\ninfectoi ns)\nStreptococcus spp. (majority of\ninfectoi ns)\nHaemophilus influenzae\nM. catarrhalis\nPeptostreptococcus spp.",
+          "1. A.A. Gordon and P.O. Phelps,\nManagement of preseptal and orbital\ncellulitis for the primary care physician,\nDisease-a-Month,\nhtpts://doi.org/10.1016/j.disamonth.2020.1\n01044\n2. KANSKI'S"
+        ]
+      ],
+      "bbox": [
+        67.43400049209595,
+        64.03201904296876,
+        575.4299621582031,
+        779.4480224609375
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Acanthamoeba spp",
+    "Staphylococcus aureus",
+    "S.pneumoniae",
+    "S.mitis",
+    "S.salivarius",
+    "Pseudomonas Aeruginosa",
+    "Candida spp.",
+    "Aspergillus spp.",
+    "Fusarium spp.",
+    "Propionibacterium acnes",
+    "Corynebacterium spp.",
+    "S.epidermidis",
+    "Staphylococcus aureus",
+    "Streptococcus spp.",
+    "Klebsiella spp.)",
+    "Candida spp.",
+    "Aspergillus spp.",
+    "Fusarium spp.",
+    "Streptococcal spp.",
+    "Staphylococcus aureus",
+    "H. influenzae",
+    "Propionibacterium spp.",
+    "Bacillus spp.",
+    "Bacteroides spp.",
+    "Peptostreptococcus spp.",
+    "Fusiobacterium spp.",
+    "Staphylococcus spp.",
+    "Streptococcus spp.",
+    "Haemophilus influenzae",
+    "M. catarrhalis",
+    "Peptostreptococcus spp."
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}

@@ -1,0 +1,5009 @@
+[
+  {
+    "case_id": "AG_ERR_039",
+    "patient_profile": {
+      "age": 74,
+      "sex": "F",
+      "history": [
+        "chronic kidney disease",
+        "asthma"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Acute Gastroenteritis",
+    "symptoms": [
+      "fever",
+      "diarrhea",
+      "vomiting",
+      "abdominal pain"
+    ],
+    "prescription": {
+      "drug": "Azithromycin",
+      "dosage": "168mg",
+      "route": "PO",
+      "frequency": "OD",
+      "duration": "3 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "PSB_ERR_033",
+    "patient_profile": {
+      "age": 50,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Possible serious bacterial infection, PSBI (community acquired)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ciprofloxacin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "CLB_ERR_047",
+    "patient_profile": {
+      "age": 77,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Central Line-Associated Bloodstream Infection (CLABSI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "24 mg/kg",
+      "route": "IV",
+      "frequency": "q8-12h",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "C_024",
+    "patient_profile": {
+      "age": 40,
+      "sex": "F",
+      "history": [
+        "asthma"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Conjunctivitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "GENTAMICIN",
+      "dosage": "Not specified",
+      "route": "Ophthalmic drops",
+      "frequency": "q6-8h",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CAP_004",
+    "patient_profile": {
+      "age": 40,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Community Acquired Pneumonia (CAP)",
+    "symptoms": [
+      "cough",
+      "fever",
+      "dyspnea"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "q 6h",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "RC_025",
+    "patient_profile": {
+      "age": 64,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Rhinitis/Common cold",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "paracetamol",
+      "dosage": null,
+      "route": null,
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SA_007",
+    "patient_profile": {
+      "age": 49,
+      "sex": "F",
+      "history": [
+        "chronic kidney disease",
+        "COPD"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Septic Abortion",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "AMPICILLIN",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "PI(_ERR_031",
+    "patient_profile": {
+      "age": 62,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Periocular infections (Eyelid infections, Orbital cellulitis)",
+    "symptoms": [
+      "erythema",
+      "tenderness",
+      "warmth",
+      "swelling"
+    ],
+    "prescription": {
+      "drug": "CLINDAMYCIN",
+      "dosage": "2mg/kg/dose (max 600 mg/dose)",
+      "route": "PO",
+      "frequency": "Not specified",
+      "duration": "5 to 7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "AAD_ERR_044",
+    "patient_profile": {
+      "age": 70,
+      "sex": "M",
+      "history": [
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Antibiotic Associated Diarrhoea",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ampicillin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "EF_002",
+    "patient_profile": {
+      "age": 33,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Enteric fever",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "OD",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "FNS_ERR_040",
+    "patient_profile": {
+      "age": 62,
+      "sex": "M",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Febrile neutropenia syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "11 mg/kg loading and 15 mg/kg",
+      "route": "IV",
+      "frequency": "q8h/12h",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "BWI_013",
+    "patient_profile": {
+      "age": 56,
+      "sex": "M",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Burn wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Silver nitrate",
+      "dosage": "0.5%",
+      "route": "Topical",
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "HAI_003",
+    "patient_profile": {
+      "age": 34,
+      "sex": "F",
+      "history": [
+        "asthma",
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Healthcare Associated Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "ANIDULAFUNGIN",
+      "dosage": "200 mg loading dose, then 100 mg daily",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SAA_ERR_032",
+    "patient_profile": {
+      "age": 74,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Superficial Abscesses and Other Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "AP_ERR_045",
+    "patient_profile": {
+      "age": 68,
+      "sex": "M",
+      "history": [
+        "diabetes",
+        "asthma"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Acute Prostatitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "4.5g",
+      "route": "IM",
+      "frequency": "6 hourly",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "OC_021",
+    "patient_profile": {
+      "age": 74,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Oropharyngeal Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CLOTRIMAZOLE",
+      "dosage": "10mg",
+      "route": "PO",
+      "frequency": "4-5 times a day",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SSTI_019",
+    "patient_profile": {
+      "age": 78,
+      "sex": "F",
+      "history": [
+        "diabetes",
+        "COPD"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "swelling",
+      "purulent drainage",
+      "erythema",
+      "pain"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN-CLAVULANIC ACID",
+      "dosage": "1.2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "3 to 7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SSTI_ERR_049",
+    "patient_profile": {
+      "age": 40,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "purulent drainage",
+      "swelling",
+      "erythema"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN-CLAVULANATE",
+      "dosage": "625mg",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "MS_030",
+    "patient_profile": {
+      "age": 33,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Meningitis syndrome",
+    "symptoms": [
+      "headache",
+      "neck stiffness",
+      "photophobia",
+      "fever",
+      "altered mental status"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "25 mg/kg",
+      "route": "IV",
+      "frequency": "stat followed by 15mg/kg q 8-12h",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CAP_ERR_050",
+    "patient_profile": {
+      "age": 55,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Community Acquired Pneumonia (CAP)",
+    "symptoms": [
+      "fever",
+      "productive sputum",
+      "dyspnea",
+      "cough"
+    ],
+    "prescription": {
+      "drug": "Ampicillin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "IIA_011",
+    "patient_profile": {
+      "age": 74,
+      "sex": "M",
+      "history": [
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Infections in Asplenia",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q 12h",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AG_ERR_046",
+    "patient_profile": {
+      "age": 60,
+      "sex": "F",
+      "history": [
+        "diabetes",
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Acute Gastroenteritis",
+    "symptoms": [
+      "diarrhea",
+      "abdominal pain",
+      "fever",
+      "vomiting"
+    ],
+    "prescription": {
+      "drug": "Azithromycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "OD",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "DI_ERR_035",
+    "patient_profile": {
+      "age": 27,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Dental Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "400mg",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "UTI_ERR_037",
+    "patient_profile": {
+      "age": 36,
+      "sex": "M",
+      "history": [],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Urinary Tract Infections",
+    "symptoms": [
+      "dysuria",
+      "urgency",
+      "suprapubic pain",
+      "frequency"
+    ],
+    "prescription": {
+      "drug": "Ampicillin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "IOL_ERR_034",
+    "patient_profile": {
+      "age": 30,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infections of Liver, Gall Bladder and Biliary tract",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "SSTI_027",
+    "patient_profile": {
+      "age": 44,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "swelling",
+      "pain",
+      "purulent drainage"
+    ],
+    "prescription": {
+      "drug": "MUPIROCIN",
+      "dosage": "2%",
+      "route": "Topical",
+      "frequency": "Not specified",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AG_014",
+    "patient_profile": {
+      "age": 65,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Acute Gastroenteritis",
+    "symptoms": [
+      "abdominal pain",
+      "vomiting",
+      "diarrhea"
+    ],
+    "prescription": {
+      "drug": "Azithromycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "OD",
+      "duration": "3 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AP_017",
+    "patient_profile": {
+      "age": 78,
+      "sex": "M",
+      "history": [
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Acute Prostatitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "ERTAPENEM",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "OD",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "DI_008",
+    "patient_profile": {
+      "age": 39,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Dental Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN",
+      "dosage": "1g",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "OCA_018",
+    "patient_profile": {
+      "age": 38,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Orbital Cellulitis and Retinitis",
+    "symptoms": [
+      "erythema",
+      "tenderness",
+      "warmth"
+    ],
+    "prescription": {
+      "drug": "VANCOMYCIN",
+      "dosage": "15 to 20 mg/kg per day",
+      "route": "IV",
+      "frequency": "every 8 to 12 hours",
+      "duration": "at least 2 to 3 weeks or until the resolution of inflammation"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CAP_ERR_038",
+    "patient_profile": {
+      "age": 75,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Community Acquired Pneumonia",
+    "symptoms": [
+      "cough",
+      "productive sputum",
+      "chest pain",
+      "dyspnea"
+    ],
+    "prescription": {
+      "drug": "Amoxicillin-clavulanate",
+      "dosage": "1g",
+      "route": "PO",
+      "frequency": "BD",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "CLB_006",
+    "patient_profile": {
+      "age": 59,
+      "sex": "M",
+      "history": [
+        "chronic kidney disease",
+        "COPD"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Central Line-Associated Bloodstream Infection (CLABSI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cefoperazone-sulbactam",
+      "dosage": "3g",
+      "route": "IV",
+      "frequency": "bd",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IOL_016",
+    "patient_profile": {
+      "age": 66,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infections of Liver, Gall Bladder and Biliary tract",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Metronidazole",
+      "dosage": "750mg",
+      "route": "q8h",
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "TP_012",
+    "patient_profile": {
+      "age": 28,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Tertiary Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "IMIPENEM-CILASTATIN",
+      "dosage": "500 mg",
+      "route": "IV",
+      "frequency": "QID",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AP_ERR_043",
+    "patient_profile": {
+      "age": 61,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Prostatitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "4.5g",
+      "route": "IM",
+      "frequency": "6 hourly",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "IE_010",
+    "patient_profile": {
+      "age": 53,
+      "sex": "F",
+      "history": [
+        "asthma",
+        "heart failure"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "VANCOMYCIN",
+      "dosage": "15mg/kg",
+      "route": "IV",
+      "frequency": "q12h",
+      "duration": "4-6 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "NI_015",
+    "patient_profile": {
+      "age": 45,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CEFOTAXIME",
+      "dosage": "Not specified",
+      "route": "Not specified",
+      "frequency": "Not specified",
+      "duration": "21 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IC_026",
+    "patient_profile": {
+      "age": 53,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Invasive Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Micafungin",
+      "dosage": "100 mg",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CSI_ERR_041",
+    "patient_profile": {
+      "age": 77,
+      "sex": "M",
+      "history": [
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "CSF Shunt Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "10 mg/kg",
+      "route": "IV",
+      "frequency": "stat followed by 15mg/kg",
+      "duration": "q8-12h"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "BA_ERR_042",
+    "patient_profile": {
+      "age": 37,
+      "sex": "F",
+      "history": [
+        "diabetes",
+        "asthma"
+      ],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Brain Abscess",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CEFTRIAXONE",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q12h",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "CAP_029",
+    "patient_profile": {
+      "age": 19,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Community Acquired Pneumonia",
+    "symptoms": [
+      "fever",
+      "dyspnea",
+      "chest pain"
+    ],
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "OD",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "DFI_023",
+    "patient_profile": {
+      "age": 71,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Diabetic foot infections (DFI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Meropenem",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AAD_022",
+    "patient_profile": {
+      "age": 57,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Antibiotic Associated Diarrhoea",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "500mg",
+      "route": "IV",
+      "frequency": "TDS",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AAD_009",
+    "patient_profile": {
+      "age": 71,
+      "sex": "F",
+      "history": [
+        "hypertension",
+        "heart failure"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Antibiotic Associated Diarrhoea",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "500mg",
+      "route": "IV",
+      "frequency": "TDS",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SSTI_028",
+    "patient_profile": {
+      "age": 73,
+      "sex": "F",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": [
+        "penicillin"
+      ]
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "erythema",
+      "purulent drainage",
+      "swelling"
+    ],
+    "prescription": {
+      "drug": "BACITRACIN",
+      "dosage": "Not specified",
+      "route": "Topical",
+      "frequency": "Not specified",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "BWI_ERR_036",
+    "patient_profile": {
+      "age": 38,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Bite wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Amoxicillin-clavulanic acid",
+      "dosage": "625mg",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "3 to 5 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "SSTI_020",
+    "patient_profile": {
+      "age": 80,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "erythema",
+      "purulent drainage",
+      "pain",
+      "swelling"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN-CLAVULANATE",
+      "dosage": "625mg",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "3 to 7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "UTI_ERR_048",
+    "patient_profile": {
+      "age": 42,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Urinary Tract Infections",
+    "symptoms": [
+      "frequency",
+      "suprapubic pain",
+      "dysuria",
+      "urgency"
+    ],
+    "prescription": {
+      "drug": "NITROFURANTOIN",
+      "dosage": "158 mg",
+      "route": "PO",
+      "frequency": "q12h",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "HAI_001",
+    "patient_profile": {
+      "age": 49,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Healthcare Associated Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CASPOFUNGIN",
+      "dosage": "70 mg loading dose, then 50 mg daily",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "MS_005",
+    "patient_profile": {
+      "age": 26,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Meningitis syndrome",
+    "symptoms": [
+      "neck stiffness",
+      "headache",
+      "fever",
+      "photophobia",
+      "altered mental status"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "25 mg/kg",
+      "route": "IV",
+      "frequency": "stat followed by 15mg/kg q 8-12h",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "TP_052",
+    "patient_profile": {
+      "age": 67,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Tertiary Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "MEROPENEM",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "TDS",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "BWI_ERR_110",
+    "patient_profile": {
+      "age": 43,
+      "sex": "F",
+      "history": [
+        "diabetes",
+        "heart failure"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Burn wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Silver nitrate",
+      "dosage": "0.5%",
+      "route": "Topical",
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "FNS_ERR_132",
+    "patient_profile": {
+      "age": 78,
+      "sex": "F",
+      "history": [
+        "heart failure",
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Febrile neutropenia syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Polymyxin B",
+      "dosage": "6-20 lakhs units",
+      "route": "IV",
+      "frequency": "stat, followed by 7.5-10 lakhs q12h",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "NI_075",
+    "patient_profile": {
+      "age": 43,
+      "sex": "M",
+      "history": [
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CIPROFLOXACIN",
+      "dosage": "10 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q12h",
+      "duration": "5-7 days or 7-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CLB_021",
+    "patient_profile": {
+      "age": 33,
+      "sex": "M",
+      "history": [
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Central Line-Associated Bloodstream Infection (CLABSI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Piperacillin-tazobactam",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "ATG_ERR_098",
+    "patient_profile": {
+      "age": 71,
+      "sex": "M",
+      "history": [
+        "heart failure"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Antimicrobial Treatment Guidelines",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "MEROPENEM",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "8hrly",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "CAP_014",
+    "patient_profile": {
+      "age": 39,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "fluoroquinolones"
+      ]
+    },
+    "diagnosis": "Community Acquired Pneumonia (CAP)",
+    "symptoms": [
+      "fever",
+      "cough",
+      "dyspnea"
+    ],
+    "prescription": {
+      "drug": "AZITHROMYCIN",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "daily",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AG_058",
+    "patient_profile": {
+      "age": 77,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Gastroenteritis",
+    "symptoms": [
+      "fever",
+      "abdominal pain",
+      "diarrhea"
+    ],
+    "prescription": {
+      "drug": "Azithromycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "OD",
+      "duration": "3 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "RC_ERR_139",
+    "patient_profile": {
+      "age": 61,
+      "sex": "F",
+      "history": [
+        "diabetes",
+        "heart failure"
+      ],
+      "allergies": [
+        "penicillin"
+      ]
+    },
+    "diagnosis": "Rhinitis/Common cold",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "paracetamol",
+      "dosage": "2g",
+      "route": null,
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "SA_015",
+    "patient_profile": {
+      "age": 39,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Septic Abortion",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN-CLAVULANIC ACID",
+      "dosage": "1.2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CSI_036",
+    "patient_profile": {
+      "age": 52,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "CSF shunt infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cefepime",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "PSB_ERR_128",
+    "patient_profile": {
+      "age": 78,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Possible serious bacterial infection, PSBI (community acquired)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ampicillin",
+      "dosage": "21 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "AAD_ERR_111",
+    "patient_profile": {
+      "age": 53,
+      "sex": "F",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Antibiotic Associated Diarrhoea",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "500mg",
+      "route": "IM",
+      "frequency": "TDS",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "OCA_002",
+    "patient_profile": {
+      "age": 33,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Orbital Cellulitis and Retinitis",
+    "symptoms": [
+      "erythema",
+      "tenderness",
+      "warmth"
+    ],
+    "prescription": {
+      "drug": "CEFTRIAXONE",
+      "dosage": "2 g",
+      "route": "IV",
+      "frequency": "per 12 hours",
+      "duration": "at least 2 to 3 weeks or until the resolution of inflammation"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CLB_ERR_144",
+    "patient_profile": {
+      "age": 56,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Central Line-Associated Bloodstream Infection (CLABSI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Piperacillin-tazobactam",
+      "dosage": "7.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "IOL_030",
+    "patient_profile": {
+      "age": 58,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infections of Liver, Gall Bladder and Biliary tract",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Piperacillin-tazobactam",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "NI_ERR_150",
+    "patient_profile": {
+      "age": 31,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "penicillin"
+      ]
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "IC_054",
+    "patient_profile": {
+      "age": 40,
+      "sex": "F",
+      "history": [
+        "COPD",
+        "heart failure"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Invasive Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Micafungin",
+      "dosage": "100 mg",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IE_ERR_096",
+    "patient_profile": {
+      "age": 67,
+      "sex": "F",
+      "history": [
+        "diabetes",
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Teicoplanin",
+      "dosage": "12mg/kg",
+      "route": "IM",
+      "frequency": "12 hrly",
+      "duration": "x 3 doses followed by 6 - 12mg OD IV depending upon severity"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "IIA_ERR_135",
+    "patient_profile": {
+      "age": 42,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infections in Asplenia",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Metronidazole",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "IE_089",
+    "patient_profile": {
+      "age": 31,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "GENTAMICIN",
+      "dosage": "1mg/kg",
+      "route": "IM or IV",
+      "frequency": "q8h",
+      "duration": "first 2 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IE_ERR_143",
+    "patient_profile": {
+      "age": 64,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "FNS_ERR_127",
+    "patient_profile": {
+      "age": 71,
+      "sex": "F",
+      "history": [
+        "heart failure",
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Febrile neutropenia syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ciprofloxacin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "PSB_ERR_121",
+    "patient_profile": {
+      "age": 26,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Possible serious bacterial infection, PSBI (community acquired)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Amoxicillin",
+      "dosage": "9-40 mg/kg/dose",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "AO_011",
+    "patient_profile": {
+      "age": 32,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Osteomyelitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cloxacillin",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "BA_ERR_124",
+    "patient_profile": {
+      "age": 62,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Brain Abscess",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "237mg (10 mg/kg/dose)",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "3-12 weeks"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "NI_048",
+    "patient_profile": {
+      "age": 39,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CEFOTAXIME",
+      "dosage": "Not specified",
+      "route": "Not specified",
+      "frequency": "Not specified",
+      "duration": "21 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "RC_037",
+    "patient_profile": {
+      "age": 69,
+      "sex": "F",
+      "history": [
+        "asthma",
+        "heart failure"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Rhinitis/Common cold",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "paracetamol",
+      "dosage": null,
+      "route": null,
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "ATG_084",
+    "patient_profile": {
+      "age": 37,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Antimicrobial Treatment Guidelines",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "MEROPENEM",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "8hrly",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "FNS_004",
+    "patient_profile": {
+      "age": 71,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Febrile neutropenia syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Polymyxin B",
+      "dosage": "15-20 lakhs units",
+      "route": "IV",
+      "frequency": "stat, followed by 7.5-10 lakhs q12h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "ES_088",
+    "patient_profile": {
+      "age": 51,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Encephalitis syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Doxycycline",
+      "dosage": "100mg",
+      "route": "PO/IV",
+      "frequency": "q12h",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AP_ERR_123",
+    "patient_profile": {
+      "age": 52,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Prostatitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ciprofloxacin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "ATG_ERR_116",
+    "patient_profile": {
+      "age": 53,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Antimicrobial Treatment Guidelines",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ampicillin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "CSI_ERR_145",
+    "patient_profile": {
+      "age": 58,
+      "sex": "F",
+      "history": [
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "CSF shunt infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ceftazidime",
+      "dosage": "3g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "C_070",
+    "patient_profile": {
+      "age": 64,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Conjunctivitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "TRIFLURIDINE",
+      "dosage": "1% topical",
+      "route": "Topical eyedrops",
+      "frequency": "q2-3h",
+      "duration": "14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "PSB_ERR_114",
+    "patient_profile": {
+      "age": 56,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Possible serious bacterial infection, PSBI (community acquired)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Gentamicin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "AG_ERR_109",
+    "patient_profile": {
+      "age": 57,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Gastroenteritis",
+    "symptoms": [
+      "vomiting",
+      "diarrhea",
+      "fever"
+    ],
+    "prescription": {
+      "drug": "Azithromycin",
+      "dosage": "500mg",
+      "route": "IV",
+      "frequency": "OD",
+      "duration": "3 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "AO_ERR_137",
+    "patient_profile": {
+      "age": 68,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Osteomyelitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "HAI_ERR_112",
+    "patient_profile": {
+      "age": 35,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Healthcare Associated Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "7.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "CSI_005",
+    "patient_profile": {
+      "age": 40,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "CSF shunt infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cefepime",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "DFI_085",
+    "patient_profile": {
+      "age": 51,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Diabetic foot infections (DFI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cefoperazone-sulbactam",
+      "dosage": "3g",
+      "route": "IV",
+      "frequency": "q12h",
+      "duration": "1 to 2 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "NI_ERR_115",
+    "patient_profile": {
+      "age": 50,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Gentamicin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "DFI_ERR_100",
+    "patient_profile": {
+      "age": 67,
+      "sex": "F",
+      "history": [
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Diabetic foot infections (DFI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Imipenem-cilastatin",
+      "dosage": "500",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "P_022",
+    "patient_profile": {
+      "age": 59,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Piperacillin-tazobactam",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": "for 7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SAA_ERR_106",
+    "patient_profile": {
+      "age": 70,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Superficial Abscesses and Other Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "GENTAMICIN",
+      "dosage": "5-20 mg/kg/day",
+      "route": "IV",
+      "frequency": "6-8 hrly",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "BWI_059",
+    "patient_profile": {
+      "age": 47,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Bite wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Valacyclovir/Acyclovir",
+      "dosage": null,
+      "route": null,
+      "frequency": null,
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "FNS_ERR_092",
+    "patient_profile": {
+      "age": 32,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Febrile neutropenia syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "43 mg/kg",
+      "route": "IV",
+      "frequency": "loading and 15 mg/kg q8h/12h",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "ATG_044",
+    "patient_profile": {
+      "age": 55,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Antimicrobial Treatment Guidelines",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "MEROPENEM",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "8hrly",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "BA_060",
+    "patient_profile": {
+      "age": 50,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Brain Abscess",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "500mg (10 mg/kg/dose)",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "3-12 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AAD_068",
+    "patient_profile": {
+      "age": 44,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Antibiotic Associated Diarrhoea",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "500mg",
+      "route": "IV",
+      "frequency": "TDS",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IOL_087",
+    "patient_profile": {
+      "age": 34,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infections of Liver, Gall Bladder and Biliary tract",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Metronidazole",
+      "dosage": "750mg",
+      "route": "IV or oral",
+      "frequency": "q8h",
+      "duration": "total 10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IE_ERR_134",
+    "patient_profile": {
+      "age": 61,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "AMPICILLIN",
+      "dosage": "3g",
+      "route": "IV",
+      "frequency": "q4h",
+      "duration": "4 weeks"
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "CAP_ERR_142",
+    "patient_profile": {
+      "age": 25,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Community Acquired Pneumonia (CAP)",
+    "symptoms": [
+      "chest pain",
+      "fever",
+      "productive sputum",
+      "dyspnea"
+    ],
+    "prescription": {
+      "drug": "DOXYCYCLINE",
+      "dosage": "100mg",
+      "route": "PO",
+      "frequency": "q 12h",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "PI(_ERR_120",
+    "patient_profile": {
+      "age": 58,
+      "sex": "M",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Periocular infections (Eyelid infections, Orbital cellulitis)",
+    "symptoms": [
+      "warmth",
+      "tenderness",
+      "erythema",
+      "swelling"
+    ],
+    "prescription": {
+      "drug": "Metronidazole",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "FNS_057",
+    "patient_profile": {
+      "age": 64,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Febrile neutropenia syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Meropenem",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "C_066",
+    "patient_profile": {
+      "age": 58,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Conjunctivitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "ACYCLOVIR",
+      "dosage": "20 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "UTI_ERR_117",
+    "patient_profile": {
+      "age": 60,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Urinary Tract Infections",
+    "symptoms": [
+      "suprapubic pain",
+      "urgency",
+      "dysuria"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "4.5g",
+      "route": "IM",
+      "frequency": "q6h",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "AP_078",
+    "patient_profile": {
+      "age": 71,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Prostatitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CEFTRIAXONE",
+      "dosage": "500mg",
+      "route": "IM",
+      "frequency": "Stat",
+      "duration": "10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IIA_ERR_099",
+    "patient_profile": {
+      "age": 46,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infections in Asplenia",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "0g",
+      "route": "IV",
+      "frequency": "q 12h",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "FNS_035",
+    "patient_profile": {
+      "age": 34,
+      "sex": "M",
+      "history": [
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Febrile neutropenia syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "25 mg/kg loading and 15 mg/kg",
+      "route": "IV",
+      "frequency": "q8h/12h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SSTI_006",
+    "patient_profile": {
+      "age": 52,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "purulent drainage",
+      "pain",
+      "erythema",
+      "swelling"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "TID",
+      "duration": "5-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CLB_045",
+    "patient_profile": {
+      "age": 75,
+      "sex": "F",
+      "history": [
+        "COPD"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Central Line-Associated Bloodstream Infection (CLABSI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "15 mg/kg",
+      "route": "IV",
+      "frequency": "q8-12h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CAP_ERR_105",
+    "patient_profile": {
+      "age": 33,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Community Acquired Pneumonia (CAP)",
+    "symptoms": [
+      "chest pain",
+      "cough",
+      "fever"
+    ],
+    "prescription": {
+      "drug": "AZITHROMYCIN",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "daily",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "ES_009",
+    "patient_profile": {
+      "age": 18,
+      "sex": "F",
+      "history": [
+        "chronic kidney disease"
+      ],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Encephalitis syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Doxycycline",
+      "dosage": "100mg",
+      "route": "PO/IV",
+      "frequency": "q12h",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "FNS_051",
+    "patient_profile": {
+      "age": 43,
+      "sex": "M",
+      "history": [
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Febrile neutropenia syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Polymyxin B",
+      "dosage": "15-20 lakhs units",
+      "route": "IV",
+      "frequency": "stat, followed by 7.5-10 lakhs",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "RC_055",
+    "patient_profile": {
+      "age": 27,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Rhinitis/Common cold",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Oseltamivir",
+      "dosage": "75mg",
+      "route": null,
+      "frequency": "q12h",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AO_003",
+    "patient_profile": {
+      "age": 55,
+      "sex": "M",
+      "history": [
+        "COPD",
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Acute Osteomyelitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cloxacillin",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "UTI_080",
+    "patient_profile": {
+      "age": 45,
+      "sex": "M",
+      "history": [
+        "diabetes",
+        "asthma"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Urinary Tract Infections",
+    "symptoms": [
+      "frequency",
+      "dysuria",
+      "suprapubic pain"
+    ],
+    "prescription": {
+      "drug": "NITROFURANTOIN",
+      "dosage": "100 mg",
+      "route": "PO",
+      "frequency": "q12h",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IC_067",
+    "patient_profile": {
+      "age": 21,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Invasive Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Caspofungin",
+      "dosage": "70 mg",
+      "route": "IV",
+      "frequency": "loading dose",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SA_029",
+    "patient_profile": {
+      "age": 39,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Septic Abortion",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "GENTAMICIN",
+      "dosage": "5 mg/kg",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "MS_ERR_102",
+    "patient_profile": {
+      "age": 72,
+      "sex": "M",
+      "history": [
+        "COPD",
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Meningitis syndrome",
+    "symptoms": [
+      "headache",
+      "photophobia",
+      "altered mental status",
+      "neck stiffness",
+      "fever"
+    ],
+    "prescription": {
+      "drug": "Cefotaxime",
+      "dosage": "0g",
+      "route": "IV",
+      "frequency": "4-6 h",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "G(S_ERR_097",
+    "patient_profile": {
+      "age": 28,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Gastro-intestinal (GI) Syndromes - Oesophagitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "FLUCONAZOLE",
+      "dosage": "6-12mg/kg (200-400 mg orally or IV on day 1 then 200 to 400 mg daily)",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": "2 weeks"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "AAD_039",
+    "patient_profile": {
+      "age": 23,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Antibiotic Associated Diarrhoea",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "VANCOMYCIN",
+      "dosage": "125mg",
+      "route": "PO",
+      "frequency": "QID",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IE_012",
+    "patient_profile": {
+      "age": 27,
+      "sex": "F",
+      "history": [
+        "COPD"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "15mg/kg",
+      "route": "IV",
+      "frequency": "12 hrly",
+      "duration": "6 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "G(S_ERR_140",
+    "patient_profile": {
+      "age": 21,
+      "sex": "M",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Gastro-intestinal (GI) Syndromes - Oesophagitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Gentamicin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "ATG_073",
+    "patient_profile": {
+      "age": 45,
+      "sex": "M",
+      "history": [],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Antimicrobial Treatment Guidelines",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "MEROPENEM",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "8hrly",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IE_032",
+    "patient_profile": {
+      "age": 63,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "PENICILLIN G",
+      "dosage": "4 million units",
+      "route": "IV",
+      "frequency": "q4h",
+      "duration": "4 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "NI_079",
+    "patient_profile": {
+      "age": 79,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "15 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q24h",
+      "duration": "5-7 days or 7-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AG_ERR_133",
+    "patient_profile": {
+      "age": 66,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Gastroenteritis",
+    "symptoms": [
+      "fever",
+      "diarrhea",
+      "abdominal pain"
+    ],
+    "prescription": {
+      "drug": "Gentamicin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "NI_033",
+    "patient_profile": {
+      "age": 32,
+      "sex": "M",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Amikacin",
+      "dosage": "15 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q36h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CSI_028",
+    "patient_profile": {
+      "age": 27,
+      "sex": "M",
+      "history": [
+        "diabetes",
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "CSF Shunt Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cefepime",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "G(S_069",
+    "patient_profile": {
+      "age": 30,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Gastro-intestinal (GI) Syndromes - Oesophagitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "FLUCONAZOLE",
+      "dosage": "6-12mg/kg (200-400 mg orally or IV on day 1 then 200 to 400 mg daily)",
+      "route": "orally or IV",
+      "frequency": "daily",
+      "duration": "2 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "UTI_017",
+    "patient_profile": {
+      "age": 75,
+      "sex": "F",
+      "history": [
+        "obesity",
+        "hypertension"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Urinary Tract Infections",
+    "symptoms": [
+      "urgency",
+      "frequency",
+      "dysuria"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AG_065",
+    "patient_profile": {
+      "age": 57,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Gastroenteritis",
+    "symptoms": [
+      "abdominal pain",
+      "fever",
+      "vomiting"
+    ],
+    "prescription": {
+      "drug": "Azithromycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "OD",
+      "duration": "3 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SAA_023",
+    "patient_profile": {
+      "age": 47,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Superficial Abscesses and Other Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "TETANUS IMMUNOGLOBULIN",
+      "dosage": "6,000 IU",
+      "route": "IM",
+      "frequency": "once",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "DI_074",
+    "patient_profile": {
+      "age": 31,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Dental Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "400mg",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SA_019",
+    "patient_profile": {
+      "age": 58,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Septic Abortion",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN-CLAVULANIC ACID",
+      "dosage": "1.2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "DI_081",
+    "patient_profile": {
+      "age": 28,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Dental Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN",
+      "dosage": "1g",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "RC_ERR_091",
+    "patient_profile": {
+      "age": 39,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Rhinitis/Common cold",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "paracetamol",
+      "dosage": "2g",
+      "route": null,
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "IC_083",
+    "patient_profile": {
+      "age": 63,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Invasive Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Caspofungin",
+      "dosage": "70 mg",
+      "route": "IV",
+      "frequency": "loading dose",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "MS_049",
+    "patient_profile": {
+      "age": 63,
+      "sex": "M",
+      "history": [
+        "COPD"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Meningitis syndrome",
+    "symptoms": [
+      "fever",
+      "altered mental status",
+      "photophobia",
+      "headache",
+      "neck stiffness"
+    ],
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "12 h",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IOL_ERR_107",
+    "patient_profile": {
+      "age": 51,
+      "sex": "F",
+      "history": [
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Infections of Liver, Gall Bladder and Biliary tract",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "BWI_034",
+    "patient_profile": {
+      "age": 36,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Bite wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Valacyclovir/Acyclovir",
+      "dosage": null,
+      "route": null,
+      "frequency": null,
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "TP_086",
+    "patient_profile": {
+      "age": 66,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Tertiary Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "IMIPENEM-CILASTATIN",
+      "dosage": "500 mg",
+      "route": "IV",
+      "frequency": "QID",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CAP_047",
+    "patient_profile": {
+      "age": 26,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Community Acquired Pneumonia",
+    "symptoms": [
+      "productive sputum",
+      "dyspnea",
+      "cough"
+    ],
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "OD",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "BWI_ERR_118",
+    "patient_profile": {
+      "age": 79,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Bite wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Piperacillin-tazobactam",
+      "dosage": "1.5g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "5 to 7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "OIA_046",
+    "patient_profile": {
+      "age": 55,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Orthopaedic implant associated infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Targeted antibiotic",
+      "dosage": null,
+      "route": null,
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "C_063",
+    "patient_profile": {
+      "age": 38,
+      "sex": "M",
+      "history": [
+        "hypertension",
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Conjunctivitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "ACYCLOVIR",
+      "dosage": "20 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "HAI_072",
+    "patient_profile": {
+      "age": 49,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Healthcare Associated Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "BWI_041",
+    "patient_profile": {
+      "age": 57,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Bite wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Valacyclovir/Acyclovir",
+      "dosage": null,
+      "route": null,
+      "frequency": null,
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "EF_007",
+    "patient_profile": {
+      "age": 44,
+      "sex": "F",
+      "history": [
+        "chronic kidney disease",
+        "asthma"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Enteric fever",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Azithromycin",
+      "dosage": "20 mg /kg/day",
+      "route": null,
+      "frequency": null,
+      "duration": "7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SA_040",
+    "patient_profile": {
+      "age": 21,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Septic Abortion",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN-CLAVULANIC ACID",
+      "dosage": "1.2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "P_ERR_136",
+    "patient_profile": {
+      "age": 19,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Piperacillin-tazobactam",
+      "dosage": "1.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": "for 7-10 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "TP_064",
+    "patient_profile": {
+      "age": 27,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Tertiary Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "IMIPENEM-CILASTATIN",
+      "dosage": "500 mg",
+      "route": "IV",
+      "frequency": "QID",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "OIA_077",
+    "patient_profile": {
+      "age": 64,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Orthopaedic implant associated infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Targeted antibiotic",
+      "dosage": null,
+      "route": null,
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CSI_053",
+    "patient_profile": {
+      "age": 24,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "CSF Shunt Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cefepime",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "RC_ERR_122",
+    "patient_profile": {
+      "age": 46,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Rhinitis/Common cold",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Gentamicin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "DFI_ERR_130",
+    "patient_profile": {
+      "age": 23,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Diabetic foot infections (DFI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ampicillin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "PSB_071",
+    "patient_profile": {
+      "age": 32,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Possible serious bacterial infection, PSBI (community acquired)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ampicillin",
+      "dosage": "50 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q12h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CAP_ERR_108",
+    "patient_profile": {
+      "age": 58,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "fluoroquinolones"
+      ]
+    },
+    "diagnosis": "Community Acquired Pneumonia (CAP)",
+    "symptoms": [
+      "productive sputum",
+      "chest pain",
+      "fever"
+    ],
+    "prescription": {
+      "drug": "DOXYCYCLINE",
+      "dosage": "163mg",
+      "route": "PO",
+      "frequency": "q 12h",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "HAI_ERR_125",
+    "patient_profile": {
+      "age": 77,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Healthcare Associated Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "LIPosomal AMphotericin B",
+      "dosage": "3–5 mg/kg",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "OCA_024",
+    "patient_profile": {
+      "age": 30,
+      "sex": "M",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Orbital Cellulitis and Retinitis",
+    "symptoms": [
+      "swelling",
+      "tenderness",
+      "erythema"
+    ],
+    "prescription": {
+      "drug": "CEFTRIAXONE",
+      "dosage": "2 g",
+      "route": "IV",
+      "frequency": "per 12 hours",
+      "duration": "at least 2 to 3 weeks or until the resolution of inflammation"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "RC_061",
+    "patient_profile": {
+      "age": 63,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Rhinitis/Common cold",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "paracetamol",
+      "dosage": null,
+      "route": null,
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "CAP_ERR_119",
+    "patient_profile": {
+      "age": 77,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "fluoroquinolones"
+      ]
+    },
+    "diagnosis": "Community Acquired Pneumonia (CAP)",
+    "symptoms": [
+      "fever",
+      "dyspnea",
+      "productive sputum",
+      "chest pain",
+      "cough"
+    ],
+    "prescription": {
+      "drug": "AZITHROMYCIN",
+      "dosage": "186mg",
+      "route": "PO",
+      "frequency": "daily",
+      "duration": "7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "DFI_010",
+    "patient_profile": {
+      "age": 26,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Diabetic foot infections (DFI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Amoxicillin-clavulanic acid",
+      "dosage": "625mg",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "1 to 2 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "TP_ERR_113",
+    "patient_profile": {
+      "age": 60,
+      "sex": "F",
+      "history": [],
+      "allergies": [
+        "sulfa"
+      ]
+    },
+    "diagnosis": "Tertiary Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "MEROPENEM",
+      "dosage": "0g",
+      "route": "IV",
+      "frequency": "TDS",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "OCA_090",
+    "patient_profile": {
+      "age": 23,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Orbital Cellulitis and Retinitis",
+    "symptoms": [
+      "erythema",
+      "tenderness",
+      "warmth",
+      "swelling"
+    ],
+    "prescription": {
+      "drug": "GANCICLOVIR",
+      "dosage": "5 mg/kg",
+      "route": "IV",
+      "frequency": "every 12 hours",
+      "duration": "14 to 21 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "OC_ERR_094",
+    "patient_profile": {
+      "age": 78,
+      "sex": "F",
+      "history": [
+        "obesity"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Oropharyngeal Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CLOTRIMAZOLE",
+      "dosage": "10mg",
+      "route": "PO",
+      "frequency": "4-5 times a day",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "EF_031",
+    "patient_profile": {
+      "age": 36,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Enteric fever",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "OD",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "NI_ERR_129",
+    "patient_profile": {
+      "age": 78,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cefotaxime",
+      "dosage": "250mg",
+      "route": null,
+      "frequency": null,
+      "duration": "21 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "SSTI_ERR_104",
+    "patient_profile": {
+      "age": 18,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "swelling",
+      "erythema",
+      "pain",
+      "purulent drainage"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN-CLAVULANATE",
+      "dosage": "625mg",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": "3 to 7 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "CLB_001",
+    "patient_profile": {
+      "age": 22,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Central Line-Associated Bloodstream Infection (CLABSI)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Piperacillin-tazobactam",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "BWI_038",
+    "patient_profile": {
+      "age": 62,
+      "sex": "M",
+      "history": [
+        "obesity",
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Bite wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Amoxicillin-Clavulanic acid",
+      "dosage": "625mg",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "3 to 5 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IOL_027",
+    "patient_profile": {
+      "age": 27,
+      "sex": "M",
+      "history": [
+        "diabetes",
+        "COPD"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Infections of Liver, Gall Bladder and Biliary tract",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Piperacillin-tazobactam",
+      "dosage": "4.5g",
+      "route": "IV",
+      "frequency": "q6h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "PI(_025",
+    "patient_profile": {
+      "age": 69,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Periocular infections (Eyelid infections, Orbital cellulitis)",
+    "symptoms": [
+      "swelling",
+      "warmth",
+      "erythema",
+      "tenderness"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN",
+      "dosage": "90/6.4 mg/kg/day",
+      "route": "PO",
+      "frequency": "BID",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AP_076",
+    "patient_profile": {
+      "age": 44,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Prostatitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "DOXYCYCLINE",
+      "dosage": "100mg",
+      "route": "PO",
+      "frequency": "BD",
+      "duration": "10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IE_016",
+    "patient_profile": {
+      "age": 30,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Teicoplanin",
+      "dosage": "12mg/kg",
+      "route": "IV",
+      "frequency": "12 hrly",
+      "duration": "x 3 doses followed by 6 - 12mg OD IV depending upon severity"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "NI_ERR_146",
+    "patient_profile": {
+      "age": 50,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Cefotaxime",
+      "dosage": "2g",
+      "route": null,
+      "frequency": null,
+      "duration": "21 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Overdosed - needs lower dose"
+  },
+  {
+    "case_id": "NI_ERR_149",
+    "patient_profile": {
+      "age": 38,
+      "sex": "M",
+      "history": [
+        "asthma",
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Neonatal Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "PIPERACILLIN-TAZOBACTAM",
+      "dosage": "5 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q24h",
+      "duration": "5-7 days or 7-14 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "CSI_042",
+    "patient_profile": {
+      "age": 29,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "CSF shunt infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ceftazidime",
+      "dosage": "2g",
+      "route": "IV",
+      "frequency": "q8h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SAA_020",
+    "patient_profile": {
+      "age": 25,
+      "sex": "M",
+      "history": [],
+      "allergies": [
+        "fluoroquinolones"
+      ]
+    },
+    "diagnosis": "Superficial Abscesses and Other Infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "METRONIDAZOLE",
+      "dosage": "15 mg/kg LD followed by 7.5 mg/kg/dose",
+      "route": "Not specified",
+      "frequency": "q12h",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SSTI_008",
+    "patient_profile": {
+      "age": 59,
+      "sex": "F",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "pain",
+      "purulent drainage",
+      "erythema"
+    ],
+    "prescription": {
+      "drug": "AMOXICILLIN-CLAVULANATE",
+      "dosage": "625mg",
+      "route": "PO",
+      "frequency": "q8h",
+      "duration": "3 to 7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "TP_013",
+    "patient_profile": {
+      "age": 54,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Tertiary Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "MEROPENEM",
+      "dosage": "1g",
+      "route": "IV",
+      "frequency": "TDS",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "PI(_ERR_131",
+    "patient_profile": {
+      "age": 25,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Periocular infections (Eyelid infections, Orbital cellulitis)",
+    "symptoms": [
+      "swelling",
+      "warmth",
+      "tenderness"
+    ],
+    "prescription": {
+      "drug": "Metronidazole",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "IE_050",
+    "patient_profile": {
+      "age": 39,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Penicillin G",
+      "dosage": "4 million units",
+      "route": "IV",
+      "frequency": "4th hrly",
+      "duration": "4 weeks"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IE_ERR_103",
+    "patient_profile": {
+      "age": 55,
+      "sex": "F",
+      "history": [
+        "diabetes"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Infective Endocarditis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "15mg/kg",
+      "route": "IV",
+      "frequency": "12 hrly",
+      "duration": "1-2 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Duration too short"
+  },
+  {
+    "case_id": "ES_ERR_138",
+    "patient_profile": {
+      "age": 50,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Encephalitis syndrome",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ampicillin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "IC_018",
+    "patient_profile": {
+      "age": 45,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Invasive Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Anidulafungin",
+      "dosage": "200 mg",
+      "route": "IV",
+      "frequency": "loading dose",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "IC_082",
+    "patient_profile": {
+      "age": 68,
+      "sex": "M",
+      "history": [
+        "COPD"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Invasive Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Micafungin",
+      "dosage": "100 mg",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "MS_ERR_126",
+    "patient_profile": {
+      "age": 48,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Meningitis syndrome",
+    "symptoms": [
+      "photophobia",
+      "fever",
+      "altered mental status",
+      "neck stiffness"
+    ],
+    "prescription": {
+      "drug": "Ceftriaxone",
+      "dosage": "0g",
+      "route": "IV",
+      "frequency": "12 h",
+      "duration": "10-14 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "AAD_043",
+    "patient_profile": {
+      "age": 70,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Antibiotic Associated Diarrhoea",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "VANCOMYCIN",
+      "dosage": "125mg",
+      "route": "PO",
+      "frequency": "QID",
+      "duration": "Not specified"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "SSTI_ERR_093",
+    "patient_profile": {
+      "age": 55,
+      "sex": "M",
+      "history": [
+        "heart failure"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Skin and Soft Tissue Infections",
+    "symptoms": [
+      "erythema",
+      "swelling",
+      "pain",
+      "purulent drainage"
+    ],
+    "prescription": {
+      "drug": "Ciprofloxacin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "SA_ERR_095",
+    "patient_profile": {
+      "age": 44,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Septic Abortion",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Ciprofloxacin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "BWI_ERR_148",
+    "patient_profile": {
+      "age": 61,
+      "sex": "F",
+      "history": [
+        "chronic kidney disease"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Burn wound infections",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Silver sulfadiazine",
+      "dosage": "1%",
+      "route": "IV",
+      "frequency": null,
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  },
+  {
+    "case_id": "IC_ERR_147",
+    "patient_profile": {
+      "age": 53,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Invasive Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Vancomycin",
+      "dosage": "500mg",
+      "route": "PO",
+      "frequency": "twice daily",
+      "duration": "5 days"
+    },
+    "expected_outcome": "Reject",
+    "note": "Wrong drug - not in ICMR recommendations"
+  },
+  {
+    "case_id": "SA_056",
+    "patient_profile": {
+      "age": 42,
+      "sex": "F",
+      "history": [
+        "asthma",
+        "heart failure"
+      ],
+      "allergies": []
+    },
+    "diagnosis": "Septic Abortion",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "GENTAMICIN",
+      "dosage": "5 mg/kg",
+      "route": "IV",
+      "frequency": "daily",
+      "duration": "7-10 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "TP_062",
+    "patient_profile": {
+      "age": 28,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Tertiary Peritonitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "IMIPENEM-CILASTATIN",
+      "dosage": "500 mg",
+      "route": "IV",
+      "frequency": "QID",
+      "duration": "5-7 days"
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "PSB_026",
+    "patient_profile": {
+      "age": 63,
+      "sex": "F",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Possible serious bacterial infection, PSBI (community acquired)",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Gentamicin",
+      "dosage": "5 mg/kg/dose",
+      "route": "IV",
+      "frequency": "q24h",
+      "duration": null
+    },
+    "expected_outcome": "Approved",
+    "note": "Correct prescription following ICMR 2025 guidelines"
+  },
+  {
+    "case_id": "AP_ERR_101",
+    "patient_profile": {
+      "age": 44,
+      "sex": "M",
+      "history": [],
+      "allergies": []
+    },
+    "diagnosis": "Acute Prostatitis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "CEFTRIAXONE",
+      "dosage": "129mg",
+      "route": "IM",
+      "frequency": "Stat",
+      "duration": "10 days"
+    },
+    "expected_outcome": "Modify",
+    "note": "Underdosed - needs higher dose"
+  },
+  {
+    "case_id": "IC_ERR_141",
+    "patient_profile": {
+      "age": 27,
+      "sex": "M",
+      "history": [],
+      "allergies": [
+        "fluoroquinolones"
+      ]
+    },
+    "diagnosis": "Invasive Candidiasis",
+    "symptoms": [
+      "fever",
+      "malaise",
+      "localized pain"
+    ],
+    "prescription": {
+      "drug": "Anidulafungin",
+      "dosage": "200 mg",
+      "route": "IM",
+      "frequency": "loading dose",
+      "duration": null
+    },
+    "expected_outcome": "Modify",
+    "note": "Wrong route of administration"
+  }
+]

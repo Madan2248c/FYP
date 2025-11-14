@@ -1,0 +1,58 @@
+{
+  "page_number": 109,
+  "text": " \n \n \nfollowed by \n15mg/kg q 8-12h \nDuration: 5-7 days \n+/-  \nClindamycin 600-\n900mg q8h \nHerpes \nsimplex \nAcyclovir 400mg \nTDS  \nTab Famciclovir 500mg \nBD for 7 days \nDose and Duration of \ntherapy depends on \norgan involvement.  \nVaricella or \ndisseminate\nd zoster or \nlocalized \nzoster \nAcyclovir 800mg \nfive times a day  \nDuration: 7 days \nTab Valacyclovir 1g TDS \nIntravenous therapy is \nrecommended in all \nsevere and complicated \ncases.  \nCMV \nreactivation \nor disease \n(colitis, \npneumonitis\n, hepatitis, \nretinitis, \nencephalitis)  \nGanciclovir 5mg/kg \nBD or Valgancyclovir \n900mg BD \nFoscarnet (if available) \nin case of treatment \nfailure \nTreat till resolution of \nclinical symptoms and \nsigns or resolution of \nviremia (2 negative viral \nload reports at 14 days \ninterval). In case of \ntreatment failure with \nGanciclovir, foscarnet is \nthe drug of choice.  \nPneumocysti\ns jirovecii \npneumonia \nCo-trimoxazole 15-\n20 mg/kg of TMP \ncomponent in \ndivided doses \nClindamycin 600mg IV \nq8h \n+  \nPrimaquine 15mg BD \nDuration of therapy: 21 \ndays.  \nCorticosteroids to be \nconsidered as an \nadjunctive therapy in \nhypoxic patients along \nwith antimicrobial \ntherapy against PCP. \n \nAdditional information: \n• \nAnti MRSA antibiotics to be used in presence of cavitating / necrotizing pneumonia / post \ninfluenza pneumonia \nReferences: \n1. Dennis L. Stevens, Alan L. Bisno, Henry F. Chambers, E. Patchen Dellinger, Ellie J. C. Goldstein, \nSherwood L. Gorbach, Jan V. Hirschmann, Sheldon L. Kaplan, Jose G. Montoya, James C. Wade, \nPractice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections: 2014 \nUpdate by the Infectious Diseases Society of America, Clinical Infectious Diseases, Volume 59, \nIssue 2, 15 July 2014, Pages e10–e52, https://doi.org/10.1093/cid/ciu296 \n2. Metlay JP, Waterer GW, Long AC, et al. Diagnosis and Treatment of Adults with Community-\nacquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society \nand Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019;200(7):e45-e67. \ndoi:10.1164/rccm.201908-1581ST \n3. Treatment Guidelines for Antimicrobial Use in Common Syndromes. 2nd edition. ICMR. 2019. \nNew \nDelhi \n(Accessed \non \n2nd \nApril, \n2025). \nAvailable \nfrom:  \nhttps://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-\nguidelines/Treatment_Guidelines_2019_Final.pdf \n4. Hakki M, Aitken SL, Danziger-Isakov L, Michaels MG, Carpenter PA, Chemaly RF, Papanicolaou \nGA, Boeckh M, Marty FM. American Society for Transplantation and Cellular Therapy Series: \n#3-Prevention of Cytomegalovirus Infection and Disease After Hematopoietic Cell \n",
+  "tables": [
+    {
+      "headers": [
+        "Col0",
+        "followed by\n15mg/kg q 8-12h\nDuration: 5-7 days",
+        "+/-\nClindamycin 600-\n900mg q8h",
+        "Col3"
+      ],
+      "rows": [
+        [
+          "Herpes\nsimplex",
+          "Acyclovir 400mg\nTDS",
+          "Tab Famciclovir 500mg\nBD for 7 days",
+          "Dose and Duration of\ntherapy depends on\norgan involvement."
+        ],
+        [
+          "Varicella or\ndisseminate\nd zoster or\nlocalized\nzoster",
+          "Acyclovir 800mg\nfive times a day\nDuration: 7 days",
+          "Tab Valacyclovir 1g TDS",
+          "Intravenous therapy is\nrecommended in all\nsevere and complicated\ncases."
+        ],
+        [
+          "CMV\nreactivation\nor disease\n(colitis,\npneumonitis\n, hepatitsi,\nretinitis,\nencephalitis)",
+          "Ganciclovir 5mg/kg\nBD or Valgancyclovir\n900mg BD",
+          "Foscarnet (if available)\nin case of treatment\nfailure",
+          "Treat till resolution of\nclinical symptoms and\nsigns or resolution of\nviremia (2 negative viral\nload reports at 14 days\ninterval). In case of\ntreatment failure with\nGanciclovir, foscarnet is\nthe drug of choice."
+        ],
+        [
+          "Pneumocysti\ns jirovecii\npneumonia",
+          "Co-trimoxazole 15-\n20 mg/kg of TMP\ncomponent in\ndivided doses",
+          "Clindamycin 600mg IV\nq8h\n+\nPrimaquine 15mg BD",
+          "Duration of therapy: 21\ndays.\nCortciosteroids to be\nconsidered as an\nadjunctive therapy in\nhypoxic patients along\nwith antimicrobial\ntherapy against PCP."
+        ]
+      ],
+      "bbox": [
+        107.38000170389812,
+        64.03201904296876,
+        525.7400105794271,
+        442.67799072265626
+      ],
+      "table_number": 0,
+      "extraction_method": "standard"
+    }
+  ],
+  "italic_text": [
+    "Pneumocysti",
+    "s jirovecii",
+    "Clinical Infectious Diseases",
+    "Am J Respir Crit Care Med"
+  ],
+  "dimensions": {
+    "width": 595.3200073242188,
+    "height": 841.9199829101562
+  }
+}
