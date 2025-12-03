@@ -56,15 +56,38 @@ Reference: Page 108, ICMR 2025 Guidelines""",
     }
 
     print(f"📡 Testing API: {api_url}")
-    print("📊 Metrics: clinical_accuracy, guideline_adherence, reasoning_completeness"
+    print("📊 Metrics: clinical_accuracy, guideline_adherence, reasoning_completeness")
     print()
+
+    # Get Supabase anon key for authentication
+    supabase_anon_key = os.getenv("SUPABASE_ANON_KEY") or os.getenv("SUPABASE_SERVICE_ROLE_KEY")
+    if not supabase_anon_key:
+        print("❌ SUPABASE_ANON_KEY or SUPABASE_SERVICE_ROLE_KEY not found")
+        print("   This is required for Supabase Edge Functions authentication")
+        print()
+        print("   Get your keys from: https://app.supabase.com/project/[project-id]/settings/api")
+        print("   - SUPABASE_ANON_KEY: For client-side requests")
+        print("   - SUPABASE_SERVICE_ROLE_KEY: For server-side requests (more permissions)")
+        print()
+        print("   Set with:")
+        print("   export SUPABASE_ANON_KEY=your_anon_key")
+        print("   # OR")
+        print("   export SUPABASE_SERVICE_ROLE_KEY=your_service_key")
+        print()
+        return
 
     try:
         # Make request
         print("🚀 Making API request...")
+        headers = {"Content-Type": "application/json"}
+        if supabase_anon_key:
+            headers["Authorization"] = f"Bearer {supabase_anon_key}"
+            headers["apikey"] = supabase_anon_key
+
         response = requests.post(
             api_url,
             json=test_payload,
+            headers=headers,
             timeout=60
         )
 
@@ -72,7 +95,8 @@ Reference: Page 108, ICMR 2025 Guidelines""",
 
         if response.status_code == 200:
             result = response.json()
-            print("✅ API Response:"            print(json.dumps(result, indent=2))
+            print("✅ API Response:")
+            print(json.dumps(result, indent=2))
 
             # Check if successful
             if result.get("success"):
@@ -109,10 +133,13 @@ def main():
     # Get API URL
     api_url = os.getenv("API_BASE_URL")
     if not api_url:
-        # Try to construct from common patterns
-        api_url = "https://your-project.supabase.co/functions/v1/evaluate-prescription"
-        print("⚠️  API_BASE_URL not set, using default template"        print("   Update API_BASE_URL environment variable or edit this script"
-    print(f"📍 API URL: {api_url}")
+        # Use the deployed endpoint provided by user
+        api_url = "https://gdpanoqcfepugqkisqhf.supabase.co/functions/v1/evaluate-prescription"
+        print("✅ Using deployed endpoint:")
+        print(f"   {api_url}")
+    else:
+        print(f"📍 API URL from env: {api_url}")
+
     print()
 
     # Check if we have a Groq key (for reference, not used in this test)

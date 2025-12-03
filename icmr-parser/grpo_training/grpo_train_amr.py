@@ -34,8 +34,8 @@ nest_asyncio.apply()
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 OUTPUT_DIR = "./grpo_amr_model"
 
-# Supabase Edge Function URL (UPDATE THIS after deployment)
-API_BASE_URL = "https://your-project.supabase.co/functions/v1/evaluate-prescription"
+# Supabase Edge Function URL for evaluation API
+API_BASE_URL = "https://gdpanoqcfepugqkisqhf.supabase.co/functions/v1/evaluate-prescription"
 
 # Priority metrics for training (faster, focused on key aspects)
 PRIORITY_METRICS = ['clinical_accuracy', 'guideline_adherence', 'reasoning_completeness']
@@ -166,13 +166,21 @@ class APIIntegratedRewardModel:
             "ground_truth": ground_truth,
             "metrics": self.metrics
         }
-        
+
+        # Prepare headers with Supabase authentication
+        headers = {"Content-Type": "application/json"}
+        supabase_key = os.getenv("SUPABASE_ANON_KEY") or os.getenv("SUPABASE_SERVICE_ROLE_KEY")
+        if supabase_key:
+            headers["Authorization"] = f"Bearer {supabase_key}"
+            headers["apikey"] = supabase_key
+
         try:
             start_time = time.time()
-            
+
             async with session.post(
                 self.api_base_url,
                 json=payload,
+                headers=headers,
                 timeout=aiohttp.ClientTimeout(total=self.api_config['timeout_seconds'])
             ) as response:
                 elapsed = time.time() - start_time

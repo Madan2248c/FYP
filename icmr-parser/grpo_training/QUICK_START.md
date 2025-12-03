@@ -47,15 +47,22 @@ grpo_training/
 ```bash
 cd /Users/madan.gopal/Desktop/clg/FYP/icmr-parser/grpo_training
 
-# Set your Groq API key
+# Set your API keys
 export GROQ_API_KEY=your_groq_api_key_here
+export SUPABASE_ANON_KEY=your_supabase_anon_key_here
+# OR for more permissions:
+export SUPABASE_SERVICE_ROLE_KEY=your_service_key_here
 
 # Deploy to Supabase
 ./deploy_supabase.sh
 
-# Copy the function URL it gives you
-# Update API_BASE_URL in grpo_train_amr.py (line ~15)
+# Test the deployment
+python test_evaluation_api.py
 ```
+
+**Get your Supabase keys from:** https://app.supabase.com/project/[project-id]/settings/api
+- `SUPABASE_ANON_KEY`: For client-side requests
+- `SUPABASE_SERVICE_ROLE_KEY`: For server-side requests (more permissions)
 
 ### Step 2: Prepare Dataset (2 minutes)
 
